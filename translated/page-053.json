@@ -1,0 +1,61 @@
+{
+  "page": 53,
+  "page_type": "table",
+  "latin": "LIBER PRIMVS.\nKALENDARIVM ANNI CAELESTIS.\n\n♈ Aegon. Dies XXIX.    ♒ Hydron. Dies XXX.    ♓ Ichthyon. Dies XXX.\n\n[Tabula tripartita: tres menses zodiacales, cum columnis: Dies Mensis, Regulares, Epacta, Cyclus Iudaicus, Menses Iudaici, Dies Iuliani.]\n\nKALENDA-",
+  "pt": "LIVRO PRIMEIRO.\n*Kalendarium Anni Caelestis* (Calendário do Ano Celeste).\n\n♈ *Aegon*. Dias XXIX.    ♒ *Hydron*. Dias XXX.    ♓ *Ichthyon*. Dias XXX.\n\n[Tabela tripartida com três meses do zodíaco celeste de Scaliger, correlacionando os dias do mês celeste com: *Regulares* (regulares feriais), *Epacta* (epactas lunares), *Cyclus Iudaicus* (ciclo judaico de 19 anos), *Menses Iudaici* (meses judaicos: Sebat, Adar prior, Adar posterior/post., Nisan, Iiar) e *Dies Iuliani* (dias do calendário juliano correspondentes).]\n\nKALENDA-",
+  "en": "BOOK ONE.\n*Kalendarium Anni Caelestis* (Calendar of the Celestial Year).\n\n♈ *Aegon*. Days XXIX.    ♒ *Hydron*. Days XXX.    ♓ *Ichthyon*. Days XXX.\n\n[Tripartite table showing three months of Scaliger's celestial zodiacal year, correlating each day of the celestial month with: *Regulares* (ferial regulars), *Epacta* (lunar epacts), *Cyclus Iudaicus* (Jewish 19-year cycle), *Menses Iudaici* (Jewish months: Sebat, Adar prior, Adar posterior, Nisan, Iiar), and *Dies Iuliani* (corresponding Julian calendar dates).]\n\nKALENDA-",
+  "tables": [
+    {
+      "caption_pt": "Aegon (signo de Áries celeste de Scaliger): 29 dias. Correlação com calendário judaico e juliano.",
+      "caption_en": "Aegon (Scaliger's celestial Aries): 29 days. Correlation with Jewish and Julian calendars.",
+      "markdown": "| Dies Mensis | Regulares | Epacta | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 5 | 29 | II | Sebat | 23 Ian. |\n| 2 | 6 | 28 | X | Sebat | 24 |\n| 3 | 7 | 27 |  |  | 25 |\n| 4 | 1 | 26 | XVIII | Sebat | 26 |\n| 5 | 2 | 25 | VII | Sebat | 27 |\n| 6 | 3 | 24 | XV | Sebat | 28 |\n| 7 | 4 | 23 |  |  | 29 |\n| 8 | 5 | 22 | IIII | Sebat | 30 |\n| 9 | 6 | 21 |  |  | 31 |\n| 10 | 7 | 20 | XII | Sebat | 1 Feb. |\n| 11 | 1 | 19 | I | Sebat | 2 |\n| 12 | 2 | 18 |  |  | 3 |\n| 13 | 3 | 17 | IX | Sebat | 4 |\n| 14 | 4 | 16 | XVII | Adar prior | 5 |\n| 15 | 5 | 15 |  |  | 6 |\n| 16 | 6 | 14 | VI | Adar prior | 7 |\n| 17 | 7 | 13 |  |  | 8 |\n| 18 | 1 | 12 | XIIII | Adar prior | 9 |\n| 19 | 2 | 11 | III | Adar prior | 10 |\n| 20 | 3 | 10 | XI | Adar prior | 11 |\n| 21 | 4 | 9 |  | Adar prior | 12 |\n| 22 | 5 | 8 | XIX | Adar prior | 13 |\n| 23 | 6 | 7 |  |  | 14 |\n| 24 | 7 | 6 | VIII | Adar prior | 15 |\n| 25 | 1 | 5 | XVI | Adar post. | 16 |\n| 26 | 2 | 4 |  |  | 17 |\n| 27 | 3 | 3 | V | Adar post. | 18 |\n| 28 | 4 | 2 |  |  | 19 |\n| 29 | 5 | 1 | XIII | Adar post. | 20 |"
+    },
+    {
+      "caption_pt": "Hydron (signo de Aquário celeste): 30 dias.",
+      "caption_en": "Hydron (celestial Aquarius): 30 days.",
+      "markdown": "| Dies Mensis | Regulares | Epacta | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 6 | 29* |  |  | 21 Feb. |\n| 2 | 7 | 28 | II | Adar post. | 22 |\n| 3 | 1 | 27 | X | Adar post. | 23 |\n| 4 | 2 | 26 |  |  | 0 |\n| 5 | 3 | 25 | XVIII | Adar post. | 24 |\n| 6 | 4 | 24 | VII | Adar post. | 25 |\n| 7 | 5 | 23 | XV | Adar post. | 26 |\n| 8 | 6 | 22 |  |  | 27 |\n| 9 | 7 | 21 | IIII | Adar post. | 28 |\n| 10 | 1 | 20 |  |  | 1 Mar. |\n| 11 | 2 | 19 | XII | Adar post. | 2 |\n| 12 | 3 | 18 | I | Adar post. | 3 |\n| 13 | 4 | 17 |  |  | 4 |\n| 14 | 5 | 16 | IX | Adar post. | 5 |\n| 15 | 6 | 15 | XVII | Adar post. | 6 |\n| 16 | 7 | 14 |  |  | 7 |\n| 17 | 1 | 13 | VI | Adar post. | 8 |\n| 18 | 2 | 12 |  |  | 9 |\n| 19 | 3 | 11 | XIIII | Adar post. | 10 |\n| 20 | 4 | 10 | III | Adar post. | 11 |\n| 21 | 5 | 9 | XI | Adar post. | 12 |\n| 22 | 6 | 8 |  |  | 13 |\n| 23 | 7 | 7 | XIX | Adar post. | 14 |\n| 24 | 1 | 6 |  |  | 15 |\n| 25 | 2 | 5 | VIII | Adar post. | 16 |\n| 26 | 3 | 4 | XVI | Nisan | 17 |\n| 27 | 4 | 3 |  |  | 18 |\n| 28 | 5 | 2 | V | Nisan | 19 |\n| 29 | 6 | 1 |  |  | 20 |\n| 30 | 7 | * | XIII | Nisan | 21 |"
+    },
+    {
+      "caption_pt": "Ichthyon (signo de Peixes celeste): 30 dias.",
+      "caption_en": "Ichthyon (celestial Pisces): 30 days.",
+      "markdown": "| Dies Mensis | Regulares | Epacta | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 1 | 29 | II | Nisan | 22 Mar. |\n| 2 | 2 | 28 | X | Nisan | 23 |\n| 3 | 3 | 27 |  |  | 24 |\n| 4 | 4 | 26 | XVIII | Nisan | 25 |\n| 5 | 5 | 25 | VII | Nisan | 26 |\n| 6 | 6 | 24 | XV | Nisan | 27 |\n| 7 | 7 | 23 |  |  | 28 |\n| 8 | 1 | 22 | IIII | Nisan | 29 |\n| 9 | 2 | 21 |  |  | 30 |\n| 10 | 3 | 20 | XII | Nisan | 31 |\n| 11 | 4 | 19 | I | Nisan | 1 Apr. |\n| 12 | 5 | 18 |  |  | 2 |\n| 13 | 6 | 17 | IX | Nisan | 3 |\n| 14 | 7 | 16 | XVII | Nisan | 4 |\n| 15 | 1 | 15 |  |  | 5 |\n| 16 | 2 | 14 | VI | Nisan | 6 |\n| 17 | 3 | 13 |  |  | 7 |\n| 18 | 4 | 12 | XIIII | Nisan | 8 |\n| 19 | 5 | 11 | III | Nisan | 9 |\n| 20 | 6 | 10 | XI | Nisan | 10 |\n| 21 | 7 | 9 |  |  | 11 |\n| 22 | 1 | 8 | XIX | Nisan | 12 |\n| 23 | 2 | 7 |  |  | 13 |\n| 24 | 3 | 6 | VIII | Nisan | 14 |\n| 25 | 4 | 5 | XVI | Iiar | 15 |\n| 26 | 5 | 4 |  |  | 16 |\n| 27 | 6 | 3 | V | Iiar | 17 |\n| 28 | 7 | 2 |  |  | 18 |\n| 29 | 1 | 1 | XIII | Iiar | 19 |\n| 30 | 2 | 29* |  |  | 20 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Aegon",
+      "definition_pt": "Nome dado por Scaliger ao mês celeste correspondente ao signo de Áries (♈) em seu *Kalendarium Anni Caelestis*; tem 29 dias e inicia em 23 de janeiro juliano.",
+      "definition_en": "Scaliger's name for the celestial month corresponding to Aries (♈) in his *Kalendarium Anni Caelestis*; it contains 29 days and begins on 23 January Julian."
+    },
+    {
+      "term": "Hydron",
+      "definition_pt": "Mês celeste correspondente a Aquário (♒) no calendário celeste de Scaliger; tem 30 dias, iniciando em 21 de fevereiro juliano.",
+      "definition_en": "Celestial month corresponding to Aquarius (♒) in Scaliger's celestial calendar; 30 days, beginning 21 February Julian."
+    },
+    {
+      "term": "Ichthyon",
+      "definition_pt": "Mês celeste correspondente a Peixes (♓); tem 30 dias, iniciando em 22 de março juliano.",
+      "definition_en": "Celestial month corresponding to Pisces (♓); 30 days, beginning 22 March Julian."
+    },
+    {
+      "term": "Kalendarium Anni Caelestis",
+      "definition_pt": "Calendário do 'Ano Celeste' construído por Scaliger, em que os meses correspondem aos signos zodiacais (não aos meses civis julianos), permitindo correlacionar simultaneamente o calendário juliano, o ciclo das *Epactae*, os *Regulares* feriais, o *Cyclus Iudaicus* (ciclo de 19 anos hebraico) e os meses judaicos.",
+      "definition_en": "Scaliger's 'Celestial Year' calendar in which months correspond to the zodiacal signs (not Julian civil months), enabling simultaneous correlation of the Julian calendar, *Epactae*, ferial *Regulares*, the *Cyclus Iudaicus* (19-year Hebrew cycle), and Jewish months."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Alguns valores de epacta marcados com asterisco (29*) indicam epacta saltuosa (saltus lunae); confirmar leitura exata.",
+    "Em Hydron, dia 4, a coluna Dies Iuliani aparece como '0' no scan — provavelmente erro tipográfico ou marca; pode ser que esteja em branco e o '0' seja artefato.",
+    "Algumas células do Cyclus Iudaicus aparecem em branco (anos do ciclo de 19 que não caem nessa data); preservado conforme original."
+  ],
+  "notes": "Página inteiramente tabular: três tabelas paralelas para os meses celestes Aegon, Hydron e Ichthyon. Esta é a parte invernal/primaveril do *Kalendarium Anni Caelestis* scaligeriano, projetado para correlacionar o calendário juliano com o calendário hebraico (incluindo a distinção entre Adar prior e Adar posterior, característica dos *anni emboliscei*) e o *Cyclus Iudaicus* de 19 anos. Os 'Regulares' são os números feriais regulares semanais (1=domingo, 7=sábado), usados para encontrar o dia da semana via concorrente. As epactas são apresentadas em contagem decrescente (29→1), o que reflete a contagem da idade da lua dentro do ciclo. Note-se que Adar posterior e Adar prior aparecem porque a tabela serve para anos embolísmicos; em anos comuns, apenas Adar é usado. Nisan começa, na maioria das ocorrências mostradas, em torno do equinócio de primavera, conforme a regra hebraica.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4994,
+    "stop_reason": "end_turn"
+  }
+}

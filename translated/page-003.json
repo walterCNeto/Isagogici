@@ -1,0 +1,27 @@
+{
+  "page": 3,
+  "page_type": "frontmatter",
+  "latin": "",
+  "pt": "",
+  "en": "",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Página em branco (folha de guarda) do exemplar digitalizado pela Universiteitsbibliotheek Amsterdam. Contém apenas um código de barras da biblioteca ('01 1886 8710 UB AMSTERDAM') no canto inferior direito e a marca d'água 'Digitized by Google' no rodapé.",
+      "description_en": "Blank page (flyleaf) of the copy digitized by the Universiteitsbibliotheek Amsterdam. It contains only a library barcode ('01 1886 8710 UB AMSTERDAM') in the lower right corner and the 'Digitized by Google' watermark at the bottom."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página sem conteúdo textual original de Scaliger; trata-se de folha em branco do exemplar com marcas modernas de catalogação e digitalização."
+  ],
+  "notes": "Folha em branco anterior ao frontispício. Nenhum texto de Scaliger presente. As únicas marcas são modernas: o código de barras da Biblioteca da Universidade de Amsterdã e a marca de digitalização do Google Books.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 504,
+    "stop_reason": "end_turn"
+  }
+}

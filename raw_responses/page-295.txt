@@ -1,0 +1,91 @@
+```json
+{
+  "page": 263,
+  "page_type": "mixed",
+  "latin": "LIBER TERTIUS.\nDE ANNO HEBRAEORUM AUTUMNALI.\nDisputatio de anno Chaldaeorum ad doctrinam anni Hebraeorum, vel epocham Noae patriarchae, nos deduxit, cuius ut methodus expeditissima est, propter cognationem, quam habet cum Chaldaico Saro, ita caussae ipsius ab ultima origine repetitae, & a nemine investigatae non minorem voluptatem habent. Non dubium igitur est, quin ante Exodum, menses Hebraeorum aequabiles fuerint, omnes XXX dierum: quod quidem olim a nobis demonstratum est in historia Diluvii, ubi aperuimus eos menses omnes fuisse aequabiles. Quod autem ab autumno illud tempus civile inciperet, manifesto docet Moses Exodi XXXIIII, ἑορτήν τε ἑορτὴν συγκομιδῆς καρπῶν ἐν ἀποκαταστάσει τοῦ ἐνιαυτοῦ. Celebrabis solenne collectionis frugum in revolutione anni. Non, ut Septuaginta, μεσοῦντος τοῦ ἐνιαυτοῦ. item cap. XXIII, καὶ τὴν ἑορτὴν τῆς συλλογῆς ἐν ἐξόδῳ ἔτους ἐν τῇ συγκομιδῇ τῶν ἔργων σου ἀπὸ τοῦ ἀγροῦ. Initium autem huius epochae a XXVI Octobris, ubi anno primi Hominis primo neomenia aequinoctialis confecta fuit. Unde omnes deinceps Patriarchae initium annorum suorum aequabilium instituerunt. Anno autem primo post Diluvium a Patriarcha Noe instaurata est haec epocha: qua semper Hebraei ad excidium Templi, & casum Sedekiae, usi sunt, ad quam Tekuphoth suas dirigebant. Anno, qui Exodi tempus antecessit, mensibus sex, neomenia aequinoctialis commissa est in VII Octobris, mense magno septimo, lustro vigesimo ineunte, ut habes in Tabula lustrorum, in qua e regione 20 lustri occurrit VII Octobris, anno periodi Iulianae 3216, & 3217, ut habes in penultimo versu prioris Tabellae. Haec epocha uno anno serius a nobis constituta est, quod ea caussa fecimus, ut lustrum inciperet a bisexto Iuliano. Nam alioquin debuit esse in anno duodecimo cycli Solaris. Sed confusio secuta esset, si bisextum Iulianum in secundum annum lustri incurreret. Eodem res recidit. Magnos autem menses, ut a Chaldaeis σάροι, ita ab",
+  "pt": "LIVRO TERCEIRO.\nSOBRE O ANO OUTONAL DOS HEBREUS.\nA discussão sobre o ano dos caldeus nos conduziu à doutrina do ano dos hebreus, ou seja, à *epocha* do patriarca Noé, cujo método é o mais expedito por causa da afinidade que tem com o *Saros* caldeu; assim, as causas dela, traçadas desde a origem última e nunca antes investigadas por ninguém, proporcionam não menor prazer. Não há dúvida, portanto, de que antes do Êxodo os meses dos hebreus eram iguais, todos de XXX dias: o que já outrora demonstramos na história do Dilúvio, onde mostramos que todos esses meses eram iguais. Que, porém, esse tempo civil começasse a partir do outono, ensina manifestamente Moisés em Êxodo XXXIV: «καὶ ἑορτὴν συγκομιδῆς καρπῶν ἐν ἀποκαταστάσει τοῦ ἐνιαυτοῦ» — Celebrarás a festa solene da colheita dos frutos na revolução do ano. Não, como os Setenta, «no meio do ano». Igualmente no capítulo XXIII: «καὶ τὴν ἑορτὴν τῆς συλλογῆς ἐν ἐξόδῳ τοῦ ἔτους ἐν τῇ συγκομιδῇ τῶν ἔργων σου ἀπὸ τοῦ ἀγροῦ». Ora, o início desta *epocha* é em XXVI de outubro, quando, no ano primeiro do primeiro Homem, ocorreu a primeira *neomenia* equinocial. Daí em diante, todos os Patriarcas instituíram nesse ponto o início de seus anos iguais. No ano primeiro após o Dilúvio, esta *epocha* foi restabelecida pelo patriarca Noé: a ela os hebreus sempre se referiram até a destruição do Templo e a queda de Sedequias, e a ela orientavam suas *Tekuphoth*. No ano que antecedeu o tempo do Êxodo, com seis meses de antecedência, a *neomenia* equinocial caiu em VII de outubro, no sétimo mês magno, no início do vigésimo *lustrum*, como se vê na Tábua dos *lustra*, onde, em frente ao 20º *lustrum*, ocorre VII de outubro, no ano da *Periodus Iuliana* 3216 e 3217, como se vê no penúltimo verso da Tabela anterior. Esta *epocha* foi por nós fixada um ano mais tarde; fizemo-lo por esta causa: para que o *lustrum* começasse a partir de um bissexto juliano. Pois, do contrário, deveria estar no décimo segundo ano do *Cyclus Solis*. Mas seguir-se-ia confusão se o bissexto juliano caísse no segundo ano do *lustrum*. A coisa redunda no mesmo. Os meses magnos, porém, assim como entre os caldeus se chamam σάροι (*saroi*), assim também...",
+  "en": "BOOK THREE.\nON THE AUTUMNAL YEAR OF THE HEBREWS.\nThe discussion of the year of the Chaldeans has led us to the doctrine of the year of the Hebrews, or rather to the *epocha* of the patriarch Noah, whose method is most expeditious because of the kinship it has with the Chaldean *Saros*; and thus the causes of it, traced from their ultimate origin and investigated by no one before, afford no less pleasure. There is therefore no doubt that before the Exodus the months of the Hebrews were equal, all of XXX days: which we have long ago demonstrated in the history of the Flood, where we showed that all those months were equal. That this civil time began from autumn, Moses plainly teaches in Exodus XXXIV: «καὶ ἑορτὴν συγκομιδῆς καρπῶν ἐν ἀποκαταστάσει τοῦ ἐνιαυτοῦ» — You shall celebrate the solemn feast of the gathering of fruits at the revolution of the year. Not, as the Septuagint has it, «in the middle of the year». Likewise in chapter XXIII: «καὶ τὴν ἑορτὴν τῆς συλλογῆς ἐν ἐξόδῳ τοῦ ἔτους ἐν τῇ συγκομιδῇ τῶν ἔργων σου ἀπὸ τοῦ ἀγροῦ». The beginning of this *epocha* is from October XXVI, where, in the first year of the first Man, the first equinoctial *neomenia* was completed. Hence all the Patriarchs thereafter established the beginning of their equal years at that point. In the first year after the Flood this *epocha* was restored by the patriarch Noah: to it the Hebrews always referred down to the destruction of the Temple and the fall of Zedekiah, and toward it they directed their *Tekuphoth*. In the year preceding the time of the Exodus, by six months, the equinoctial *neomenia* fell on October VII, in the seventh great month, at the beginning of the twentieth *lustrum*, as you have it in the Table of *lustra*, where opposite the 20th *lustrum* occurs October VII, in the year of the *Periodus Iuliana* 3216 and 3217, as in the penultimate line of the previous Table. This *epocha* has been fixed by us one year later; we did so for this reason: that the *lustrum* might begin from a Julian bissextile year. Otherwise it ought to have fallen in the twelfth year of the *Cyclus Solis*. But confusion would have followed if the Julian bissextile fell on the second year of the *lustrum*. The matter comes out the same. The great months, however, just as among the Chaldeans they are called σάροι (*saroi*), so also...",
+  "tables": [
+    {
+      "caption_pt": "Tábua *Cheladin* ou dos Grandes Meses Hebraicos",
+      "caption_en": "Table of *Cheladin* or of the Great Hebrew Months",
+      "markdown": "| Linea Cheladin | Neomenia in periodo Iuliana | Litera Dominical | Neomenia in annis Mundi | Charact. neomen. | Neomenia Zygonos in diebus Iulianis | Neom. aequinoct. in an. periodi Iul. | Cheladin collecta |\n|---|---|---|---|---|---|---|---|\n| 1 | 2421 | FE | 1658 | 2 | XIII Oct. | 2473 | 1 |\n| 2 | 2541 | CB | 1768 | 4 | XII | 2597 | 121 |\n| 3 | 2661 | GF | 1898 | 6 | XI | 2721 | 241 |\n| 4 | 2781 | DC | 2018 | 1 | X | 2845 | 361 |\n| 5 | 2901 | AG | 2138 | 3 | IX | 2969 | 481 |\n| 6 | 3021 | ED | 2258 | 5 | VIII | 3093 | 601 |\n| 7 | 3141 | BA | 2378 | 7 | VII | 3217 | 721 |\n| 8 | 3261 | FE | 2498 | 2 | VI | 3341 | 841 |\n| 9 | 3381 | CB | 2618 | 4 | V | 3465 | 961 |\n| 10 | 3501 | GF | 2738 | 5 | III | 3592 | 1081 |\n| 11 | 3621 | DC | 2858 | 2 | IIII | 3709 | 1201 |\n| 12 | 3741 | AG | 2978 | 4 | III | 3833 | 1320 |\n| 1 | 3861 | ED | 3098 | 6 | II | 3957 | 1 |\n| 2 | 3981 | BA | 3218 | 1 | Kal. | 4081 | 121 |\n| 3 | 4101 | FE | 3338 | 3 | xxx Sept. | 4205 | 241 |\n| 4 | 4221 | CB | 3458 | 5 | xxix | 4329 | 361 |"
+    },
+    {
+      "caption_pt": "Tabela dos *Lustra*",
+      "caption_en": "Table of *Lustra*",
+      "markdown": "| Linea lustrorum | Lustra collecta | Neomenia prisci Cheled in diebus Iulianis | Neomenia novi, sive Mosaici Cheled in diebus Iulianis | (col. 4) |\n|---|---|---|---|---|\n| 1 | -1 | XXVI Oct. | VIII Oct. | VII |\n| 2 | 5 | XXV | VII | VI |\n| 3 | 9 | XXIIII | VI | V |\n| 4 | 13 | XXIII | V | IIII |\n| 5 | 17 | XXII | IIII | III |\n| 6 | 21 | XXI | III | II |\n| 7 | 25 | XX | II | Kal. Oct. |\n| 8 | 29 | XIX | Kal. Oct. | xxx Sept. |\n| 9 | 33 | XVIII | xxx Sept. | XXIX |\n| 10 | 37 | XVII | XXIX | XXVIII |\n| 11 | 41 | XVI | XXVIII | XXVII |\n| 12 | 45 | XV | XXVII | XXVI |\n| 13 | 49 | XIIII | XXVI | XXV |\n| 14 | 53 | XIII | XXV | XXIIII |\n| 15 | 57 | XII | XXIIII | XXIII |\n| 16 | 61 | XI | XXIII | XXII |\n| 17 | 65 | X | XXII | XXI |\n| 18 | 69 | IX | XXI | XX |\n| 19 | 73 | VIII | XX | XIX |\n| 20 | 77 | VII | XIX | XVIII |\n| 21 | 81 | VI | XVIII | XVII |\n| 22 | 85 | V | XVII | XVI |\n| 23 | 89 | IIII | XVI | XV |\n| 24 | 93 | III | XV | XIIII |\n| 25 | 97 | II | XIIII | XIII |\n| 26 | 101 | Kal. | XIII | XII |\n| 27 | 105 | xxx Sep. | XII | XI |\n| 28 | 109 | XXIX | XI | X |\n| 29 | 113 | XXVIII | X | IX |\n| 30 | 117 | XXVII | IX | VIII |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Cheladin",
+      "definition_pt": "Os 'grandes meses' hebraicos, análogos aos *saroi* caldeus; ciclos longos usados para reduzir as *neomeniae* equinociais ao calendário juliano. Scaliger apresenta uma Tábua *Cheladin* com colunas para a *Periodus Iuliana*, letra dominical, ano do mundo, caractere da *neomenia* e *Cheladin* acumulado.",
+      "definition_en": "The 'great months' of the Hebrews, analogous to the Chaldean *saroi*; long cycles used to reduce equinoctial *neomeniae* to the Julian calendar. Scaliger gives a Table *Cheladin* with columns for the *Periodus Iuliana*, Dominical letter, year of the world, character of the *neomenia*, and accumulated *Cheladin*."
+    },
+    {
+      "term": "Epocha Noae (annus Hebraeorum autumnalis)",
+      "definition_pt": "*Epocha* outonal dos hebreus, instaurada pelo patriarca Noé no primeiro ano após o Dilúvio, fixada em 26 de outubro, dia em que no ano primeiro do primeiro Homem ocorreu a primeira *neomenia* equinocial. A ela os hebreus se referiam até a destruição do Templo e a queda de Sedequias, e por ela orientavam suas *Tekuphoth*.",
+      "definition_en": "Autumnal *epocha* of the Hebrews, established by the patriarch Noah in the first year after the Flood, fixed on October 26, the day on which in the first year of the first Man the first equinoctial *neomenia* occurred. The Hebrews referred to it down to the destruction of the Temple and the fall of Zedekiah, and by it they directed their *Tekuphoth*."
+    },
+    {
+      "term": "Tekuphoth",
+      "definition_pt": "Termo hebraico para os pontos cardeais astronômicos do ano (equinócios e solstícios) usados pelos hebreus em sua cronologia. Eram dirigidos pela *epocha* outonal de Noé.",
+      "definition_en": "Hebrew term for the astronomical cardinal points of the year (equinoxes and solstices) used by the Hebrews in their chronology. They were directed by the autumnal *epocha* of Noah."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "supra, historia Diluvii (provavelmente livro II ou Opus de Emendatione)",
+      "context": "quod quidem olim a nobis demonstratum est in historia Diluvii, ubi aperuimus eos menses omnes fuisse aequabiles"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula lustrorum (na própria página)",
+      "context": "ut habes in Tabula lustrorum, in qua e regione 20 lustri occurrit VII Octobris"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula Cheladin, penultimus versus (na própria página)",
+      "context": "ut habes in penultimo versu prioris Tabellae"
+    },
+    {
+      "type": "external",
+      "target": "Exodus 34 (Moisés)",
+      "context": "manifesto docet Moses Exodi XXXIIII, ἑορτὴν συγκομιδῆς καρπῶν ἐν ἀποκαταστάσει τοῦ ἐνιαυτοῦ"
+    },
+    {
+      "type": "external",
+      "target": "Exodus 23",
+      "context": "item cap. XXIII, καὶ τὴν ἑορτὴν τῆς συλλογῆς ἐν ἐξόδῳ τοῦ ἔτους"
+    },
+    {
+      "type": "external",
+      "target": "Septuaginta (LXX), Êxodo 34",
+      "context": "Non, ut Septuaginta, μεσοῦντος τοῦ ἐνιαυτοῦ"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "equinox",
+      "description": "Primeira *neomenia* equinocial no primeiro ano do primeiro Homem (Adão), fixada em 26 de outubro, ponto inicial da *epocha* outonal hebraica.",
+      "historical_date_as_cited": "anno primi Hominis primo, XXVI Octobris",
+      "ancient_source": "Scaliger (cálculo próprio)"
+    },
+    {
+      "type": "equinox",
+      "description": "*Neomenia* equinocial seis meses antes do Êxodo, em 7 de outubro, no sétimo mês magno, início do vigésimo *lustrum*, no ano da *Periodus Iuliana* 3216-3217.",
+      "historical_date_as_cited": "anno qui Exodi tempus antecessit, mensibus sex; VII Octobris; anno periodi Iulianae 3216 & 3217",
+      "ancient_source": "Scaliger (cálculo próprio)"
+    }
+  ],
+  "uncertainty_flags": [
+    "A leitura da segunda citação grega de Êxodo XXXIV ('ἑορτήν τε ἑορτὴν συγκομιδῆς') parece conter dittografia ou erro tipográfico no original; transcrevi conforme parece estar, mas o texto bíblico canônico tem apenas 'καὶ ἑορτὴν συγκομιδῆς'.",
+    "Algumas entradas das tabelas (especialmente caracteres da neomenia e dias) são difíceis de ler com certeza absoluta no scan; valores transcritos com base na sequência aritmética coerente das colunas.",
+    "Na Tabela dos Lustra, o valor da primeira linha 'Lustra collecta' parece ser '-1' (com sinal negativo ou hífen tipográfico), indicando lustrum anterior à epocha; mantida assim."
+  ],
+  "notes": "Página de abertura do Livro III do *Isagogicorum*, dedicado ao 'ano outonal dos hebreus'. Scaliger conecta sua doutrina do *Saros* caldeu (livro anterior) com a cronologia hebraica antediluviana e patriarcal, propondo que os meses pré-Êxodo eram todos de 30 dias (ano calendário esquemático) e que o ano civil começava no equinócio de outono — argumento sustentado por dois passos do Êxodo contrastados com a tradução da Septuaginta. A *epocha* fundamental é fixada em 26 de outubro do ano 1 de Adão. As duas tábuas (*Cheladin* e *Lustra*) são instrumentos de redução: convertem ciclos hebraicos em datas julianas e em anos da *Periodus Iuliana*. Scaliger admite explicitamente uma manipulação cronológica deliberada: deslocou a *epocha* em um ano para que o *lustrum* coincida com bissexto juliano, evitando a confusão que surgiria se o bissexto caísse no segundo ano do *lustrum*. O texto se interrompe no fim da página com a comparação entre os 'magnos meses' hebraicos (*Cheladin*) e os *saroi* caldeus, conexão central da arquitetura do livro."
+}
+```

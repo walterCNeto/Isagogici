@@ -1,0 +1,56 @@
+{
+  "page": 110,
+  "page_type": "table",
+  "latin": "78 CANONUM ISAGOGICORUM\n\nTABULA QUINTA PERIODI HEBDOMADICAE CHARACTERISMI MUHARRAM.\n\n[Tabula cum columnis 0, 30, 60, 90, 120, 150, 180 et lineis 1-30, cum notis ὑπερ marginalibus]\n\nTABULA SEXTA. LATERCULUM MENSIUM.\n\n[Tabula mensium arabicorum: Muharram 30, Sephar 59, Rabie I 89, Rabie II 118, Giumadi I 148, Giumadi II 177, Regeb 207, Sahaben 236, Ramadhan 266, Sewal 295, Dulkadati 325, Dulhaiathi 354]\n\nTABULA SEPTIMA PERIODORUM HEBDOMADICARUM COLLECTARUM.\n\n[Tabula: 210|1260, 420|1470, 630|1680, 840|1890, 1050|2100]\n\nTABULA",
+  "pt": "78 DOS CÂNONES ISAGÓGICOS\n\nTÁBUA QUINTA DO CARACTERISMO DO PERÍODO HEBDOMADÁRIO DE MUHARRAM.\n\n[Tábua com colunas 0, 30, 60, 90, 120, 150, 180 e linhas de 1 a 30, com indicações marginais ὑπερ (hyper)]\n\nTÁBUA SEXTA. CATÁLOGO DOS MESES.\n\n[Tábua dos meses árabes com seus dias acumulados]\n\nTÁBUA SÉTIMA DOS PERÍODOS HEBDOMADÁRIOS REUNIDOS.\n\nTÁBUA",
+  "en": "78 OF THE ISAGOGIC CANONS\n\nFIFTH TABLE OF THE CHARACTERISMUS OF THE WEEKLY PERIOD OF MUHARRAM.\n\n[Table with columns 0, 30, 60, 90, 120, 150, 180 and rows 1-30, with marginal notes ὑπερ (hyper)]\n\nSIXTH TABLE. LIST OF MONTHS.\n\n[Table of Arabic months with cumulative days]\n\nSEVENTH TABLE OF COLLECTED WEEKLY PERIODS.\n\nTABLE",
+  "tables": [
+    {
+      "caption_pt": "Tábua Quinta: Caracterismo do período hebdomadário de Muharram (dia da semana do início do mês de Muharram, em função do número do ano dentro do ciclo de 30 anos do calendário islâmico, e de blocos de 30 anos)",
+      "caption_en": "Fifth Table: Characterismus of the weekly period of Muharram (weekday on which Muharram begins, as a function of the year number within the 30-year Islamic cycle, and blocks of 30 years)",
+      "markdown": "| Ano | 0 | 30 | 60 | 90 | 120 | 150 | 180 | Nota |\n|---|---|---|---|---|---|---|---|---|\n| 1 | 6 | 4 | 2 | 7 | 5 | 3 | 1 | |\n| 2 | 3 | 1 | 6 | 4 | 2 | 7 | 5 | ὑπερ |\n| 3 | 1 | 6 | 4 | 2 | 7 | 5 | 3 | |\n| 4 | 5 | 3 | 1 | 6 | 4 | 2 | 7 | |\n| 5 | 2 | 7 | 5 | 3 | 1 | 6 | 4 | ὑπερ |\n| 6 | 7 | 5 | 3 | 1 | 6 | 4 | 2 | |\n| 7 | 4 | 2 | 7 | 5 | 3 | 1 | 6 | |\n| 8 | 1 | 6 | 4 | 2 | 7 | 5 | 3 | ὑπερ |\n| 9 | 6 | 4 | 2 | 7 | 5 | 3 | 1 | |\n| 10 | 3 | 1 | 6 | 4 | 2 | 7 | 5 | |\n| 11 | 7 | 5 | 3 | 1 | 6 | 4 | 2 | ὑπερ |\n| 12 | 5 | 3 | 1 | 6 | 4 | 2 | 7 | |\n| 13 | 2 | 7 | 5 | 3 | 1 | 6 | 4 | ὑπερ |\n| 14 | 7 | 5 | 3 | 1 | 6 | 4 | 2 | |\n| 15 | 4 | 2 | 7 | 5 | 3 | 1 | 6 | |\n| 16 | 1 | 6 | 4 | 2 | 7 | 5 | 3 | ὑπερ |\n| 17 | 6 | 4 | 2 | 7 | 5 | 3 | 1 | |\n| 18 | 3 | 1 | 6 | 4 | 2 | 7 | 5 | |\n| 19 | 7 | 5 | 3 | 1 | 6 | 4 | 2 | ὑπερ |\n| 20 | 5 | 3 | 1 | 6 | 4 | 2 | 7 | |\n| 21 | 2 | 7 | 5 | 3 | 1 | 6 | 4 | ὑπερ |\n| 22 | 7 | 5 | 3 | 1 | 6 | 4 | 2 | |\n| 23 | 4 | 2 | 7 | 5 | 3 | 1 | 6 | |\n| 24 | 1 | 6 | 4 | 2 | 7 | 5 | 3 | ὑπερ |\n| 25 | 6 | 4 | 2 | 7 | 5 | 3 | 1 | |\n| 26 | 3 | 1 | 6 | 4 | 2 | 7 | 5 | |\n| 27 | 7 | 5 | 3 | 1 | 6 | 4 | 2 | ὑπερ |\n| 28 | 5 | 3 | 1 | 6 | 4 | 2 | 7 | |\n| 29 | 2 | 7 | 5 | 3 | 1 | 6 | 4 | |\n| 30 | 6 | 4 | 2 | 7 | 5 | 3 | 1 | ὑπερ |"
+    },
+    {
+      "caption_pt": "Tábua Sexta: Catálogo dos meses do calendário islâmico, com o dia da semana do início de cada mês (sete colunas de variantes) e o número acumulado de dias desde o início do ano",
+      "caption_en": "Sixth Table: List of months of the Islamic calendar, with the weekday of the beginning of each month (seven columns of variants) and cumulative days from the start of the year",
+      "markdown": "| # | a | b | c | d | e | f | g | Mês | Dias acum. |\n|---|---|---|---|---|---|---|---|---|---|\n| I | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Muharram | 30 |\n| II | 3 | 4 | 5 | 6 | 7 | 1 | 2 | Sephar | 59 |\n| III | 4 | 5 | 6 | 7 | 1 | 2 | 3 | Rabie I | 89 |\n| IIII | 6 | 7 | 1 | 2 | 3 | 4 | 5 | Rabie II | 118 |\n| V | 7 | 1 | 2 | 3 | 4 | 5 | 6 | Giumadi I | 148 |\n| VI | 2 | 3 | 4 | 5 | 6 | 7 | 1 | Giumadi II | 177 |\n| VII | 3 | 4 | 5 | 6 | 7 | 1 | 2 | Regeb | 207 |\n| VIII | 5 | 6 | 7 | 1 | 2 | 3 | 4 | Sahaben | 236 |\n| IX | 6 | 7 | 1 | 2 | 3 | 4 | 5 | Ramadhan | 266 |\n| X | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Sewal | 295 |\n| XI | 2 | 3 | 4 | 5 | 6 | 7 | 1 | Dulkadati | 325 |\n| XII | 4 | 5 | 6 | 7 | 1 | 2 | 3 | Dulhaiathi | 354 |"
+    },
+    {
+      "caption_pt": "Tábua Sétima: Períodos hebdomadários reunidos (múltiplos de 210, que reduzem o resíduo semanal a zero)",
+      "caption_en": "Seventh Table: Collected weekly periods (multiples of 210, reducing the weekly residue to zero)",
+      "markdown": "| | |\n|---|---|\n| 210 | 1260 |\n| 420 | 1470 |\n| 630 | 1680 |\n| 840 | 1890 |\n| 1050 | 2100 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Characterismus Muharram",
+      "definition_pt": "O *characterismus* (caráter ou índice numérico) que designa o dia da semana em que cai o primeiro de Muharram (o início do ano islâmico) para cada ano dentro do ciclo lunar islâmico de 30 anos, com colunas adicionais para múltiplos de 30 anos (0, 30, 60, 90, 120, 150, 180). Os números 1–7 representam os dias da semana.",
+      "definition_en": "The *characterismus* (numerical character or index) designating the weekday on which the first of Muharram (the beginning of the Islamic year) falls, for each year within the 30-year Islamic lunar cycle, with additional columns for multiples of 30 years (0, 30, 60, 90, 120, 150, 180). Numbers 1–7 represent weekdays."
+    },
+    {
+      "term": "Laterculum mensium",
+      "definition_pt": "Catálogo ou tabela tabular dos doze meses do calendário islâmico, indicando para cada mês o dia da semana do seu início (sob sete entradas distintas, conforme o caráter do ano) e o total acumulado de dias desde o início do ano.",
+      "definition_en": "Tabular list of the twelve months of the Islamic calendar, indicating for each month the weekday of its beginning (under seven distinct entries, depending on the year's character) and the cumulative number of days from the start of the year."
+    },
+    {
+      "term": "Periodi hebdomadicae collectae",
+      "definition_pt": "Períodos hebdomadários reunidos (acumulados): números de anos cuja contagem de dias é múltipla exata de 7, de modo que o ciclo semanal retorna ao mesmo dia. Scaliger lista 210, 420, 630, 840, 1050, 1260, 1470, 1680, 1890, 2100 — múltiplos do ciclo de 210 anos do calendário islâmico (7 × 30).",
+      "definition_en": "Collected (accumulated) weekly periods: numbers of years whose day-count is an exact multiple of 7, so that the weekly cycle returns to the same day. Scaliger lists 210, 420, 630, 840, 1050, 1260, 1470, 1680, 1890, 2100 — multiples of the 210-year Islamic period (7 × 30)."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A nota marginal grega ὑπερ (hyper) marca presumivelmente os anos intercalares (kabīsa) do ciclo islâmico de 30 anos, em que Dhū al-Ḥijja tem 30 dias em vez de 29; a distribuição na tábua não corresponde exatamente ao padrão clássico (anos 2,5,7,10,13,16,18,21,24,26,29) — verificar com texto explicativo nas páginas anteriores.",
+    "Na linha 11 da Tábua Quinta, a primeira célula lê-se '7' mas seria esperado '7' segundo a sequência aritmética; transcrição confirmada do scan.",
+    "Os nomes dos meses estão grafados na transliteração latinizada de Scaliger: Sephar (=Safar), Rabie I/II (=Rabīʿ al-awwal/al-thānī), Giumadi I/II (=Jumādā), Regeb (=Rajab), Sahaben (=Shaʿbān), Sewal (=Shawwāl), Dulkadati (=Dhū al-Qaʿda), Dulhaiathi (=Dhū al-Ḥijja)."
+  ],
+  "notes": "Página inteiramente tabular, parte do tratamento que Scaliger faz do calendário islâmico (Hegira). Trata-se de um aparato de cálculo: combinando as três tábuas, o leitor pode determinar o dia da semana de qualquer data árabe. A Tábua Quinta dá o dia inicial de Muharram para cada ano do ciclo de 30; a Tábua Sexta acrescenta o offset de cada mês dentro do ano; a Tábua Sétima estende o cálculo a períodos longos (múltiplos de 210 anos = 7×30, em que o ciclo semanal se fecha). O total de 354 dias na Tábua Sexta corresponde ao ano lunar comum islâmico (12 meses alternando 30 e 29 dias). A inscrição final 'TABVLA' é o reclame (catchword) da página seguinte.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4782,
+    "stop_reason": "end_turn"
+  }
+}

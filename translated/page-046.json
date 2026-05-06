@@ -1,0 +1,41 @@
+{
+  "page": 46,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\n\nTABULA PRIMA.\nCYCLUS SOLARIS ANNI CAELESTIS.\n\n[Tabula prima: cyclus solaris anni caelestis, cum columnis ab 0 ad 380 (per intervalla 20) et lineis ab 1 ad 20]\n\nTABULA SECUNDA PRAECESSIONIS AEQUINOCTIALIS.\n\n[Tabula secunda: Dies praecessionis et Anni collecti, ab 1 ad 54]\n\nTABU-",
+  "pt": "CÂNONES ISAGÓGICOS\n\nTÁBUA PRIMEIRA.\n*Cyclus Solaris* do ano celeste.\n\n[Tabela com cabeçalho de colunas de 0 a 380 em intervalos de 20, e linhas de 1 a 20, contendo valores de 1 a 7 — provavelmente representando a *concurrens* ou letra dominical do *Cyclus Solis* aplicado ao ano celeste (sideral)]\n\nTÁBUA SEGUNDA DA PRECESSÃO EQUINOCIAL.\n\n[Tabela de correspondência entre dias de precessão e anos acumulados (Anni collecti), de 1 a 54 dias]\n\nTÁBU-",
+  "en": "ISAGOGIC CANONS\n\nFIRST TABLE.\n*Cyclus Solaris* of the celestial year.\n\n[Table with column headers from 0 to 380 in intervals of 20, and rows from 1 to 20, containing values from 1 to 7 — likely representing the *concurrens* or dominical letter of the *Cyclus Solis* applied to the celestial (sidereal) year]\n\nSECOND TABLE OF THE EQUINOCTIAL PRECESSION.\n\n[Table of correspondence between days of precession and accumulated years (Anni collecti), from 1 to 54 days]\n\nTABU-",
+  "tables": [
+    {
+      "caption_pt": "Tábua Primeira: *Cyclus Solaris* do ano celeste — valores ferial/concurrentes em função das dezenas de anos (0–380) e unidades (1–20)",
+      "caption_en": "First Table: *Cyclus Solaris* of the celestial year — ferial/concurrent values as a function of tens of years (0–380) and units (1–20)",
+      "markdown": "| | 0 | 20 | 40 | 60 | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 220 | 240 | 260 | 280 | 300 | 320 | 340 | 360 | 380 |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 1 | 5 | 1 | 5 | 2 | 6 | 3 | 7 | 4 | 7 | 4 | 1 | 5 | 2 | 5 | 2 | 6 | 3 | 7 | 4 |\n| 2 | 2 | 6 | 3 | 7 | 3 | 7 | 4 | 1 | 5 | 2 | 5 | 2 | 6 | 3 | 7 | 4 | 1 | 4 | 1 | 5 |\n| 3 | 3 | 7 | 4 | 1 | 4 | 1 | 5 | 2 | 6 | 3 | 7 | 4 | 7 | 4 | 1 | 5 | 2 | 6 | 3 | 6 |\n| 4 | 4 | 1 | 5 | 2 | 6 | 3 | 7 | 3 | 7 | 4 | 1 | 5 | 2 | 6 | [.] | 6 | 3 | 7 | 4 | 1 |\n| 5 | 6 | 3 | 6 | 3 | 7 | 4 | 1 | 5 | 2 | 5 | 2 | 6 | 3 | 7 | 3 | 7 | 4 | 1 | 5 | 2 |\n| 6 | 7 | 4 | 1 | 4 | 1 | 5 | 2 | 6 | 3 | 7 | 3 | 7 | 4 | 1 | 5 | 2 | 6 | 2 | 6 | 3 |\n| 7 | 1 | 5 | 2 | 6 | 2 | 6 | 3 | 7 | 4 | 1 | 5 | 2 | 5 | 2 | 6 | 3 | 7 | 4 | 1 | 4 |\n| 8 | 2 | 6 | 3 | 7 | 4 | 1 | 5 | 1 | 5 | 2 | 6 | 3 | 7 | 3 | 7 | 4 | 1 | 5 | 2 | 6 |\n| 9 | 4 | 1 | 4 | 1 | 5 | 2 | 6 | 3 | 7 | 3 | 7 | 4 | 1 | 5 | 1 | 5 | 2 | 6 | 3 | 7 |\n| 10 | 5 | 2 | 6 | 2 | 6 | 3 | 7 | 4 | 1 | 5 | 1 | 5 | 2 | 6 | 3 | 7 | 4 | 7 | 4 | 1 |\n| 11 | 6 | 3 | 7 | 4 | 7 | 4 | 1 | 5 | 2 | 6 | 3 | 6 | 3 | 7 | 4 | 1 | 5 | 2 | 5 | 2 |\n| 12 | 7 | 4 | 1 | 5 | 2 | 6 | 2 | 6 | 3 | 7 | 4 | 1 | 5 | 1 | 5 | 2 | 6 | 3 | 7 | 4 |\n| 13 | 2 | 5 | 2 | 6 | 3 | 7 | 4 | 1 | 4 | 1 | 5 | 2 | 6 | 3 | 6 | 3 | 7 | 4 | 1 | 5 |\n| 14 | 3 | 7 | 4 | 7 | 4 | 1 | 5 | 2 | 6 | 3 | 6 | 3 | 7 | 4 | 1 | 5 | 1 | 5 | 2 | 6 |\n| 15 | 4 | 1 | 5 | 2 | 5 | 2 | 6 | 3 | 7 | 4 | 7 | 4 | 1 | 5 | 2 | 6 | 3 | 7 | 3 | 7 |\n| 16 | 5 | 2 | 6 | 3 | 7 | 4 | 7 | 4 | 1 | 5 | 2 | 6 | 3 | 6 | 3 | 7 | 4 | 1 | 5 | 1 |\n| 17 | 7 | 3 | 7 | 4 | 1 | 5 | 2 | 6 | 2 | 6 | 3 | 7 | 4 | 7 | 4 | 1 | 5 | 2 | 6 | 3 |\n| 18 | 1 | 5 | 2 | 5 | 2 | 6 | 3 | 7 | 4 | 1 | 4 | 1 | 5 | 2 | 6 | 3 | 6 | 3 | 7 | 4 |\n| 19 | 2 | 6 | 3 | 7 | 3 | 7 | 4 | 1 | 5 | 2 | 6 | 3 | 7 | 4 | 1 | 5 | 1 | 5 | 1 | 5 |\n| 20 | 3 | 7 | 4 | 1 | 5 | 2 | 5 | 2 | 6 | 3 | 7 | 4 | 1 | 4 | 1 | 5 | 2 | 6 | 3 | 6 |"
+    },
+    {
+      "caption_pt": "Tábua Segunda da Precessão Equinocial: dias de precessão correspondentes aos anos acumulados",
+      "caption_en": "Second Table of the Equinoctial Precession: days of precession corresponding to accumulated years",
+      "markdown": "| Dies praecess. | Anni collecti | Dies praecess. | Anni collecti | Dies praecess. | Anni collecti | Dies praecess. | Anni collecti | Dies praecess. | Anni collecti | Dies praecess. | Anni collecti |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 132 | 10 | 1332 | 19 | 2532 | 28 | 3732 | 37 | 4932 | 46 | 6132 |\n| 2 | 264 | 11 | 1464 | 20 | 2664 | 29 | 3864 | 38 | 5064 | 47 | 6264 |\n| 3 | ☾ 400 | 12 | ☾ 1600 | 21 | ☾ 2800 | 30 | ☾ 4000 | 39 | ☾ 5200 | 48 | ☾ 6400 |\n| 4 | 532 | 13 | 1732 | 22 | 2932 | 31 | 4132 | 40 | 5332 | 49 | 6532 |\n| 5 | 664 | 14 | 1864 | 23 | 3064 | 32 | 4264 | 41 | 5464 | 50 | 6664 |\n| 6 | ☾ 800 | 15 | ☾ 2000 | 24 | ☾ 3200 | 33 | ☾ 4400 | 42 | ☾ 5600 | 51 | ☾ 6800 |\n| 7 | 932 | 16 | 2132 | 25 | 3332 | 34 | 4532 | 43 | 5732 | 52 | 6932 |\n| 8 | 1064 | 17 | 2264 | 26 | 3464 | 35 | 4664 | 44 | 5864 | 53 | 7064 |\n| 9 | ☾ 1200 | 18 | ☾ 2400 | 27 | ☾ 3600 | 36 | ☾ 4800 | 45 | ☾ 6000 | 54 | ☾ 7200 |"
+    }
+  ],
+  "figures": [
+    {
+      "description_pt": "Símbolo de lua crescente (☾) que aparece a cada terceiro valor da Tabula Secunda (a cada 3 dias de precessão), marcando os anos múltiplos de 400. Provavelmente indica que tais valores correspondem a um ciclo lunar/centenário particular relevante para a precessão.",
+      "description_en": "Crescent moon symbol (☾) appearing at every third value of the Tabula Secunda (every 3 days of precession), marking years that are multiples of 400. Likely indicates that such values correspond to a particular lunar/centennial cycle relevant to precession."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A leitura individual das células da Tabula Prima é altamente conjectural devido à qualidade do scan e à densidade da grade; vários algarismos estão borrados ou parcialmente sobrepostos a linhas verticais. Os valores devem ser verificados contra outro exemplar da edição de Leiden 1606.",
+    "A célula (linha 4, coluna 260) parece conter um ponto/borrão em vez de um numeral legível — transcrita como '[.]'.",
+    "O símbolo lunar (☾) na Tabula Secunda foi interpretado como crescente; pode tratar-se de outra marca diacrítica (talvez 'C' inicial de 'Centenarius' ou marca de ano bissexto secular).",
+    "A função exata da Tabula Prima não é declarada nesta página: o valor de cada célula (1 a 7) é compatível com a *concurrens* (ferial concurrente) ou letra dominical no *Cyclus Solis* aplicado ao ano sideral/celeste, mas a interpretação depende do texto que precede ou segue."
+  ],
+  "notes": "Esta página é puramente tabular: contém a Tabula Prima (Cyclus Solaris Anni Caelestis) — uma matriz 20×20 indexada por unidades de anos (1–20, linhas) e dezenas de anos (0, 20, 40, ..., 380, colunas), totalizando os 400 anos do grande ciclo solar (= 4 cyclos de 100 anos = 14 + 1 cyclos solis de 28 anos aproximadamente, ou mais provavelmente o próprio Cyclus Solaris de 28 × ... aplicado ao annus caelestis sideral). E a Tabula Secunda Praecessionis Aequinoctialis, que dá a correspondência entre 'dias de precessão' acumulados e os anos correspondentes. Note-se que cada dia de precessão = 132 anos aproximadamente (132 × 1 = 132; 132 × 2 = 264; salto para 400 com marca lunar; 400 + 132 = 532; etc.). Isto corresponde à taxa de precessão de aproximadamente 1 grau a cada ~72 anos × algum múltiplo, ou mais propriamente à passagem do equinócio por 1 dia do calendário a cada ~132 anos (ritmo compatível com o valor ptolemaico/medieval de precessão). A marca lunar a cada 400 anos sugere o agrupamento secular: 3 dias = 400 anos, 6 dias = 800 anos, etc. — exatamente 400/3 ≈ 133.33 anos por dia. Nenhum texto narrativo aparece nesta página além dos cabeçalhos.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4766,
+    "stop_reason": "end_turn"
+  }
+}

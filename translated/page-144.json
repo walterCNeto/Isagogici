@@ -1,0 +1,56 @@
+{
+  "page": 144,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\n\nV. V. VI. VI.\nTYBI Θεῶν Σεβαστῶν. MARDAD MEXEIR Θεῶν Σεβαστῶν.\nTuba Elkupti. Gelali. Amschir Elkupti. Scheheriz\nTir Aethiopum. Iachathith Aethiopum. Gelali.\nAudynaeos Gazensium. Peritios Gazensium.",
+  "pt": "CÂNONES ISAGÓGICOS\n\nV. V. VI. VI.\nTYBI dos Augustos divinizados (Θεῶν Σεβαστῶν). MARDAD. MEXEIR dos Augustos divinizados.\n*Tuba* dos Coptas (Elkupti). *Gelali*. *Amschir* dos Coptas. *Scheheriz*.\n*Tir* dos Etíopes. *Iachathith* dos Etíopes. *Gelali*.\n*Audynaeos* dos Gazenses. *Peritios* dos Gazenses.",
+  "en": "ISAGOGIC CANONS\n\nV. V. VI. VI.\nTYBI of the deified Augusti (Θεῶν Σεβαστῶν). MARDAD. MEXEIR of the deified Augusti.\n*Tuba* of the Copts (Elkupti). *Gelali*. *Amschir* of the Copts. *Scheheriz*.\n*Tir* of the Ethiopians. *Iachathith* of the Ethiopians. *Gelali*.\n*Audynaeos* of the Gazaeans. *Peritios* of the Gazaeans.",
+  "tables": [
+    {
+      "caption_pt": "Mês V: Tybi (egípcio alexandrino) / Tuba (copta) / Tir (etíope) / Audynaeos (gazense) — com correspondência ao calendário juliano, Regulares Augustorum, Regulares Aethiopum, Numerus Aureus e Epacta. Coluna final: persa (Mardad / Gelali).",
+      "caption_en": "Month V: Tybi (Egyptian Alexandrian) / Tuba (Coptic) / Tir (Ethiopian) / Audynaeos (Gazaean) — with correspondence to the Julian calendar, Regulares Augustorum, Regulares Aethiopum, Numerus Aureus and Epacta. Final column: Persian (Mardad / Gelali).",
+      "markdown": "| Dies mensis | Iulianus | Reg. Aug. | Reg. Aeth. | Num. Aureus | Epacta | (Mardad/Gelali) |\n|---|---|---|---|---|---|---|\n| 1 | 27 Dec. | 1 | 4 |  | 27 | 12 Iulij |\n| 2 | 28 | 2 | 5 | XVI | 26 | 13 |\n| 3 | 29 | 3 | 6 | V | 25 | 14 |\n| 4 | 30 | 4 | 7 |  | 24 | 15 |\n| 5 | 31 | 5 | 1 | XIII | 23 | 16 |\n| 6 | 1 Ian. | 6 | 2 | II | 22 | 17 |\n| 7 | 2 | 7 | 3 |  | 21 | 18 |\n| 8 | 3 | 1 | 4 | X | 20 | 19 |\n| 9 | 4 | 2 | 5 |  | 19 | 20 |\n| 10 | 5 | 3 | 6 | XVIII | 18 | 21 |\n| 11 | 6 | 4 | 7 | VII | 17 | 22 |\n| 12 | 7 | 5 | 1 |  | 16 | 23 |\n| 13 | 8 | 6 | 2 | XV | 15 | 24 |\n| 14 | 9 | 7 | 3 | IIII | 14 | 25 |\n| 15 | 10 | 1 | 4 |  | 13 | 26 |\n| 16 | 11 | 2 | 5 | XII | 12 | 27 |\n| 17 | 12 | 3 | 6 | I | 11 | 28 |\n| 18 | 13 | 4 | 7 |  | 10 | 29 |\n| 19 | 14 | 5 | 1 | IX | 9 | 30 |\n| 20 | 15 | 6 | 2 |  | 8 | 31 |\n| 21 | 16 | 7 | 3 | XVII | 7 | 1 Aug. |\n| 22 | 17 | 1 | 4 | VI | 6 | 2 |\n| 23 | 18 | 2 | 5 |  | 5 | 3 |\n| 24 | 19 | 3 | 6 | XIIII | 4 | 4 |\n| 25 | 20 | 4 | 7 | III | 3 | 5 |\n| 26 | 21 | 5 | 1 |  | 2 | 6 |\n| 27 | 22 | 6 | 2 | XI | 1 | 7 |\n| 28 | 23 | 7 | 3 | XIX | * | 8 |\n| 29 | 24 | 1 | 4 |  | 29 | 9 |\n| 30 | 25 | 2 | 5 | VIII | 28 | 10 |"
+    },
+    {
+      "caption_pt": "Mês VI: Mexeir (egípcio alexandrino) / Amschir (copta) / Iachathith (etíope) / Peritios (gazense) — com Regulares, Numerus Aureus e Epacta. Coluna final: persa (Scheheriz / Gelali).",
+      "caption_en": "Month VI: Mexeir (Egyptian Alexandrian) / Amschir (Coptic) / Iachathith (Ethiopian) / Peritios (Gazaean) — with Regulares, Numerus Aureus and Epacta. Final column: Persian (Scheheriz / Gelali).",
+      "markdown": "| Dies mensis | Iulianus | Reg. Aug. | Reg. Aeth. | Num. Aureus | Epacta | (Scheheriz/Gelali) |\n|---|---|---|---|---|---|---|\n| 1 | 26 Ian. | 3 | 6 |  | 27 | 11 Aug. |\n| 2 | 27 | 4 | 7 | XVI | 26 | 12 |\n| 3 | 28 | 5 | 1 | V | 25 | 13 |\n| 4 | 29 | 6 | 2 |  | 24 | 14 |\n| 5 | 30 | 7 | 3 | XIII | 23 | 15 |\n| 6 | 31 | 1 | 4 | II | 22 | 16 |\n| 7 | 1 Feb. | 2 | 5 |  | 21 | 17 |\n| 8 | 2 | 3 | 6 | X | 20 | 18 |\n| 9 | 3 | 4 | 7 |  | 19 | 19 |\n| 10 | 4 | 5 | 1 | XVIII | 18 | 20 |\n| 11 | 5 | 6 | 2 | VII | 17 | 21 |\n| 12 | 6 | 7 | 3 |  | 16 | 22 |\n| 13 | 7 | 1 | 4 | XV | 15 | 23 |\n| 14 | 8 | 2 | 5 | IIII | 14 | 24 |\n| 15 | 9 | 3 | 6 |  | 13 | 25 |\n| 16 | 10 | 4 | 7 | XII | 12 | 26 |\n| 17 | 11 | 5 | 1 | I | 11 | 27 |\n| 18 | 12 | 6 | 2 |  | 10 | 28 |\n| 19 | 13 | 7 | 3 | IX | 9 | 29 |\n| 20 | 14 | 1 | 4 |  | 8 | 30 |\n| 21 | 15 | 2 | 5 | XVII | 7 | 31 |\n| 22 | 16 | 3 | 6 | VI | 6 | 1 Sep. |\n| 23 | 17 | 4 | 7 |  | 5 | 2 |\n| 24 | 18 | 5 | 1 | XIIII | 4 | 3 |\n| 25 | 19 | 6 | 2 | III | 3 | 4 |\n| 26 | 20 | 7 | 3 |  | 2 | 5 |\n| 27 | 21 | 1 | 4 | XI | 1 | 6 |\n| 28 | 22 | 2 | 5 | XIX | 29* | 7 |\n| 29 | 23 | 3 | 6 |  | 28 | 8 |\n| 30 | 24 | 4 | 7 | VIII | 27 | 9 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Tybi / Tuba / Tir / Audynaeos",
+      "definition_pt": "Quinto mês nos calendários egípcio-alexandrino (Tybi), copta (Tuba Elkupti), etíope (Tir) e siro-macedônico de Gaza (Audynaeos). Inicia em 27 de dezembro juliano.",
+      "definition_en": "Fifth month in the Egyptian-Alexandrian (Tybi), Coptic (Tuba Elkupti), Ethiopian (Tir), and Syro-Macedonian of Gaza (Audynaeos) calendars. Begins on 27 December Julian."
+    },
+    {
+      "term": "Mexeir / Amschir / Iachathith / Peritios",
+      "definition_pt": "Sexto mês nos calendários egípcio-alexandrino (Mexeir), copta (Amschir Elkupti), etíope (Iachathith) e siro-macedônico de Gaza (Peritios). Inicia em 26 de janeiro juliano.",
+      "definition_en": "Sixth month in the Egyptian-Alexandrian (Mexeir), Coptic (Amschir Elkupti), Ethiopian (Iachathith), and Syro-Macedonian of Gaza (Peritios) calendars. Begins on 26 January Julian."
+    },
+    {
+      "term": "Mardad / Scheheriz",
+      "definition_pt": "Meses do calendário persa Yazdgerdi/Gelali correlacionados ao quinto e sexto meses egípcios nesta tabela.",
+      "definition_en": "Months of the Persian Yazdgerdi/Gelali calendar correlated with the fifth and sixth Egyptian months in this table."
+    },
+    {
+      "term": "Θεῶν Σεβαστῶν",
+      "definition_pt": "'Dos Augustos divinizados' — fórmula grega que designa o calendário alexandrino reformado sob Augusto após a anexação do Egito (30 a.C.), fixado ao ano juliano.",
+      "definition_en": "'Of the deified Augusti' — Greek formula designating the Alexandrian calendar reformed under Augustus after the annexation of Egypt (30 BC), fixed to the Julian year."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Na linha 28 do mês V, a coluna Epacta exibe um asterisco (*), provavelmente marcando a Epacta XXX (saltus lunae) ou um valor especial; na linha 28 do mês VI o valor é '29*'.",
+    "Algumas células da coluna Numerus Aureus aparecem em branco (correspondem aos anos do ciclo de 19 não associados àquela posição), conforme padrão das tábuas pascais.",
+    "Linha 11 do mês V: o valor da coluna Reg. Aug. lê '14' no scan, o que parece erro tipográfico do impresso (deveria ser '4', dado que o ciclo de 7 é monotônico); transcrito conforme aparece."
+  ],
+  "notes": "Página de tabelas calendáricas comparativas, apresentando os meses V e VI dos calendários orientais (egípcio alexandrino dos 'Augustos divinizados', copta, etíope, gazense/siro-macedônico) com correspondência diária ao calendário juliano. Cada bloco contém seis colunas: Dies mensis (dia do mês oriental), data juliana correspondente, Regulares Augustorum (letras feriais ciclo de 7 para o calendário alexandrino), Regulares Aethiopum (mesmo para o etíope), Numerus Aureus (ciclo lunar de 19 anos com epactas posicionadas), Epacta, e a coluna persa (Mardad/Scheheriz no calendário Gelali de Malik-Shah). O cabeçalho grego 'Θεῶν Σεβαστῶν' identifica a designação oficial do calendário alexandrino fixo. Na transcrição preservei numerais romanos para Numerus Aureus conforme o original (IIII em vez de IV, XIIII em vez de XIV), uso típico das tábuas calendáricas. O asterisco no Epacta da linha 28 do mês V provavelmente sinaliza a posição da epacta nula ou do saltus lunae.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4632,
+    "stop_reason": "end_turn"
+  }
+}

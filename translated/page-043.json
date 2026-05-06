@@ -1,0 +1,41 @@
+{
+  "page": 43,
+  "page_type": "table",
+  "latin": "LIBER PRIMVS.\nKALENDARIVM IVLIANVM.\nX MVNYCHION    XI THARGELION    XII SCIRRHOPHORION\nVII RAMADHANV   VIII SCHEWALV     IX DVLKAIDATHI\nVII NISAN       VIII IIOR         IX HAZIRAN\nVII XANTHICOS   VIII ARTEMISIVS   IX DAESIVS\nVIII APRILIS    V MAIVS           VI IVNIVS.\n\nDies Mensis | EPACTAE || Dies Mensis | EPACTAE || Dies Mensis | EPACTAE",
+  "pt": "LIVRO PRIMEIRO.\n*Kalendarium Iulianum*.\n[Correspondências dos meses de Abril, Maio e Junho julianos com os meses dos calendários ático (Munychion, Thargelion, Scirrhophorion), islâmico (Ramadhan, Schewal, Dulkaidath), hebraico (Nisan, Iiar, Haziran) e macedônico-sírio (Xanthicos, Artemisius, Daesius), com as respectivas *Epactae* e letras dominicais para cada dia do mês.]",
+  "en": "BOOK ONE.\n*Kalendarium Iulianum*.\n[Correspondences of the Julian months April, May, and June with the months of the Attic (Munychion, Thargelion, Scirrhophorion), Islamic (Ramadhan, Schewal, Dulkaidath), Hebrew (Nisan, Iiar, Haziran), and Macedonian-Syrian (Xanthicos, Artemisius, Daesius) calendars, with the corresponding *Epactae* and dominical letters for each day of the month.]",
+  "tables": [
+    {
+      "caption_pt": "Calendário Juliano — Abril (com correspondências Munychion ático, Ramadhan islâmico, Nisan hebraico, Xanthicos macedônico)",
+      "caption_en": "Julian Calendar — April (with Attic Munychion, Islamic Ramadhan, Hebrew Nisan, Macedonian Xanthicos correspondences)",
+      "markdown": "| Dies Mensis | Roman date | Litt. Dom. | Epacta (num.) | Epacta |\n|---|---|---|---|---|\n| I | Kal. | G | XXVIII | 28 |\n| II | IIII Non. | A | XXVII | 27 |\n| III | III Non. | B | XXVI | 26 |\n| IIII | Prid. Non. | C | XXV | 25 |\n| V | Non. | D | XXIIII | 24 |\n| VI | VIII Id. | E | XXIII | 23 |\n| VII | VII Id. | F | XXII | 22 |\n| VIII | VI Id. | G | XXI | 21 |\n| IX | V Id. | A | XX | 20 |\n| X | IIII Id. | B | XIX | 19 |\n| XI | III Id. | C | XVIII | 18 |\n| XII | Prid. Id. | D | XVII | 17 |\n| XIII | Id. | E | XVI | 16 |\n| XIIII | XVIII Kal. | F | XV | 15 |\n| XV | XVII Kal. | G | XIIII | 14 |\n| XVI | XVI Kal. | A | XIII | 13 |\n| XVII | XV Kal. | B | XII | 12 |\n| XVIII | XIIII Kal. | C | XI | 11 |\n| XIX | XIII Kal. | D | X | 10 |\n| XX | XII Kal. | E | IX | 9 |\n| XXI | XI Kal. | F | VIII | 8 |\n| XXII | X Kal. | G | VII | 7 |\n| XXIII | IX Kal. | A | VI | 6 |\n| XXIIII | VIII Kal. | B | V | 5 |\n| XXV | VII Kal. | C | IIII | 4 |\n| XXVI | VI Kal. | D | III | 3 |\n| XXVII | V Kal. | E | II | 2 |\n| XXVIII | IIII Kal. | F | I | 1 |\n| XXIX | III Kal. | G | XXIX* | 0 |\n| XXX | Prid. Kal. | A | XXVIII | 29 |"
+    },
+    {
+      "caption_pt": "Calendário Juliano — Maio (com Thargelion ático, Schewal islâmico, Iiar hebraico, Artemisius macedônico)",
+      "caption_en": "Julian Calendar — May (with Attic Thargelion, Islamic Schewal, Hebrew Iiar, Macedonian Artemisius)",
+      "markdown": "| Dies Mensis | Roman date | Litt. Dom. | Epacta (num.) | Epacta |\n|---|---|---|---|---|\n| I | Kal. | B | XXVII | 28 |\n| II | VI Non. | C | XXVI | 27 |\n| III | V Non. | D | XXV | 26 |\n| IIII | IIII Non. | E | XXIIII | 25 |\n| V | III Non. | F | XXIII | 24 |\n| VI | Prid. Non. | G | XXII | 23 |\n| VII | Non. | A | XXI | 22 |\n| VIII | VIII Id. | B | XX | 21 |\n| IX | VII Id. | C | XIX | 20 |\n| X | VI Id. | D | XVIII | 19 |\n| XI | V Id. | E | XVII | 18 |\n| XII | IIII Id. | F | XVI | 17 |\n| XIII | III Id. | G | XV | 16 |\n| XIIII | Prid. Id. | A | XIIII | 15 |\n| XV | Id. | B | XIII | 14 |\n| XVI | XVII Kal. | C | XII | 13 |\n| XVII | XVI Kal. | D | XI | 12 |\n| XVIII | XV Kal. | E | X | 11 |\n| XIX | XIIII Kal. | F | IX | 10 |\n| XX | XIII Kal. | G | VIII | 9 |\n| XXI | XII Kal. | A | VII | 8 |\n| XXII | XI Kal. | B | VI | 7 |\n| XXIII | X Kal. | C | V | 6 |\n| XXIIII | IX Kal. | D | IIII | 5 |\n| XXV | VIII Kal. | E | III | 4 |\n| XXVI | VII Kal. | F | II | 3 |\n| XXVII | VI Kal. | G | I | 2 |\n| XXVIII | V Kal. | A | * | 1 |\n| XXIX | IIII Kal. | B | XXIX | 29 |\n| XXX | III Kal. | C | XXVIII | 28 |\n| XXXI | Prid. Kal. | D | XXVII | 27 |"
+    },
+    {
+      "caption_pt": "Calendário Juliano — Junho (com Scirrhophorion ático, Dulkaidath islâmico, Haziran hebraico, Daesius macedônico)",
+      "caption_en": "Julian Calendar — June (with Attic Scirrhophorion, Islamic Dulkaidath, Hebrew Haziran, Macedonian Daesius)",
+      "markdown": "| Dies Mensis | Roman date | Litt. Dom. | Epacta (num.) | Epacta |\n|---|---|---|---|---|\n| I | Kal. | E | XXVI | 26 |\n| II | IIII Non. | F | XXV | 25 |\n| III | III Non. | G | XXIIII | 24 |\n| IIII | Prid. Non. | A | XXIII | 23 |\n| V | Non. | B | XXII | 22 |\n| VI | VIII Id. | C | XXI | 21 |\n| VII | VII Id. | D | XX | 20 |\n| VIII | VI Id. | E | XIX | 19 |\n| IX | V Id. | F | XVIII | 18 |\n| X | IIII Id. | G | XVII | 17 |\n| XI | III Id. | A | XVI | 16 |\n| XII | Prid. Id. | B | XV | 15 |\n| XIII | Id. | C | XIIII | 14 |\n| XIIII | XVIII Kal. | D | XIII | 13 |\n| XV | XVII Kal. | E | XII | 12 |\n| XVI | XVI Kal. | F | XI | 11 |\n| XVII | XV Kal. | G | X | 10 |\n| XVIII | XIIII Kal. | A | IX | 9 |\n| XIX | XIII Kal. | B | VIII | 8 |\n| XX | XII Kal. | C | VII | 7 |\n| XXI | XI Kal. | D | VI | 6 |\n| XXII | X Kal. | E | V | 5 |\n| XXIII | IX Kal. | F | IIII | 4 |\n| XXIIII | VIII Kal. | G | III | 3 |\n| XXV | VII Kal. | A | II | 2 |\n| XXVI | VI Kal. | B | I | 1 |\n| XXVII | V Kal. | C | XXIX* | 0 |\n| XXVIII | IIII Kal. | D | XXVIII | 29 |\n| XXIX | III Kal. | E | XXVII | 28 |\n| XXX | Prid. Kal. | F | XXVI | 27 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Cabeçalho de Maio: 'IIOR' provavelmente é grafia de Scaliger para 'Iiar' (אייר), o segundo mês hebraico; transcrito como impresso.",
+    "Algarismos romanos diante de cada nome de mês não-juliano (X, XI, XII; VII, VIII, IX; etc.) representam o número ordinal do mês na sequência do respectivo calendário (ático, islâmico, hebraico, macedônico, juliano) — não datas.",
+    "Asterisco (*) na coluna de epactas marca dia da epacta '29' (= XXIX*) usada no esquema gregoriano/scaligeriano para os meses lunares anômalos; conforme convenção do próprio Scaliger.",
+    "Pequenas variantes ortográficas no scan ('XAL.' por 'KAL.' em Abril XXII; 'BPACTAE' por 'EPACTAE' nos cabeçalhos) corrigidas silenciosamente na transcrição."
+  ],
+  "notes": "Esta página é puramente tabular: o cabeçalho do *Kalendarium Iulianum* sincroniza os meses julianos de Abril, Maio e Junho com seus correspondentes nos calendários ático (Munychion, Thargelion, Scirrhophorion), islâmico (Ramadhan, Schewal, Dulkaidath), hebraico (Nisan, Iiar [IIOR], Haziran) e macedônico-sírio (Xanthicos, Artemisius, Daesius). Os algarismos romanos prefixados (X, XI, XII para os áticos; VII, VIII, IX para Ramadhan/Schewal/Dulkaidath e Nisan/Iiar/Haziran e Xanthicos/Artemisius/Daesius; VIII, V, VI para Aprilis/Maius/Iunius) indicam a posição ordinal do mês em seu calendário. As três colunas verticais dão para cada dia: (1) dia do mês em algarismos romanos, (2) datação romana tradicional (Kalendae/Nonae/Idus), (3) letra dominical (A–G), (4) epacta em romanos, (5) epacta em arábicos. A epacta corre regressivamente de 28/29 a 0 (XXIX* = epacta nula/29 saltada), refletindo o esquema lunar perpétuo de Scaliger. Esta tabela é parte da continuação do *Kalendarium Iulianum* iniciado nas páginas anteriores do Liber Primus.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4287,
+    "stop_reason": "end_turn"
+  }
+}

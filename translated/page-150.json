@@ -1,0 +1,54 @@
+{
+  "page": 150,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\n\nTABULA SEPTIMA ENNEADECAETERIDOS SOLARIS ET LUNARIS SULTANICAE.\n\nPARS SOLARIS. Praecessio aequinoct. | PARS LUNARIS.\n\n[Tabula septima cum columnis: Lin. Enneadecaeter. | Numer. Aureus | Feria | Horae | Scrup. | Horae | Scrup. | Neom. Pharauardin. || Feria | Horae | Scrup. | Nouilu. Pharauardin. | Epacta | Menses Iudaici]\n\nTABULA OCTAVA ENNEADECAETERIDON SOLARIUM ET LUNARIUM SULTANICARUM COLLECTARUM.\n\n[Tabula octava cum columnis: Enneadecaeterid. collectae | Feria | Hor. | Scrup. | Dies | Hor. | Scrup. || Feria | Hor. | Scrup. | Dies | Hor. | Scrup. | Lin. Enneadecaeter.]",
+  "pt": "CÂNONES ISAGÓGICOS\n\nTÁBUA SÉTIMA DA *Enneadecaeteris* SOLAR E LUNAR SULTÂNICA.\n\nPARTE SOLAR. Precessão do equinócio. | PARTE LUNAR.\n\nTÁBUA OITAVA DAS *Enneadecaeterides* SOLARES E LUNARES SULTÂNICAS COLETADAS.",
+  "en": "CANONS OF THE ISAGOGE\n\nSEVENTH TABLE OF THE SOLAR AND LUNAR SULTANIC *Enneadecaeteris*.\n\nSOLAR PART. Precession of the equinox. | LUNAR PART.\n\nEIGHTH TABLE OF THE COLLECTED SOLAR AND LUNAR SULTANIC *Enneadecaecerides*.",
+  "tables": [
+    {
+      "caption_pt": "Tábua VII: *Enneadecaeteris* solar e lunar sultânica (calendário persa-jalālī). Parte solar mostra a precessão do equinócio com a *neomenia* segundo Pharavardin (mês persa); parte lunar mostra o *novilunium* (Pharavardin), epacta e meses judaicos correspondentes.",
+      "caption_en": "Table VII: Solar and lunar Sultanic *Enneadecaeteris* (Persian Jalālī calendar). Solar part shows precession of the equinox with *neomenia* according to Farvardīn (Persian month); lunar part shows *novilunium* (Farvardīn), epact, and corresponding Jewish months.",
+      "markdown": "| Lin. Enneadec. | Num. Aureus | Feria | Horae | Scrup. | Horae | Scrup. | Neom. Pharavardin. | Feria | Horae | Scrup. | Novilun. Pharavardin. | Epacta | Menses Iudaici | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 16 | 5 | 2 | 158 | 0 | 200 | 14 Mar | 5 | 14 | 1009 | 4 April | 8 | Ijar 11 | |\n| 2 | 17 | 6 | 7 | 1038 | 0 | 400 | 13 Mar | 2 | 23 | 805 | 24 Mar | 18 | Nisan | Emb. |\n| 3 | 18 | 7 | 13 | 838 | 0 | 600 | 13 Mar | 1 | 21 | 314 | 11 Apr | * | Ijar | |\n| 4 | 19 | 1 | 19 | 638 | 0 | 800 | 13 Mar | 6 | 6 | 110 | 1 Apr | 10 | Ijar | |\n| 5 | 1 | 3 | 1 | 438 | 0 | 1000 | 14 Mar | 3 | 14 | 98 | 21 Mar | 22 | Nisan | Emb. |\n| 6 | 2 | 4 | 7 | 238 | 1 | 120 | 13 Mar | 2 | 12 | 495 | 8 Apr | 3 | Ijar | |\n| 7 | 3 | 5 | 13 | 38 | 1 | 320 | 13 Mar | 6 | 21 | 291 | 28 Mar | 14 | Nisan | Emb. |\n| 8 | 4 | 6 | 18 | 918 | 1 | 520 | 13 Mar | 4 | 6 | 87 | 17 Mar | 25 | Nisan | |\n| 9 | 5 | 1 | 0 | 718 | 1 | 720 | 14 Mar | 3 | 3 | 676 | 4 Apr | 6 | Ijar | |\n| 10 | 6 | 2 | 6 | 518 | 1 | 920 | 13 Mar | 7 | 12 | 472 | 25 Mar | 17 | Nisan | Emb. |\n| 11 | 7 | 3 | 12 | 318 | 2 | 40 | 13 Mar | 4 | 21 | 268 | 14 Mar | 28 | Nisan | |\n| 12 | 8 | 4 | 18 | 118 | 2 | 240 | 13 Mar | 3 | 18 | 857 | 2 Apr | 9 | Ijar | Emb. |\n| 13 | 9 | 5 | 23 | 998 | 2 | 440 | 13 Mar | 1 | 3 | 653 | 23 Mar | 20 | Nisan | |\n| 14 | 10 | 7 | 5 | 798 | 2 | 640 | 13 Mar | 7 | 1 | 162 | 10 Apr | 1 | Ijar | |\n| 15 | 11 | 1 | 11 | 598 | 2 | 840 | 13 Mar | 4 | 9 | 1038 | 30 Mar | 12 | Nisan | Emb. |\n| 16 | 12 | 2 | 17 | 398 | 2 | 1040 | 13 Mar | 1 | 18 | 834 | 19 Mar | 23 | Nisan | |\n| 17 | 13 | 3 | 23 | 198 | 3 | 160 | 13 Mar | 7 | 16 | 343 | 7 Apr | 4 | Ijar | |\n| 18 | 14 | 5 | 4 | 1078 | 3 | 360 | 13 Mar | 5 | 1 | 139 | 27 Mar | 15 | Nisan | Emb. |\n| 19 | 15 | 6 | 10 | 878 | 3 | 560 | 13 Mar | 2 | 9 | 1015 | 16 Mar | 26 | Ijar | |"
+    },
+    {
+      "caption_pt": "Tábua VIII: *Enneadecaeterides* solares e lunares sultânicas coletadas (acumuladas), permitindo somar múltiplos ciclos de 19 anos.",
+      "caption_en": "Table VIII: Collected (accumulated) solar and lunar Sultanic *Enneadecaecerides*, allowing summation of multiple 19-year cycles.",
+      "markdown": "| Enneadec. collectae | Feria | Hor. | Scrup. | Dies | Hor. | Scrup. | Feria | Hor. | Scrup. | Dies | Hor. | Scrup. | Lin. Enneadec. |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 19 | 2 | 14 | 520 | 0 | 3 | 500 | 2 | 16 | 595 | 0 | 2 | 75 | 1 |\n| 38 | 5 | 4 | 1040 | 0 | 7 | 40 | 5 | 9 | 110 | 0 | 4 | 150 | 2 |\n| 57 | 7 | 19 | 480 | 0 | 10 | 600 | 1 | 1 | 705 | 0 | 6 | 225 | 3 |\n| 76 | 3 | 9 | 1000 | 0 | 14 | 80 | 3 | 18 | 220 | 0 | 8 | 300 | 4 |\n| 95 | 6 | 0 | 440 | 0 | 17 | 640 | 6 | 10 | 815 | 0 | 10 | 375 | 5 |\n| 114 | 1 | 14 | 960 | 0 | 21 | 120 | 2 | 3 | 330 | 0 | 12 | 450 | 6 |\n| 133 | 4 | 5 | 400 | 1 | 0 | 680 | 4 | 19 | 925 | 0 | 14 | 525 | 7 |\n| 152 | 6 | 19 | 920 | 1 | 4 | 160 | 7 | 12 | 440 | 0 | 16 | 600 | 8 |\n| 171 | 2 | 10 | 360 | 1 | 7 | 720 | 3 | 4 | 1035 | 0 | 18 | 675 | 9 |\n| 190 | 5 | 0 | 880 | 1 | 11 | 200 | 5 | 21 | 550 | 0 | 20 | 750 | 10 |\n| 380 | 3 | 1 | 680 | 2 | 22 | 400 | 4 | 19 | 20 | 1 | 17 | 420 | 20 |\n| 570 | 1 | 2 | 480 | 4 | 9 | 600 | 3 | 16 | 570 | 2 | 14 | 90 | 30 |\n| 760 | 6 | 3 | 280 | 5 | 20 | 880 | 2 | 14 | 40 | 3 | 10 | 840 | 40 |\n| 950 | 4 | 4 | 80 | 7 | 7 | 1000 | 1 | 11 | 590 | 4 | 7 | 510 | 50 |\n| 1140 | 2 | 4 | 960 | 8 | 19 | 120 | 7 | 9 | 60 | 5 | 4 | 180 | 60 |\n| 1330 | 7 | 5 | 760 | 10 | 6 | 320 | 6 | 6 | 610 | 6 | 0 | 930 | 70 |\n| 1520 | 5 | 6 | 560 | 11 | 17 | 520 | 5 | 4 | 80 | 6 | 21 | 600 | 80 |\n| 1710 | 3 | 7 | 360 | 13 | 4 | 720 | 4 | 1 | 630 | 7 | 18 | 270 | 90 |\n| 1900 | 1 | 8 | 160 | 14 | 15 | 920 | 2 | 23 | 100 | 8 | 14 | 1020 | 100 |\n| 3800 | 2 | 16 | 320 | 29 | 7 | 760 | 5 | 22 | 200 | 17 | 5 | 960 | 200 |\n| 5700 | 4 | 0 | 480 | 43 | 23 | 600 | 1 | 21 | 300 | 25 | 20 | 900 | 300 |\n| 7600 | 5 | 8 | 640 | 58 | 15 | 440 | 4 | 20 | 400 | 34 | 11 | 840 | 400 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Enneadecaeteris Sultanica",
+      "definition_pt": "Ciclo de 19 anos aplicado ao calendário sultânico (jalālī persa, instituído por Malik Shāh em 1079), tabulado para fins de conversão entre o calendário persa, o calendário lunar (com epactas e meses judaicos) e a precessão do equinócio.",
+      "definition_en": "19-year cycle applied to the Sultanic (Persian Jalālī) calendar, established by Malik Shāh in 1079, tabulated for conversion between the Persian calendar, the lunar calendar (with epacts and Jewish months), and the precession of the equinox."
+    },
+    {
+      "term": "Pharavardin (Pharauardin)",
+      "definition_pt": "Primeiro mês do calendário persa (Farvardīn), começando no equinócio vernal. Nas tábuas, indica a data juliana correspondente ao seu início (em torno de 13–14 de março, com a precessão).",
+      "definition_en": "First month of the Persian calendar (Farvardīn), beginning at the vernal equinox. In the tables, it indicates the Julian date corresponding to its start (around 13–14 March, accounting for precession)."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [
+    {
+      "type": "equinox",
+      "description": "Precessão do equinócio vernal calculada para cada ano da Enneadecaeteris sultânica, expressa em horas e escrúpulos (1/1080 de hora, segundo o uso hebraico-astronômico de Scaliger).",
+      "historical_date_as_cited": "Tábua tabulada por anos do ciclo lunar (Numerus Aureus 1–19) com data juliana da neomênia de Farvardīn entre 13 e 14 de março",
+      "ancient_source": "Tabulae Sultanicae (tábuas astronômicas de Malik Shāh / Omar Khayyam)"
+    }
+  ],
+  "uncertainty_flags": [
+    "Vários valores numéricos da Tábua VII estão parcialmente apagados ou borrados no scan (especialmente colunas de Scrupula); transcrição feita pelo padrão visível mais próximo, com possíveis erros de leitura em valores como 158/198/238 e nas colunas de epacta.",
+    "A coluna 'Epacta' da linha 3 mostra um asterisco (*) que pode indicar epacta zero ou caso especial — Scaliger às vezes usa * para a epacta nula.",
+    "Algumas marcações 'Emb.' (annus emboliscus) podem estar deslocadas devido ao alinhamento difícil das colunas no scan.",
+    "Numeração de página mostra '118' no scan mas o usuário indica página 150 — discrepância entre paginação impressa e ordem do volume."
+  ],
+  "notes": "Página puramente tabular (sem texto corrente) das Tábuas VII e VIII dos cânones isagógicos. Trata-se da aplicação do ciclo de 19 anos (Enneadecaeteris) ao calendário sultânico persa (jalālī), uma das contribuições mais originais de Scaliger ao De Emendatione e aos Isagogici: ele integra o calendário persa de Malik Shāh (cuja reforma de 1079, atribuída a Omar Khayyam e colaboradores, Scaliger conhecia através de fontes árabes e da literatura cronológica oriental) ao seu sistema universal. A coluna 'Praecessio aequinoctii' indica que Scaliger usa essas tábuas também para rastrear a precessão. A combinação de feria + horae + scrupula (em base 1080, herdada da astronomia hebraica de Maimônides via Almagesto) é o sistema padrão de Scaliger para tempos lunares. Os 'Menses Iudaici' (Nisan, Ijar) na coluna lunar mostram a correspondência cruzada com o calendário hebraico, com 'Emb.' marcando os anos embolísticos (com mês intercalar Adar II) na sequência de 7 em 19 anos do ciclo metonico judaico.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5476,
+    "stop_reason": "end_turn"
+  }
+}

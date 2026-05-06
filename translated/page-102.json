@@ -1,0 +1,55 @@
+{
+  "page": 102,
+  "page_type": "mixed",
+  "latin": "70  CANONVM ISAGOGICORVM\n\nCANON SEXTVS.\n\nDato anno periodi Iulianae, qui non sit minor numero 4383, quotus sit annus quota periodi Calippicae πρυτανείας scire.\n\nEsto propositus annus periodi Iulianae 4651: unde abijce numerum proxime minorem in subjecta Tabella 4611. Remanet annus 40 πρυτανείας periodi Calippicae. Rursus e latere dicti numeri proxime minoris 4611 habes 3. hoc est 3 periodos Calippicas exactas. Itaque annus propositus est quadragesimus Periodi quartae labentis.\n\n[Tabella]\n\nCANON SEPTIMVS.\n\nDato anno Periodi Iulianae neomeniam Hecatombaeonis Calippici πρυτανείας scire.\n\nHabeas annum periodi Calippicae, per antecedentem. Vt in superiori exemplo erat annus 40 periodi. In Tabula periodi Calippicae Prytanias e regione dicti anni 40, occurrit statim neomenia Hecatombaeonis XVII Iulij.\n\nCAPVT",
+  "pt": "70  DOS CÂNONES ISAGÓGICOS\n\nCÂNONE SEXTO.\n\nDado um ano da *Periodus Iuliana*, que não seja menor que o número 4383, saber qual ano e qual período da *prytania* da *Periodus Calippica* corresponde.\n\nSeja o ano proposto da *Periodus Iuliana* 4651: dele subtraia o número imediatamente menor na Tabela abaixo, 4611. Resta o ano 40 da *prytania* da *Periodus Calippica*. Em seguida, ao lado do referido número imediatamente menor, 4611, encontras 3, isto é, 3 períodos calípicos completos. Portanto, o ano proposto é o quadragésimo do quarto Período em curso.\n\n[Tabela]\n\nCÂNONE SÉTIMO.\n\nDado um ano da *Periodus Iuliana*, saber a *neomenia* de Hecatombéon da *prytania* calípica.\n\nTenha o ano da *Periodus Calippica* pelo cânone antecedente. Como no exemplo anterior era o ano 40 do período. Na Tabela das *Prytanias* da *Periodus Calippica*, na linha do referido ano 40, ocorre imediatamente a *neomenia* de Hecatombéon em 17 de Julho.\n\nCAPÍTULO",
+  "en": "70  OF THE ISAGOGIC CANONS\n\nCANON SIX.\n\nGiven a year of the *Periodus Iuliana*, which is not less than the number 4383, to find which year and which period of the *prytania* of the *Periodus Calippica* it is.\n\nLet the proposed year of the *Periodus Iuliana* be 4651: from it subtract the next smaller number in the table below, 4611. There remains year 40 of the *prytania* of the *Periodus Calippica*. Next, beside the said next smaller number 4611 you have 3, that is, 3 complete Calippic periods. Therefore, the proposed year is the fortieth of the fourth Period now running.\n\n[Table]\n\nCANON SEVEN.\n\nGiven a year of the *Periodus Iuliana*, to find the *neomenia* of Hecatombaeon of the Calippic *prytania*.\n\nObtain the year of the *Periodus Calippica* by the preceding canon. As in the previous example it was year 40 of the period. In the Table of the *Prytaniae* of the *Periodus Calippica*, opposite the said year 40, there appears at once the *neomenia* of Hecatombaeon on 17 July.\n\nCHAPTER",
+  "tables": [
+    {
+      "caption_pt": "Tabela de correspondência entre anos da Periodus Iuliana e os períodos calípicos",
+      "caption_en": "Table of correspondence between years of the Periodus Iuliana and the Calippic periods",
+      "markdown": "| Anni periodi Iul. | Periodi Calipp. | Anni periodi Iul. | Periodi Calipp. |\n|---|---|---|---|\n| 4383 | 0 | 4687 | 4 |\n| 4459 | 1 | 4763 | 5 |\n| 4535 | 2 | 4839 | 6 |\n| 4611 | 3 | 4915 | 7 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Periodus Calippica",
+      "definition_pt": "Período calípico de 76 anos (4 × 19), composto por *prytaniae* numeradas, usado para localizar a *neomenia* de Hecatombéon. Conta-se a partir do ano 4383 da *Periodus Iuliana*, com cada novo período começando a cada 76 anos (4459, 4535, 4611, 4687...).",
+      "definition_en": "Calippic period of 76 years (4 × 19), composed of numbered *prytaniae*, used to locate the *neomenia* of Hecatombaeon. It is counted from year 4383 of the *Periodus Iuliana*, with each new period beginning every 76 years (4459, 4535, 4611, 4687...)."
+    },
+    {
+      "term": "Hecatombaeon",
+      "definition_pt": "Primeiro mês do calendário ático/calípico, cuja *neomenia* (lua nova) marca o início do ano. No exemplo dado (ano 40 do quarto período calípico), cai em 17 de Julho juliano.",
+      "definition_en": "First month of the Attic/Calippic calendar, whose *neomenia* (new moon) marks the beginning of the year. In the given example (year 40 of the fourth Calippic period), it falls on 17 July Julian."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Canon Sextus (cânone antecedente)",
+      "context": "Habeas annum periodi Calippicae, per antecedentem"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula periodi Calippicae Prytaniarum",
+      "context": "In Tabula periodi Calippicae Prytanias e regione dicti anni 40"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Neomenia (lua nova) de Hecatombéon caindo em 17 de Julho juliano, no ano 40 do quarto período calípico (= ano 4651 da Periodus Iuliana).",
+      "historical_date_as_cited": "annus 4651 periodi Iulianae = annus 40 periodi Calippicae IV; neomenia Hecatombaeonis XVII Iulii",
+      "ancient_source": "Calippus (sistema calípico)"
+    }
+  ],
+  "uncertainty_flags": [],
+  "notes": "Página com dois cânones técnicos curtos demonstrando o uso prático da Periodus Calippica de 76 anos a partir da epocha 4383 da Periodus Iuliana (que corresponde a 330 a.C., ano da reforma de Calipo). O termo grego πρυτανείας (prytaneías) refere-se às 'pritanias' ou subdivisões do ano calípico. A palavra 'CAPVT' no canto inferior direito é início de seção que continua na próxima página.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 2629,
+    "stop_reason": "end_turn"
+  }
+}

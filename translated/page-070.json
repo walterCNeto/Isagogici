@@ -1,0 +1,71 @@
+{
+  "page": 70,
+  "page_type": "mixed",
+  "latin": "CANONVM ISAGOGICORVM\n\nTABVLA QVINTA.\n\n[Tabula: Epactae perpetuae | Cyclus excessus Solis supra Lunam]\n\nDEFINITIONES.\n\nI. διάφορον, sive differentia Hipparchea, est excessus, quo annus Hipparcheus superatur a Iuliano.\n\nII. προήγησις Hipparchea est anticipatio unius diei in diebus Iulianis post annos 304 fere.\n\nIII. ὑπόλειψις Hipparchea est mora unius diei in contextu anni Tropici post annos CCXXXIII fere.\n\nIIII. Cyclus Solis Hipparcheus est systema annorum, quorum ultimi character est feria septima sine ullis, aut perquam paucissimis, scrupularijs appendicibus.\n\nV. Tekupha est quadrans anni.\n\nVI. Mensis est pars anni duodecima, plenus quidem triginta dierum, cauus vero undetriginta.\n\nVII. Epacta perpetua, sunt dies ex Solis supra Lunam excessu consurgentes, quae quot unitatibus absunt a triginta, post totidem dies mensis locu interlunij, sive ἕνην ϰ νέαν, designant, plena quidem in pleno mense, caua autem in cauo.\n\nVIII. Epagomenae dies sunt, quae in finem ultimi mensis conijciuntur, XI quidem in anno communi, XII autem in embolimaeo.\n\nCANON PRIMVS.\n\nAnnum Iudaicum currentem, aut ineuntem inuenire.\n\nAb anno periodi Iulianae currente abijce 952, aut anno Christi currenti adijce 3761.\n\nAb anno proposito Periodi Iulianae 6317, abjectis 952, relinquitur annus Iudaicus 5365, iniens a nouilunio ciuili Septembris eiusdem anni currentis in periodo Iuliana. Idem proueniet, additis 3761, ad annum Christi praesentem 1604.\n\nCANON",
+  "pt": "CÂNONES ISAGÓGICOS\n\nTABELA QUINTA.\n\n[Tabela: *Epactae perpetuae* | *Cyclus excessus Solis supra Lunam*]\n\nDEFINIÇÕES.\n\nI. *Diaphoron*, ou diferença Hiparquica, é o excesso pelo qual o ano hiparquico é superado pelo juliano.\n\nII. *Proēgēsis* Hiparquica é a antecipação de um dia nos dias julianos após cerca de 304 anos.\n\nIII. *Hypoleipsis* Hiparquica é o atraso de um dia no decurso do ano trópico após cerca de 233 anos.\n\nIIII. *Cyclus Solis* Hiparquico é o sistema de anos cujo caráter final é a féria sétima, sem quaisquer apêndices escrupulares, ou com pouquíssimos.\n\nV. *Tekupha* é o quadrante do ano.\n\nVI. *Mensis* é a duodécima parte do ano, sendo o cheio de trinta dias e o cavo de vinte e nove.\n\nVII. *Epactae perpetuae* são os dias que se acumulam pelo excesso do Sol sobre a Lua: tantas unidades quantas distam de trinta, designam o lugar do interlúnio (ou seja, ἕνην καὶ νέαν, \"a velha e a nova\") após outros tantos dias do mês — cheia em mês cheio, cava em mês cavo.\n\nVIII. *Epagomenae dies* são os dias acrescentados ao final do último mês: onze no *annus communis*, doze no *annus emboliscus*.\n\nCÂNONE PRIMEIRO.\n\nEncontrar o ano judaico corrente, ou o que se inicia.\n\nDo ano corrente da *Periodus Iuliana* subtraia 952; ou ao ano corrente de Cristo acrescente 3761.\n\nDo ano proposto da *Periodus Iuliana* 6317, subtraídos 952, resta o ano judaico 5365, que se inicia a partir do novilúnio civil de Setembro do mesmo ano corrente da *Periodus Iuliana*. O mesmo resultará, acrescentados 3761, ao ano presente de Cristo de 1604.\n\nCÂNONE",
+  "en": "ISAGOGIC CANONS\n\nTABLE FIVE.\n\n[Table: *Epactae perpetuae* | *Cyclus excessus Solis supra Lunam* — Cycle of the Sun's excess over the Moon]\n\nDEFINITIONS.\n\nI. *Diaphoron*, or Hipparchic difference, is the excess by which the Hipparchic year is surpassed by the Julian.\n\nII. Hipparchic *proēgēsis* is the anticipation of one day in the Julian days after approximately 304 years.\n\nIII. Hipparchic *hypoleipsis* is the delay of one day in the course of the tropical year after approximately 233 years.\n\nIIII. The Hipparchic *Cyclus Solis* is a system of years whose final character is the seventh feria, with no — or very few — scrupular appendices.\n\nV. *Tekupha* is a quarter of the year.\n\nVI. A *mensis* is the twelfth part of a year: full at thirty days, hollow at twenty-nine.\n\nVII. *Epactae perpetuae* are the days arising from the excess of the Sun over the Moon: by however many units they fall short of thirty, after that many days of the month they designate the place of the interlunium (i.e. ἕνη καὶ νέα, \"old and new\") — full in a full month, hollow in a hollow one.\n\nVIII. *Epagomenae dies* are the days appended to the end of the last month: eleven in an *annus communis*, twelve in an *annus emboliscus*.\n\nFIRST CANON.\n\nTo find the current Jewish year, or the one beginning.\n\nFrom the current year of the *Periodus Iuliana* subtract 952; or to the current year of Christ add 3761.\n\nFrom the proposed *Periodus Iuliana* year 6317, with 952 subtracted, there remains the Jewish year 5365, which begins from the civil new moon of September of that same current year in the *Periodus Iuliana*. The same will result, with 3761 added, for the present year of Christ 1604.\n\nCANON",
+  "tables": [
+    {
+      "caption_pt": "Tabela V: Epactas perpétuas e Ciclo do excesso do Sol sobre a Lua (Enneadecaeteris). Linhas 9 e 12 marcadas com asterisco indicam saltus (omissão).",
+      "caption_en": "Table V: Perpetual epacts and Cycle of the Sun's excess over the Moon (Enneadecaeteris). Lines 9 and 12 marked with asterisk indicate the saltus (omission).",
+      "markdown": "| Linea cycli | Epacta plena | Epacta caua | Dies | Horae | Scrup. | Mom. |\n|---|---|---|---|---|---|---|\n| 1 | 29 | 0 | 10 | 21 | 121 | 48 |\n| 2 | 10 | 11 | 21 | 18 | 243 | 20 |\n| 3 | 21 | 0 | 3 | 2 | 651 | 68 |\n| 4 | 2 | 3 | 13 | 23 | 773 | 40 |\n| 5 | 13 | 14 | 24 | 20 | 895 | 12 |\n| 6 | 24 | 0 | 6 | 5 | 223 | 60 |\n| 7 | 5 | 6 | 17 | 2 | 345 | 32 |\n| 8 | 16 | 17 | 27 | 23 | 467 | 4 |\n| 9 | * | * | * | * | * | * |\n| 10 | 8 | 9 | 20 | 4 | 997 | 24 |\n| 11 | 19 | 0 | 1 | 13 | 325 | 72 |\n| 12 | * | 0 | 12 | 10 | 447 | 44 |\n| 13 | 11 | 12 | 23 | 7 | 569 | 16 |\n| 14 | 22 | 0 | 4 | 15 | 977 | 64 |\n| 15 | 3 | 4 | 15 | 13 | 19 | 36 |\n| 16 | 14 | 15 | 26 | 10 | 141 | 8 |\n| 17 | 25 | 0 | 7 | 18 | 549 | 56 |\n| 18 | 6 | 7 | 18 | 15 | 671 | 28 |\n| 19 | 17 | 18 | 29 | 12 | 793 | 0 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Diaphoron (differentia Hipparchea)",
+      "definition_pt": "Excesso pelo qual o annus Hipparcheus é superado pelo annus Iulianus.",
+      "definition_en": "The excess by which the Hipparchic year is surpassed by the Julian year."
+    },
+    {
+      "term": "Proēgēsis Hipparchea",
+      "definition_pt": "Antecipação de um dia nos dias julianos após cerca de 304 anos.",
+      "definition_en": "The anticipation of one day in the Julian days after approximately 304 years."
+    },
+    {
+      "term": "Hypoleipsis Hipparchea",
+      "definition_pt": "Atraso de um dia no decurso do ano trópico após cerca de 233 anos.",
+      "definition_en": "The lag of one day in the course of the tropical year after approximately 233 years."
+    },
+    {
+      "term": "Cyclus Solis Hipparcheus",
+      "definition_pt": "Sistema de anos cujo caráter final é a féria sétima (sábado), sem ou com pouquíssimos apêndices escrupulares.",
+      "definition_en": "A system of years whose terminal character is the seventh feria (Saturday), with no or very few scrupular appendices."
+    },
+    {
+      "term": "Tekupha",
+      "definition_pt": "Quadrante do ano (termo hebraico para os marcos sazonais — equinócios e solstícios).",
+      "definition_en": "A quarter of the year (Hebrew term for the seasonal markers — equinoxes and solstices)."
+    },
+    {
+      "term": "Mensis",
+      "definition_pt": "Duodécima parte do ano: cheio quando tem 30 dias, cavo quando tem 29.",
+      "definition_en": "The twelfth part of the year: full when it has 30 days, hollow when 29."
+    },
+    {
+      "term": "Epactae perpetuae",
+      "definition_pt": "Dias resultantes do excesso do Sol sobre a Lua; tantas unidades quantas faltam para trinta, indicam, após outros tantos dias do mês, o lugar do interlúnio (ἕνη καὶ νέα).",
+      "definition_en": "Days arising from the Sun's excess over the Moon; the number of units short of thirty designates, after that same number of days into the month, the place of the interlunium (ἕνη καὶ νέα)."
+    },
+    {
+      "term": "Epagomenae dies",
+      "definition_pt": "Dias acrescentados ao fim do último mês: 11 no annus communis, 12 no annus emboliscus.",
+      "definition_en": "Days appended at the end of the final month: 11 in an annus communis, 12 in an annus emboliscus."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Linha 12 da tabela: 'Epacta plena' marcada com asterisco (saltus lunae) mas 'Epacta caua' apresenta 0 — verificar se é erro tipográfico do impressor ou marcação intencional.",
+    "Linha 15 da tabela: valor 'Scrup. 19' parece anomalamente baixo na sequência; pode ser leitura correta do salto após o ciclo, mas merece verificação contra outras edições.",
+    "Valor 'Mom. 68' nas linhas 3 e 'Mom. 72', 'Mom. 64' em outras: o sistema de momenta de Scaliger normalmente vai até 76; valores acima de 60 são corretos neste sistema, não erros."
+  ],
+  "notes": "Esta página apresenta a Tabula V (epactas perpétuas alinhadas ao ciclo de excesso solar sobre lunar — i.e., a Enneadecaeteris) seguida das oito definições fundamentais do livro hebraico-cronológico, e abre o Canon I para conversão de anos da Periodus Iuliana ao calendário judaico (subtração de 952 ou adição de 3761 ao ano de Cristo). A data-âncora é 1604 d.C. = AM 5365 = PJ 6317. As linhas 9 e 12 da tabela com asteriscos representam o saltus lunae (omissão) característico do ciclo de 19 anos. Termos gregos preservados: διάφορον, προήγησις, ὑπόλειψις, ἕνη καὶ νέα. Tekupha (תקופה) é hebraico. A definição VII contém grego ἕνην ϰ νέαν — leitura clássica é ἕνη καὶ νέα, expressão ática para o último dia do mês lunar.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4770,
+    "stop_reason": "end_turn"
+  }
+}

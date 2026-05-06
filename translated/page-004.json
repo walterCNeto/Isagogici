@@ -1,0 +1,22 @@
+{
+  "page": 4,
+  "page_type": "frontmatter",
+  "latin": "",
+  "pt": "",
+  "en": "",
+  "tables": [],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página em branco (verso de folha de rosto ou página em branco do frontmatter), com apenas marca de digitalização 'Digitized by Google' no rodapé e manchas/sujeira do scan."
+  ],
+  "notes": "Página sem conteúdo textual original. Trata-se de uma página em branco do exemplar digitalizado, contendo apenas a marca d'água 'Digitized by Google' no canto inferior direito. Resíduos de tinta da página oposta (bleed-through) e poeira do scan são visíveis, mas não constituem texto legível.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7444,
+    "output_tokens": 311,
+    "stop_reason": "end_turn"
+  }
+}

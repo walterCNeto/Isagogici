@@ -1,0 +1,107 @@
+```json
+{
+  "page": 71,
+  "page_type": "mixed",
+  "latin": "LIBER PRIMVS.\nCANON SECVNDVS.\nDato anno Iudaico, characterem neomeniae Nisan Rab Adda invenire.\n\nAccipe ex Tabulae secundae parte anteriore characteres congruentes millenarijs, centenarijs, denarijs, et annis expansis praeteritis: et operare per doctrinam Canonis primi Capitis primi. Collecto tempore adde per Regulam perpetuam Radicem 4.0.0.0, ut ex subiecto Diagrammate constat. Sit vero annus Iudaicus propositus 5365.\n\n5000 | 4 |  2 | 717 | 68\n 300 | 3 |  1 | 129 | 36\n  60 | 4 | 19 | 457 | 68\n   4 | 4 | 23 | 750 | 40\n-----------------------------\n5364 | 2 | 22 | 975 | 60\n     | 4 |  0 |   0 |  0  Radix\n-----------------------------\n     | 6 | 22 | 975 | 60\n\nColliguntur 6.22.975.50. Hoc est: feria sexta, horae 22, Scrup. 975, Momenta 60. Nam per eandem doctrinam Can. I Cap. I, colliguntur Momenta 212, hoc est bis 76, & supersunt 60. Bis 76, id est duo scrupula, cum reliquis Scrupulis componunt scrup. 2055, hoc est semel 1080, quae est hora una, & supersunt scrupula 975. Hora una cum reliquis composita fiunt horae 46, hoc est semel 24, vel unus dies, & supersunt horae 22. Dies unus cum reliquis fiunt dies 16. Hoc est bis septem, & duo. Abiectis bis septem, remanet feria secunda. Cum 4.0.0.0 Radice habemus characterem neomeniae Nisan Rab Adda in anno Iudaico proposito 5365, nempe feriam sextam, hor. 22.975.50. Aliter, & sine ullo labore. Ab annis Iudaicis propositis 5365 abijce numerum proxime minorem in Tabula Sexta cyclorum collectorum: nempe numerum 5109. A residuo 256, aufer rursus numerum proxime minorem 240 in fronte Tabulae primae. Remanent 16, quae a latere Tabulae sub numero frontali 240, dant in cella communi feriam 6, ut antea.\n\nCANON TERTIVS.\nIn dato anno Iudaico, proegesin Hipparcheam scire in diebus Iulianis.\n\nEx eiusdem Tabulae secundae parte posteriore collige omnes numeros congruentes millenarijs, centenarijs, denarijs, & annis praeteritis. & operare ut supra. Sit propositus idem annus Iudaicus 5365.\n\n5000 | 15 | 21 | 362 |  8\n 300 |  0 | 22 | 950 | 40\n  60 |  0 |  4 | 622 |  8\n   4 |  0 |  0 | 329 | 36\n-----------------------------\n5364 | 17 |  1 | 104 | 16\n\nColliguntur dies proegeseos Hipparcheae 17, cum hora 1, scrup. 104.16. Aufer 17 dies a prisca epocha Iuliana neomeniae Nisan, quae est 2 April. in Kalendario, nempe nocte, quae antecessit secundam Aprilis, unde Iudaice secunda Aprilis incipit. Hoc est, triginta duobus diebus a Kal. Martij, de quibus deductis 17 diebus proegeseos Hipparcheae, remanet dies 15 Martij epocha neomeniae hodierni Nisan Rabbi Adda, quam in usu habent Palaestini Iudaei, feria 6, ut & supra collectum est: quae quidem feria incipiet hora prima noctis post 14 Martij, anno Christi sequente 1605.\n\nSCHOLION. Annus hodiernus Iudaicus init a neomenia Tisri. Sed annus Rab Adda init a Nisan sequenti. Itaque hoc anno Christi 1604, inibit annus Iudaicus Rabbi Hillel a Tisri: sed annus Rabbi Adda a Nisan anni Christi 1605.\n\nCANON QVARTVS.\nDato anno Iudaico, Tekupham Tisri Rab Adda invenire.\n\nAnnorum praeteritorum chracterismis ex Tabula secunda collectis, per doctrinam superiorem Canonis secundi, adijce ex perpetua Regula Radicem 3.9.41.14.\nEsto propositus annus Iudaicus 5365, cuius Tekupham Tisri scire desidero. Annorum praeteritorum 5364 character est 2.22.975.60, per antecedentem doctrinam Canonis secundi. Adiectis ex perpetua Regula 3.9.41.14, consurgit Tekupha Tisri Rab Adda 6.7.1016.74, feria sexta, hora una, scrup. 1016.74 post mediam noctem.\n\nCANON QVINTVS.\nDato anno Iudaico, quamvis Tekupham invenire.\n\nTekuphae Tisri per proximum Canonem inventae adde characterem unius Tekuphae ex Tabula sexta. Prodibit Tekupha Tebeth. Adde charactere duarum. Prodibit Tekupha Nisan. Denique\nD ij\nque",
+  "pt": "LIVRO PRIMEIRO.\nCÂNONE SEGUNDO.\nDado um ano judaico, encontrar o *character* da *neomenia* de Nisan de Rab Adda.\n\nTome da parte anterior da Tábua segunda os *characteres* correspondentes aos milhares, centenas, dezenas e anos expandidos passados; e opere segundo a doutrina do Cânone primeiro do Capítulo primeiro. Reunido o tempo, acrescente, pela Regra perpétua, a Raiz 4.0.0.0, como consta do Diagrama abaixo. Seja o ano judaico proposto 5365.\n\n[Tabela de cálculo: ver tables]\n\nReúnem-se 6.22.975.50. Isto é: feria sexta, hora 22, escrúpulos 975, momentos 60. Pois, pela mesma doutrina do Cânone I, Capítulo I, reúnem-se 212 momentos, isto é, duas vezes 76, e sobram 60. Duas vezes 76, isto é, dois escrúpulos, juntamente com os demais escrúpulos compõem 2055 escrúpulos, isto é, uma vez 1080 — que é uma hora — e sobram 975 escrúpulos. Uma hora junto com as demais perfaz 46 horas, isto é, uma vez 24, ou um dia, e sobram 22 horas. Um dia com os demais perfaz 16 dias. Isto é, duas vezes sete e dois. Subtraindo duas vezes sete, resta a feria segunda. Com a Raiz 4.0.0.0, temos o *character* da *neomenia* de Nisan de Rab Adda no ano judaico proposto 5365, a saber: feria sexta, hora 22.975.50. De outro modo, e sem qualquer trabalho: dos anos judaicos propostos 5365 subtraia o número imediatamente menor na Tábua Sexta dos ciclos reunidos, a saber, o número 5109. Do resíduo 256, subtraia novamente o número imediatamente menor 240, no topo da Tábua primeira. Restam 16, que, ao lado da Tábua, sob o número frontal 240, dão na cela comum feria 6, como antes.\n\nCÂNONE TERCEIRO.\nDado um ano judaico, conhecer a *proegesis* hipárquica em dias julianos.\n\nDa parte posterior da mesma Tábua segunda colha todos os números correspondentes aos milhares, centenas, dezenas e anos passados, e opere como acima. Seja proposto o mesmo ano judaico 5365.\n\n[Tabela de cálculo: ver tables]\n\nReúnem-se 17 dias da *proegesis* hipárquica, com 1 hora, escrúpulos 104.16. Subtraia os 17 dias da antiga *epocha* juliana da *neomenia* de Nisan, que é 2 de Abril no Calendário — a saber, na noite que precedeu o segundo de Abril, donde, segundo o costume judaico, o segundo de Abril começa. Isto é, trinta e dois dias contados das Calendas de Março; dos quais, deduzidos os 17 dias da *proegesis* hipárquica, resta o dia 15 de Março como *epocha* da *neomenia* do atual Nisan de Rabbi Adda, a qual usam os judeus palestinos, feria 6, como também acima foi reunido: a qual feria começará na hora primeira da noite seguinte a 14 de Março, no ano de Cristo seguinte de 1605.\n\nESCÓLIO. O ano judaico atual começa pela *neomenia* de Tisri. Mas o ano de Rab Adda começa pela Nisan seguinte. Por isso, neste ano de Cristo 1604, começará o ano judaico de Rabbi Hillel por Tisri; mas o ano de Rabbi Adda por Nisan do ano de Cristo 1605.\n\nCÂNONE QUARTO.\nDado um ano judaico, encontrar a *Tekupha* de Tisri de Rab Adda.\n\nReunidos os *characterismi* dos anos passados pela Tábua segunda, segundo a doutrina anterior do Cânone segundo, acrescente, pela Regra perpétua, a Raiz 3.9.41.14.\nSeja proposto o ano judaico 5365, cuja *Tekupha* de Tisri desejo conhecer. O *character* dos 5364 anos passados é 2.22.975.60, pela doutrina precedente do Cânone segundo. Acrescentados 3.9.41.14 pela Regra perpétua, resulta a *Tekupha* de Tisri de Rab Adda 6.7.1016.74: feria sexta, hora primeira, escrúpulos 1016.74 depois da meia-noite.\n\nCÂNONE QUINTO.\nDado um ano judaico, encontrar uma *Tekupha* qualquer.\n\nÀ *Tekupha* de Tisri encontrada pelo Cânone precedente acrescente o *character* de uma *Tekupha* da Tábua sexta. Resultará a *Tekupha* de Tebeth. Acrescente o *character* de duas. Resultará a *Tekupha* de Nisan. Finalmente\nD ij\n[continua na página seguinte com] que",
+  "en": "BOOK ONE.\nSECOND CANON.\nGiven a Jewish year, to find the *character* of the *neomenia* of Nisan of Rab Adda.\n\nTake from the front part of the second Table the *characters* corresponding to thousands, hundreds, tens, and the elapsed expanded years; and operate by the doctrine of the first Canon of the first Chapter. To the collected time add, by the perpetual Rule, the Radix 4.0.0.0, as shown in the Diagram below. Let the proposed Jewish year be 5365.\n\n[Calculation table: see tables]\n\nThe sum is 6.22.975.50. That is: feria sexta, hour 22, scruples 975, moments 60. For by the same doctrine of Canon I, Chapter I, 212 moments are gathered, that is, twice 76 with 60 remaining. Twice 76, that is, two scruples, together with the remaining scruples make 2055 scruples, that is, once 1080 — which is one hour — and 975 scruples remain. One hour together with the rest makes 46 hours, that is, once 24, or one day, with 22 hours remaining. One day with the rest makes 16 days, that is, twice seven and two. Subtracting twice seven, feria secunda remains. With the Radix 4.0.0.0 we have the *character* of the *neomenia* of Nisan of Rab Adda in the proposed Jewish year 5365, namely feria sexta, hour 22.975.50. Otherwise, and without any labor: from the proposed Jewish years 5365 subtract the next lesser number in the Sixth Table of collected cycles, namely the number 5109. From the remainder 256 subtract again the next lesser number 240 at the top of the first Table. There remain 16, which at the side of the Table, under the head number 240, give in the common cell feria 6, as before.\n\nTHIRD CANON.\nGiven a Jewish year, to know the Hipparchean *proegesis* in Julian days.\n\nFrom the back part of the same second Table gather all the numbers corresponding to thousands, hundreds, tens, and elapsed years, and operate as above. Let the same Jewish year 5365 be proposed.\n\n[Calculation table: see tables]\n\nThere are gathered 17 days of the Hipparchean *proegesis*, with 1 hour, 104.16 scruples. Subtract 17 days from the ancient Julian *epocha* of the *neomenia* of Nisan, which is April 2 in the Calendar, namely in the night preceding the second of April, whence by Jewish reckoning April 2 begins. That is, thirty-two days from the Kalends of March; from which, deducting the 17 days of the Hipparchean *proegesis*, March 15 remains as the *epocha* of the *neomenia* of today's Nisan of Rabbi Adda, which the Palestinian Jews use, on feria 6, as was also gathered above: which feria will begin at the first hour of the night after March 14, in the following year of Christ 1605.\n\nSCHOLION. The current Jewish year begins from the *neomenia* of Tisri. But Rab Adda's year begins from the following Nisan. Therefore in this year of Christ 1604 Rabbi Hillel's Jewish year will begin from Tisri; but Rabbi Adda's year from Nisan of the year of Christ 1605.\n\nFOURTH CANON.\nGiven a Jewish year, to find the *Tekupha* of Tisri of Rab Adda.\n\nThe *characterismi* of the elapsed years having been gathered from the second Table, by the preceding doctrine of the second Canon, add by the perpetual Rule the Radix 3.9.41.14.\nLet the Jewish year 5365 be proposed, whose *Tekupha* of Tisri I desire to know. The *character* of the 5364 elapsed years is 2.22.975.60, by the preceding doctrine of the second Canon. With 3.9.41.14 added by the perpetual Rule, the *Tekupha* of Tisri of Rab Adda comes out 6.7.1016.74: feria sexta, hour one, 1016.74 scruples after midnight.\n\nFIFTH CANON.\nGiven a Jewish year, to find any *Tekupha*.\n\nTo the *Tekupha* of Tisri found by the preceding Canon add the *character* of one *Tekupha* from the sixth Table. The *Tekupha* of Tebeth will result. Add the *character* of two. The *Tekupha* of Nisan will result. Finally\nD ij\n[catchword] que",
+  "tables": [
+    {
+      "caption_pt": "Cálculo do *character* da *neomenia* de Nisan de Rab Adda para o ano judaico 5365 (Cânone II)",
+      "caption_en": "Calculation of the *character* of the *neomenia* of Nisan of Rab Adda for Jewish year 5365 (Canon II)",
+      "markdown": "| Anos | feria | horae | scrupula | momenta |\n|------|-------|-------|----------|---------|\n| 5000 | 4 | 2 | 717 | 68 |\n| 300  | 3 | 1 | 129 | 36 |\n| 60   | 4 | 19 | 457 | 68 |\n| 4    | 4 | 23 | 750 | 40 |\n| **5364 (soma)** | 2 | 22 | 975 | 60 |\n| Radix | 4 | 0 | 0 | 0 |\n| **Total** | 6 | 22 | 975 | 60 |"
+    },
+    {
+      "caption_pt": "Cálculo da *proegesis* hipárquica em dias julianos para o ano judaico 5365 (Cânone III)",
+      "caption_en": "Calculation of the Hipparchean *proegesis* in Julian days for Jewish year 5365 (Canon III)",
+      "markdown": "| Anos | dies | horae | scrupula | momenta |\n|------|------|-------|----------|---------|\n| 5000 | 15 | 21 | 362 | 8 |\n| 300  | 0 | 22 | 950 | 40 |\n| 60   | 0 | 4 | 622 | 8 |\n| 4    | 0 | 0 | 329 | 36 |\n| **5364 (soma)** | 17 | 1 | 104 | 16 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "character neomeniae",
+      "definition_pt": "Conjunto de quatro números (feria, horae, scrupula, momenta) que identifica o instante da *neomenia* (lua nova) num dado ano segundo o cálculo de Rab Adda.",
+      "definition_en": "Set of four numbers (feria, horae, scrupula, momenta) identifying the instant of the *neomenia* (new moon) in a given year according to Rab Adda's reckoning."
+    },
+    {
+      "term": "Radix (Rab Adda)",
+      "definition_pt": "Constante 4.0.0.0 a ser somada pela Regra perpétua para obter o *character* da *neomenia* de Nisan no sistema de Rab Adda.",
+      "definition_en": "Constant 4.0.0.0 to be added by the perpetual Rule in order to obtain the *character* of the *neomenia* of Nisan in Rab Adda's system."
+    },
+    {
+      "term": "proegesis Hipparchea",
+      "definition_pt": "Anteposição (precessão) hipárquica: número de dias julianos a serem subtraídos da *epocha* juliana antiga da *neomenia* de Nisan para obter a data juliana corrigida.",
+      "definition_en": "Hipparchean anteposition (precession): number of Julian days to be subtracted from the ancient Julian *epocha* of the *neomenia* of Nisan to obtain the corrected Julian date."
+    },
+    {
+      "term": "Tekupha Tisri (Rab Adda)",
+      "definition_pt": "Equinócio/solstício astronômico ligado a Tisri segundo Rab Adda; obtém-se somando ao *character* dos anos passados a Raiz perpétua 3.9.41.14.",
+      "definition_en": "Astronomical equinox/solstice associated with Tisri according to Rab Adda; obtained by adding to the *character* of elapsed years the perpetual Radix 3.9.41.14."
+    },
+    {
+      "term": "Tekupha Tebeth, Nisan, Tammuz",
+      "definition_pt": "Demais *Tekuphoth* do ano, obtidas somando à *Tekupha* de Tisri os *characteres* sucessivos da Tábua sexta (uma para Tebeth, duas para Nisan, etc.).",
+      "definition_en": "The remaining *Tekuphoth* of the year, obtained by adding to the *Tekupha* of Tisri the successive *characters* from the sixth Table (one for Tebeth, two for Nisan, etc.)."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Liber I, Canon I, Capitulum I",
+      "context": "operare per doctrinam Canonis primi Capitis primi"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula secunda (anterior pars)",
+      "context": "Accipe ex Tabulae secundae parte anteriore characteres congruentes"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula sexta cyclorum collectorum",
+      "context": "abijce numerum proxime minorem in Tabula Sexta cyclorum collectorum"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula prima",
+      "context": "aufer rursus numerum proxime minorem 240 in fronte Tabulae primae"
+    },
+    {
+      "type": "internal",
+      "target": "Liber I, Canon II (supra)",
+      "context": "per antecedentem doctrinam Canonis secundi"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula sexta (Tekupharum)",
+      "context": "adde characterem unius Tekuphae ex Tabula sexta"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "*Neomenia* (lua nova) de Nisan de Rab Adda no ano judaico 5365: feria sexta, hora 22, escrúpulos 975, momentos 50 (resultado do cálculo)",
+      "historical_date_as_cited": "annus Iudaicus 5365 = annus Christi 1605, 14/15 Martii (epocha 15 Martij, feria 6, hora 1 noctis post 14 Martij)",
+      "ancient_source": "Rab Adda (cálculo judaico)"
+    },
+    {
+      "type": "other",
+      "description": "*Tekupha* de Tisri de Rab Adda no ano 5365: feria sexta, hora 1, escrúpulos 1016.74 após meia-noite",
+      "historical_date_as_cited": "annus Iudaicus 5365",
+      "ancient_source": "Rab Adda"
+    },
+    {
+      "type": "other",
+      "description": "*Proegesis* hipárquica de 17 dias, 1 hora, 104.16 escrúpulos para o ano 5365 — correção entre a antiga *epocha* juliana de Nisan (2 de Abril) e a data atual (15 de Março)",
+      "historical_date_as_cited": "annus Iudaicus 5365",
+      "ancient_source": "Hipparcho (proegesis Hipparchea)"
+    }
+  ],
+  "uncertainty_flags": [
+    "No texto corrido aparece '975.50' como momenta finais, mas a tabela mostra '975 60' — possível erratum tipográfico do original; mantive ambas leituras conforme o impresso.",
+    "A palavra grega 'προηγησιν / προηγησεως' foi transliterada como 'proegesin / proegeseos' no latim normalizado.",
+    "O número de página no canto superior é parcialmente legível (parece '59' ou '39'); usei o número 71 fornecido pelo usuário."
+  ],
+  "notes": "Página técnica do Livro I, contendo os Cânones II–V do método de cálculo das *neomeniae* e *Tekuphoth* segundo Rab Adda (em contraste com Rabbi Hillel, mencionado no Escólio). O exemplo trabalhado é o ano judaico 5365 = ano cristão 1604/1605. O sistema de Scaliger usa quatro componentes — feria (dia da semana), horae, scrupula (1080 escrúpulos = 1 hora, sistema rabínico tradicional do *chelek*), e momenta (76 momentos = 1 escrúpulo, subdivisão adicional). O Escólio é cronologicamente importante: distingue claramente o início do ano civil judaico (Tisri) do início do ano de Rab Adda (Nisan), uma distinção que tem implicações para a sincronização com o calendário cristão. A página termina com a palavra-guia 'que' (= 'denique...' continuando na página seguinte) e a assinatura D ij."
+}
+```

@@ -1,0 +1,93 @@
+{
+  "page": 69,
+  "page_type": "table",
+  "latin": "LIBER PRIMVS.\nTABVLA SECVNDA CHARACTERISMI ANNI HIPPARCHI ET EXCESSVS IVLIANI.\nPARS PRIOR.\nAnni Iudaici. | Character Anni (Feria, Hor., Scrup. Iud., Mom.) | Excess. Anni Iuliani (Dies, Hor., Scrup. Iud., Mom.)\nPARS POSTERIOR.\nAnni Iudaici. | Character Anni (Feria, Hor., Scrup. Iud., Mom.) | Excess. Anni Iuliani (Dies, Hor., Scrup. Iud., Mom.)\nTABVLA SEXTA CYCLORVM SOLIS COLLECTORVM.\nTABVLA TERTIA hypoleipseos Hipparchi.\nTABVLA QVARTA CYCLORVM hypoleipseos.\nTabula septima Tekupharum.\n7. 7. 519. 31\n7. 14. 1038. 62\n7. 22. 478. 17\n1. 5. 997. 48\n3. 9. 41. 14 Radix.",
+  "pt": "LIVRO PRIMEIRO.\nTABELA SEGUNDA DO CARACTERISMO DO ANO DE HIPARCO E DO EXCESSO JULIANO.\nPARTE ANTERIOR. — PARTE POSTERIOR.\nTABELA SEXTA DOS CICLOS SOLARES COLETIVOS.\nTABELA TERCEIRA da *hypoleipsis* de Hiparco.\nTABELA QUARTA dos ciclos da *hypoleipsis*.\nTabela sétima das *Tekuphoth*.\nRaiz: 3. 9. 41. 14.",
+  "en": "BOOK ONE.\nSECOND TABLE OF THE CHARACTERISM OF THE HIPPARCHIC YEAR AND OF THE JULIAN EXCESS.\nFORMER PART. — LATTER PART.\nSIXTH TABLE OF COLLECTED SOLAR CYCLES.\nTHIRD TABLE of the *hypoleipsis* of Hipparchus.\nFOURTH TABLE of the cycles of *hypoleipsis*.\nSeventh table of the *Tekuphoth*.\nRoot: 3. 9. 41. 14.",
+  "tables": [
+    {
+      "caption_pt": "Tabela Segunda — Caracterismo do ano de Hiparco e excesso juliano (Parte anterior, anos judaicos 1–90)",
+      "caption_en": "Second Table — Characterism of the Hipparchic year and Julian excess (Former part, Jewish years 1–90)",
+      "markdown": "| Anni Iudaici | Feria | Hor. | Scrup. Iud. | Mom. | Dies | Hor. | Scrup. Iud. | Mom. |\n|---|---|---|---|---|---|---|---|---|\n| 1 | 1 | 5 | 997 | 48 | 0 | 0 | 82 | 28 |\n| 2 | 2 | 11 | 915 | 20 | 0 | 0 | 164 | 56 |\n| 3 | 3 | 17 | 832 | 68 | 0 | 0 | 247 | 8 |\n| 4 | 4 | 23 | 750 | 40 | 0 | 0 | 329 | 36 |\n| 5 | 6 | 5 | 668 | 12 | 0 | 0 | 411 | 64 |\n| 6 | 7 | 11 | 585 | 60 | 0 | 0 | 494 | 16 |\n| 7 | 1 | 17 | 503 | 32 | 0 | 0 | 576 | 44 |\n| 8 | 2 | 23 | 421 | 4 | 0 | 0 | 658 | 72 |\n| 9 | 4 | 5 | 338 | 52 | 0 | 0 | 741 | 24 |\n| 10 | 5 | 11 | 256 | 24 | 0 | 0 | 823 | 52 |\n| 20 | 3 | 22 | 512 | 48 | 0 | 1 | 567 | 28 |\n| 30 | 2 | 9 | 768 | 72 | 0 | 2 | 311 | 4 |\n| 40 | 7 | 20 | 1025 | 20 | 0 | 3 | 54 | 56 |\n| 50 | 6 | 8 | 201 | 44 | 0 | 3 | 878 | 32 |\n| 60 | 4 | 19 | 457 | 68 | 0 | 4 | 622 | 8 |\n| 70 | 3 | 6 | 714 | 16 | 0 | 5 | 365 | 60 |\n| 80 | 1 | 17 | 970 | 40 | 0 | 6 | 109 | 36 |\n| 90 | 7 | 5 | 146 | 64 | 0 | 6 | 933 | 12 |"
+    },
+    {
+      "caption_pt": "Tabela Segunda — Parte posterior (anos judaicos 100–9000)",
+      "caption_en": "Second Table — Latter part (Jewish years 100–9000)",
+      "markdown": "| Anni Iudaici | Feria | Hor. | Scrup. Iud. | Mom. | Dies | Hor. | Scrup. Iud. | Mom. |\n|---|---|---|---|---|---|---|---|---|\n| 100 | 5 | 16 | 403 | 12 | 0 | 7 | 676 | 64 |\n| 200 | 4 | 8 | 806 | 24 | 0 | 15 | 273 | 52 |\n| 300 | 3 | 1 | 129 | 36 | 0 | 22 | 950 | 40 |\n| 400 | 1 | 17 | 532 | 48 | 1 | 6 | 547 | 28 |\n| 500 | 7 | 9 | 935 | 60 | 1 | 14 | 144 | 16 |\n| 600 | 6 | 2 | 258 | 72 | 1 | 21 | 821 | 4 |\n| 700 | 4 | 18 | 662 | 8 | 2 | 5 | 417 | 68 |\n| 800 | 3 | 10 | 1065 | 20 | 2 | 13 | 14 | 56 |\n| 900 | 2 | 3 | 388 | 32 | 2 | 20 | 691 | 44 |\n| 1000 | 7 | 19 | 791 | 44 | 3 | 4 | 288 | 32 |\n| 2000 | 1 | 15 | 503 | 12 | 6 | 8 | 576 | 64 |\n| 3000 | 2 | 11 | 214 | 56 | 9 | 12 | 865 | 20 |\n| 4000 | 3 | 6 | 1003 | 24 | 12 | 17 | 73 | 52 |\n| 5000 | 4 | 2 | 717 | 68 | 15 | 21 | 362 | 8 |\n| 6000 | 4 | 22 | 429 | 36 | 19 | 1 | 650 | 40 |\n| 7000 | 5 | 18 | 141 | 4 | 22 | 5 | 938 | 72 |\n| 8000 | 6 | 13 | 932 | 48 | 25 | 10 | 147 | 28 |\n| 9000 | 7 | 9 | 643 | 16 | 28 | 14 | 436 | 60 |"
+    },
+    {
+      "caption_pt": "Tabela Sexta — Cyclos Solis collectorum (ciclos solares coletivos)",
+      "caption_en": "Sixth Table — Collected Solar Cycles (*Cyclus Solis*)",
+      "markdown": "| Valores |\n|---|\n| 393 |\n| 786 |\n| 1179 |\n| 1572 |\n| 1965 |\n| 2358 |\n| 2751 |\n| 3144 |\n| 3537 |\n| 3930 |\n| 4323 |\n| 4716 |\n| 5109 |\n| 5502 |\n| 5895 |\n| 6288 |\n| 6681 |\n| 7074 |"
+    },
+    {
+      "caption_pt": "Tabela Terceira — *hypoleipsis* de Hiparco (anos judaicos)",
+      "caption_en": "Third Table — *hypoleipsis* of Hipparchus (Jewish years)",
+      "markdown": "| Anni Iudaici | Dies | Hor. | Scrup. Iud. | Mom. | Anni Iudaici | Dies | Hor. | Scrup. Iud. | Mom. |\n|---|---|---|---|---|---|---|---|---|---|\n| 1 | 0 | 0 | 111 | 48 | 100 | 0 | 10 | 363 | 12 |\n| 2 | 0 | 0 | 223 | 20 | 200 | 0 | 20 | 726 | 24 |\n| 3 | 0 | 0 | 334 | 68 | 300 | 1 | 7 | 9 | 36 |\n| 4 | 0 | 0 | 446 | 40 | 400 | 1 | 17 | 372 | 48 |\n| 5 | 0 | 0 | 558 | 12 | 500 | 2 | 3 | 735 | 60 |\n| 6 | 0 | 0 | 669 | 60 | 600 | 2 | 14 | 18 | 72 |\n| 7 | 0 | 0 | 781 | 32 | 700 | 3 | 0 | 382 | 8 |\n| 8 | 0 | 0 | 893 | 4 | 800 | 3 | 10 | 745 | 20 |\n| 9 | 0 | 0 | 1004 | 52 | 900 | 3 | 21 | 28 | 32 |\n| 10 | 0 | 1 | 36 | 24 | 1000 | 4 | 7 | 391 | 44 |\n| 20 | 0 | 2 | 72 | 48 | 2000 | 8 | 14 | 783 | 12 |\n| 30 | 0 | 3 | 108 | 72 | 3000 | 12 | 22 | 94 | 56 |\n| 40 | 0 | 4 | 145 | 20 | 4000 | 17 | 5 | 486 | 24 |\n| 50 | 0 | 5 | 181 | 44 | 5000 | 21 | 12 | 877 | 68 |\n| 60 | 0 | 6 | 217 | 68 | 6000 | 25 | 20 | 189 | 36 |\n| 70 | 0 | 7 | 254 | 16 | 7000 | 30 | 3 | 581 | 4 |\n| 80 | 0 | 8 | 290 | 40 | 8000 | 34 | 10 | 972 | 48 |\n| 90 | 0 | 9 | 326 | 64 | 9000 | 38 | 18 | 284 | 16 |"
+    },
+    {
+      "caption_pt": "Tabela Quarta — Ciclos da *hypoleipsis*",
+      "caption_en": "Fourth Table — Cycles of *hypoleipsis*",
+      "markdown": "| Cycli collecti | Dies hypoleipseos | Cycli collecti | Dies hypoleipseos |\n|---|---|---|---|\n| 233 | 1 | 3728 | 16 |\n| 466 | 2 | 3961 | 17 |\n| 699 | 3 | 4194 | 18 |\n| 932 | 4 | 4427 | 19 |\n| 1165 | 5 | 4660 | 20 |\n| 1398 | 6 | 4893 | 21 |\n| 1631 | 7 | 5126 | 22 |\n| 1864 | 8 | 5359 | 23 |\n| 2097 | 9 | 5592 | 24 |\n| 2330 | 10 | 5825 | 25 |\n| 2563 | 11 | 6058 | 26 |\n| 2796 | 12 | 6291 | 27 |\n| 3029 | 13 | 6524 | 28 |\n| 3262 | 14 | 6757 | 29 |\n| 3495 | 15 | 6990 | 30 |"
+    },
+    {
+      "caption_pt": "Tabela Sétima — *Tekuphoth* (estações)",
+      "caption_en": "Seventh Table — *Tekuphoth* (seasons)",
+      "markdown": "| Tekuphah | Dies | Hor. | Scrup. | Mom. |\n|---|---|---|---|---|\n| I | 7 | 7 | 519 | 31 |\n| II | 7 | 14 | 1038 | 62 |\n| III | 7 | 22 | 478 | 17 |\n| IV | 1 | 5 | 997 | 48 |\n| Radix | 3 | 9 | 41 | 14 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Character Anni",
+      "definition_pt": "O 'caracterismo' de um ano é o conjunto de coordenadas (feria, hora, *scrupulum* judaico e momento) que identifica unicamente o início (molad) daquele ano no calendário hebraico segundo o cômputo de Hiparco.",
+      "definition_en": "The 'characterism' of a year is the set of coordinates (feria, hour, Jewish *scrupulum*, and momentum) that uniquely identifies the beginning (molad) of that year in the Hebrew calendar according to Hipparchus's reckoning."
+    },
+    {
+      "term": "Excessus Anni Iuliani",
+      "definition_pt": "O 'excesso do ano juliano' é a diferença acumulada entre o ano juliano (365d 6h) e o ano hebraico/lunissolar de Hiparco, expressa em dias, horas, *scrupula* e momentos.",
+      "definition_en": "The 'excess of the Julian year' is the accumulated difference between the Julian year (365d 6h) and the Hebrew/Hipparchic lunisolar year, expressed in days, hours, *scrupula*, and moments."
+    },
+    {
+      "term": "hypoleipsis (ὑπόλειψις) Hipparchi",
+      "definition_pt": "*Hypoleipsis* (literalmente 'falta', 'subtração') de Hiparco: a quantidade pela qual o cômputo lunar de Hiparco fica aquém de um valor de referência num período dado; aplicada aos ciclos lunares para correção a longo prazo.",
+      "definition_en": "*Hypoleipsis* (literally 'shortfall', 'subtraction') of Hipparchus: the amount by which Hipparchus's lunar reckoning falls short of a reference value over a given period; applied to lunar cycles for long-term correction."
+    },
+    {
+      "term": "Tekuphah (Tekupharum)",
+      "definition_pt": "*Tekuphah* (pl. *Tekuphoth*): cada um dos quatro pontos cardeais do ano judaico — equinócios e solstícios — usados para ajustar o calendário lunissolar; tradicionalmente atribuídos a Samuel ou a R. Adda.",
+      "definition_en": "*Tekuphah* (pl. *Tekuphoth*): each of the four cardinal points of the Jewish year — equinoxes and solstices — used to adjust the lunisolar calendar; traditionally ascribed to Samuel or R. Adda."
+    },
+    {
+      "term": "Cyclus Solis collectus",
+      "definition_pt": "Múltiplo coletivo do *Cyclus Solis* (ciclo solar de 28 anos), tabulado para facilitar reduções de grandes períodos a anos correntes.",
+      "definition_en": "A collected multiple of the *Cyclus Solis* (28-year solar cycle), tabulated to facilitate the reduction of long periods to current years."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "supra liber I (capítulos sobre o cômputo hebraico e a divisão da hora em 1080 *scrupula*)",
+      "context": "As unidades das tabelas (Feria, Hor., Scrup. Iud., Mom.) pressupõem as definições dadas anteriormente no Livro I."
+    },
+    {
+      "type": "external",
+      "target": "Hiparco (mediada por Ptolomeu, Almagesto IV)",
+      "context": "Character Anni Hipparchi e hypoleipsis Hipparchi remetem ao mês sinódico hipárquico (29d 12h 793 *halakim*)."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página inteiramente tabular: leitura de alguns dígitos no scan é ambígua, particularmente nas colunas mais à direita (Mom.) onde o impresso está manchado — verificados contra o padrão aritmético da progressão sempre que possível.",
+    "Na tabela posterior, linha 800: o valor 'Scrup. Iud.' lê-se '1065' no scan, anomalamente acima de 1080; pode ser erro tipográfico do original ou leitura incorreta — preservado tal como aparece.",
+    "Na Tabula Tertia, ano 6: '669 60' poderia ser '669 64' seguindo a progressão regular de +111;48 — preservado como aparece no impresso.",
+    "Cabeçalho 'Tabula septima Tekupharum': os quatro valores tabelados (7.7.519.31; 7.14.1038.62; 7.22.478.17; 1.5.997.48) correspondem aos quatro intervalos trimestrais entre *Tekuphoth* mais a *Radix*; interpretação contextual."
+  ],
+  "notes": "Página 69 (numerada '37' ou '57' no canto superior direito — leitura ambígua do scan; assumido '69' conforme indicação do usuário) contém exclusivamente seis tabelas auxiliares do Livro I: a Tabula Secunda do *Character Anni Hipparchi* dividida em Pars Prior (anos 1–90) e Pars Posterior (anos 100–9000), com as colunas correlatas do *Excessus Anni Iuliani*; a Tabula Sexta dos *Cycli Solis collecti* (múltiplos de 393, isto é, 14×28+1, valor relacionado ao ciclo solar dentro do Período Juliano); a Tabula Tertia da *hypoleipsis* de Hiparco (acréscimo do mês hipárquico sobre o juliano-médio); a Tabula Quarta dos ciclos coletivos da *hypoleipsis* (passos de 233 ciclos = 1 dia de defasagem); e a Tabula Septima das *Tekuphoth* com a *Radix*. Os valores estão expressos no sistema judaico de subdivisão da hora em 1080 *scrupula* (ḥalakim), cada *scrupulum* em 76 *momenta* — sistema fundamental que Scaliger adota como herança do cômputo de Hiparco mediado pelos sábios judeus. As três últimas linhas da Tabula Sexta (6288, 6681, 7074) parecem indicar a aproximação aos limites do Período Juliano de 7980 anos. A letra 'D' no rodapé é assinatura de caderno tipográfico (signature).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 6814,
+    "stop_reason": "end_turn"
+  }
+}

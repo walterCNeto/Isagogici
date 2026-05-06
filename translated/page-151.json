@@ -1,0 +1,66 @@
+{
+  "page": 151,
+  "page_type": "mixed",
+  "latin": "LIBER PRIMUS.\n\nTABULA NONA.\nCYCLUS PLINTHII.\n\nTABULA DECIMA.\n\n[Tabula Nona: Linea cycli | ΘΕΟΙ ΣΕΒΑΣΤΟΙ | Plinthion Augustor. | Evangelistae | Plinthion annor. Gratiae]\n\n[Tabula Decima: Numerus Aureus | Cyclus Aethiop. | Epactae | Matque]\n\nDEFINITIONES.\n\nI. ἡμέραι Θεῶν est quadriennium, sive lustrum Iulianum in annis Actiacis Aegyptiorum, cuius lustri anni singuli Deo alicui Aegyptiaco sunt cognomines.\n\nII. Dies Euangelistarum est quadriennium Iulianum annorum Gratiae aera Diocletianea, cuius quadriennii anni singuli uni ex quatuor Euangelistis sunt cognomines, primus Matthaeo, secundus Marco, &c.\n\nIII. Regulares dierum est character uniuscuiusque diei mensis in Kalendario designatus.\n\nIIII. Concurrentes est numerus dierum nunquam excedens septenarium, qui cum Regularibus compositi componunt feriam dierum.\n\nV. Plinthion est cyclus Concurrentium rediens in orbem, annorum XXVIII.\n\nVI. Matque est Epactarum aurei numeri residuum de XXX.\n\nALITER",
+  "pt": "LIVRO PRIMEIRO.\n\nTABELA NONA.\nCICLO DE PLINTHIO.\n\nTABELA DÉCIMA.\n\nDEFINIÇÕES.\n\nI. ἡμέραι Θεῶν (Dias dos Deuses) é o quadriênio, ou *lustrum Iulianum* nos anos Áciacos dos Egípcios, cujos anos singulares do lustro têm como cognome algum Deus egípcio.\n\nII. *Dies Euangelistarum* (Dias dos Evangelistas) é o quadriênio Juliano dos anos da Graça, na era Diocleciana, cujos anos singulares do quadriênio têm como cognome um dos quatro Evangelistas: o primeiro, Mateus; o segundo, Marcos, etc.\n\nIII. *Regulares dierum* é o caractere de cada dia do mês designado no Calendário.\n\nIIII. *Concurrentes* é o número de dias que nunca excede sete, o qual, somado aos *Regulares*, compõe a feira (dia da semana).\n\nV. *Plinthion* é o ciclo dos *Concurrentes* que retorna em órbita, de XXVIII anos.\n\nVI. *Matque* é o resíduo das Epactas do número áureo, de XXX.\n\nDE OUTRO MODO",
+  "en": "BOOK ONE.\n\nTABLE NINE.\nCYCLE OF PLINTHION.\n\nTABLE TEN.\n\nDEFINITIONS.\n\nI. ἡμέραι Θεῶν (Days of the Gods) is the quadrennium, or *lustrum Iulianum* in the Actiac years of the Egyptians, each of whose lustral years has as cognomen some Egyptian God.\n\nII. *Dies Euangelistarum* (Days of the Evangelists) is the Julian quadrennium of the years of Grace, in the Diocletianic era, each of whose quadrennial years has as cognomen one of the four Evangelists: the first, Matthew; the second, Mark, etc.\n\nIII. *Regulares dierum* is the character of each day of the month designated in the Kalendar.\n\nIIII. *Concurrentes* is the number of days never exceeding seven, which, when combined with the *Regulares*, compose the weekday (feria).\n\nV. *Plinthion* is the cycle of *Concurrentes* returning in its orbit, of XXVIII years.\n\nVI. *Matque* is the residue from XXX of the Epacts of the golden number.\n\nOTHERWISE",
+  "tables": [
+    {
+      "caption_pt": "Tabela Nona: Ciclo de Plinthion (28 anos), correlacionando linha do ciclo, Deuses Augustos egípcios (ΘΕΟΙ ΣΕΒΑΣΤΟΙ), Plinthion dos Augustos, Evangelistas, e Plinthion dos anos da Graça",
+      "caption_en": "Table Nine: Cycle of Plinthion (28 years), correlating cycle line, Egyptian Augustan Gods (ΘΕΟΙ ΣΕΒΑΣΤΟΙ), Plinthion of the Augusti, Evangelists, and Plinthion of the years of Grace",
+      "markdown": "| Linea cycli | ΘΕΟΙ ΣΕΒΑΣΤΟΙ | Plinthion Augustor. | Evangelistae | Plinthion annor. Gratiae |\n|---|---|---|---|---|\n| 1 | Σῶθις | 1 | Matthaeus | 3 |\n| 2 | Ἶσις | 2 | Marcus | 4 |\n| 3 | Ὄσιρις | 3 | Lucas | 5 |\n| 4 | Ὧρος | 5 | Iohannes | 7 |\n| 5 | Σῶθις | 6 | Matthaeus | 1 |\n| 6 | Ἶσις | 7 | Marcus | 2 |\n| 7 | Ὄσιρις | 1 | Lucas | 3 |\n| 8 | Ὧρος | 3 | Iohannes | 5 |\n| 9 | Σῶθις | 4 | Matthaeus | 6 |\n| 10 | Ἶσις | 5 | Marcus | 7 |\n| 11 | Ὄσιρις | 6 | Lucas | 1 |\n| 12 | Ὧρος | 1 | Iohannes | 3 |\n| 13 | Σῶθις | 2 | Matthaeus | 4 |\n| 14 | Ἶσις | 3 | Marcus | 5 |\n| 15 | Ὄσιρις | 4 | Lucas | 6 |\n| 16 | Ὧρος | 6 | Iohannes | 1 |\n| 17 | Σῶθις | 7 | Matthaeus | 2 |\n| 18 | Ἶσις | 1 | Marcus | 3 |\n| 19 | Ὄσιρις | 2 | Lucas | 4 |\n| 20 | Ὧρος | 4 | Iohannes | 6 |\n| 21 | Σῶθις | 5 | Matthaeus | 7 |\n| 22 | Ἶσις | 6 | Marcus | 1 |\n| 23 | Ὄσιρις | 7 | Lucas | 2 |\n| 24 | Ὧρος | 2 | Iohannes | 4 |\n| 25 | Σῶθις | 3 | Matthaeus | 5 |\n| 26 | Ἶσις | 4 | Marcus | 6 |\n| 27 | Ὄσιρις | 5 | Lucas | 7 |\n| 28 | Ὧρος | 7 | Iohannes | 2 |"
+    },
+    {
+      "caption_pt": "Tabela Décima: Correlação entre Numerus Aureus, Cyclus Aethiopicus, Epactas e Matque (resíduo)",
+      "caption_en": "Table Ten: Correlation between Golden Number, Ethiopic Cycle, Epacts, and Matque (residue)",
+      "markdown": "| Numerus Aureus | Cyclus Aethiop. | Epactae | Matque |\n|---|---|---|---|\n| 1 | 2 | 11 | 19 |\n| 2 | 3 | 22 | 8 |\n| 3 | 4 | 3 | 27 |\n| 4 | 5 | 14 | 16 |\n| 5 | 6 | 25 | 5 |\n| 6 | 7 | 6 | 24 |\n| 7 | 8 | 17 | 13 |\n| 8 | 9 | 28 | 2 |\n| 9 | 10 | 9 | 21 |\n| 10 | 11 | 20 | 10 |\n| 11 | 12 | 1 | 29 |\n| 12 | 13 | 12 | 18 |\n| 13 | 14 | 13 | 7 |\n| 14 | 15 | 4 | 26 |\n| 15 | 16 | 15 | 15 |\n| 16 | 17 | 26 | 4 |\n| 17 | 18 | 7 | 23 |\n| 18 | 19 | 18 | 12 |\n| 19 | 1 | * | * |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "ἡμέραι Θεῶν (Hemerai Theon / Dies Deorum)",
+      "definition_pt": "Quadriênio ou lustro Juliano nos anos Áciacos dos Egípcios, em que cada um dos quatro anos do lustro recebe o cognome de uma divindade egípcia (Sothis, Ísis, Osíris, Hórus).",
+      "definition_en": "Quadrennium or Julian lustrum in the Actiac years of the Egyptians, in which each of the four years of the lustrum receives the cognomen of an Egyptian deity (Sothis, Isis, Osiris, Horus)."
+    },
+    {
+      "term": "Dies Euangelistarum",
+      "definition_pt": "Quadriênio Juliano dos anos da Graça na era Diocleciana, em que cada um dos quatro anos recebe o cognome de um Evangelista, na ordem: Mateus, Marcos, Lucas, João.",
+      "definition_en": "Julian quadrennium of the years of Grace in the Diocletianic era, in which each of the four years receives the cognomen of an Evangelist, in the order: Matthew, Mark, Luke, John."
+    },
+    {
+      "term": "Regulares dierum",
+      "definition_pt": "Caractere numérico atribuído a cada dia do mês conforme designado no Calendário.",
+      "definition_en": "Numerical character assigned to each day of the month as designated in the Kalendar."
+    },
+    {
+      "term": "Concurrentes",
+      "definition_pt": "Número de dias nunca superior a sete que, somado aos *Regulares*, produz a feira (dia da semana).",
+      "definition_en": "Number of days never exceeding seven which, added to the *Regulares*, produces the weekday (feria)."
+    },
+    {
+      "term": "Plinthion",
+      "definition_pt": "Ciclo dos *Concurrentes* que retorna ao princípio (in orbem) ao fim de XXVIII anos; equivalente ao *Cyclus Solis*.",
+      "definition_en": "Cycle of the *Concurrentes* which returns to its beginning (in orbem) at the end of XXVIII years; equivalent to the *Cyclus Solis*."
+    },
+    {
+      "term": "Matque",
+      "definition_pt": "Resíduo das Epactas do número áureo subtraídas de XXX (ou seja, o complemento da epacta em relação a 30).",
+      "definition_en": "Residue of the Epacts of the golden number subtracted from XXX (i.e., the complement of the epact with respect to 30)."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Os nomes gregos das divindades egípcias na coluna ΘΕΟΙ ΣΕΒΑΣΤΟΙ aparecem em formas abreviadas/ligadas no impresso (Σῶθις, Ἶσις, Ὄσιρις, Ὧρος); a transcrição segue a leitura padrão.",
+    "Na Tabela Décima, linha 19, as colunas Epactae e Matque aparecem como '*' (asterisco), indicando provavelmente o caso especial do *saltus lunae* ou a posição em que a epacta retorna a zero.",
+    "O termo 'Matque' é raro/técnico — Scaliger o introduz aqui aparentemente como neologismo cronológico (possivelmente derivado de fonte etíope ou copta, dada a vizinhança com o *Cyclus Aethiopicus*)."
+  ],
+  "notes": "Página fechando uma seção de tabelas calendáricas com seis definições numeradas que sintetizam o vocabulário técnico recém-utilizado. A Tabela Nona é uma genial síntese cronográfica de Scaliger: alinha o ciclo solar de 28 anos (Plinthion) com dois sistemas de nomenclatura quadrienal — o egípcio pagão (deuses Sothis/Ísis/Osíris/Hórus, ligado à era Áciaca de Augusto) e o cristão-copta (os quatro Evangelistas, ligado à era Diocleciana ainda usada pelos coptas). A coluna 'Plinthion Augustor.' indica a posição do ano dentro do quadriênio áciaco, e 'Plinthion annor. Gratiae' a posição no quadriênio dos anos da Graça (era cristã). A Tabela Décima correlaciona o *Numerus Aureus* latino com o *Cyclus Aethiopicus* (defasado em uma unidade), as Epactas e o *Matque*, este último termo sendo aparentemente técnico vindo do uso etíope. A palavra 'ALITER' no final indica que a página seguinte apresentará método alternativo de cálculo. Note-se a definição V que torna explícito: *Plinthion* = *Cyclus Solis* de 28 anos, terminologia grega/bizantina que Scaliger prefere usar neste contexto.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4906,
+    "stop_reason": "end_turn"
+  }
+}

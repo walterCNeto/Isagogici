@@ -1,0 +1,58 @@
+{
+  "page": 93,
+  "page_type": "table",
+  "latin": "LIBER PRIMVS.\nRESIDVVM PERIODI CALIPPICAE NEOMENIARVM OLYMPICARVM ET ATTICARVM.\n\n[Tabula cum 12 columnis pro mensibus Atticis: Hecatombaeon (Pamuthi/Loos), Metageitnion, Boedromion, Pyanepsion, Maemacterion, Poseideon proteros, Poseideon deuteros, Gamelion, Anthesterion, Elaphebolion, Munychion, Thargelion, Scirophorion. Versus Macedonicos: Loos, Gorpiaeus, Hyperberetaeus, Dios, Apellaeus, Apellaeus, Audynaeus, Peritios, Dystros, Xanthicos, Artemisios, Daesios, Panemos.]\n\nF  TABVLA",
+  "pt": "LIVRO PRIMEIRO.\nRESÍDUO DA PERIODUS CALLIPPICA DAS *NEOMENIAE* OLÍMPICAS E ÁTICAS.\n\n[Tabela com 12 colunas correspondentes aos meses do calendário ático, com equivalências aos meses do calendário macedônio e às datas julianas, abrangendo os anos 39 a 76 da Periodus Callippica.]",
+  "en": "BOOK ONE.\nREMAINDER OF THE CALLIPPIC PERIOD OF OLYMPIC AND ATTIC *NEOMENIAE*.\n\n[Table with 12 columns corresponding to the months of the Attic calendar, with equivalences to the Macedonian calendar months and Julian dates, covering years 39 to 76 of the Callippic Period.]",
+  "tables": [
+    {
+      "caption_pt": "Resíduo da Periodus Callippica das Neomeniae olímpicas e áticas (anos 39-76). As colunas mostram a data juliana de cada *neomenia* (lua nova) nos doze meses do ano ático, com nomes macedônios paralelos. A coluna VII (Poseideon deuteros) é o mês intercalar, ocorrendo apenas em anos embolísmicos (marcado com '0' nos anos communes). A coluna mais à direita indica anos com correções: *δίσεξ* (disex), *ἐξαιρ.* (exaeresimus = subtrativo).",
+      "caption_en": "Remainder of the Callippic Period of Olympic and Attic neomeniae (years 39-76). Columns show the Julian date of each *neomenia* (new moon) in the twelve months of the Attic year, with parallel Macedonian names. Column VII (Poseideon deuteros) is the intercalary month, occurring only in embolismic years (marked '0' in common years). The rightmost column indicates years with corrections: *δίσεξ* (disex), *ἐξαιρ.* (exaeresimus = subtractive).",
+      "markdown": "| Olymp. | Anno | I Hekatombaion (Loos) | II Metageitnion (Gorpiaeus) | III Boedromion (Hyperberetaeus) | IV Pyanepsion (Dios) | V Maimakterion (Apellaeus) | VI Poseideon proteros (Apellaeus) | VII Poseideon deuteros | VIII Gamelion (Audynaeus) | IX Anthesterion (Peritios) | X Elaphebolion (Dystros) | XI Munychion (Xanthikos) | XII Thargelion (Artemisios) | XIII Skirophorion (Daesios/Panemos) | Nota |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|  | 39 | 25 Iul | 24 Aug | 23 Sep | 23 Oct | 22 Nov | 22 Dec | 0 | 23 Ian | 22 Feb | 23 Mar | 22 Apr | 22 Mai | 21 Iun |  |\n| XI | 40 | 21 Iul | 20 Aug | 19 Sep | 17 Oct | 16 Nov | 16 Dec | 0 | 17 Ian | 16 Feb | 18 Mar | 17 Apr | 17 Mai | 16 Iun | δίσεξ |\n|  | 41 | 16 Iul | 15 Aug | 14 Sep | 14 Oct | 13 Nov | 13 Dec | 0 | 14 Ian | 13 Feb | 15 Mar | 14 Apr | 14 Mai | 13 Iun |  |\n|  | 42 | 13 Iul | 12 Aug | 11 Sep | 11 Oct | 10 Nov | 10 Dec | 0 | 11 Ian | 10 Feb | 12 Mar | 11 Apr | 11 Mai | 10 Iun |  |\n|  | 43 | 10 Iul | 9 Aug | 8 Sep | 8 Oct | 7 Nov | 7 Dec | 6 Ian | 7 Feb | 8 Mar | 7 Apr | 7 Mai | 6 Iun | 6 Iul |  |\n|  | 44 | 5 Aug | 4 Sep | 4 Oct | 2 Nov | 2 Dec | 1 Ian | 0 | 2 Feb | 4 Mar | 3 Apr | 3 Mai | 2 Iun | 2 Iul | ἐξαιρ. |\n| XII | 45 | 1 Aug | 31 Aug | 30 Sep | 30 Oct | 29 Nov | 29 Dec | 0 | 30 Ian | 1 Mar | 31 Mar | 30 Apr | 30 Mai | 29 Iun |  |\n|  | 46 | 29 Iul | 28 Aug | 27 Sep | 27 Oct | 26 Nov | 26 Dec | 0 | 27 Ian | 26 Feb | 28 Mar | 27 Apr | 27 Mai | 26 Iun |  |\n|  | 47 | 26 Iul | 25 Aug | 24 Sep | 24 Oct | 23 Nov | 23 Dec | 0 | 24 Ian | 23 Feb | 24 Mar | 23 Apr | 22 Mai | 22 Iun |  |\n|  | 48 | 22 Iul | 21 Aug | 20 Sep | 19 Oct | 18 Nov | 18 Dec | 0 | 19 Ian | 18 Feb | 20 Mar | 19 Apr | 19 Mai | 18 Iun | ἐξαιρ. |\n| XIII | 49 | 18 Iul | 17 Aug | 16 Sep | 16 Oct | 15 Nov | 15 Dec | 0 | 16 Ian | 15 Feb | 17 Mar | 16 Apr | 16 Mai | 15 Iun |  |\n|  | 50 | 15 Iul | 14 Aug | 13 Sep | 13 Oct | 12 Nov | 12 Dec | 0 | 13 Ian | 12 Feb | 14 Mar | 13 Apr | 13 Mai | 12 Iun |  |\n|  | 51 | 12 Iul | 11 Aug | 10 Sep | 10 Oct | 9 Nov | 9 Dec | 8 Ian | 9 Feb | 10 Mar | 9 Apr | 9 Mai | 8 Iun | 8 Iul |  |\n|  | 52 | 7 Aug | 6 Sep | 6 Oct | 4 Nov | 4 Dec | 3 Ian | 0 | 4 Feb | 6 Mar | 5 Apr | 5 Mai | [4] Iun | 4 Iul | ἐξαιρ. |\n| XIV | 53 | 3 Aug | 2 Sep | 2 Oct | 1 Nov | 1 Dec | 31 Dec | 0 | 1 Feb | 3 Mar | 2 Apr | 2 Mai | 1 Iun | 1 Iul |  |\n|  | 54 | 31 Iul | 30 Aug | 29 Sep | 29 Oct | 28 Nov | 28 Dec | 0 | 29 Ian | 28 Feb | 30 Mar | 29 Apr | 29 Mai | 28 Iun |  |\n|  | 55 | 28 Iul | 27 Aug | 26 Sep | 26 Oct | 25 Nov | 25 Dec | 0 | 26 Ian | 25 Feb | 26 Mar | 25 Apr | 25 Mai | 24 Iun |  |\n|  | 56 | 24 Iul | 23 Aug | 22 Sep | 21 Oct | 20 Nov | 20 Dec | 0 | 21 Ian | 20 Feb | 22 Mar | 21 Apr | 21 Mai | 20 Iun | ἐξαιρ. |\n| XV | 57 | 20 Iul | 19 Aug | 18 Sep | 18 Oct | 17 Nov | 17 Dec | 0 | 18 Ian | 17 Feb | 19 Mar | 18 Apr | 18 Mai | 17 Iun |  |\n|  | 58 | 17 Iul | 16 Aug | 15 Sep | 15 Oct | 14 Nov | 14 Dec | 0 | 15 Ian | 14 Feb | 16 Mar | 15 Apr | 15 Mai | 14 Iun |  |\n|  | 59 | 14 Iul | 13 Aug | 12 Sep | 12 Oct | 11 Nov | 11 Dec | 0 | 12 Ian | 11 Feb | 12 Mar | 11 Apr | 11 Mai | 10 Iun |  |\n|  | 60 | 10 Iul | 9 Aug | 8 Sep | 6 Oct | 5 Nov | 5 Dec | 4 Ian | 5 Feb | 7 Mar | 6 Apr | 6 Mai | 5 Iun | 5 Iul | δίσεξ |\n| XVI | 61 | 4 Aug | 3 Sep | 3 Oct | 2 Nov | 2 Dec | 1 Ian | 0 | 2 Feb | 4 Mar | 3 Apr | 3 Mai | 2 Iun | 2 Iul |  |\n|  | 62 | 1 Aug | 31 Aug | 30 Sep | 30 Oct | 29 Nov | 29 Dec | 0 | 30 Ian | 1 Mar | 31 Mar | 30 Apr | 30 Mai | 29 Iun |  |\n|  | 63 | 29 Iul | 28 Aug | 27 Sep | 27 Oct | 26 Nov | 26 Dec | 0 | 27 Ian | 26 Feb | 27 Mar | 26 Apr | 26 Mai | 25 Iun |  |\n|  | 64 | 25 Iul | 24 Aug | 23 Sep | 22 Oct | 21 Nov | 21 Dec | 0 | 22 Ian | 21 Feb | 23 Mar | 22 Apr | 22 Mai | 21 Iun | ἐξαιρ. |\n| XVII | 65 | 21 Iul | 20 Aug | 19 Sep | 19 Oct | 18 Nov | 18 Dec | 0 | 19 Ian | 18 Feb | 20 Mar | 19 Apr | 19 Mai | 18 Iun |  |\n|  | 66 | 18 Iul | 17 Aug | 16 Sep | 16 Oct | 15 Nov | 15 Dec | 0 | 17 Ian | 16 Feb | 17 Mar | 16 Apr | 16 Mai | 15 Iun |  |\n|  | 67 | 15 Iul | 14 Aug | 13 Sep | 13 Oct | 12 Nov | 12 Dec | 0 | 13 Ian | 12 Feb | 13 Mar | 12 Apr | 12 Mai | 11 Iun |  |\n|  | 68 | 11 Iul | 10 Aug | 9 Sep | 8 Oct | 7 Nov | 7 Dec | 6 Ian | 7 Feb | 9 Mar | 8 Apr | 8 Mai | 7 Iun | 7 Iul | ἐξαιρ. |\n| XVIII | 69 | 6 Aug | 5 Sep | 5 Oct | 4 Nov | 4 Dec | 3 Ian | 0 | 4 Feb | 6 Mar | 5 Apr | 5 Mai | 4 Iun | 4 Iul |  |\n|  | 70 | 3 Aug | 2 Sep | 2 Oct | 1 Nov | 1 Dec | 31 Dec | 0 | 1 Feb | 3 Mar | 2 Apr | 2 Mai | 1 Iun | 1 Iul |  |\n|  | 71 | 31 Iul | 30 Aug | 29 Sep | 29 Oct | 28 Nov | 28 Dec | 0 | 29 Ian | 28 Feb | 29 Mar | 28 Apr | 28 Mai | 27 Iun |  |\n|  | 72 | 27 Iul | 26 Aug | 25 Sep | 24 Oct | 23 Nov | 23 Dec | 0 | 24 Ian | 23 Feb | 25 Mar | 24 Apr | 24 Mai | 23 Iun | ἐξαιρ. |\n| XIX | 73 | 23 Iul | 22 Aug | 21 Sep | 21 Oct | 20 Nov | 20 Dec | 0 | 21 Ian | 20 Feb | 22 Mar | 21 Apr | 21 Mai | 20 Iun |  |\n|  | 74 | 20 Iul | 19 Aug | 18 Sep | 18 Oct | 17 Nov | 17 Dec | 0 | 18 Ian | 17 Feb | 19 Mar | 18 Apr | 18 Mai | 17 Iun |  |\n|  | 75 | 17 Iul | 16 Aug | 15 Sep | 15 Oct | 14 Nov | 14 Dec | 0 | 15 Ian | 14 Feb | 15 Mar | 14 Apr | 14 Mai | 13 Iun |  |\n|  | 76 | 13 Iul | 12 Aug | 11 Sep | 10 Oct | 9 Nov | 9 Dec | 0 | 10 Ian | 9 Feb | 11 Mar | 10 Apr | 10 Mai | 9 Iun | ἐξαιρ. |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Periodus Callippica",
+      "definition_pt": "Período de 76 anos julianos (= 4 *enneadecaeterides* de 19 anos = 940 meses lunares), proposto por Calipo de Cízico para corrigir o ciclo metônico. Esta página apresenta o 'resíduo' (segunda metade) do período, anos 39-76.",
+      "definition_en": "Period of 76 Julian years (= 4 *enneadecaeterides* of 19 years = 940 lunar months), proposed by Callippus of Cyzicus to correct the Metonic cycle. This page presents the 'remainder' (second half) of the period, years 39-76."
+    },
+    {
+      "term": "Neomenia Olympica et Attica",
+      "definition_pt": "*Neomenia* (lua nova) calculada segundo o cômputo ático/olímpico, marcando o primeiro dia de cada um dos doze (ou treze, em anos embolísmicos) meses do calendário civil ateniense.",
+      "definition_en": "*Neomenia* (new moon) computed according to the Attic/Olympic reckoning, marking the first day of each of the twelve (or thirteen, in embolismic years) months of the Athenian civil calendar."
+    },
+    {
+      "term": "Poseideon proteros / Poseideon deuteros",
+      "definition_pt": "Em anos embolísmicos do calendário ático, o mês Posideon era duplicado: o *proteros* (anterior, sexto mês) e o *deuteros* (posterior, mês intercalar). Nos anos *communes* a coluna do *deuteros* fica vazia (marcada com 0).",
+      "definition_en": "In embolismic years of the Attic calendar, the month Poseideon was doubled: the *proteros* (former, sixth month) and the *deuteros* (latter, intercalary month). In *anni communes* the *deuteros* column is empty (marked 0)."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Tabula praecedens (Periodus Callippica anni 1-38)",
+      "context": "RESIDVVM PERIODI CALIPPICAE — pressupõe a tabela anterior com a primeira metade do período."
+    },
+    {
+      "type": "internal",
+      "target": "TABVLA (sequens, p. 62)",
+      "context": "Reclamo 'TABVLA' no canto inferior direito indica continuação tabular na página seguinte."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Algumas datas no scan são parcialmente borradas (especialmente colunas VI Poseideon proteros e VII Poseideon deuteros nos anos 51-56); transcrição feita com confiança alta mas verificável apenas com cópia melhor.",
+    "Linha 52, coluna XI Thargelion: o dia '5 Mai' parece correto mas o vizinho '[ ] Iun' está com número apagado — restaurado como '4 Iun' por interpolação aritmética.",
+    "Marcas marginais à direita em grego cursivo (δίσεξ, ἐξαιρ.) indicam respectivamente *bissextus* (ano com dia adicional) e *exaeresimus* (ano com supressão de dia para correção lunar); leitura paleográfica confiante mas a abreviação 'διστξ' pode também ser lida como 'δισεξ'.",
+    "A coluna macedônia parece desalinhada com a ática: na primeira coluna o nome macedônio é 'Loos', mas Hekatombaion ático corresponde tradicionalmente a Loos macedônio — a equivalência segue o esquema de Scaliger no *De Emendatione*."
+  ],
+  "notes": "Esta é a segunda das duas tabelas (folio recto p. 61) que apresentam toda a *Periodus Callippica* de 76 anos, distribuindo as *neomeniae* mensais segundo o calendário ático (com paralelo macedônio) sobre o calendário juliano. A primeira tabela (anos 1-38) está na página anterior. A organização segue o esquema fundamental de Scaliger: cada coluna é um mês ático, cada linha um ano da Periodus, e a célula contém a data juliana da *neomenia* daquele mês naquele ano. A coluna VII (Poseideon II) só recebe data nos anos embolísmicos — pelo padrão visível, são os anos 43, 51, 60, 68 (e provavelmente outros antes), seguindo a *enneadecaeteris* metônica corrigida por Calipo. As anotações marginais em grego (δίσεξ = *bissextus*; ἐξαιρ. = *exaeresimus*) marcam os ajustes calendáricos. Nota importante: a numeração das olimpíadas à esquerda (XI–XIX) corresponde a um intervalo histórico específico que Scaliger fixa no *De Emendatione*; cada olimpíada cobre 4 anos. Nenhum texto demonstrativo nesta página — é tabela pura — portanto sem definições novas explícitas no estilo 'Sit X' nem divergência declarada com Crusius.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 6981,
+    "stop_reason": "end_turn"
+  }
+}

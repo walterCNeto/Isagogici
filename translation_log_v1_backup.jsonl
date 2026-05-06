@@ -1,0 +1,264 @@
+{"timestamp": "2026-05-04T23:07:32", "page": 1, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 8079604 bytes > 5242880 bytes'}, 'request_id': 'req_011Caic9JjKqseQ79DqgmiGc'}"}
+{"timestamp": "2026-05-04T23:07:45", "page": 2, "status": "ok", "tokens_in": 7444, "tokens_out": 711}
+{"timestamp": "2026-05-04T23:07:56", "page": 3, "status": "ok", "tokens_in": 7414, "tokens_out": 504}
+{"timestamp": "2026-05-04T23:09:51", "page": 4, "status": "ok", "tokens_in": 7444, "tokens_out": 311}
+{"timestamp": "2026-05-04T23:11:35", "page": 5, "status": "ok", "tokens_in": 7414, "tokens_out": 2277}
+{"timestamp": "2026-05-04T23:13:46", "page": 1, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 8079604 bytes > 5242880 bytes'}, 'request_id': 'req_011CaicctRNMKmonietevRch'}"}
+{"timestamp": "2026-05-04T23:14:02", "page": 6, "status": "ok", "tokens_in": 7444, "tokens_out": 812}
+{"timestamp": "2026-05-04T23:16:09", "page": 7, "status": "ok", "tokens_in": 7414, "tokens_out": 6103}
+{"timestamp": "2026-05-04T23:19:15", "page": 8, "status": "ok", "tokens_in": 7414, "tokens_out": 7813}
+{"timestamp": "2026-05-04T23:22:18", "page": 9, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 33 column 6 (char 18320)"}
+{"timestamp": "2026-05-04T23:25:26", "page": 10, "status": "ok", "tokens_in": 7414, "tokens_out": 7996}
+{"timestamp": "2026-05-04T23:27:51", "page": 11, "status": "ok", "tokens_in": 7382, "tokens_out": 7798}
+{"timestamp": "2026-05-04T23:30:44", "page": 12, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 41 column 6 (char 19127)"}
+{"timestamp": "2026-05-04T23:33:21", "page": 13, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 54 column 6 (char 19006)"}
+{"timestamp": "2026-05-04T23:35:28", "page": 14, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 28 column 6 (char 17637)"}
+{"timestamp": "2026-05-04T23:38:21", "page": 15, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 45 column 6 (char 18062)"}
+{"timestamp": "2026-05-04T23:41:06", "page": 16, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 67 column 6 (char 18612)"}
+{"timestamp": "2026-05-04T23:44:02", "page": 17, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 45 column 6 (char 17587)"}
+{"timestamp": "2026-05-04T23:46:53", "page": 18, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 19 column 6 (char 18031)"}
+{"timestamp": "2026-05-04T23:49:41", "page": 19, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 24 column 6 (char 18008)"}
+{"timestamp": "2026-05-04T23:52:24", "page": 20, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 14 column 6 (char 17607)"}
+{"timestamp": "2026-05-04T23:55:25", "page": 21, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 55 column 6 (char 18849)"}
+{"timestamp": "2026-05-04T23:58:35", "page": 22, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 49 column 6 (char 19583)"}
+{"timestamp": "2026-05-05T00:01:24", "page": 23, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 44 column 6 (char 18590)"}
+{"timestamp": "2026-05-05T00:04:11", "page": 24, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 46 column 6 (char 19908)"}
+{"timestamp": "2026-05-05T00:06:44", "page": 25, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 34 column 6 (char 18599)"}
+{"timestamp": "2026-05-05T00:09:23", "page": 26, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 66 column 6 (char 19237)"}
+{"timestamp": "2026-05-05T00:12:16", "page": 27, "status": "ok", "tokens_in": 7382, "tokens_out": 7812}
+{"timestamp": "2026-05-05T00:15:20", "page": 28, "status": "ok", "tokens_in": 7414, "tokens_out": 7766}
+{"timestamp": "2026-05-05T00:18:16", "page": 29, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 34 column 6 (char 19890)"}
+{"timestamp": "2026-05-05T00:19:21", "page": 30, "status": "ok", "tokens_in": 7414, "tokens_out": 2918}
+{"timestamp": "2026-05-05T00:22:05", "page": 31, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Não consegui parsear JSON: Unterminated string starting at: line 6 column 9 (char 13481)\n\nRaw:\n{\n  \"page\": 31,\n  \"page_type\": \"text\",\n  \"latin\": \"IOSEPHI SCALIGERI\\nIudicium\\nDE THESI QUADAM CHRONOLOGICA.\\n\\nIN Thesi Chronologica disputata* Anno CIↃ.IↃ.CVIII. Prid. Idus Martias, multa proponuntur, q"}
+{"timestamp": "2026-05-05T00:25:15", "page": 32, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Não consegui parsear JSON: Unterminated string starting at: line 6 column 9 (char 13927)\n\nRaw:\n{\n  \"page\": 32,\n  \"page_type\": \"text\",\n  \"latin\": \"neque patriae suae: sed in Aegypto vltimum vitae diem obiuit. Rursus ibidem commate x. Ne plorate eum, qui mortuus est, neque super eo conturbemini. Quis "}
+{"timestamp": "2026-05-05T00:26:36", "page": 33, "status": "ok", "tokens_in": 7382, "tokens_out": 5448}
+{"timestamp": "2026-05-05T00:28:08", "page": 34, "status": "ok", "tokens_in": 7414, "tokens_out": 6073}
+{"timestamp": "2026-05-05T00:29:57", "page": 35, "status": "ok", "tokens_in": 7382, "tokens_out": 7103}
+{"timestamp": "2026-05-05T00:30:45", "page": 36, "status": "ok", "tokens_in": 7414, "tokens_out": 3541}
+{"timestamp": "2026-05-05T00:31:48", "page": 37, "status": "ok", "tokens_in": 7414, "tokens_out": 4696}
+{"timestamp": "2026-05-05T00:32:57", "page": 38, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Não consegui parsear JSON: Unterminated string starting at: line 11 column 19 (char 3067)\n\nRaw:\n{\n  \"page\": 38,\n  \"page_type\": \"table\",\n  \"latin\": \"TABULA PRIMA FOECUNDA MAGNI CYCLI.\\n\\nLitera Termini Paschalis: D G E A D B E C F B G C F D G C A D B\\nTerminus Paschalis: V April. | XXV Martij. | XIII"}
+{"timestamp": "2026-05-05T00:33:48", "page": 39, "status": "ok", "tokens_in": 7414, "tokens_out": 3651}
+{"timestamp": "2026-05-05T00:35:21", "page": 40, "status": "ok", "tokens_in": 7414, "tokens_out": 6360}
+{"timestamp": "2026-05-05T00:37:10", "page": 41, "status": "ok", "tokens_in": 7414, "tokens_out": 6955}
+{"timestamp": "2026-05-05T00:38:04", "page": 42, "status": "ok", "tokens_in": 7414, "tokens_out": 4369}
+{"timestamp": "2026-05-05T00:38:58", "page": 43, "status": "ok", "tokens_in": 7414, "tokens_out": 4287}
+{"timestamp": "2026-05-05T00:39:55", "page": 44, "status": "ok", "tokens_in": 7414, "tokens_out": 4283}
+{"timestamp": "2026-05-05T00:41:02", "page": 45, "status": "ok", "tokens_in": 7414, "tokens_out": 5328}
+{"timestamp": "2026-05-05T00:41:56", "page": 46, "status": "ok", "tokens_in": 7414, "tokens_out": 4766}
+{"timestamp": "2026-05-05T00:43:33", "page": 47, "status": "ok", "tokens_in": 7436, "tokens_out": 7874}
+{"timestamp": "2026-05-05T00:46:13", "page": 48, "status": "ok", "tokens_in": 7414, "tokens_out": 7316}
+{"timestamp": "2026-05-05T00:48:07", "page": 49, "status": "ok", "tokens_in": 7382, "tokens_out": 7519}
+{"timestamp": "2026-05-05T00:50:10", "page": 50, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 76 column 6 (char 17231)"}
+{"timestamp": "2026-05-05T00:52:21", "page": 51, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 66 column 6 (char 16977)"}
+{"timestamp": "2026-05-05T00:53:14", "page": 52, "status": "ok", "tokens_in": 7414, "tokens_out": 4644}
+{"timestamp": "2026-05-05T00:54:11", "page": 53, "status": "ok", "tokens_in": 7414, "tokens_out": 4994}
+{"timestamp": "2026-05-05T00:55:10", "page": 54, "status": "ok", "tokens_in": 7414, "tokens_out": 5014}
+{"timestamp": "2026-05-05T00:56:20", "page": 55, "status": "ok", "tokens_in": 7382, "tokens_out": 5817}
+{"timestamp": "2026-05-05T00:57:15", "page": 56, "status": "ok", "tokens_in": 7414, "tokens_out": 4833}
+{"timestamp": "2026-05-05T00:58:29", "page": 57, "status": "ok", "tokens_in": 7436, "tokens_out": 6891}
+{"timestamp": "2026-05-05T01:00:03", "page": 58, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 40 column 6 (char 10634)"}
+{"timestamp": "2026-05-05T01:01:41", "page": 59, "status": "ok", "tokens_in": 7382, "tokens_out": 7192}
+{"timestamp": "2026-05-05T01:03:28", "page": 60, "status": "ok", "tokens_in": 7414, "tokens_out": 6841}
+{"timestamp": "2026-05-05T01:05:20", "page": 61, "status": "ok", "tokens_in": 7382, "tokens_out": 7158}
+{"timestamp": "2026-05-05T01:07:09", "page": 62, "status": "ok", "tokens_in": 7414, "tokens_out": 6658}
+{"timestamp": "2026-05-05T01:08:05", "page": 63, "status": "ok", "tokens_in": 7436, "tokens_out": 3787}
+{"timestamp": "2026-05-05T01:09:07", "page": 64, "status": "ok", "tokens_in": 7414, "tokens_out": 5258}
+{"timestamp": "2026-05-05T01:10:21", "page": 65, "status": "ok", "tokens_in": 7414, "tokens_out": 6804}
+{"timestamp": "2026-05-05T01:11:21", "page": 66, "status": "ok", "tokens_in": 7414, "tokens_out": 5185}
+{"timestamp": "2026-05-05T01:12:25", "page": 67, "status": "ok", "tokens_in": 7414, "tokens_out": 5197}
+{"timestamp": "2026-05-05T01:13:36", "page": 68, "status": "ok", "tokens_in": 7414, "tokens_out": 6164}
+{"timestamp": "2026-05-05T01:15:00", "page": 69, "status": "ok", "tokens_in": 7414, "tokens_out": 6814}
+{"timestamp": "2026-05-05T01:16:11", "page": 70, "status": "ok", "tokens_in": 7414, "tokens_out": 4770}
+{"timestamp": "2026-05-05T01:18:11", "page": 71, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 97 column 6 (char 16203)"}
+{"timestamp": "2026-05-05T01:20:17", "page": 72, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 70 column 6 (char 16945)"}
+{"timestamp": "2026-05-05T01:22:25", "page": 73, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 76 column 6 (char 17476)"}
+{"timestamp": "2026-05-05T01:23:24", "page": 74, "status": "ok", "tokens_in": 7414, "tokens_out": 4092}
+{"timestamp": "2026-05-05T01:24:09", "page": 75, "status": "ok", "tokens_in": 7414, "tokens_out": 2864}
+{"timestamp": "2026-05-05T01:25:29", "page": 76, "status": "ok", "tokens_in": 7382, "tokens_out": 5780}
+{"timestamp": "2026-05-05T01:26:18", "page": 77, "status": "ok", "tokens_in": 7414, "tokens_out": 3204}
+{"timestamp": "2026-05-05T01:27:13", "page": 78, "status": "ok", "tokens_in": 7414, "tokens_out": 4240}
+{"timestamp": "2026-05-05T01:28:32", "page": 79, "status": "ok", "tokens_in": 7414, "tokens_out": 6399}
+{"timestamp": "2026-05-05T01:29:31", "page": 80, "status": "ok", "tokens_in": 7414, "tokens_out": 4427}
+{"timestamp": "2026-05-05T01:31:05", "page": 81, "status": "ok", "tokens_in": 7414, "tokens_out": 6812}
+{"timestamp": "2026-05-05T01:32:26", "page": 82, "status": "ok", "tokens_in": 7414, "tokens_out": 6216}
+{"timestamp": "2026-05-05T01:34:11", "page": 83, "status": "ok", "tokens_in": 7414, "tokens_out": 7012}
+{"timestamp": "2026-05-05T01:36:26", "page": 84, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 75 column 6 (char 17730)"}
+{"timestamp": "2026-05-05T01:38:33", "page": 85, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 86 column 6 (char 17447)"}
+{"timestamp": "2026-05-05T01:40:38", "page": 86, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 81 column 6 (char 17030)"}
+{"timestamp": "2026-05-05T01:41:58", "page": 87, "status": "ok", "tokens_in": 7414, "tokens_out": 5428}
+{"timestamp": "2026-05-05T01:43:16", "page": 88, "status": "ok", "tokens_in": 7414, "tokens_out": 6021}
+{"timestamp": "2026-05-05T01:44:57", "page": 89, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 50 column 6 (char 11273)"}
+{"timestamp": "2026-05-05T01:46:29", "page": 90, "status": "ok", "tokens_in": 7414, "tokens_out": 7760}
+{"timestamp": "2026-05-05T01:48:03", "page": 91, "status": "ok", "tokens_in": 7414, "tokens_out": 7792}
+{"timestamp": "2026-05-05T01:49:20", "page": 92, "status": "ok", "tokens_in": 7414, "tokens_out": 6600}
+{"timestamp": "2026-05-05T01:50:40", "page": 93, "status": "ok", "tokens_in": 7414, "tokens_out": 6981}
+{"timestamp": "2026-05-05T01:52:24", "page": 94, "status": "ok", "tokens_in": 7414, "tokens_out": 7912}
+{"timestamp": "2026-05-05T01:54:08", "page": 95, "status": "ok", "tokens_in": 7414, "tokens_out": 6625}
+{"timestamp": "2026-05-05T01:55:44", "page": 96, "status": "ok", "tokens_in": 7414, "tokens_out": 6856}
+{"timestamp": "2026-05-05T01:57:14", "page": 97, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 32 column 6 (char 10793)"}
+{"timestamp": "2026-05-05T01:58:20", "page": 98, "status": "ok", "tokens_in": 7414, "tokens_out": 5652}
+{"timestamp": "2026-05-05T01:59:26", "page": 99, "status": "ok", "tokens_in": 7414, "tokens_out": 5906}
+{"timestamp": "2026-05-05T02:01:12", "page": 100, "status": "ok", "tokens_in": 7414, "tokens_out": 7196}
+{"timestamp": "2026-05-05T02:05:25", "page": 101, "status": "ok", "tokens_in": 7414, "tokens_out": 7808}
+{"timestamp": "2026-05-05T02:06:07", "page": 102, "status": "ok", "tokens_in": 7414, "tokens_out": 2629}
+{"timestamp": "2026-05-05T02:07:06", "page": 103, "status": "ok", "tokens_in": 7414, "tokens_out": 5447}
+{"timestamp": "2026-05-05T02:08:02", "page": 104, "status": "ok", "tokens_in": 7414, "tokens_out": 5094}
+{"timestamp": "2026-05-05T02:08:59", "page": 105, "status": "ok", "tokens_in": 7414, "tokens_out": 4550}
+{"timestamp": "2026-05-05T02:10:24", "page": 106, "status": "ok", "tokens_in": 7414, "tokens_out": 5725}
+{"timestamp": "2026-05-05T02:12:28", "page": 107, "status": "ok", "tokens_in": 7414, "tokens_out": 7478}
+{"timestamp": "2026-05-05T02:13:33", "page": 108, "status": "ok", "tokens_in": 7414, "tokens_out": 5237}
+{"timestamp": "2026-05-05T02:15:04", "page": 109, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 32 column 6 (char 10938)"}
+{"timestamp": "2026-05-05T02:16:02", "page": 110, "status": "ok", "tokens_in": 7414, "tokens_out": 4782}
+{"timestamp": "2026-05-05T02:16:59", "page": 111, "status": "ok", "tokens_in": 7414, "tokens_out": 4530}
+{"timestamp": "2026-05-05T02:18:04", "page": 112, "status": "ok", "tokens_in": 7414, "tokens_out": 4746}
+{"timestamp": "2026-05-05T02:19:38", "page": 113, "status": "ok", "tokens_in": 7414, "tokens_out": 6574}
+{"timestamp": "2026-05-05T02:21:36", "page": 114, "status": "ok", "tokens_in": 7414, "tokens_out": 7536}
+{"timestamp": "2026-05-05T02:23:19", "page": 115, "status": "ok", "tokens_in": 7414, "tokens_out": 6261}
+{"timestamp": "2026-05-05T02:25:08", "page": 116, "status": "ok", "tokens_in": 7414, "tokens_out": 6287}
+{"timestamp": "2026-05-05T02:26:03", "page": 117, "status": "ok", "tokens_in": 7414, "tokens_out": 3917}
+{"timestamp": "2026-05-05T02:27:32", "page": 118, "status": "ok", "tokens_in": 7414, "tokens_out": 6651}
+{"timestamp": "2026-05-05T02:29:15", "page": 119, "status": "ok", "tokens_in": 7414, "tokens_out": 6841}
+{"timestamp": "2026-05-05T02:31:08", "page": 120, "status": "ok", "tokens_in": 7414, "tokens_out": 7559}
+{"timestamp": "2026-05-05T02:32:21", "page": 121, "status": "ok", "tokens_in": 7414, "tokens_out": 4687}
+{"timestamp": "2026-05-05T02:33:18", "page": 122, "status": "ok", "tokens_in": 7414, "tokens_out": 5214}
+{"timestamp": "2026-05-05T02:34:14", "page": 123, "status": "ok", "tokens_in": 7414, "tokens_out": 5163}
+{"timestamp": "2026-05-05T02:35:01", "page": 124, "status": "ok", "tokens_in": 7414, "tokens_out": 4505}
+{"timestamp": "2026-05-05T02:36:01", "page": 125, "status": "ok", "tokens_in": 7414, "tokens_out": 5606}
+{"timestamp": "2026-05-05T02:37:18", "page": 126, "status": "ok", "tokens_in": 7414, "tokens_out": 5706}
+{"timestamp": "2026-05-05T02:38:36", "page": 127, "status": "ok", "tokens_in": 7414, "tokens_out": 6159}
+{"timestamp": "2026-05-05T02:39:15", "page": 128, "status": "ok", "tokens_in": 7414, "tokens_out": 3036}
+{"timestamp": "2026-05-05T02:40:08", "page": 129, "status": "ok", "tokens_in": 7414, "tokens_out": 4473}
+{"timestamp": "2026-05-05T02:40:57", "page": 130, "status": "ok", "tokens_in": 7414, "tokens_out": 4417}
+{"timestamp": "2026-05-05T02:41:42", "page": 131, "status": "ok", "tokens_in": 7414, "tokens_out": 3932}
+{"timestamp": "2026-05-05T02:42:31", "page": 132, "status": "ok", "tokens_in": 7414, "tokens_out": 4192}
+{"timestamp": "2026-05-05T02:43:17", "page": 133, "status": "ok", "tokens_in": 7414, "tokens_out": 4101}
+{"timestamp": "2026-05-05T02:44:06", "page": 134, "status": "ok", "tokens_in": 7414, "tokens_out": 4279}
+{"timestamp": "2026-05-05T02:45:01", "page": 135, "status": "ok", "tokens_in": 7414, "tokens_out": 4523}
+{"timestamp": "2026-05-05T02:45:47", "page": 136, "status": "ok", "tokens_in": 7414, "tokens_out": 3893}
+{"timestamp": "2026-05-05T02:46:30", "page": 137, "status": "ok", "tokens_in": 7414, "tokens_out": 3463}
+{"timestamp": "2026-05-05T02:47:57", "page": 138, "status": "ok", "tokens_in": 7414, "tokens_out": 6109}
+{"timestamp": "2026-05-05T02:49:32", "page": 139, "status": "ok", "tokens_in": 7414, "tokens_out": 6796}
+{"timestamp": "2026-05-05T02:51:46", "page": 140, "status": "ok", "tokens_in": 7414, "tokens_out": 7892}
+{"timestamp": "2026-05-05T02:53:42", "page": 141, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 77 column 6 (char 16029)"}
+{"timestamp": "2026-05-05T02:55:08", "page": 142, "status": "ok", "tokens_in": 7414, "tokens_out": 6160}
+{"timestamp": "2026-05-05T02:56:02", "page": 143, "status": "ok", "tokens_in": 7414, "tokens_out": 4314}
+{"timestamp": "2026-05-05T02:56:57", "page": 144, "status": "ok", "tokens_in": 7414, "tokens_out": 4632}
+{"timestamp": "2026-05-05T02:58:05", "page": 145, "status": "ok", "tokens_in": 7414, "tokens_out": 6105}
+{"timestamp": "2026-05-05T02:58:52", "page": 146, "status": "ok", "tokens_in": 7414, "tokens_out": 3731}
+{"timestamp": "2026-05-05T02:59:49", "page": 147, "status": "ok", "tokens_in": 7414, "tokens_out": 4653}
+{"timestamp": "2026-05-05T03:00:56", "page": 148, "status": "ok", "tokens_in": 7414, "tokens_out": 6051}
+{"timestamp": "2026-05-05T03:02:14", "page": 149, "status": "ok", "tokens_in": 7414, "tokens_out": 6461}
+{"timestamp": "2026-05-05T03:03:25", "page": 150, "status": "ok", "tokens_in": 7414, "tokens_out": 5476}
+{"timestamp": "2026-05-05T03:04:28", "page": 151, "status": "ok", "tokens_in": 7414, "tokens_out": 4906}
+{"timestamp": "2026-05-05T03:06:04", "page": 152, "status": "ok", "tokens_in": 7414, "tokens_out": 6519}
+{"timestamp": "2026-05-05T03:07:47", "page": 153, "status": "ok", "tokens_in": 7414, "tokens_out": 6369}
+{"timestamp": "2026-05-05T03:09:48", "page": 154, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 82 column 6 (char 15447)"}
+{"timestamp": "2026-05-05T03:11:18", "page": 155, "status": "ok", "tokens_in": 7414, "tokens_out": 6021}
+{"timestamp": "2026-05-05T03:12:35", "page": 156, "status": "ok", "tokens_in": 7414, "tokens_out": 6601}
+{"timestamp": "2026-05-05T03:13:29", "page": 157, "status": "ok", "tokens_in": 7414, "tokens_out": 3560}
+{"timestamp": "2026-05-05T03:14:58", "page": 158, "status": "ok", "tokens_in": 7414, "tokens_out": 7097}
+{"timestamp": "2026-05-05T03:16:02", "page": 159, "status": "ok", "tokens_in": 7414, "tokens_out": 4752}
+{"timestamp": "2026-05-05T03:17:41", "page": 160, "status": "ok", "tokens_in": 7414, "tokens_out": 6426}
+{"timestamp": "2026-05-05T03:19:26", "page": 161, "status": "ok", "tokens_in": 7414, "tokens_out": 7470}
+{"timestamp": "2026-05-05T03:20:41", "page": 162, "status": "ok", "tokens_in": 7414, "tokens_out": 5214}
+{"timestamp": "2026-05-05T03:22:11", "page": 163, "status": "ok", "tokens_in": 7414, "tokens_out": 6034}
+{"timestamp": "2026-05-05T03:23:41", "page": 164, "status": "ok", "tokens_in": 7414, "tokens_out": 6173}
+{"timestamp": "2026-05-05T03:25:09", "page": 165, "status": "ok", "tokens_in": 7414, "tokens_out": 5586}
+{"timestamp": "2026-05-05T03:27:05", "page": 166, "status": "ok", "tokens_in": 7414, "tokens_out": 7836}
+{"timestamp": "2026-05-05T03:28:22", "page": 167, "status": "ok", "tokens_in": 7414, "tokens_out": 5448}
+{"timestamp": "2026-05-05T03:30:05", "page": 168, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 57 column 6 (char 13409)"}
+{"timestamp": "2026-05-05T03:31:22", "page": 169, "status": "ok", "tokens_in": 7414, "tokens_out": 5442}
+{"timestamp": "2026-05-05T03:32:45", "page": 170, "status": "ok", "tokens_in": 7414, "tokens_out": 5631}
+{"timestamp": "2026-05-05T03:34:22", "page": 171, "status": "ok", "tokens_in": 7414, "tokens_out": 6500}
+{"timestamp": "2026-05-05T03:36:17", "page": 172, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 65 column 6 (char 13099)"}
+{"timestamp": "2026-05-05T03:37:54", "page": 173, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 12 column 6 (char 11161)"}
+{"timestamp": "2026-05-05T03:39:08", "page": 174, "status": "ok", "tokens_in": 7414, "tokens_out": 4970}
+{"timestamp": "2026-05-05T03:41:00", "page": 175, "status": "ok", "tokens_in": 7414, "tokens_out": 6600}
+{"timestamp": "2026-05-05T03:42:37", "page": 176, "status": "ok", "tokens_in": 7414, "tokens_out": 5792}
+{"timestamp": "2026-05-05T03:44:13", "page": 177, "status": "ok", "tokens_in": 7414, "tokens_out": 5896}
+{"timestamp": "2026-05-05T03:46:00", "page": 178, "status": "ok", "tokens_in": 7414, "tokens_out": 5821}
+{"timestamp": "2026-05-05T03:47:40", "page": 179, "status": "ok", "tokens_in": 7414, "tokens_out": 5716}
+{"timestamp": "2026-05-05T03:49:27", "page": 180, "status": "ok", "tokens_in": 7414, "tokens_out": 5638}
+{"timestamp": "2026-05-05T03:51:08", "page": 181, "status": "ok", "tokens_in": 7414, "tokens_out": 5797}
+{"timestamp": "2026-05-05T03:52:50", "page": 182, "status": "ok", "tokens_in": 7414, "tokens_out": 5310}
+{"timestamp": "2026-05-05T03:54:35", "page": 183, "status": "ok", "tokens_in": 7414, "tokens_out": 5033}
+{"timestamp": "2026-05-05T03:56:02", "page": 184, "status": "ok", "tokens_in": 7414, "tokens_out": 4930}
+{"timestamp": "2026-05-05T03:57:39", "page": 185, "status": "ok", "tokens_in": 7414, "tokens_out": 5772}
+{"timestamp": "2026-05-05T03:59:07", "page": 186, "status": "ok", "tokens_in": 7414, "tokens_out": 4121}
+{"timestamp": "2026-05-05T04:00:37", "page": 187, "status": "ok", "tokens_in": 7414, "tokens_out": 4783}
+{"timestamp": "2026-05-05T04:02:25", "page": 188, "status": "ok", "tokens_in": 7414, "tokens_out": 6699}
+{"timestamp": "2026-05-05T04:03:54", "page": 189, "status": "ok", "tokens_in": 7414, "tokens_out": 5319}
+{"timestamp": "2026-05-05T04:05:13", "page": 190, "status": "ok", "tokens_in": 7414, "tokens_out": 5174}
+{"timestamp": "2026-05-05T04:07:07", "page": 191, "status": "ok", "tokens_in": 7414, "tokens_out": 7707}
+{"timestamp": "2026-05-05T04:08:57", "page": 192, "status": "ok", "tokens_in": 7414, "tokens_out": 7038}
+{"timestamp": "2026-05-05T04:10:41", "page": 193, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 50 column 6 (char 12761)"}
+{"timestamp": "2026-05-05T04:12:28", "page": 194, "status": "ok", "tokens_in": 7414, "tokens_out": 6874}
+{"timestamp": "2026-05-05T04:14:05", "page": 195, "status": "ok", "tokens_in": 7414, "tokens_out": 5646}
+{"timestamp": "2026-05-05T04:15:34", "page": 196, "status": "ok", "tokens_in": 7414, "tokens_out": 6425}
+{"timestamp": "2026-05-05T04:17:18", "page": 197, "status": "ok", "tokens_in": 7414, "tokens_out": 7399}
+{"timestamp": "2026-05-05T04:18:52", "page": 198, "status": "ok", "tokens_in": 7414, "tokens_out": 6517}
+{"timestamp": "2026-05-05T04:20:14", "page": 199, "status": "ok", "tokens_in": 7414, "tokens_out": 5877}
+{"timestamp": "2026-05-05T04:21:40", "page": 200, "status": "ok", "tokens_in": 7414, "tokens_out": 6219}
+{"timestamp": "2026-05-05T04:23:04", "page": 201, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 22 column 6 (char 11554)"}
+{"timestamp": "2026-05-05T04:24:27", "page": 202, "status": "ok", "tokens_in": 7414, "tokens_out": 5982}
+{"timestamp": "2026-05-05T04:25:57", "page": 203, "status": "ok", "tokens_in": 7414, "tokens_out": 6034}
+{"timestamp": "2026-05-05T04:27:34", "page": 204, "status": "ok", "tokens_in": 7414, "tokens_out": 6166}
+{"timestamp": "2026-05-05T04:28:51", "page": 205, "status": "ok", "tokens_in": 7414, "tokens_out": 5197}
+{"timestamp": "2026-05-05T04:30:00", "page": 206, "status": "ok", "tokens_in": 7414, "tokens_out": 4140}
+{"timestamp": "2026-05-05T04:31:41", "page": 207, "status": "ok", "tokens_in": 7414, "tokens_out": 7047}
+{"timestamp": "2026-05-05T04:33:55", "page": 208, "status": "ok", "tokens_in": 7414, "tokens_out": 7881}
+{"timestamp": "2026-05-05T04:36:36", "page": 209, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 56 column 6 (char 19147)"}
+{"timestamp": "2026-05-05T04:39:17", "page": 210, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 29 column 6 (char 18244)"}
+{"timestamp": "2026-05-05T04:41:56", "page": 211, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 29 column 6 (char 18204)"}
+{"timestamp": "2026-05-05T04:44:31", "page": 212, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 24 column 6 (char 19068)"}
+{"timestamp": "2026-05-05T04:46:46", "page": 213, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 72 column 6 (char 17967)"}
+{"timestamp": "2026-05-05T04:49:28", "page": 214, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 36 column 6 (char 17861)"}
+{"timestamp": "2026-05-05T04:52:06", "page": 215, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 31 column 6 (char 18738)"}
+{"timestamp": "2026-05-05T04:54:41", "page": 216, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 31 column 6 (char 18168)"}
+{"timestamp": "2026-05-05T04:57:11", "page": 217, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 31 column 6 (char 18788)"}
+{"timestamp": "2026-05-05T04:59:45", "page": 218, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 41 column 6 (char 17808)"}
+{"timestamp": "2026-05-05T05:02:21", "page": 219, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 44 column 6 (char 17133)"}
+{"timestamp": "2026-05-05T05:05:01", "page": 220, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 25 column 6 (char 17130)"}
+{"timestamp": "2026-05-05T05:07:47", "page": 221, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 23 column 6 (char 17919)"}
+{"timestamp": "2026-05-05T05:10:20", "page": 222, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 56 column 6 (char 19075)"}
+{"timestamp": "2026-05-05T05:12:19", "page": 223, "status": "ok", "tokens_in": 7414, "tokens_out": 7927}
+{"timestamp": "2026-05-05T05:15:00", "page": 224, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 46 column 6 (char 18924)"}
+{"timestamp": "2026-05-05T05:16:43", "page": 225, "status": "ok", "tokens_in": 7414, "tokens_out": 6484}
+{"timestamp": "2026-05-05T05:19:27", "page": 226, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 41 column 6 (char 19461)"}
+{"timestamp": "2026-05-05T05:22:16", "page": 227, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 44 column 6 (char 18941)"}
+{"timestamp": "2026-05-05T05:24:31", "page": 228, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 60 column 6 (char 18270)"}
+{"timestamp": "2026-05-05T05:26:55", "page": 229, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 41 column 6 (char 18674)"}
+{"timestamp": "2026-05-05T05:29:34", "page": 230, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 24 column 6 (char 17950)"}
+{"timestamp": "2026-05-05T05:32:01", "page": 231, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 66 column 6 (char 18861)"}
+{"timestamp": "2026-05-05T05:34:35", "page": 232, "status": "ok", "tokens_in": 7414, "tokens_out": 7480}
+{"timestamp": "2026-05-05T05:36:27", "page": 233, "status": "ok", "tokens_in": 7414, "tokens_out": 6731}
+{"timestamp": "2026-05-05T05:38:36", "page": 234, "status": "ok", "tokens_in": 7414, "tokens_out": 7404}
+{"timestamp": "2026-05-05T05:39:52", "page": 235, "status": "ok", "tokens_in": 7414, "tokens_out": 5224}
+{"timestamp": "2026-05-05T05:42:37", "page": 236, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 55 column 6 (char 19447)"}
+{"timestamp": "2026-05-05T05:45:36", "page": 237, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 51 column 6 (char 19409)"}
+{"timestamp": "2026-05-05T05:47:53", "page": 238, "status": "ok", "tokens_in": 7414, "tokens_out": 7588}
+{"timestamp": "2026-05-05T05:49:38", "page": 239, "status": "ok", "tokens_in": 7414, "tokens_out": 6767}
+{"timestamp": "2026-05-05T05:51:55", "page": 240, "status": "ok", "tokens_in": 7414, "tokens_out": 7784}
+{"timestamp": "2026-05-05T05:53:47", "page": 241, "status": "ok", "tokens_in": 7414, "tokens_out": 6949}
+{"timestamp": "2026-05-05T05:56:26", "page": 242, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 31 column 6 (char 18813)"}
+{"timestamp": "2026-05-05T05:58:05", "page": 243, "status": "ok", "tokens_in": 7414, "tokens_out": 6457}
+{"timestamp": "2026-05-05T06:00:16", "page": 244, "status": "ok", "tokens_in": 7414, "tokens_out": 7637}
+{"timestamp": "2026-05-05T06:02:59", "page": 245, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Não consegui parsear JSON: Unterminated string starting at: line 6 column 9 (char 11407)\n\nRaw:\n{\n  \"page\": 245,\n  \"page_type\": \"text\",\n  \"latin\": \"LIBER TERTIVS. 213\\nἐπουσία, id est accessio, est id, quod annum ex Aegyptiaco Iulianum efficit. Vt contra Quadrantis ἀπουσία, absentia, est quae ex Iuli"}
+{"timestamp": "2026-05-05T06:05:12", "page": 246, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 77 column 6 (char 15235)"}
+{"timestamp": "2026-05-05T06:07:56", "page": 247, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 24 column 6 (char 18616)"}
+{"timestamp": "2026-05-05T06:10:31", "page": 248, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 74 column 6 (char 18632)"}
+{"timestamp": "2026-05-05T06:13:11", "page": 249, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 51 column 6 (char 18402)"}
+{"timestamp": "2026-05-05T06:15:53", "page": 250, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 36 column 6 (char 18978)"}
+{"timestamp": "2026-05-05T06:18:32", "page": 251, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 41 column 6 (char 18123)"}
+{"timestamp": "2026-05-05T06:21:25", "page": 252, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 31 column 6 (char 17990)"}
+{"timestamp": "2026-05-05T06:23:56", "page": 253, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 39 column 6 (char 18044)"}
+{"timestamp": "2026-05-05T06:26:40", "page": 254, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 51 column 6 (char 18555)"}
+{"timestamp": "2026-05-05T06:29:23", "page": 255, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 64 column 6 (char 17938)"}
+{"timestamp": "2026-05-05T06:32:02", "page": 256, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Não consegui parsear JSON: Unterminated string starting at: line 12 column 24 (char 16410)\n\nRaw:\n{\n  \"page\": 224,\n  \"page_type\": \"text\",\n  \"latin\": \"CANONVM ISAGOGICORVM\\n\\nVII Tisri. Decretum contra Patres nostros.] Negari non potest vetustissimum esse huius ieiunij institutum. Sed eius nullum hodi"}
+{"timestamp": "2026-05-05T06:34:45", "page": 257, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Não consegui parsear JSON: Unterminated string starting at: line 6 column 9 (char 11556)\n\nRaw:\n{\n  \"page\": 225,\n  \"page_type\": \"text\",\n  \"latin\": \"LIBER TERTIVS.\\n\\nτὰς κριθὰς ποιήσαντες τῷ βωμῷ ἀπάρχονα προπύγωσι τῷ θεῷ. καὶ μίαν ἐξ αὐτοῦ δράκα ἐπιβαλόντες τὸ λοιπὸν ἀφιᾶσιν ἐς χρῆσιν τοῖς ἱερεῦσι. "}
+{"timestamp": "2026-05-05T06:37:20", "page": 258, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 14 column 6 (char 17587)"}
+{"timestamp": "2026-05-05T06:40:06", "page": 259, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 36 column 6 (char 18109)"}
+{"timestamp": "2026-05-05T06:42:42", "page": 260, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 56 column 6 (char 18568)"}
+{"timestamp": "2026-05-05T06:45:20", "page": 261, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 34 column 6 (char 17941)"}
+{"timestamp": "2026-05-05T06:47:52", "page": 262, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 19 column 6 (char 17625)"}
+{"timestamp": "2026-05-05T06:50:38", "page": 263, "status": "error", "tokens_in": 0, "tokens_out": 0, "error": "Expecting ',' delimiter: line 14 column 6 (char 17808)"}

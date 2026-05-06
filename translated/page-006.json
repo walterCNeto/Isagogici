@@ -1,0 +1,28 @@
+{
+  "page": 6,
+  "page_type": "frontmatter",
+  "latin": "[página em branco, com marcas de transferência de tinta da página oposta e carimbo da Bibliotheca Amstelaedamensis]",
+  "pt": "[Página em branco. Apresenta marcas de transferência de tinta (offset) provenientes da página de rosto oposta, vagamente legíveis no terço superior, e o carimbo circular da Bibliotheca Amstelaedamensis (Biblioteca de Amsterdã) na parte inferior central. Marca de digitalização do Google no rodapé.]",
+  "en": "[Blank page. Shows ink offset marks transferred from the facing title page, faintly visible in the upper third, and the circular stamp of the Bibliotheca Amstelaedamensis (Amsterdam Library) in the lower center. Google digitization mark at the bottom.]",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Carimbo circular de propriedade da Bibliotheca Amstelaedamensis (Biblioteca de Amsterdã), com brasão central, localizado na parte inferior central da página.",
+      "description_en": "Circular ownership stamp of the Bibliotheca Amstelaedamensis (Amsterdam Library), with a central coat of arms, located in the lower-center portion of the page."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página essencialmente em branco (verso da página de rosto ou folha de guarda); nenhum texto substantivo legível.",
+    "Marcas de offset visíveis no topo sugerem texto de página oposta sangrando através do papel, mas não constituem texto desta página."
+  ],
+  "notes": "Esta é uma página em branco típica de frontmatter — provavelmente o verso da página de rosto ou uma folha de guarda do exemplar da Biblioteca de Amsterdã digitalizado pelo Google. Não há conteúdo textual a transcrever. As únicas marcas identificáveis são: (1) offset de tinta do recto oposto (talvez vestígios das letras maiúsculas do título, mas ilegíveis); (2) o carimbo de propriedade da biblioteca; (3) a marca d'água digital do Google.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7444,
+    "output_tokens": 812,
+    "stop_reason": "end_turn"
+  }
+}

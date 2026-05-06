@@ -1,0 +1,98 @@
+```json
+{
+  "page": 122,
+  "page_type": "mixed",
+  "latin": "CANONVM ISAGOGICORVM\n\nCANON QVARTVSDECIMVS.\n\nDato anno Gelalaeo Sultaneo Melic-Sa, neomeniam Pharauardin in diebus Iulianis designare.\n\nDies προηγήσεως proxime inuentos abijce a prisca Epocha Iuliana. Epocha Pharauardin est in meridie 14 diei Martij anno Christi 1079. Abiectis quatuor diebus προηγήσεως, neomenia Pharauardin anni Sultanici 513 deprehenditur in 9 Martij, feria 6, hor. 6. 998, a meridie, per Canon. 12. Hoc anno Christi 1604, idque propter bisextum. Nam anno superiore, erat 10 Martij, feria quinta: cuius character 5. 1. 118. hoc est feria quinta, hora 1. 118 post meridiem diei 10 Martij Iuliani.\n\nCANON QVINTVSDECIMVS.\n\nDato anno Gelalaeo Sultaneo Melic-Sa, characterem nouiluny Pharauardin inuenire.\n\nCollige numeros congruentes annis proxime minorib. in Tabula octaua ex parte Lunari, ingressu facto bis, aut amplius, si opus est. Aggregatum compone cum numero congruente reliquis annis expansis in Tabula septima, in parte Lunari. Numerus proxime minor 513 duplici ingressu 380, & 133 colligit 2. 14. 945. quibus adiice 13 expansos de Tabula septima, 1. 3. 653. Componitur nouilunium Pharauardin, 3. 18. 518. hoc est feria quarta: quia nouilunium excedit 18 horas. Ideo aio nouilunium ciuile Pharauardin anni Sultanici propositi 526 commissum fuisse feria 4.\n\n380 | 4 19 20\n133 | 4 19 925\n513 | 2 14 945\n13  | 1  3 653\n----|------------\n    | 3 18 518\n\nCANON SEXTVSDECIMVS.\n\nDato anno Sultanico, ὑπόλειψιν σεληναϊκὴν scire.\n\nIisdem annis, quibus in superiore Canone, collige numeros congruentes ex posteriore membro partis Lunaris in Tabula octaua. Colliguntur ὑπολείψεως σεληναϊκῆς dies 2. hor. 7. 945. Hoc est, ab anno Christi 1079, quo edicto Sultan Melic-Sa haec aera sancita est, nouilunium biduo gradum fecit in consequentia dierum Pharauardin.\n\n380 | 1 17 420\n133 | 0 14 525\n----|------------\n513 | 2  7 945\n\nCANON DECIMVSSEPTIMVS.\n\nDato anno Sultaneo, epactam inuenire.\n\nὙπόλειψιν σεληναϊκὴν aufer ab epacta anni expansi in Tabula septima. Epacta in Tabula septima e regione anni expansi 13, est 20. deducto hypolipseos incremento, hoc est duobus diebus per proximum Canonem repertis, remanet epacta Lunaris 18, quae notata est in 12 die Pharauardin.\n\nCANON DECIMVSOCTAVVS.\n\nDatam Epactam aequare.\n\nAdde characterem anni regulari diei, cui Epacta respondet. Si nouilunium conuenit cum eodem charactere, non opus est castigatione. Sin autem, qui proxime dies eandem habebit feriam cum nouilunio, epacta illi respondens ea est Epacta aequata, quae per totum annum nouilunium ciuile indicabit. Character anni ex Canone duodecimo est 6, qui cum regulari 12 diei Pharauardin (id est cum 4, qui est character Augustorum. Nam idem character communis est annis Augustorum, & Gelalaeis) abiectis 7, relinquit feriam 3 a meridie 12 diei Pharauardin. Sed quia nouilunium vetus est, ut pote quod attigerit horas 18, & amplius, ideo non est feria tertia, sed quarta. Proinde epacta in posterum diem transferenda. quae erit 17, & nouilunium per totum annum indicabit.\n\nI SCHOLION. Feria quidem incipit a meridie astronomice, sed ciuiliter a Sole occaso. Ideo a meridie 12 diei Pharauardin, hoc est, 20 Martij, commissa est feria quarta nouiluny. sed incipit a Sole occaso ciuiliter.\n\nII SCHOLION. Tabulas 7, & 8 ex enneadecaeteridibus ideo construximus, ut characterem, & προήγησιν anni dati, item characterem nouiluny, & ὑπόλειψιν σεληναϊκὴν eadem opera expedires; cuius exemplum infra subiecimus.\n\nPARS",
+  "pt": "CÂNONES ISAGÓGICOS\n\nCÂNON DÉCIMO QUARTO.\n\nDado um ano gelaleano sultânico de Melic-Sa, designar a *neomenia* de Pharauardin em dias julianos.\n\nSubtraia os dias de προήγησις (precessão) mais próximos encontrados a partir da antiga *Epocha* Juliana. A *Epocha* de Pharauardin está ao meio-dia de 14 de março do ano de Cristo 1079. Subtraídos quatro dias de προήγησις, a *neomenia* de Pharauardin do ano sultânico 513 é encontrada em 9 de março, feira 6 (sexta-feira), hora 6.998 após o meio-dia, pelo Cânon 12. Isto no ano de Cristo 1604, e isso por causa do ano bissexto. Pois no ano anterior, era 10 de março, feira quinta: cujo caractere é 5.1.118, isto é, feria quinta, hora 1.118 depois do meio-dia do dia 10 de março juliano.\n\nCÂNON DÉCIMO QUINTO.\n\nDado um ano gelaleano sultânico de Melic-Sa, encontrar o caractere do novilúnio de Pharauardin.\n\nReúna os números correspondentes aos anos próximos menores na Tabela oitava, na parte lunar, fazendo entrada duas ou mais vezes, se necessário. Componha o agregado com o número correspondente aos demais anos expansos na Tabela sétima, na parte lunar. O número próximo menor 513, com dupla entrada 380 e 133, dá 2.14.945; a estes acrescente 13 expansos da Tabela sétima, 1.3.653. Compõe-se o novilúnio de Pharauardin: 3.18.518, isto é, feria quarta (quarta-feira): porque o novilúnio excede 18 horas. Por isso digo que o novilúnio civil de Pharauardin do ano sultânico proposto 526 ocorreu na feria 4.\n\nCÂNON DÉCIMO SEXTO.\n\nDado um ano sultânico, conhecer a ὑπόλειψις σεληναϊκή (omissão lunar).\n\nNos mesmos anos do Cânon anterior, reúna os números correspondentes da parte posterior do segmento lunar na Tabela oitava. Reúnem-se 2 dias, hora 7.945 de ὑπόλειψις σεληναϊκή. Isto é, desde o ano de Cristo 1079, quando esta era foi sancionada por edito do Sultão Melic-Sa, o novilúnio avançou dois dias na sequência dos dias de Pharauardin.\n\nCÂNON DÉCIMO SÉTIMO.\n\nDado um ano sultânico, encontrar a *epacta*.\n\nSubtraia a ὑπόλειψις σεληναϊκή da *epacta* do ano expanso na Tabela sétima. A *epacta* na Tabela sétima na linha do ano expanso 13 é 20; deduzido o incremento da hipólipse, isto é, dois dias encontrados pelo Cânon precedente, resta a *epacta* lunar 18, que está marcada no dia 12 de Pharauardin.\n\nCÂNON DÉCIMO OITAVO.\n\nIgualar a *epacta* dada.\n\nAdicione o caractere do ano ao caractere regular do dia ao qual a *epacta* responde. Se o novilúnio coincide com o mesmo caractere, não é necessária correção. Caso contrário, qualquer dia próximo que tiver a mesma feria que o novilúnio, a *epacta* correspondente é a *Epacta* igualada, que indicará o novilúnio civil durante todo o ano. O caractere do ano pelo Cânon doze é 6, o qual com o regular do dia 12 de Pharauardin (isto é, com 4, que é o caractere de Augustos. Pois o mesmo caractere é comum aos anos de Augustos e aos gelaleanos), subtraídos 7, deixa a feria 3 ao meio-dia do dia 12 de Pharauardin. Mas porque o novilúnio é velho, dado que atingiu 18 horas e mais, por isso não é feria terça, mas quarta. Portanto a *epacta* deve ser transferida para o dia seguinte: será 17 e indicará o novilúnio durante todo o ano.\n\nI ESCÓLIO. A feria astronomicamente começa ao meio-dia, mas civilmente ao pôr-do-sol. Por isso, do meio-dia do dia 12 de Pharauardin, isto é, 20 de março, começou a feria quarta do novilúnio; mas civilmente começa ao pôr-do-sol.\n\nII ESCÓLIO. Construímos as Tabelas 7 e 8 a partir das *enneadecaeterides* para que pudesses obter de uma só vez o caractere e a προήγησις (precessão) do ano dado, bem como o caractere do novilúnio e a ὑπόλειψις σεληναϊκή; cujo exemplo apresentamos abaixo.\n\nPARTE",
+  "en": "ISAGOGIC CANONS\n\nCANON FOURTEEN.\n\nGiven a Jalali Sultanic year of Melic-Sa, to designate the *neomenia* of Pharauardin in Julian days.\n\nSubtract the nearest days of προήγησις (precession) found from the ancient Julian *Epocha*. The *Epocha* of Pharauardin is at noon of 14 March in the year of Christ 1079. With four days of προήγησις subtracted, the *neomenia* of Pharauardin of the Sultanic year 513 is found on 9 March, feria 6 (Friday), hour 6.998 after noon, by Canon 12. This is in the year of Christ 1604, and this on account of the leap year. For in the previous year, it was 10 March, feria fifth: whose character is 5.1.118, that is, fifth feria, hour 1.118 after noon of 10 March Julian.\n\nCANON FIFTEEN.\n\nGiven a Jalali Sultanic year of Melic-Sa, to find the character of the new moon of Pharauardin.\n\nGather the numbers corresponding to the nearest smaller years in the eighth Table on the Lunar side, entering twice or more if needed. Combine the aggregate with the number corresponding to the remaining expanded years in the seventh Table, on the Lunar side. The next smaller number 513, by double entry 380 and 133, yields 2.14.945; to these add 13 expanded from the seventh Table, 1.3.653. The new moon of Pharauardin is composed: 3.18.518, that is, feria fourth (Wednesday): because the new moon exceeds 18 hours. Therefore I say the civil new moon of Pharauardin of the proposed Sultanic year 526 fell on feria 4.\n\nCANON SIXTEEN.\n\nGiven a Sultanic year, to know the ὑπόλειψις σεληναϊκή (lunar omission).\n\nIn the same years as in the preceding Canon, gather the numbers corresponding to the latter member of the Lunar part in the eighth Table. There are gathered 2 days, hour 7.945 of ὑπόλειψις σεληναϊκή. That is, from the year of Christ 1079, when this era was sanctioned by edict of Sultan Melic-Sa, the new moon advanced two days in the sequence of the days of Pharauardin.\n\nCANON SEVENTEEN.\n\nGiven a Sultanic year, to find the *epacta*.\n\nSubtract the ὑπόλειψις σεληναϊκή from the *epacta* of the expanded year in the seventh Table. The *epacta* in the seventh Table on the line of expanded year 13 is 20; with the increment of hypolipsis deducted, that is, the two days found by the preceding Canon, there remains the Lunar *epacta* 18, which is marked on the 12th day of Pharauardin.\n\nCANON EIGHTEEN.\n\nTo equate the given *Epacta*.\n\nAdd the character of the year to the regular character of the day to which the *Epacta* responds. If the new moon agrees with the same character, no correction is needed. But otherwise, whichever next day has the same feria as the new moon, the *epacta* corresponding to it is the equated *Epacta*, which will indicate the civil new moon throughout the year. The character of the year by the twelfth Canon is 6, which with the regular of the 12th day of Pharauardin (that is, with 4, which is the character of the Augusti. For the same character is common to the years of the Augusti and the Jalali years), with 7 subtracted, leaves feria 3 from noon of the 12th day of Pharauardin. But because the new moon is old, having reached 18 hours and more, therefore it is not the third feria but the fourth. Therefore the *epacta* must be transferred to the following day: it will be 17, and will indicate the new moon throughout the year.\n\nI SCHOLION. Feria astronomically begins at noon, but civilly at sunset. Therefore from noon of the 12th day of Pharauardin, that is, 20 March, the fourth feria of the new moon began; but civilly it begins at sunset.\n\nII SCHOLION. We constructed Tables 7 and 8 from the *enneadecaeterides* so that you might at the same time obtain the character and προήγησις (precession) of the given year, as well as the character of the new moon and the ὑπόλειψις σεληναϊκή; an example of which we subjoin below.\n\nPART",
+  "tables": [
+    {
+      "caption_pt": "Cânon 15: cálculo do novilúnio de Pharauardin para o ano sultânico 526 (entrada dupla 380+133, mais ano expanso 13, somando o ano-base 513)",
+      "caption_en": "Canon 15: computation of the new moon of Pharauardin for Sultanic year 526 (double entry 380+133, plus expanded year 13, totaling base year 513)",
+      "markdown": "| Anos | dias | horas | frações |\n|---|---|---|---|\n| 380 | 4 | 19 | 20 |\n| 133 | 4 | 19 | 925 |\n| 513 | 2 | 14 | 945 |\n| 13  | 1 |  3 | 653 |\n| **Total** | **3** | **18** | **518** |"
+    },
+    {
+      "caption_pt": "Cânon 16: cálculo da ὑπόλειψις σεληναϊκή para o ano sultânico 513",
+      "caption_en": "Canon 16: computation of ὑπόλειψις σεληναϊκή for Sultanic year 513",
+      "markdown": "| Anos | dias | horas | frações |\n|---|---|---|---|\n| 380 | 1 | 17 | 420 |\n| 133 | 0 | 14 | 525 |\n| **513** | **2** | **7** | **945** |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Hypolipsis selēniakē (ὑπόλειψις σεληναϊκή)",
+      "definition_pt": "Omissão ou regressão lunar: a quantidade pela qual o novilúnio recua na sequência dos dias do calendário de Pharauardin a partir da época de fundação da era (1079 d.C.). Para o ano 513 sultânico, o novilúnio avançou dois dias e cerca de 7h.945 nos dias de Pharauardin.",
+      "definition_en": "Lunar omission or regression: the amount by which the new moon recedes in the sequence of days of the Pharauardin calendar from the foundation epoch of the era (AD 1079). For Sultanic year 513, the new moon advanced two days and about 7h.945 in the days of Pharauardin."
+    },
+    {
+      "term": "Proēgēsis (προήγησις)",
+      "definition_pt": "Precessão ou avanço: dias a serem subtraídos da *Epocha* Juliana para alinhar a *neomenia* de Pharauardin com o calendário juliano.",
+      "definition_en": "Precession or advance: days to be subtracted from the Julian *Epocha* to align the Pharauardin *neomenia* with the Julian calendar."
+    },
+    {
+      "term": "Epacta aequata",
+      "definition_pt": "Epacta igualada: a *epacta* corrigida que, somada ao caractere regular do dia, faz coincidir corretamente a feria do novilúnio civil com a do dia indicado, válida para todo o ano.",
+      "definition_en": "Equated *epacta*: the corrected *epacta* which, added to the regular character of the day, correctly makes the feria of the civil new moon coincide with that of the indicated day, valid for the entire year."
+    },
+    {
+      "term": "Feria (astronomice vs civiliter)",
+      "definition_pt": "Astronomicamente, a feria começa ao meio-dia; civilmente, começa ao pôr-do-sol. Distinção essencial para datar corretamente o início do dia litúrgico ou calendárico.",
+      "definition_en": "Astronomically, the feria begins at noon; civilly, it begins at sunset. An essential distinction for correctly dating the start of the liturgical or calendrical day."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Canon XII (deste mesmo livro)",
+      "context": "neomenia Pharauardin... per Canon. 12"
+    },
+    {
+      "type": "internal",
+      "target": "Canon XII",
+      "context": "Character anni ex Canone duodecimo est 6"
+    },
+    {
+      "type": "internal",
+      "target": "Canon XVI (precedente)",
+      "context": "deducto hypolipseos incremento... per proximum Canonem repertis"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula VII et VIII (deste livro)",
+      "context": "Tabulas 7, & 8 ex enneadecaeteridibus ideo construximus"
+    },
+    {
+      "type": "internal",
+      "target": "infra (exemplo subsequente)",
+      "context": "cuius exemplum infra subiecimus"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Novilúnio (neomenia) de Pharauardin do ano sultânico 513, encontrado em 9 de março de 1604, sexta-feira (feria 6), 6.998 horas após o meio-dia.",
+      "historical_date_as_cited": "anno Sultanico 513 = anno Christi 1604, 9 Martii Iuliani",
+      "ancient_source": "calculado por Scaliger via Cânon 12 e Tabelas 7-8"
+    },
+    {
+      "type": "other",
+      "description": "Novilúnio civil de Pharauardin do ano sultânico 526, ocorrido na feria 4 (quarta-feira), composição 3.18.518.",
+      "historical_date_as_cited": "anno Sultanico 526",
+      "ancient_source": "Scaliger, calculado"
+    },
+    {
+      "type": "other",
+      "description": "Promulgação da era Jalali (gelaleana) por edito do Sultão Melic-Sa.",
+      "historical_date_as_cited": "anno Christi 1079, meridie 14 Martii",
+      "ancient_source": "Scaliger (épocha de Pharauardin)"
+    }
+  ],
+  "uncertainty_flags": [
+    "O numeral romano da data 'in meridie XIIII diei Martij' está parcialmente apagado no scan; lido como 14 (XIIII) com base no contexto da Epocha Jalali (15 de março 1079 é a data tradicional, mas Scaliger aqui parece dizer 14 ao meio-dia, o que astronomicamente equivale).",
+    "A leitura 'MDCIIII' (1604) está com macron; confirmada pelo contexto (ano sultânico 513 = 1604 d.C.).",
+    "Os números de horas/frações na Tabela do Cânon 15 (ex.: '4 19 20', '4 19 925') seguem notação sexagesimal mista de Scaliger (dias-horas-minutas/segundos); preservados literalmente.",
+    "A discrepância entre 513 (texto) e 526 (conclusão) precisa de atenção: Scaliger refere-se ao ano sultânico 526 como o resultado final, mas o cálculo aparente parte do ano 513. Pode ser deliberado (ano 513 expanso + 13 expansos = 526)."
+  ],
+  "notes": "Esta página apresenta uma sequência cerrada de cinco cânones (XIV-XVIII) sobre o calendário Jalali (gelaleano) instituído por Sultão Malik-Shah em 1079 d.C., baseado nas tabelas astronômicas de Omar Khayyam. Scaliger trata: (XIV) conversão de neomenia de Pharauardin — primeiro mês persa — para dias julianos; (XV-XVI) cálculo do caractere do novilúnio e da hipólipse lunar via tabelas de enneadecaeteris; (XVII-XVIII) determinação e equalização da epacta. O uso de termos gregos técnicos (προήγησις, ὑπόλειψις σεληναϊκή) é típico do estilo erudito de Scaliger, que mistura terminologia helenística-bizantina com cálculos islâmico-persas. A distinção astronômica/civil do início da feria no Escólio I é importante para a tradição cronológica. As tabelas numéricas em três colunas (dias, horas, frações de hora) seguem a estrutura sexagesimal das tabelas alfonsinas/ptolemaicas. O cálculo final 3.18.518 com feria 4 e o ajuste +1 dia para a epacta refletem a regra de que se o novilúnio ocorre após 18h, o caractere passa para o dia seguinte — princípio análogo à regra dos *limites lunationis* das tábuas pascais."
+}
+```

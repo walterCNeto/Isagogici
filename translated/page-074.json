@@ -1,0 +1,55 @@
+{
+  "page": 74,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\nCAPUT SEXTUM.\nKALENDARIUM IUDAICUM.\n\nI Tisri plenus VII.    II Marches cavus VIII.    III Caslev plenus IX.\n\n1 Clangor tubae.\n2\n3 Ieiunium Godoliae. Caeditur Godolias filius Ahicam una cum Iudaeis, qui cum eo erant in Mazpa.\n4\n5 Ieiunium. Moriuntur xx Israelitae. Rabbi Akiba filius Ioseph conijcitur in vincula, ubi moritur.\n6\n7 Ieiunium. Decretum contra Patres nostros, ut perirent gladio, fame, ac peste, propter vitulum fabricatum.\n8\n9\n10 Ieiunium Kippurim.\n11\n12\n13\n14\n15 Scenopegia.\n16\n17\n18\n19\n20\n21 ἡ ὀσχοφορία.\n22 Octava scenopegias.\n23 Festivitas legis.\n24\n25\n26\n27\n28\n29\n30\n\n[Marches cavus, dies 1-29:]\n7 Ieiunium. Exoecarunt oculos Sedekiae, & filios eius coram eo iugularunt.\n0 Intercalatur dies una in anno pleno, sive abundanti. ἐμβόλιμος ἡμέρα anni abundantis.\n\n[Caslev plenus, dies 1-30:]\n25 Encaenia.\n28 Ieiunium. Ioiakim combussit volumen, quod scripserat Baruch, dictante Ieremia.\n30 Eximitur dies in anno defectivo. ἐξαιρέσιμος ἡμέρα anni defectivi.\n\nKALEN-",
+  "pt": "CÂNONES ISAGÓGICOS\nCAPÍTULO SEXTO.\nCALENDÁRIO JUDAICO.\n\nI Tisri pleno VII.    II Marchesvan cavo VIII.    III Caslev pleno IX.\n\n[Tisri:]\n1. Toque da trombeta (Clangor tubae).\n3. Jejum de Gedalias. É morto Gedalias, filho de Aicam, juntamente com os judeus que estavam com ele em Mizpá.\n5. Jejum. Morrem 20 israelitas. Rabbi Akiba, filho de José, é lançado nas prisões, onde morre.\n7. Jejum. Decreto contra nossos Pais, para que perecessem pela espada, fome e peste, por causa do bezerro fabricado.\n10. Jejum de Kippurim.\n15. Scenopegia (Festa dos Tabernáculos).\n21. ἡ ὀσχοφορία (a oscoforia).\n22. Oitava de Scenopegia.\n23. Festividade da Lei (Simchat Torah).\n\n[Marchesvan:]\n7. Jejum. Cegaram os olhos de Sedequias, e degolaram seus filhos diante dele.\n0. Intercala-se um dia no ano pleno, ou abundante. ἐμβόλιμος ἡμέρα — dia intercalar do ano abundante.\n\n[Caslev:]\n25. Encaenia (Dedicação, Hanukkah).\n28. Jejum. Joaquim queimou o rolo que Baruque escrevera, ditando Jeremias.\n30. Suprime-se o dia no ano defectivo. ἐξαιρέσιμος ἡμέρα — dia suprimido do ano defectivo.\n\nKALEN-",
+  "en": "ISAGOGIC CANONS\nCHAPTER SIX.\nJEWISH CALENDAR.\n\nI Tishri full VII.    II Marcheshvan hollow VIII.    III Kislev full IX.\n\n[Tishri:]\n1. Blowing of the trumpet (Clangor tubae).\n3. Fast of Gedaliah. Gedaliah, son of Ahikam, is killed together with the Jews who were with him at Mizpah.\n5. Fast. 20 Israelites die. Rabbi Akiba, son of Joseph, is cast into prison, where he dies.\n7. Fast. Decree against our Fathers, that they should perish by sword, famine, and pestilence, on account of the fabricated calf.\n10. Fast of Kippurim.\n15. Scenopegia (Feast of Tabernacles).\n21. ἡ ὀσχοφορία (the oschophoria).\n22. Octave of Scenopegia.\n23. Festival of the Law (Simchat Torah).\n\n[Marcheshvan:]\n7. Fast. They blinded the eyes of Zedekiah, and slaughtered his sons before him.\n0. One day is intercalated in the full or abundant year. ἐμβόλιμος ἡμέρα — intercalary day of the abundant year.\n\n[Kislev:]\n25. Encaenia (Dedication, Hanukkah).\n28. Fast. Jehoiakim burned the scroll which Baruch had written at the dictation of Jeremiah.\n30. The day is removed in the defective year. ἐξαιρέσιμος ἡμέρα — removed day of the defective year.\n\nKALEN-",
+  "tables": [
+    {
+      "caption_pt": "Calendário Judaico — primeiros três meses: Tisri (pleno, 30 dias, 7º mês civil/VII eclesiástico), Marchesvan (cavo, 29 dias, VIII), Caslev (pleno, 30 dias, IX)",
+      "caption_en": "Jewish Calendar — first three months: Tishri (full, 30 days, 7th civil/VII ecclesiastical), Marcheshvan (hollow, 29 days, VIII), Kislev (full, 30 days, IX)",
+      "markdown": "| Dia | I Tisri (plenus, VII) | II Marches (cavus, VIII) | III Caslev (plenus, IX) |\n|-----|----------------------|--------------------------|--------------------------|\n| 1 | Clangor tubae | — | — |\n| 2 | — | — | — |\n| 3 | Ieiunium Godoliae | — | — |\n| 4 | — | — | — |\n| 5 | Ieiunium (xx Israelitae; R. Akiba) | — | — |\n| 6 | — | — | — |\n| 7 | Ieiunium (vitulum fabricatum) | Ieiunium (oculos Sedekiae) | — |\n| 8 | — | — | — |\n| 9 | — | — | — |\n| 10 | Ieiunium Kippurim | — | — |\n| 11–14 | — | — | — |\n| 15 | Scenopegia | — | — |\n| 16–20 | — | — | — |\n| 21 | ἡ ὀσχοφορία | — | — |\n| 22 | Octava scenopegias | — | — |\n| 23 | Festivitas legis | — | — |\n| 24 | — | — | — |\n| 25 | — | — | Encaenia |\n| 26–27 | — | — | — |\n| 28 | — | — | Ieiunium (Ioiakim combussit volumen) |\n| 29 | — | (último dia em ano comum) | — |\n| 0/30 | — | dies intercalaris (anno pleno) ἐμβόλιμος ἡμέρα | dies eximitur (anno defectivo) ἐξαιρέσιμος ἡμέρα |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "ἐμβόλιμος ἡμέρα (dies embolimos)",
+      "definition_pt": "Dia adicional intercalado em Marchesvan no *annus plenus / abundans* judaico, fazendo o mês passar de 29 para 30 dias.",
+      "definition_en": "Additional day intercalated in Marcheshvan during the Jewish *annus plenus / abundans*, making the month run from 29 to 30 days."
+    },
+    {
+      "term": "ἐξαιρέσιμος ἡμέρα (dies exairesimos)",
+      "definition_pt": "Dia suprimido em Caslev no *annus defectivus* judaico, reduzindo o mês de 30 para 29 dias.",
+      "definition_en": "Day removed in Kislev during the Jewish *annus defectivus*, reducing the month from 30 to 29 days."
+    },
+    {
+      "term": "Mensis plenus / cavus",
+      "definition_pt": "No calendário judaico, mês *plenus* = 30 dias; mês *cavus* = 29 dias. Tisri e Caslev são plenos; Marchesvan é cavo (mas variável conforme o tipo de ano: pleno, comum ou defectivo).",
+      "definition_en": "In the Jewish calendar, *plenus* month = 30 days; *cavus* month = 29 days. Tishri and Kislev are full; Marcheshvan is hollow (but variable according to year type: full, common, or defective)."
+    },
+    {
+      "term": "Scenopegia",
+      "definition_pt": "Festa dos Tabernáculos (Sukkot), iniciada em 15 de Tisri.",
+      "definition_en": "Feast of Tabernacles (Sukkot), beginning on 15 Tishri."
+    },
+    {
+      "term": "Encaenia",
+      "definition_pt": "Festa da Dedicação do Templo (Hanukkah), iniciada em 25 de Caslev.",
+      "definition_en": "Feast of the Dedication of the Temple (Hanukkah), beginning on 25 Kislev."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A numeração no topo da tabela ('VII', 'VIII', 'IX') indica a ordem eclesiástica dos meses contando desde Nisan; a numeração 'I, II, III' refere-se à ordem civil desde Tisri. Confirmar pela continuação nas páginas seguintes.",
+    "O termo grego 'ἡ ὀσχοφορία' em 21 Tisri é peculiar: oscoforia é festival ático, não judaico — provavelmente Scaliger usa o termo grego como gloss aproximativo para Hoshana Rabbah. Verificar interpretação."
+  ],
+  "notes": "Esta página apresenta a primeira parte do *Kalendarium Iudaicum* de Scaliger, abrangendo os três primeiros meses civis judaicos (Tisri, Marchesvan, Caslev). A estrutura tripartite das colunas mostra o sistema de meses *pleni* (30 dias) e *cavi* (29 dias) e o mecanismo de ajuste anual: em ano *abundans/plenus*, intercala-se um dia em Marchesvan (que se torna pleno); em ano *defectivus*, suprime-se um dia em Caslev (que se torna cavo). O ano comum (*ordinarius*) mantém Marchesvan com 29 e Caslev com 30. Scaliger inclui comemorações bíblicas (jejuns de Gedalias, Kippur, queima do rolo por Joaquim) e talmúdicas/midrásicas (jejum por Akiba ben Yosef, jejum pelo bezerro de ouro) — fontes prováveis: Megillat Ta'anit e o Shulchan Aruch. O uso do grego 'ὀσχοφορία' para 21 Tisri é interpretativo de Scaliger (helenização de Hoshana Rabbah).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4092,
+    "stop_reason": "end_turn"
+  }
+}

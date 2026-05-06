@@ -1,0 +1,40 @@
+{
+  "page": 5,
+  "page_type": "frontmatter",
+  "latin": "JOSEPHI JUSTI SCALIGERI Julii Caesaris a Burden Filii ISAGOGICORUM CHRONOLOGIAE CANONUM LIBRI TRES; In quibus OPERIS DE EMENDATIONE TEMPORUM Doctrinae totius praecepta demonstrative traduntur, ac multa praeterea hactenus non vulgata docentur. Editio novissima, multifariam aucta & emendata ab ipso dum viveret Auctore. ARISTOPHANIS. Εὐφημεῖν χρὴ, κἀξίστασθαι τοῖς ἡμετέροισι χοροῖσιν, Ὅστις ἄπειρος τῶνδε λόγων, ἢ γνώμην μὴ καθαρεύει, Ἢ γενναίων ὄργια Μουσῶν μήτ' εἶδε πω, μήτ' ἐχόρευσε. Ἐλευθερίων μαθημάτων καὶ παντοδαπῆς παιδείας ἀμυήτος μήτις εἰσίτω. AMSTELODAMI, Apud Joannem Janssonium. cIↃ IↃc LVIII.",
+  "pt": "JOSEPH JUSTUS SCALIGER, filho de Júlio César [Scaliger] de Burden — Três livros dos *Isagogicorum Chronologiae Canonum* [Cânones Introdutórios da Cronologia]; nos quais se transmitem demonstrativamente os preceitos de toda a doutrina da Obra *De Emendatione Temporum*, e ainda se ensinam muitas coisas até agora não divulgadas. Edição novíssima, em vários pontos ampliada e emendada pelo próprio Autor enquanto vivia. DE ARISTÓFANES: \"Convém guardar silêncio reverente e afastar-se dos nossos coros, todo aquele que é inexperiente nestas palavras, ou cuja mente não é pura, ou que jamais viu nem dançou os mistérios das nobres Musas. Que ninguém entre não-iniciado nas artes liberais e na educação multifária.\" AMESTERDÃO, junto a Johannes Janssonius, 1658.",
+  "en": "JOSEPH JUSTUS SCALIGER, son of Julius Caesar [Scaliger] of Burden — Three books of *Isagogicorum Chronologiae Canonum* [Introductory Canons of Chronology]; in which the precepts of the entire doctrine of the work *De Emendatione Temporum* are demonstratively transmitted, and many things hitherto not made public are taught. Newest edition, in many places augmented and emended by the Author himself while he lived. FROM ARISTOPHANES: \"One must keep reverent silence and stand away from our choruses, whoever is inexperienced in these words, or whose mind is not pure, or who has never seen or danced the rites of the noble Muses. Let no one uninitiated in the liberal arts and manifold learning enter.\" AMSTERDAM, at Johannes Janssonius, 1658.",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Marca tipográfica do impressor Johannes Janssonius: uma esfera armilar central sobre pedestal, ladeada por dois homens (à esquerda um com pá, à direita outro apontando para o céu) e encimada por uma figura alada (anjo ou Fama) segurando filactérios. Imagem emblemática que associa a casa editorial ao saber astronômico-cosmográfico.",
+      "description_en": "Printer's device of Johannes Janssonius: a central armillary sphere on a pedestal, flanked by two men (on the left one with a spade, on the right one pointing to the sky) and topped by a winged figure (angel or Fame) holding scrolls. Emblematic image associating the publishing house with astronomical-cosmographical knowledge."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [
+    {
+      "type": "external",
+      "target": "Opus de Emendatione Temporum (Scaliger, 1583/1598)",
+      "context": "Operis de Emendatione Temporum doctrinae totius praecepta demonstrative traduntur"
+    },
+    {
+      "type": "external",
+      "target": "Aristófanes, Rãs vv. 354-356 (paráfrase do κήρυγμα dos iniciados)",
+      "context": "Epígrafe grega: Εὐφημεῖν χρὴ, κἀξίστασθαι τοῖς ἡμετέροισι χοροῖσιν..."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A data de impressão indicada no frontispício é cIↃ IↃc LVIII = 1658, ou seja, edição póstuma de Amesterdão (Janssonius), e não a editio princeps de Leiden 1606 mencionada no prompt do sistema.",
+    "Algumas formas gregas no scan apresentam acentuação e ortografia humanistas peculiares (ex.: ἡμελέροισι por ἡμετέροισι; καθαρεύει em vez do esperado καθαρεύῃ); transcrição normalizada para o ático padrão.",
+    "Segunda epígrafe grega ('Ἐλευθερίων μαθημάτων...') parece ser fórmula de exclusão dos não-iniciados nos mistérios, possivelmente paráfrase ou continuação livre, não verso direto de Aristófanes."
+  ],
+  "notes": "Folha de rosto da edição de Amesterdão de 1658 (Joannes Janssonius), edição póstuma e ampliada dos *Isagogici Canones* — originalmente publicados como apêndice/continuação do *Thesaurus Temporum* (1606). O título completo identifica os três livros como manual demonstrativo (more geometrico) que sistematiza a doutrina dispersa do *De Emendatione Temporum*. A epígrafe aristofânica funciona como gesto programático: a cronologia científica é tratada como mistério reservado a iniciados nas artes liberais — topos humanista que Scaliger emprega para legitimar a disciplina nova que está fundando. A filiação 'Julii Caesaris a Burden Filii' reivindica linhagem do pai Julius Caesar Scaliger (de Bordenburg/Verona). Data: cIↃ IↃc LVIII = MDCLVIII = 1658.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 2277,
+    "stop_reason": "end_turn"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "page": 388,
+  "page_type": "frontmatter",
+  "latin": "",
+  "pt": "",
+  "en": "",
+  "tables": [],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página em branco (verso ou folha de guarda) na digitalização Google Books; apenas manchas, marcas de tinta e a marca d'água 'Digitized by Google' são visíveis."
+  ],
+  "notes": "Página sem texto. Trata-se aparentemente de uma folha em branco do exemplar digitalizado pelo Google Books, com sujidades, pontos de tinta e uma faixa escura vertical na margem direita (provavelmente sombra da lombada ou borrão do scanner). No canto inferior direito aparece a marca 'Digitized by Google'. Nenhum conteúdo textual, tabela ou figura para transcrever.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7444,
+    "output_tokens": 342,
+    "stop_reason": "end_turn"
+  }
+}

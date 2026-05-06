@@ -1,0 +1,104 @@
+```json
+{
+  "page": 270,
+  "page_type": "mixed",
+  "latin": "CANONUM ISAGOGICORUM\n\nTABULA PRIOR.    TABULA POSTERIOR.\n\n[Tabula prior: Anni Nabonass. | Cyclus Solis | Litera Dominic. | Charact. Thoth. | Dies Febr. | Litera dierum Febr.]\n[Tabula posterior: Dies Febr. ordinarii | CB | ED | GF | Dies Feb. bisextilis | Litera dierum Febr.]\n\ninsititia F. insititiam enim esse tum prius exemplum ostendit, tum huius anni Thoth. quia si F est feria septima, ergo de duabus literis G prior nondum mutata est, sed adhuc currit pro litera Dominicali. Itaque rectissime Romana Ecclesia annum primum cycli Solis instituit eum, in quo litera duplex GF est in lustro Iuliano, quarum F incipit cyclum Solis a XXIIII Februarii, quae secundum ordinarium usum est VI Kal. Martii. Igitur F prius est intercalare, posterius ordinarium. In Valentiniani tamen Augusti inauguratione posterius F dicitur bisextile & inauspicatum κατὰ χρῆσιν δημοτικῇ καὶ κατ' ἰδιωτισμόν, quomodo Mercedinus non vocabatur mensis intercalaris, sed posterior mensis XXVIII dierum, qui profecto est Februarius ordinarius. Haec accuratius demonstranda fuerunt, tum ob lubricam & errori opportunam methodum annorum vagorum, tum etiam quia antea a nemine demonstrata, & an scio an alicui certo cognita haec fuerunt. At ita quidem in anno Nabonassari. Nam aliter habet in annis Armeniorum & Iezdegird, qui inceperunt ab anno primo lustri Iuliani, Thoth autem primus Nabonassari incidit in annum tertium. Ideo methodi diversae, & proinde etiam peritissimis fraudem facere possunt.\n\nDEFINITIONES.\n\nἔτος κυνικόν.] Quemadmodum quadriennium Aegyptiacum est dierum 1460, ita magna periodus Canicularis est annorum Iulianorum 1460. Rursus quemadmodum lustrum Iulianum est dierum 1461, ita maxima periodus Canicularis est annorum Aegyptiacorum 1461. Quadriennium autem vocabant ἔτος ἡλιακὸν μικρόν, quia unus dies intercalabatur, non utique in civilium dierum usu, in quo annus est semper dierum duntaxat 365, sed in mente, καὶ ἐνδιαθέτως. quod ita faciebant. Primus annus lustri vocabatur Σῶθις, secundus Ἶσις, tertius Ὄσιρις, quartus Ὧρος. Postquam confecta periodo annorum 1461, qui erat magnus annus Canicularis, & Thoth reversus erat ad eandem diem Iulianam, tunc neomenia lustri Canicularis incipiebat a nocte, quae post meridiem τῶν ἐπαγομένων sequebatur, oriente Canicula ἀκρονύχως, quam Σῶθιν vocabant, nocte, quae Thoth antecedebat. Et totus ille annus vocabatur Σῶθις, id est Canicula. Anno sequente eadem nocte, quae Thoth antecedebat, observabant ortum caniculae, qui utique non ἀκρονύχως, ut anno antecedente, sed media nocte oriebatur. Hinc incipiebant annum secundum lustri quem vocabant Ἶσιν. Anno tertio ortus Caniculae ante Solem eminebat, & hinc tertius annus lustri, cognomine Ὄσιρις incipiebat. Quarto anno ortus Caniculae non poterat videri, quia in meridie Aegypti in contraria parte alterius hemisphaerii oriebatur. Itaque a meridie Thoth incipiebat quartus annus lustri, qui dicitur Ὧρος. Quinto anno ineunte, iam confecto uno lustro, alterum lustrum a nocte, quae sequebatur meridiem Thoth, inibat, Canicula rursus ἀκρονύχως oriente. Itaque videmus, quomodo inter singulos annos lustri intericetus erat unus quadrans diei, & sine ullius diei integri intercalatione, sensim & quasi aliud cogitantibus unus dies subrepebat.\n\nQuum",
+  "pt": "CÂNONES ISAGÓGICOS\n\nTABELA ANTERIOR.    TABELA POSTERIOR.\n\n...F intercalar. Pois o exemplo precedente demonstra ser intercalar, assim como o Thoth deste ano. Porque, se F é a sétima feria, então das duas letras G a primeira ainda não foi mudada, mas continua a servir como letra Dominical. Por isso, com toda razão, a Igreja Romana estabeleceu como primeiro ano do *Cyclus Solis* aquele em que a letra dupla GF ocorre num *lustrum* Iuliano, das quais F começa o *Cyclus Solis* a 24 de fevereiro, que segundo o uso ordinário é VI Kal. Martii. Portanto, o F anterior é o intercalar, o posterior é o ordinário. Contudo, na inauguração de Valentiniano Augusto, o F posterior é dito bissextil e desauspicioso, segundo o uso popular e o costume vulgar (κατὰ χρῆσιν δημοτικῇ καὶ κατ' ἰδιωτισμόν), do mesmo modo como Mercedino não se chamava mês intercalar, mas o mês posterior de 28 dias, que de fato é o fevereiro ordinário. Foi necessário demonstrar isto com mais cuidado, tanto pelo método escorregadio e propenso a erros dos anos vagos, quanto porque antes ninguém o demonstrara, e nem sei se alguém conhecera isto com certeza. Mas é assim de fato no ano de Nabonassar. Pois de outro modo se passa nos anos dos Armênios e de Iezdegird, que começaram pelo primeiro ano do *lustrum* Iuliano, ao passo que o primeiro Thoth de Nabonassar cai no terceiro ano. Por isso os métodos são diversos e, consequentemente, podem enganar até os mais peritos.\n\nDEFINIÇÕES.\n\nἔτος κυνικόν (ano canicular).] Assim como o quadriênio egípcio é de 1460 dias, assim a grande *periodus Canicularis* é de 1460 anos Iulianos. E novamente, assim como o *lustrum* Iuliano é de 1461 dias, assim a máxima *periodus Canicularis* é de 1461 anos egípcios. Chamavam o quadriênio ἔτος ἡλιακὸν μικρόν (pequeno ano solar), porque um dia era intercalado, não no uso dos dias civis — no qual o ano é sempre apenas de 365 dias —, mas mentalmente e em pensamento (καὶ ἐνδιαθέτως). E o faziam assim: o primeiro ano do *lustrum* chamava-se Σῶθις (Sothis), o segundo Ἶσις (Isis), o terceiro Ὄσιρις (Osiris), o quarto Ὧρος (Horus). Concluído o período de 1461 anos, que era o grande ano canicular, e tendo o Thoth retornado ao mesmo dia Iuliano, então a *neomenia* do *lustrum* canicular começava na noite que seguia o meio-dia dos τῶν ἐπαγομένων (dias epagômenos), nascendo a Canícula ἀκρονύχως (acronicamente, ao pôr-do-sol), à qual chamavam Σῶθιν, na noite que precedia Thoth. E aquele ano inteiro chamava-se Σῶθις, isto é, Canícula. No ano seguinte, na mesma noite que precedia Thoth, observavam o nascer da Canícula, que então não nascia ἀκρονύχως, como no ano anterior, mas nascia à meia-noite. Daí começavam o segundo ano do *lustrum*, ao qual chamavam Ἶσιν. No terceiro ano o nascer da Canícula sobressaía antes do Sol, e por isso o terceiro ano do *lustrum*, com o cognome Ὄσιρις, começava. No quarto ano o nascer da Canícula não podia ser visto, porque ao meio-dia do Egito nascia na parte contrária do outro hemisfério. Assim, a partir do meio-dia de Thoth começava o quarto ano do *lustrum*, chamado Ὧρος. Iniciando-se o quinto ano, completo já um *lustrum*, outro *lustrum* começava a partir da noite que seguia o meio-dia de Thoth, nascendo de novo a Canícula ἀκρονύχως. Vemos, pois, como entre cada um dos anos do *lustrum* se interpunha um quadrante de dia e, sem intercalação de qualquer dia inteiro, paulatinamente e como que sem que se notasse, um dia ia se acumulando.\n\nQuando",
+  "en": "CANONS ISAGOGIC\n\nFORMER TABLE.    LATTER TABLE.\n\n...intercalary F. The preceding example shows it to be intercalary, as does the Thoth of this year. For if F is the seventh feria, then of the two letters G the prior has not yet been changed, but still serves as the Dominical letter. Therefore the Roman Church most rightly established as the first year of the *Cyclus Solis* that one in which the double letter GF occurs in a Julian *lustrum*, of which F begins the *Cyclus Solis* on 24 February, which according to ordinary usage is VI Kal. Martii. Therefore the prior F is intercalary, the latter ordinary. However, at the inauguration of Valentinian Augustus, the latter F is called bisextile and inauspicious, by popular usage and common idiom (κατὰ χρῆσιν δημοτικῇ καὶ κατ' ἰδιωτισμόν), just as Mercedinus was not called the intercalary month, but rather the later month of 28 days, which is in fact the ordinary February. These things had to be demonstrated more carefully, both because of the slippery and error-prone method of the wandering years, and because no one had demonstrated this before, nor do I know if anyone had certainly known it. But thus indeed it is in the year of Nabonassar. For it goes otherwise in the years of the Armenians and of Yazdegerd, which began from the first year of the Julian *lustrum*, whereas the first Thoth of Nabonassar falls in the third year. Hence the methods are diverse, and consequently can deceive even the most expert.\n\nDEFINITIONS.\n\nἔτος κυνικόν (canicular year).] Just as the Egyptian quadriennium is 1460 days, so the great *periodus Canicularis* is 1460 Julian years. Again, just as the Julian *lustrum* is 1461 days, so the maximum *periodus Canicularis* is 1461 Egyptian years. They called the quadriennium ἔτος ἡλιακὸν μικρόν (small solar year), because one day was intercalated, not indeed in the use of civil days—in which the year is always of only 365 days—but mentally and dispositionally (καὶ ἐνδιαθέτως). And they did it thus: the first year of the *lustrum* was called Σῶθις (Sothis), the second Ἶσις (Isis), the third Ὄσιρις (Osiris), the fourth Ὧρος (Horus). After the period of 1461 years was completed—which was the great canicular year—and Thoth had returned to the same Julian day, then the *neomenia* of the canicular *lustrum* began from the night that followed the noon of the τῶν ἐπαγομένων (epagomenal days), with the Dog Star rising ἀκρονύχως (acronychally, at sunset), which they called Σῶθιν, on the night preceding Thoth. And that whole year was called Σῶθις, that is, Canicula. In the following year, on the same night which preceded Thoth, they observed the rising of the Dog Star, which then did not rise ἀκρονύχως, as in the preceding year, but rose at midnight. From this they began the second year of the *lustrum*, which they called Ἶσιν. In the third year the rising of the Dog Star appeared before the Sun, and hence the third year of the *lustrum*, surnamed Ὄσιρις, began. In the fourth year the rising of the Dog Star could not be seen, because at noon in Egypt it rose on the opposite side of the other hemisphere. Therefore from the noon of Thoth began the fourth year of the *lustrum*, called Ὧρος. At the beginning of the fifth year, one *lustrum* now being completed, another *lustrum* began from the night following the noon of Thoth, with the Dog Star again rising ἀκρονύχως. Thus we see how between each year of the *lustrum* one quarter of a day was interposed, and without the intercalation of any whole day, gradually and as it were unnoticed, one day crept in.\n\nWhen",
+  "tables": [
+    {
+      "caption_pt": "Tabela anterior: correspondência entre anos de Nabonassar, *Cyclus Solis*, letra Dominical, característica de Thoth, dia de fevereiro e letra dos dias de fevereiro",
+      "caption_en": "Former table: correspondence between years of Nabonassar, *Cyclus Solis*, Dominical letter, character of Thoth, day of February, and letter of days of February",
+      "markdown": "| Anni Nabonass. | Cyclus Solis | Litera Dominic. | Charact. Thoth | Dies Febr. | Litera dierum Febr. |\n|---|---|---|---|---|---|\n| 1 | 19 | E | 4 | 26 | A |\n| 2 | 20 | D | 5 | 26 | A |\n| 3 | 21 | CB | 6 | 25 | G |\n| 4 | 22 | A | 7 | 25 | G |\n| 5 | 23 | G | 1 | 25 | G |\n| 6 | 24 | F | 2 | 25 | G |\n| 7 | 25 | ED | 3 | 25 | F posterius |\n| 8 | 26 | C | 4 | 24 | F prius |\n| 9 | 27 | B | 5 | 24 | F prius |\n| 10 | 28 | A | 6 | 24 | F prius |\n| 11 | 1 | GF | 7 | 24 | F prius |\n| 12 | 2 | E | 1 | 23 | E |"
+    },
+    {
+      "caption_pt": "Tabela posterior: dias ordinários de fevereiro com colunas CB, ED, GF, dia bissextil de fevereiro e letra dos dias",
+      "caption_en": "Latter table: ordinary days of February with columns CB, ED, GF, bissextile day of February, and letter of days",
+      "markdown": "| Dies Febr. ordinarii | CB | ED | GF | Dies Feb. bisextilis | Litera dierum Febr. |\n|---|---|---|---|---|---|\n| 23 | 3 | 1 | 6 | 23 | E |\n| Sedes Bisexti. | 4 | 2 | 7 | 24 | F |\n| 24 | 5 | 3 | 1 | 25 | F |\n| 25 | 6 | 4 | 2 | 26 | G |\n| 26 | 7 | 5 | 3 | 27 | A |\n| 27 | 1 | 6 | 4 | 28 | B |\n| 28 Kalend. Martii | 2 | 7 | 5 | 29 | C |\n|  | 3 | 1 | 6 |  | D |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "ἔτος κυνικόν (annus caniculus / canicular year)",
+      "definition_pt": "Ano canicular: o quadriênio egípcio (1460 dias) corresponde à grande *periodus Canicularis* de 1460 anos Iulianos; o *lustrum* Iuliano (1461 dias) corresponde à máxima *periodus Canicularis* de 1461 anos egípcios.",
+      "definition_en": "Canicular year: the Egyptian quadriennium (1460 days) corresponds to the great *periodus Canicularis* of 1460 Julian years; the Julian *lustrum* (1461 days) corresponds to the maximum *periodus Canicularis* of 1461 Egyptian years."
+    },
+    {
+      "term": "ἔτος ἡλιακὸν μικρόν",
+      "definition_pt": "Pequeno ano solar: nome dado pelos egípcios ao quadriênio, porque nele um dia era intercalado mentalmente (ἐνδιαθέτως), não no uso civil dos dias.",
+      "definition_en": "Small solar year: the name given by the Egyptians to the quadriennium, because in it one day was intercalated mentally (ἐνδιαθέτως), not in the civil use of days."
+    },
+    {
+      "term": "Σῶθις, Ἶσις, Ὄσιρις, Ὧρος",
+      "definition_pt": "Nomes dos quatro anos sucessivos do *lustrum* canicular egípcio: Sothis (1º), Isis (2º), Osíris (3º), Horus (4º), correspondentes às quatro fases do nascer heliacal da Canícula (acronicamente, à meia-noite, antes do Sol, invisível).",
+      "definition_en": "Names of the four successive years of the Egyptian canicular *lustrum*: Sothis (1st), Isis (2nd), Osiris (3rd), Horus (4th), corresponding to the four phases of the heliacal rising of the Dog Star (acronychally, at midnight, before the Sun, invisible)."
+    },
+    {
+      "term": "ἀκρονύχως (acronycus ortus)",
+      "definition_pt": "Nascer acronical: nascer de uma estrela ao pôr do sol, no início da noite. Aqui aplicado ao primeiro nascer heliacal da Canícula no início do *lustrum* Sothíaco.",
+      "definition_en": "Acronychal rising: rising of a star at sunset, at the beginning of the night. Here applied to the first heliacal rising of the Dog Star at the beginning of the Sothic *lustrum*."
+    },
+    {
+      "term": "Magnus annus Canicularis (μεγάλη περίοδος Κυνική)",
+      "definition_pt": "Grande ano canicular: período de 1461 anos egípcios = 1460 anos Iulianos, ao fim do qual Thoth retorna à mesma data Juliana e à mesma fase do nascer da Canícula.",
+      "definition_en": "Great canicular year: period of 1461 Egyptian years = 1460 Julian years, at the end of which Thoth returns to the same Julian date and to the same phase of the Dog Star's rising."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "exemplum precedens (página/parágrafo anterior)",
+      "context": "tum prius exemplum ostendit, tum huius anni Thoth"
+    },
+    {
+      "type": "external",
+      "target": "Calendário Romano / reforma da Igreja Romana sobre letras Dominicais",
+      "context": "rectissime Romana Ecclesia annum primum cycli Solis instituit eum, in quo litera duplex GF est in lustro Iuliano"
+    },
+    {
+      "type": "external",
+      "target": "Inauguração de Valentiniano Augusto (provavelmente referência a fastos consulares ou ao De Emendatione)",
+      "context": "In Valentiniani tamen Augusti inauguratione posterius F dicitur bisextile & inauspicatum"
+    },
+    {
+      "type": "external",
+      "target": "Calendário pré-Juliano romano (mês intercalar Mercedinus)",
+      "context": "quomodo Mercedinus non vocabatur mensis intercalaris, sed posterior mensis XXVIII dierum"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Nascer heliacal acronical da Canícula (Sirius) ao pôr-do-sol, marcando o início do *lustrum* Sothíaco egípcio, na noite seguinte aos dias epagômenos e precedente a 1 Thoth.",
+      "historical_date_as_cited": "neomenia lustri Canicularis, post meridiem τῶν ἐπαγομένων",
+      "ancient_source": "tradição egípcia (sem citação direta de fonte específica nesta passagem)"
+    },
+    {
+      "type": "other",
+      "description": "Nascer da Canícula à meia-noite, no segundo ano do *lustrum* (Isis).",
+      "historical_date_as_cited": "anno secundo lustri, eadem nocte quae Thoth antecedebat, media nocte",
+      "ancient_source": "tradição egípcia"
+    },
+    {
+      "type": "other",
+      "description": "Nascer matutino (heliacal verdadeiro, antes do Sol) da Canícula no terceiro ano do *lustrum* (Osíris).",
+      "historical_date_as_cited": "anno tertio, ortus Caniculae ante Solem eminebat",
+      "ancient_source": "tradição egípcia"
+    },
+    {
+      "type": "other",
+      "description": "Invisibilidade da Canícula no quarto ano do *lustrum* (Horus), por estar no hemisfério oposto ao meio-dia egípcio.",
+      "historical_date_as_cited": "quarto anno, ortus Caniculae non poterat videri",
+      "ancient_source": "tradição egípcia"
+    }
+  ],
+  "uncertainty_flags": [
+    "Texto grego com acentuação e diacríticos parcialmente ilegíveis no scan; transcrição reconstruída por contexto (κατὰ χρῆσιν δημοτικῇ καὶ κατ' ἰδιωτισμόν).",
+    "Número '28' (XXVIII) na expressão 'mensis XXVIII dierum' aparece como 'XXVIII' mas o scan mostra 'xviii' ou 'xxviii' de leitura ambígua; preferi XXVIII por coerência com fevereiro ordinário de 28 dias.",
+    "Algumas células das tabelas têm dígitos parcialmente apagados (especialmente na coluna 'Charact. Thoth' linha 4: '7' com mancha); transcrição mantém leitura mais provável.",
+    "A leitura 'XXIIII Februarii' (24 de fevereiro) na linha 'F incipit cyclum Solis a XXIIII Februarii' depende da interpretação do numeral romano abreviado no original; conferir contra edições críticas."
+  ],
+  "notes": "Esta página fecha a discussão técnica sobre a posição do dia bissexto no calendário Iuliano e a correspondência entre os ciclos egípcio (Nabonassar) e Iuliano, com duas tabelas paralelas que mostram como a 'sedes bisexti' se desloca conforme o ano do *Cyclus Solis*. As tabelas são essencialmente uma ferramenta de conversão calendárica. A segunda metade introduz a seção DEFINITIONES, começando com o conceito-chave de *annus canicularis* (ἔτος κυνικόν) e o ciclo Sothíaco egípcio de 1460/1461 anos. Scaliger reconstrói aqui sua própria teoria do tetraeteris egípcio nomeado pelas quatro divindades (Sothis-Isis-Osiris-Horus), correlacionando cada ano com uma fase observacional distinta do nascer heliacal de Sirius — interpretação característica do Scaliger maduro, e que retoma e refina o que ele havia exposto no *De Emendatione Temporum* livro V. A página é demonstrativamente densa: ele conclui que o desfasamento de ¼ de dia por ano entre o ano civil egípcio (365d) e o ano Sothíaco (365,25d) explica por que um dia inteiro 'subreptava' (subrepebat) sem intercalação formal — argumento crucial contra Crusius e os que tentavam impor lógica Iuliana ao calendário vago egípcio. Não há divergência explícita com Crusius nesta página, mas o tom 'antea a nemine demonstrata' sugere reivindicação de prioridade sobre toda a literatura cronológica anterior."
+}
+```

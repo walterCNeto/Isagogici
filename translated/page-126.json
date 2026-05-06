@@ -1,0 +1,51 @@
+{
+  "page": 126,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\n\nTABULA PRIMA CHARACTERISMI NOVILUNIORUM THOTH, SAHAMI, PHARAVARDIN IN ICOSIPENTAETERIDE.\n\n[Tabula prima: quattuor columnae principales, una pro Icosipentaeteride communi (Iuliana), altera Nabonassari, tertia Armeniorum, quarta Iezdegird. In primo limite anni Embolismici (Emb.) signantur: 2, 5, 8, 10, 13, 16, 19, 22, 24.]\n\nTABULA SECUNDA ICOSIPENTAETERIDON COLLECTARUM.\n\n[Neomeniae Annorum Collectorum cum Excessu Annorum Aegyptiaci.]\n\nTABULA TERTIA. MENSES.\n[Linea media, Feria, Horae, Scrupula]",
+  "pt": "CÂNONES ISAGÓGICOS\n\nPRIMEIRA TÁBUA DO CARACTERISMO DAS *NOVILUNIA* [luas novas] DE THOTH, SAHAM E PHARAVARDIN NA *ICOSIPENTAETERIS* [ciclo de 25 anos].\n\nSEGUNDA TÁBUA DAS *ICOSIPENTAETERIDES COLLECTAE* [ciclos de 25 anos acumulados].\n\nTERCEIRA TÁBUA. MESES.",
+  "en": "CANONS ISAGOGIC\n\nFIRST TABLE OF THE CHARACTERISM OF THE *NOVILUNIA* [new moons] OF THOTH, SAHAM, AND PHARAVARDIN IN THE *ICOSIPENTAETERIS* [25-year cycle].\n\nSECOND TABLE OF THE COLLECTED *ICOSIPENTAETERIDES* [accumulated 25-year cycles].\n\nTHIRD TABLE. MONTHS.",
+  "tables": [
+    {
+      "caption_pt": "Tábua Primeira: Caracterismo das luas novas de Thoth (mês egípcio), Saham (mês armênio) e Pharavardin (mês persa) na *Icosipentaeteris* (ciclo de 25 anos). Os anos *embolismi* estão marcados (Emb.) nas posições 2, 5, 8, 10, 13, 16, 19, 22, 24. Cada coluna fornece Feria (dia da semana), Hora e Scrupula (frações horárias) para o início do ano.",
+      "caption_en": "First Table: Characterism of the new moons of Thoth (Egyptian month), Saham (Armenian month), and Pharavardin (Persian month) in the *Icosipentaeteris* (25-year cycle). The *embolismic* years are marked (Emb.) at positions 2, 5, 8, 10, 13, 16, 19, 22, 24. Each column gives Feria (weekday), Hora, and Scrupula (hour fractions) for the start of the year.",
+      "markdown": "| Year | Icosipentaeteris (Iuliana) Fer/Hor/Scr | Icosipentaeteris Nabonassari Fer/Hor/Scr | Icosipentaeteris Armeniorum Fer/Hor/Scr | Icosipentaeteris Iezdegird Fer/Hor/Scr |\n|---|---|---|---|---|\n| 1 | 4 / 8 / 876 | 10 / 15 / 204 | 5 / 7 / 12 / 540 | 1 / 3 / 7 / 1047 | 22 / 3 / 13 / 451 |\n| 2 Emb | 1 / 17 / 672 | 21 / 6 / 408 | 15 / 4 / 21 / 336 | 12 / 7 / 16 / 843 | 3 / 2 / 10 / 1040 |\n| 3 | 7 / 15 / 181 | 2 / 8 / 899 | 26 / 2 / 6 / 132 | 22 / 5 / 1 / 639 | 13 / 6 / 19 / 836 |\n| 4 | 4 / 23 / 1057 | 13 / 0 / 23 | 7 / 1 / 3 / 721 | 3 / 3 / 23 / 148 | 24 / 4 / 4 / 632 |\n| 5 Emb | 2 / 8 / 853 | 23 / 15 / 227 | 18 / 5 / 12 / 517 | 14 / 1 / 7 / 1024 | 5 / 3 / 2 / 141 |\n| 6 | 1 / 6 / 362 | 4 / 17 / 718 | 28 / 2 / 21 / 313 | 25 / 5 / 16 / 820 | 16 / 7 / 10 / 1017 |\n| 7 | 5 / 15 / 158 | 15 / 8 / 922 | 9 / 1 / 18 / 902 | 6 / 4 / 14 / 329 | 26 / 4 / 19 / 813 |\n| 8 Emb | 2 / 23 / 1034 | 26 / 0 / 46 | 20 / 6 / 3 / 698 | 16 / 1 / 23 / 125 | 8 / 3 / 17 / 322 |\n| 9 | 1 / 21 / 543 | 7 / 2 / 537 | 1 / 5 / 1 / 207 | 27 / 6 / 7 / 1001 | 18 / 1 / 2 / 118 |\n| 10 Emb | 6 / 6 / 339 | 17 / 17 / 741 | 12 / 2 / 10 / 3 | 8 / 5 / 5 / 510 | 29 / 5 / 10 / 994 |\n| 11 | 5 / 3 / 928 | 28 / 8 / 945 | 22 / 6 / 18 / 879 | 19 / 2 / 14 / 306 | 10 / 4 / 8 / 503 |\n| 12 | 2 / 12 / 724 | 9 / 11 / 356 | 4 / 5 / 16 / 388 | * / 1 / 11 / 895 | 21 / 1 / 17 / 299 |\n| 13 Emb | 6 / 21 / 520 | 20 / 2 / 560 | 14 / 3 / 1 / 184 | 10 / 5 / 20 / 691 | 2 / 7 / 14 / 888 |\n| 14 | 5 / 19 / 29 | 1 / 4 / 1051 | 25 / 7 / 9 / 1060 | 21 / 3 / 5 / 487 | 12 / 4 / 23 / 684 |\n| 15 | 3 / 3 / 905 | 11 / 20 / 175 | 6 / 6 / 7 / 569 | 2 / 2 / 2 / 1076 | 23 / 2 / 8 / 480 |\n| 16 Emb | 7 / 12 / 701 | 22 / 11 / 379 | 17 / 3 / 16 / 365 | 13 / 6 / 11 / 872 | 4 / 1 / 5 / 1069 |\n| 17 | 6 / 10 / 210 | 3 / 13 / 870 | 27 / 1 / 1 / 161 | 23 / 3 / 20 / 668 | 15 / 5 / 14 / 865 |\n| 18 | 3 / 19 / 6 | 14 / 4 / 1074 | 8 / 6 / 22 / 750 | 4 / 2 / 18 / 177 | 25 / 2 / 23 / 661 |\n| 19 Emb | 1 / 3 / 882 | 24 / 20 / 198 | 19 / 4 / 7 / 546 | 15 / 7 / 2 / 1053 | 6 / 1 / 21 / 170 |\n| 20 | 7 / 1 / 391 | 5 / 22 / 689 | * / 3 / 5 / 55 | 26 / 4 / 11 / 849 | 17 / 6 / 5 / 1046 |\n| 21 | 4 / 10 / 187 | 16 / 13 / 893 | 11 / 7 / 13 / 931 | 7 / 3 / 9 / 358 | 28 / 3 / 14 / 842 |\n| 22 Emb | 1 / 18 / 1063 | 27 / 5 / 17 | 21 / 4 / 22 / 727 | 17 / 7 / 18 / 154 | 9 / 2 / 12 / 351 |\n| 23 | 7 / 16 / 572 | 8 / 7 / 508 | 2 / 3 / 20 / 236 | 28 / 5 / 2 / 1030 | 19 / 6 / 21 / 147 |\n| 24 Emb | 5 / 1 / 368 | 18 / 22 / 712 | 13 / 1 / 5 / 32 | 9 / 4 / 4 / 539 | * / 5 / 18 / 736 |\n| 25 | 3 / 22 / 957 | 0 / 1 / 123 | 24 / 5 / 13 / 908 | 20 / 1 / 9 / 355 | 11 / 3 / 3 / 532 |"
+    },
+    {
+      "caption_pt": "Tábua Segunda: *Neomeniae* dos anos coletados (acumulados em ciclos de 25), com excesso dos anos egípcios. Coluna esquerda até 250 anos; coluna direita de 500 a 5000 anos.",
+      "caption_en": "Second Table: *Neomeniae* of collected years (accumulated in 25-year cycles), with excess of Egyptian years. Left column up to 250 years; right column from 500 to 5000 years.",
+      "markdown": "| Anni collecti | Fer | Hor | Scru | Excessus D | Hor | Scru || Anni collecti | Fer | Hor | Scru | Excessus D | Hor | Scru |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 25 | 3 | 22 | 957 | 0 | 1 | 123 || 500 | 2 | 1 | 780 | 0 | 22 | 300 |\n| 50 | 7 | 21 | 834 | 0 | 2 | 246 || 750 | 6 | 14 | 630 | 1 | 9 | 450 |\n| 75 | 4 | 20 | 711 | 0 | 3 | 369 || 1000 | 4 | 3 | 480 | 1 | 20 | 600 |\n| 100 | 1 | 19 | 588 | 0 | 4 | 492 || 1250 | 1 | 16 | 330 | 2 | 7 | 750 |\n| 125 | 5 | 18 | 465 | 0 | 5 | 615 || 1500 | 6 | 5 | 180 | 2 | 18 | 900 |\n| 150 | 2 | 17 | 342 | 0 | 6 | 738 || 1750 | 3 | 18 | 30 | 3 | 5 | 1050 |\n| 175 | 6 | 16 | 219 | 0 | 7 | 861 || 2000 | 1 | 6 | 960 | 3 | 17 | 120 |\n| 200 | 3 | 15 | 96 | 0 | 8 | 984 || 2250 | 5 | 19 | 810 | 4 | 4 | 270 |\n| 225 | 7 | 13 | 1053 | 0 | 10 | 27 || 2500 | 3 | 8 | 660 | 4 | 15 | 420 |\n| 250 | 4 | 12 | 930 | 0 | 11 | 150 || 5000 | 6 | 17 | 240 | 5 | 2 | 570 |"
+    },
+    {
+      "caption_pt": "Tábua Terceira: Meses. Linha média, Feria, Hora, Scrupula.",
+      "caption_en": "Third Table: Months. Mean line, Feria, Hora, Scrupula.",
+      "markdown": "| Linea media | Feria | Hora | Scrup |\n|---|---|---|---|\n| 1 | 1 | 12 | 793 |\n| 2 | 3 | 1 | 506 |\n| 3 | 4 | 14 | 219 |\n| 4 | 6 | 2 | 1012 |\n| 5 | 7 | 15 | 725 |\n| 6 | 2 | 4 | 438 |\n| 7 | 3 | 17 | 151 |\n| 8 | 5 | 5 | 944 |\n| 9 | 6 | 18 | 657 |\n| 10 | 1 | 7 | 370 |\n| 11 | 2 | 20 | 83 |\n| 12 | 4 | 8 | 876 |\n| 13 | 5 | 21 | 589 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Icosipentaeteris",
+      "definition_pt": "Período de 25 anos usado por Scaliger como ciclo lunissolar de referência para cálculo das *neomeniae* (luas novas) nos calendários egípcio (mês de Thoth), armênio (mês de Saham/Sahmi) e persa (mês de Pharavardin/Farvardin).",
+      "definition_en": "Period of 25 years used by Scaliger as a lunisolar reference cycle for calculating the *neomeniae* (new moons) in the Egyptian calendar (month of Thoth), Armenian (month of Saham/Sahmi), and Persian (month of Pharavardin/Farvardin)."
+    },
+    {
+      "term": "Characterismus noviluniorum",
+      "definition_pt": "Conjunto de características numéricas (feria, hora, *scrupula*) que identificam o instante exato da *neomenia* em cada ano de um ciclo.",
+      "definition_en": "Set of numerical characteristics (feria, hour, *scrupula*) that identify the exact instant of the *neomenia* in each year of a cycle."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Vários valores numéricos da Tábua Primeira são parcialmente ambíguos no scan: a coluna 'Icosipentaeteris Nabonassari' parece conter quatro subcolunas (dia, feria, hora, scrupula) em algumas linhas, mas a transcrição preservou os números na ordem visível.",
+    "Asteriscos (*) aparecem nas linhas 12, 20 e 24 da coluna Iezdegird/Armeniorum, possivelmente marcando anos bissextos ou intercalações; sentido exato não declarado nesta página.",
+    "A Tábua Segunda mostra um salto de 2500 para 5000 anos na última linha da coluna direita (não 2750), o que sugere que a tabela combina dois intervalos distintos; conferir contra o texto explicativo nas páginas vizinhas."
+  ],
+  "notes": "Página 94 é puramente tabular, parte do aparato canônico (cânones isagógicos) onde Scaliger fornece tábuas de cálculo das luas novas no início dos meses iniciais dos calendários egípcio (Thoth), armênio (Sahmi) e persa (Pharavardin), todos calibrados sobre uma *Icosipentaeteris* (ciclo de 25 anos lunissolares). A Tábua Primeira lista os 25 anos do ciclo com marcação dos 9 anos *embolismi* (2, 5, 8, 10, 13, 16, 19, 22, 24) — distribuição padrão do ciclo de 25 anos cuja origem Scaliger atribui aos egípcios. A Tábua Segunda permite acumular múltiplos *icosipentaeterides* até atingir grandes intervalos (5000 anos), com correção do excesso em dias do calendário egípcio. A Tábua Terceira fornece os incrementos por mês lunar. Trata-se de um conjunto de tábuas operacionais, sem texto explicativo nesta página. Os 'scrupula' são as 1080 partes horárias da tradição rabínica/árabe (חלקים, halaqim), que Scaliger adotou para precisão maior do que minutos sexagesimais.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5706,
+    "stop_reason": "end_turn"
+  }
+}

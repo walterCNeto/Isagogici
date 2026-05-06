@@ -1,0 +1,61 @@
+{
+  "page": 235,
+  "page_type": "mixed",
+  "latin": "LIBER TERTIUS.\n\n...rum 264. Et per incrementum quaternorum cyclorum Solis progressa definit in numero 376, qui cum 24 annis residuis cycli quinti Solaris inchoati consummat totam periodum annorum 400. Periodus autem ipsa incipit ab annis Christi, a quibus abiectis 400, quantum potest, residuum invenies non quidem totum in fronte, sed proxime minorem, cui quod deest, explebis ex annis cyclis Solis a latere Tabulae. Et in angulo communi occurrit litera Dominicalis. Exemplum. Volo scire literam Dominicalem anni Christi 1584. Primum abiicio omnes periodos 400. Ter 400 sunt 1200, quibus de 1584 deductis, remanent anni 384. Numerus proxime minor reperitur in fronte ultimi versus, nempe 376. desunt 8 anni ad complementum numeri 384. e regione VIII anni cycli sub frontali 376 occurrit litera duplex GF competens anno Christi proposito 1584. Rursus hoc anno Christi 1604, abiectis quater 400, qui fiunt anni 1600, superest annus quartus. In laterali linea, e regione litera duplex DC. In annis XX duorum versuum, et in anno XXIIII tertij versus asteriscus * significat in fine cycli Solis imperfecti, hoc est in vigesimo anno cycli quinti Solaris, aut vigesimo quarto, de duabus literis bisextilis anni, posteriorem non pertinere ad annum vigesimum, aut vigesimum quartum, sed ad annum primum sequentis periodi, et annum primum tertiae periodi, et annum vigesimum, aut vigesimum quartum transigi sine bisexto, ut ab anno 129, ad annum 136, ita ut ab anno 265, ad annum 272, et ab anno 397, ad quartum annum periodi sequentis, octo anni sine bisexto transigantur, et sint mere Aegyptiaci,",
+  "pt": "LIVRO TERCEIRO.\n\n...264. E pelo incremento de quatro *Cycli Solis* [ciclos solares de 28 anos] termina no número 376, o qual, com os 24 anos restantes do quinto *Cyclus Solis* iniciado, completa todo o período de 400 anos. O próprio período inicia-se nos anos de Cristo, dos quais, abatendo 400 tantas vezes quanto possível, encontrarás o resíduo — não exatamente na frente [da tabela], mas o número imediatamente menor; o que falta, completarás com os anos do *Cyclus Solis* na lateral da Tábua. E no ângulo comum ocorre a *litera Dominicalis* [letra dominical]. Exemplo. Quero saber a letra dominical do ano de Cristo de 1584. Primeiro abato todos os períodos de 400. Três vezes 400 são 1200, que deduzidos de 1584, restam 384 anos. O número imediatamente menor encontra-se na frente do último verso, a saber, 376. Faltam 8 anos para completar o número 384. Na linha do ano VIII do ciclo, sob o cabeçalho 376, ocorre a letra dupla GF, que compete ao ano de Cristo proposto, 1584. De novo, neste ano de Cristo de 1604, abatidos quatro vezes 400, que perfazem 1600 anos, sobra o ano quarto. Na linha lateral, em correspondência, está a letra dupla DC. Nos anos XX dos dois primeiros versos, e no ano XXIIII do terceiro verso, o asterisco * significa que, no fim do *Cyclus Solis* imperfeito — isto é, no vigésimo ano do quinto *Cyclus Solis*, ou no vigésimo quarto — das duas letras do ano bissexto, a posterior não pertence ao ano vigésimo, ou vigésimo quarto, mas ao primeiro ano do período seguinte; e o primeiro ano da terceira periodi, e o vigésimo ou vigésimo quarto, são transcorridos sem bissexto: assim do ano 129 até o ano 136, do ano 265 até o ano 272, e do ano 397 até o quarto ano do período seguinte, oito anos transcorrem sem bissexto, e são meramente Egípcios [Aegyptiaci],",
+  "en": "BOOK THREE.\n\n...264. And through the increment of four *Cycli Solis* [28-year solar cycles] it ends at the number 376, which, together with the 24 remaining years of the fifth *Cyclus Solis* just begun, completes the whole period of 400 years. The period itself begins from the years of Christ, from which, subtracting 400 as many times as possible, you will find the remainder — not exactly at the head [of the table], but the next smaller number; what is lacking, you shall fill in from the years of the *Cyclus Solis* on the side of the Table. And at the common angle the *litera Dominicalis* [Dominical letter] is found. Example. I wish to know the Dominical letter of the year of Christ 1584. First I subtract all periods of 400. Three times 400 is 1200, which deducted from 1584 leaves 384 years. The next smaller number is found at the head of the last row, namely 376. There are 8 years lacking to complete the number 384. On the row for year VIII of the cycle, under the heading 376, occurs the double letter GF, which belongs to the proposed year of Christ 1584. Again, in this year of Christ 1604, having subtracted four times 400, which makes 1600 years, the fourth year remains. On the side line, in correspondence, is the double letter DC. In the years XX of the first two rows, and in year XXIIII of the third row, the asterisk * signifies that at the end of the imperfect *Cyclus Solis* — that is, in the twentieth year of the fifth *Cyclus Solis*, or in the twenty-fourth — of the two letters of the leap year, the latter does not belong to the twentieth or twenty-fourth year, but to the first year of the following period; and the first year of the third period, and the twentieth or twenty-fourth, are passed through without a bissextile: thus from year 129 to year 136, from year 265 to year 272, and from year 397 to the fourth year of the following period, eight years pass without a bissextile, and are purely Egyptian [Aegyptiaci],",
+  "tables": [
+    {
+      "caption_pt": "Cyclus Rationalis — Tábua das letras dominicais segundo o ciclo racional (sem correções gregorianas), organizada por anos do Cyclus Solis (1-28) na lateral e por períodos quaternários de ciclos solares (0, 28, 56... 376) no topo.",
+      "caption_en": "Cyclus Rationalis — Table of Dominical letters according to the rational cycle (without Gregorian corrections), organized by years of the Cyclus Solis (1-28) on the side and by quaternary periods of solar cycles (0, 28, 56... 376) at the top.",
+      "markdown": "| Linea Cycli Solis | 0 / 28 / 56 / 84 / 112 | 132 / 160 / 188 / 216 / 244 | 264 / 292 / 320 / 348 / 376 |\n|---|---|---|---|\n| I | G | D | A |\n| II | F | C | G |\n| III | E | B | F |\n| IIII | DC | AG | ED |\n| V | B | F | C |\n| VI | A | E | B |\n| VII | G | D | A |\n| VIII | FE | CB | GF |\n| IX | D | A | E |\n| X | C | G | D |\n| XI | B | F | C |\n| XII | AG | ED | BA |\n| XIII | F | C | G |\n| XIIII | E | B | F |\n| XV | D | A | E |\n| XVI | CB | GF | DC |\n| XVII | A | E | B |\n| XVIII | G | D | A |\n| XIX | F | C | G |\n| XX | ED* | BA* | FE |\n| XXI | C | G | D |\n| XXII | B | F | C |\n| XXIII | A | E | B |\n| XXIIII | GF | DC | AG* |\n| XXV | E | B | F |\n| XXVI | D | A | E |\n| XXVII | C | G | D |\n| XXVIII | BA | FE | CB |"
+    },
+    {
+      "caption_pt": "Cyclus Lilianus — Tábua das letras dominicais segundo o calendário gregoriano (Lílio), organizada por anos do Cyclus Solis (1-28) na lateral e por colunas de centenas (0, 100, 200, 300) com subcolunas de 28 em 28.",
+      "caption_en": "Cyclus Lilianus — Table of Dominical letters according to the Gregorian (Lilian) calendar, organized by years of the Cyclus Solis (1-28) on the side and by century columns (0, 100, 200, 300) with sub-columns by 28-year intervals.",
+      "markdown": "| Linea Cycli Solis | 0 / 28 / 56 / 84 | 100 / 128 / 156 / 184 | 200 / 228 / 256 / 284 | 300 / 328 / 356 / 384 |\n|---|---|---|---|---|\n| I | G | B | D | F |\n| II | F | A | C | E |\n| III | E | G | B | D |\n| IIII | DC | FE | AG | CB |\n| V | B | D | F | A |\n| VI | A | C | E | G |\n| VII | G | B | D | F |\n| VIII | FE | AG | CB | ED |\n| IX | D | F | A | C |\n| X | C | E | G | B |\n| XI | B | D | F | A |\n| XII | AG | CB | ED | GF |\n| XIII | F | A | C | E |\n| XIIII | E | G | B | D |\n| XV | D | F | A | C |\n| XVI | CB* | ED* | GF* | BA |\n| XVII | A | C | E | G |\n| XVIII | G | B | D | F |\n| XIX | F | A | C | E |\n| XX | ED | GF | BA | DC |\n| XXI | C | E | G | B |\n| XXII | B | D | F | A |\n| XXIII | A | C | E | G |\n| XXIIII | GF | BA | DC | FE |\n| XXV | E | G | B | D |\n| XXVI | D | F | A | C |\n| XXVII | C | E | G | B |\n| XXVIII | BA | DC | FE | AG |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Cyclus Rationalis",
+      "definition_pt": "Ciclo racional de 400 anos que combina o *Cyclus Solis* de 28 anos com seus incrementos quaternários (até 376) mais 24 anos de um quinto ciclo iniciado, totalizando 400 anos; usado para determinar a *litera Dominicalis* sem as correções gregorianas.",
+      "definition_en": "Rational cycle of 400 years which combines the *Cyclus Solis* of 28 years with its quaternary increments (up to 376) plus 24 years of a fifth cycle just begun, totalling 400 years; used to determine the *litera Dominicalis* apart from Gregorian corrections."
+    },
+    {
+      "term": "Cyclus Lilianus",
+      "definition_pt": "Ciclo gregoriano (denominado a partir de Aloysius Lilius), apresentado em paralelo ao *Cyclus Rationalis*, que incorpora as correções da reforma gregoriana de 1582 (supressão de bissextos seculares, marcados na tábua com asterisco *).",
+      "definition_en": "Gregorian cycle (named after Aloysius Lilius), presented in parallel to the *Cyclus Rationalis*, which incorporates the corrections of the 1582 Gregorian reform (suppression of secular leap years, marked in the table with asterisk *)."
+    },
+    {
+      "term": "Litera Dominicalis",
+      "definition_pt": "Letra dominical (de A a G) que designa, em um dado ano, qual é o domingo no calendário; em anos bissextos vem em par (ex. GF, DC), com troca após 24 de fevereiro.",
+      "definition_en": "Dominical letter (from A to G) designating, in a given year, which day is Sunday in the calendar; in leap years it comes in pairs (e.g. GF, DC), changing after 24 February."
+    },
+    {
+      "term": "Anni Aegyptiaci",
+      "definition_pt": "Anos 'meramente Egípcios': anos comuns de 365 dias sem intercalação bissextil, como ocorre nas sequências de oito anos sem bissexto introduzidas pelas correções gregorianas (p. ex. 129-136, 265-272, 397-404).",
+      "definition_en": "'Purely Egyptian' years: common years of 365 days without bissextile intercalation, as occurs in the sequences of eight years without leap day introduced by the Gregorian corrections (e.g. 129-136, 265-272, 397-404)."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "tabula supra (Cyclus Rationalis et Lilianus)",
+      "context": "explebis ex annis cyclis Solis a latere Tabulae. Et in angulo communi occurrit litera Dominicalis."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Algumas letras nas tábuas estão de leitura difícil no scan; em particular alguns asteriscos podem estar deslocados; a posição exata dos asteriscos foi reconstruída pela lógica gregoriana (anos seculares não-bissextos ao final de séculos não divisíveis por 400).",
+    "A primeira coluna de cabeçalhos do Cyclus Rationalis no scan apresenta apenas '0' como primeiro número visível; assumi a sequência regular 0/28/56/84/112 para a primeira coluna conforme a lógica do ciclo de 400 anos."
+  ],
+  "notes": "Página central para a teoria gregoriana de Scaliger: ele apresenta lado a lado o *Cyclus Rationalis* (julianoexato em 400 anos) e o *Cyclus Lilianus* (gregoriano), permitindo comparar as letras dominicais e identificar as supressões de bissextos seculares. O exemplo trabalhado (1584 → GF; 1604 → DC) demonstra o uso das tábuas. A referência aos 'anni mere Aegyptiaci' (oito anos sem bissexto entre supressões seculares) é tecnicamente importante: Scaliger usa essa terminologia provocativa porque os anos egípcios antigos eram de 365 dias fixos. O texto desta página é puramente expositivo-pedagógico, sem polêmicas explícitas com Crusius.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5224,
+    "stop_reason": "end_turn"
+  }
+}

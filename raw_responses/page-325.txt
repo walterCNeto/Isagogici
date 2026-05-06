@@ -1,0 +1,106 @@
+```json
+{
+  "page": 293,
+  "page_type": "text",
+  "latin": "LIBER TERTIUS.\n\nRomanos. Testis Zacharias Propheta XII, 11, Apocalyps. XVI, ubi vocatur Ἁρμαγεδών, non Μαγεδδών. Magna concordia est hic Herodoto cum sacra pagina. quo auctore quid praestantius hodie extat in Graecorum monimentis? Non est cuiusvis de tanto scriptore sententiam ferre.\n\nLV. Ad initium Nabopollassari.] A CXXIII anno Nabonassari init primus annus imperii Nabopollassari, ut diserte extat in observationibus eclipticis priscorum Chaldaeorum apud Ptolemaeum ex Hipparcho: quae non magis fallere possunt, quam ipsa utriusque sideris deliquia. Canon Astronomicus attribuit illi ἔτη ΚΑ & in margine ἔτη Κϛ, vitiose pro ΚΘ. propter similitudinem inter ϛ & Θ. Eadem constantia extat in Berosiano fragmento, εἴκοσιν ἕν, εἴκοσι ἐννέα. Sed εἴκοσι ἐννέα recta est lectio. XXIX enim annos solidos imperauit, & trigesimo decessit: de quibus tredecim imperium cum filio communicauit. Eius anni XXX, qui ultimus illi & vitae, & imperii fuit, meminit, ut toties diximus, Ezekiel Propheta statim initio libri sui.\n\nLVI. Ad initium Ithobali secundi Tyriorum Dynastae.] Ad distinctionem Ithobali eius, qui fuit socer Achabi Regis Samariae, iste vocetur a nobis Ithobal secundus. Iosephus eruditissimus & πολυϊστορικώτατος scriptor ab initio huius Ithobali, ad XIII annum Iromi secundi, putat annos LIIII, menses III ex Phoenicum Annalibus. Annus autem Iromi tertiusdecimus absolutus ex auctoritate eorundem Annalium incidit in initium Cyri Persarum regis: hoc est in annum periodi Iulianae 4154. Deductis annis LIIII solidis de initio Cyri, remanet initium Ithobali annus periodi Iulianae 4100, aut 4099 plus minus.\n\nLVII. Ad initium Nabuchodonosori.] Anno excessus Nabopollassari Nabuchodonosorus in Babyloniam reuersus est, accepto de obitu patris nuncio, ut auctor est Berosus, anno nimirum periodi Iulianae 4119, expugnata Tyro, quam XIII annos obsidione presserat; qui deducti de 4119 relinquunt annum expeditionis Nabuchodonosori primum 4086 in periodo Iuliana: qui quidem erat quartus Ioakim filii Iosiae. Ierem. XXV, 1. Iam de annis Regum Iuda dubitare non possumus, quum quartum Ioakimi demonstratione historica teneamus: quod omnes Chronologos hactenus fugit, propterea quod monimenta Graecorum partim neglexerunt, partim non intellexerunt, aut omnino non consuluerunt. Aliter probatur per annum expugnatae Tyri.\n\nLVIII. Ad deportationem Iechoniae regis Ieros. & initium LXX annor.] Haec partim pendent a LV Epocha: ubi quintus annus Iechoniae est trigesimus Nabopollassari, & infra ad Epocham LX repetitur. Secundum illa, quae utrobique demonstrantur, annus capti Iechoniae est 4114 in periodo Iuliana. Hinc orditur Ieremias LXX annos deportationis Babylonicae; cap. XXIX, 10, ubi & diserte septuaginta annorum fit mentio XXIIII, 5, 6, & spem facit deportatis reditus in patriam: quod & perspicue sine ullo aenigmate Ezekiel expressit XI, 16, ad finem usque. Et sunt, qui Ieremiae & Ezekieli audent praescribere, & a capto Sedekia Hebdomadas illas deducere? Vnde eorum rationes huius interualli exitum deducunt ad decimum annum post obitum Cyri, ut Cyrus etiam apud inferos decimo anno post obitum suum de restitutione Hebraeorum edicta faciat. In hoc insanientium numero non postremas occupat Benedictus Pererius, qui non solum a Sedekiae casu has Hebdomadas deducit, sed etiam eos postulat delirii, qui a capto Iechonia numerant. An Ieremiam huius sententiae auctorem cum illis, qui eum sequuntur, delirum facit, ipse viderit. certe is per totum Commentarium suum in Danielem fidem facit se harum rerum imperitissimum esse. Tanti illi fuit decem libros in illum Prophetam scribere, non alia de caussa, quam ut suam inscitiam in carpendis aliis, ambitionem in tam immani, tam inutili mole commentarii posteris testatam relinqueret.\n\nLIX. Ad expugnationem Tyri.] Annis expeditionis Syriacae Nabuchodonosori adde XIII solidos, per quos Tyrus oppugnata. Annis expeditionis 4106. Ergo 4119 est annus expugnatae Tyri. Tam annus oppugnationis demonstratiuus est, quam XIII illi anni obsidionis, qui diserte extant in annalibus Phoenicum. Aliter: Ab initio Ithobali, ad initium Cyri, intercesserunt anni LIIII, menses III. Regnauit Ithobalus annos XIX, quibus de LIIII deductis, remanent XXXV anni ab excessu Ithobali, ad initium Cyri: quibus si adieceris XIII annos oppugnationis Tyri, & aggregatum de initio Cyri, id est de anno 4154, deduxeris, remanet annus 4016, primus scilicet tam oppugnationis, quam expeditionis Nabuchodonosori, idemque septimus currens Ithobali. Iosephus: οὐκοῦν ὁ σύμπας χρόνος ἔτη πεντήκοντα τέσσαρα, καὶ τρεῖς μῆνες πρὸς αὐταῖς. ἑβδόμῳ μὲν γὰρ * περὶ τῆς Ναβουχοδονοσόρου βασιλείας ἤρξατο πολιορκεῖν Τύρον. Et antecedentia, & ea, quae ante demonstrauimus, satis vincunt legendum esse: ἑβδόμῳ μὲν γὰρ ἔτει τοῦ αὐτοῦ βασιλείας Ναβουχοδονόσορ, &c. De tempore oppugnationis XIII\n\nBb iij    annorum",
+  "pt": "LIVRO TERCEIRO.\n\nos Romanos. Testemunha disso é o Profeta Zacarias XII, 11, e o Apocalipse XVI, onde se lê Ἁρμαγεδών, e não Μαγεδδών. Há aqui grande concordância entre Heródoto e a Sagrada Escritura. Que coisa mais excelente existe hoje nos monumentos dos gregos do que aquilo que ele transmite? Não cabe a qualquer um julgar sobre tão grande escritor.\n\nLV. *Ad initium Nabopollassari*.] A partir do ano CXXIII de Nabonassar inicia-se o primeiro ano do império de Nabopolassar, como consta expressamente nas observações de eclipses dos antigos Caldeus em Ptolomeu, retiradas de Hiparco: as quais não podem enganar mais do que os próprios eclipses dos dois astros. O *Canon Astronomicus* atribui-lhe ἔτη ΚΑ (21 anos), e à margem ἔτη Κϛ (26), erroneamente em lugar de ΚΘ (29), pela semelhança entre ϛ e Θ. A mesma constância aparece no fragmento de Beroso: εἴκοσιν ἕν (vinte e um), εἴκοσι ἐννέα (vinte e nove). Mas εἴκοσι ἐννέα é a leitura correta. Pois reinou XXIX anos completos e morreu no trigésimo: dos quais comunicou o império com o filho durante treze anos. Do seu trigésimo ano, que foi o último de sua vida e de seu império, faz menção, como tantas vezes dissemos, o Profeta Ezequiel logo no início de seu livro.\n\nLVI. *Ad initium Ithobali secundi Tyriorum Dynastae*.] Para distingui-lo daquele Itobaal que foi sogro de Acabe, rei de Samaria, este seja por nós chamado Itobaal segundo. Josefo, escritor eruditíssimo e πολυϊστορικώτατος (extremamente versado em muitas matérias), do início deste Itobaal até o décimo terceiro ano de Iromo segundo, calcula LIV anos e III meses, conforme os Anais dos Fenícios. Ora, o décimo terceiro ano completo de Iromo, segundo a autoridade dos mesmos Anais, coincide com o início de Ciro, rei dos Persas: isto é, com o ano 4154 da *Periodus Iuliana*. Subtraídos LIV anos completos do início de Ciro, resta como início de Itobaal o ano 4100 ou 4099, mais ou menos, da *Periodus Iuliana*.\n\nLVII. *Ad initium Nabuchodonosori*.] No ano da morte de Nabopolassar, Nabucodonosor regressou à Babilônia, recebida a notícia da morte do pai, conforme atesta Beroso — a saber, no ano 4119 da *Periodus Iuliana*, tomada Tiro, que assediara durante XIII anos; os quais, deduzidos de 4119, deixam como primeiro ano da expedição de Nabucodonosor o ano 4086 na *Periodus Iuliana*: ano que era o quarto de Joaquim, filho de Josias (Jeremias XXV, 1). Portanto, sobre os anos dos Reis de Judá já não podemos duvidar, uma vez que mantemos por demonstração histórica o quarto ano de Joaquim: o que escapou até hoje a todos os cronólogos, porque em parte negligenciaram os monumentos dos gregos, em parte não os entenderam, ou de modo algum os consultaram. Prova-se de outra maneira pelo ano da tomada de Tiro.\n\nLVIII. *Ad deportationem Iechoniae regis Ieros. & initium LXX annor*.] Estas datas dependem em parte da Epocha LV: onde o quinto ano de Jeconias é o trigésimo de Nabopolassar, e adiante se repete na Epocha LX. Conforme aquilo que em ambos os lugares se demonstra, o ano do cativeiro de Jeconias é o 4114 da *Periodus Iuliana*. Daí Jeremias começa a contar os LXX anos da deportação babilônica; no cap. XXIX, 10, em que se faz menção expressa dos setenta anos, e XXIV, 5, 6, faz a esperança de retorno aos deportados para a pátria: o que também Ezequiel exprimiu claramente, sem qualquer enigma, em XI, 16, até o fim. E há quem ouse retificar Jeremias e Ezequiel, e contar essas Hebdomadas a partir do cativeiro de Sedecias? De onde seus cálculos do termo deste intervalo levam ao décimo ano após a morte de Ciro, de modo que Ciro, mesmo nos infernos, no décimo ano após sua morte teria promulgado o edito sobre a restituição dos Hebreus. Nesse número de delirantes não ocupa as últimas posições Benedito Pererius, que não só faz partir essas Hebdomadas da queda de Sedecias, mas ainda acusa de delírio aqueles que contam a partir do cativeiro de Jeconias. Se ele faz delirante a Jeremias, autor desta sentença, juntamente com aqueles que o seguem, ele mesmo o veja. Certamente, em todo o seu Comentário a Daniel mostra-se totalmente inábil nestas matérias. Tanto valeu para ele escrever dez livros sobre aquele Profeta, sem outro motivo senão deixar à posteridade testemunho de sua ignorância em criticar os outros, e de sua ambição em tão imensa e inútil mole de comentário.\n\nLIX. *Ad expugnationem Tyri*.] Aos anos da expedição síria de Nabucodonosor acrescenta XIII completos, durante os quais Tiro foi sitiada. Os anos da expedição são 4106. Logo 4119 é o ano da tomada de Tiro. Tanto o ano do assédio é demonstrativo, quanto aqueles XIII anos de cerco, que constam expressamente nos anais dos Fenícios. De outro modo: Do início de Itobaal até o início de Ciro decorreram LIV anos e III meses. Itobaal reinou XIX anos, os quais, deduzidos de LIV, restam XXXV anos da morte de Itobaal até o início de Ciro: aos quais, se acrescentares XIII anos de assédio de Tiro, e o agregado deduzires do início de Ciro, isto é, do ano 4154, resta o ano 4016, isto é, o primeiro tanto do assédio quanto da expedição de Nabucodonosor, e o sétimo corrente de Itobaal. Josefo: «Portanto o tempo total é de cinquenta e quatro anos e três meses além disso. Pois no sétimo ano [* — do reinado de Nabucodonosor] começou a sitiar Tiro.» E o que precede e o que antes demonstramos vencem suficientemente que se deve ler: «Pois no sétimo ano do mesmo reinado de Nabucodonosor», etc. Sobre o tempo dos XIII\n\nBb iij    anos do assédio",
+  "en": "BOOK THREE.\n\nthe Romans. Witness to this is the Prophet Zechariah XII, 11, and Revelation XVI, where the name reads Ἁρμαγεδών, not Μαγεδδών. There is great agreement here between Herodotus and Sacred Scripture. What more excellent thing exists today in the monuments of the Greeks than what he transmits? It is not for just anyone to pass judgment on so great a writer.\n\nLV. *Ad initium Nabopollassari*.] From the 123rd year of Nabonassar begins the first year of the reign of Nabopolassar, as is plainly evident from the eclipse observations of the ancient Chaldeans in Ptolemy, drawn from Hipparchus: which can no more deceive than the eclipses of the two luminaries themselves. The *Canon Astronomicus* assigns him ἔτη ΚΑ (21 years), and in the margin ἔτη Κϛ (26), erroneously in place of ΚΘ (29), because of the similarity between ϛ and Θ. The same consistency appears in the Berosian fragment: εἴκοσιν ἕν (twenty-one), εἴκοσι ἐννέα (twenty-nine). But εἴκοσι ἐννέα is the correct reading. For he reigned 29 full years and died in the thirtieth: of which he shared rule with his son for thirteen. His thirtieth year, which was the last of his life and reign, is mentioned, as we have so often said, by the Prophet Ezekiel right at the beginning of his book.\n\nLVI. *Ad initium Ithobali secundi Tyriorum Dynastae*.] To distinguish him from that Ithobaal who was father-in-law of Ahab, king of Samaria, let this one be called by us Ithobaal the Second. Josephus, a most learned and πολυϊστορικώτατος (most widely-read) writer, reckons from the start of this Ithobaal to the thirteenth year of Hirom II, 54 years and 3 months, drawn from the Annals of the Phoenicians. Now the completed thirteenth year of Hirom, on the authority of those same Annals, falls at the beginning of Cyrus, king of the Persians: that is, in the year 4154 of the *Periodus Iuliana*. Subtracting 54 full years from the start of Cyrus, the start of Ithobaal remains the year 4100, or 4099 more or less, of the *Periodus Iuliana*.\n\nLVII. *Ad initium Nabuchodonosori*.] In the year of Nabopolassar's death, Nebuchadnezzar returned to Babylon upon receiving news of his father's death, as Berosus reports — namely in year 4119 of the *Periodus Iuliana*, after taking Tyre, which he had pressed under siege for 13 years; subtracting these from 4119 leaves 4086 in the *Periodus Iuliana* as the first year of Nebuchadnezzar's expedition: which was the fourth year of Jehoiakim, son of Josiah (Jeremiah XXV, 1). Thus we cannot doubt the years of the kings of Judah, since we hold the fourth year of Jehoiakim by historical demonstration: a fact which has hitherto escaped all chronologists, because they either neglected the Greek monuments, or did not understand them, or did not consult them at all. It is also proved otherwise by the year of the taking of Tyre.\n\nLVIII. *Ad deportationem Iechoniae regis Ieros. & initium LXX annor*.] These dates depend partly on Epocha LV: where the fifth year of Jeconiah is the thirtieth of Nabopolassar, and is repeated below at Epocha LX. According to what is demonstrated in both places, the year of Jeconiah's captivity is 4114 in the *Periodus Iuliana*. From there Jeremiah begins the 70 years of the Babylonian deportation; in chapter XXIX, 10, where the seventy years are explicitly mentioned, and XXIV, 5, 6, where he gives the deported hope of return to their homeland: which Ezekiel also clearly expressed without any enigma in XI, 16, to the very end. And are there some who dare to correct Jeremiah and Ezekiel, and to count those Weeks from the captivity of Zedekiah? Whence their reckonings extend the end of this interval to the tenth year after Cyrus's death — so that Cyrus, even in the underworld, would issue the decree on the restitution of the Hebrews ten years after his own death. In this crowd of madmen Benedict Pererius does not occupy the last place: he not only deduces these Weeks from the fall of Zedekiah, but also accuses of delirium those who count from the captivity of Jeconiah. Whether he thereby makes Jeremiah, the author of this view — together with those who follow him — a madman, let him see for himself. Certainly throughout his Commentary on Daniel he shows himself most ignorant of these matters. So much was it worth to him to write ten books on that Prophet, for no other reason than to leave to posterity a testimony of his ignorance in criticizing others, and of his ambition in so vast and useless a mass of commentary.\n\nLIX. *Ad expugnationem Tyri*.] Add 13 full years, during which Tyre was besieged, to the years of Nebuchadnezzar's Syrian expedition. The years of the expedition are 4106. Therefore 4119 is the year of the taking of Tyre. The year of attack is demonstrative, as also are those 13 years of siege, which are explicitly given in the Phoenician annals. Otherwise: From the start of Ithobaal to the start of Cyrus, 54 years and 3 months elapsed. Ithobaal reigned 19 years, which subtracted from 54 leaves 35 years from the death of Ithobaal to the start of Cyrus: to which if you add the 13 years of the siege of Tyre, and subtract the sum from the start of Cyrus, that is from year 4154, there remains the year 4016, namely the first of both the siege and Nebuchadnezzar's expedition, and likewise the seventh current year of Ithobaal. Josephus: «So the total time is fifty-four years and three months in addition. For in the seventh year [* — of the reign of Nebuchadnezzar] he began to besiege Tyre.» And both what precedes and what we have demonstrated above sufficiently prove that one must read: «For in the seventh year of the same reign of Nebuchadnezzar», etc. On the duration of the 13-year\n\nBb iij    siege",
+  "tables": [],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Ithobalus secundus",
+      "definition_pt": "Designação proposta por Scaliger para o segundo rei de Tiro de mesmo nome, distinguindo-o do Itobaal sogro de Acabe, rei de Samaria.",
+      "definition_en": "Designation proposed by Scaliger for the second king of Tyre with this name, distinguishing him from the Ithobaal who was father-in-law of Ahab, king of Samaria."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Epocha LV (supra)",
+      "context": "Haec partim pendent a LV Epocha"
+    },
+    {
+      "type": "internal",
+      "target": "Epocha LX (infra)",
+      "context": "& infra ad Epocham LX repetitur"
+    },
+    {
+      "type": "external",
+      "target": "Zacharias XII, 11",
+      "context": "Testis Zacharias Propheta XII, 11"
+    },
+    {
+      "type": "external",
+      "target": "Apocalypsis XVI",
+      "context": "Apocalyps. XVI, ubi vocatur Ἁρμαγεδών"
+    },
+    {
+      "type": "external",
+      "target": "Ptolomeu, Almagesto (observações eclípticas dos Caldeus, via Hiparco)",
+      "context": "in observationibus eclipticis priscorum Chaldaeorum apud Ptolemaeum ex Hipparcho"
+    },
+    {
+      "type": "external",
+      "target": "Canon Astronomicus de Ptolomeu",
+      "context": "Canon Astronomicus attribuit illi ἔτη ΚΑ"
+    },
+    {
+      "type": "external",
+      "target": "Beroso, fragmento (apud Iosephum)",
+      "context": "Eadem constantia extat in Berosiano fragmento"
+    },
+    {
+      "type": "external",
+      "target": "Ezequiel 1 (início do livro)",
+      "context": "meminit Ezekiel Propheta statim initio libri sui"
+    },
+    {
+      "type": "external",
+      "target": "Josefo (Contra Apionem / Antiquitates), citando os Annales Phoenicum",
+      "context": "Iosephus eruditissimus & πολυϊστορικώτατος scriptor"
+    },
+    {
+      "type": "external",
+      "target": "Jeremias XXV, 1",
+      "context": "qui quidem erat quartus Ioakim filii Iosiae. Ierem. XXV, 1"
+    },
+    {
+      "type": "external",
+      "target": "Jeremias XXIX, 10",
+      "context": "Ieremias LXX annos deportationis Babylonicae; cap. XXIX, 10"
+    },
+    {
+      "type": "external",
+      "target": "Jeremias XXIV, 5-6",
+      "context": "ubi & diserte septuaginta annorum fit mentio XXIIII, 5, 6"
+    },
+    {
+      "type": "external",
+      "target": "Ezequiel XI, 16",
+      "context": "perspicue sine ullo aenigmate Ezekiel expressit XI, 16"
+    },
+    {
+      "type": "external",
+      "target": "Benedictus Pererius, Commentaria in Danielem",
+      "context": "per totum Commentarium suum in Danielem"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Referência geral às observações de eclipses (lunares e solares) dos antigos Caldeus, registradas por Hiparco e transmitidas por Ptolomeu, usadas por Scaliger para fixar o ano 123 de Nabonassar como início do reino de Nabopolassar.",
+      "historical_date_as_cited": "anno CXXIII Nabonassari",
+      "ancient_source": "Ptolomeu (Almagesto / Canon Astronomicus), via Hiparco; observações dos Chaldaei prisci"
+    }
+  ],
+  "uncertainty_flags": [
+    "Leitura grega 'ἔτη Κϛ' vs 'ΚΘ' depende da identificação correta do digamma/stigma (ϛ=6) com theta (Θ=9); Scaliger argumenta corrupção paleográfica.",
+    "Variantes do fragmento de Beroso: εἴκοσιν ἕν (21) vs εἴκοσι ἐννέα (29) — Scaliger adota a segunda como correta com base na duração total do reinado.",
+    "Citação grega de Josefo apresenta lacuna marcada com asterisco (*) que Scaliger conjectura como 'ἔτει τοῦ αὐτοῦ' (no sétimo ano do mesmo reinado de Nabucodonosor).",
+    "Polêmica explícita com Benedictus Pererius (jesuíta, comentador de Daniel) sobre o início das setenta semanas: Scaliger as conta a partir do cativeiro de Jeconias (4114 P.J.), não da queda de Sedecias.",
+    "Página truncada no rodapé com a palavra 'annorum' iniciando o tópico sobre os 13 anos do assédio, continuado na página seguinte."
+  ],
+  "notes": "Página densamente cronológica, articulando cinco Epochae numeradas (LV-LIX) que sincronizam três séries: reis caldeus (Nabopolassar, Nabucodonosor) via Ptolomeu/Beroso; reis tírios (Itobaal II, Hirom II) via Anais Fenícios em Josefo; reis de Judá (Joaquim, Jeconias, Sedecias) via Jeremias e Ezequiel. Operações-chave em Periodus Iuliana: início de Ciro = 4154 P.J.; início de Itobaal II ≈ 4100 P.J.; início da expedição de Nabucodonosor = 4086 P.J.; cativeiro de Jeconias = 4114 P.J.; início do cerco de Tiro = 4106 P.J.; tomada de Tiro = 4119 P.J. A passagem de Josefo citada em grego é provavelmente Contra Apionem I.21 (sobre os 54 anos e 3 meses entre Itobaal e o décimo terceiro de Hirom). A polêmica com Pererius é o ponto teológico-cronológico mais carregado da página: Scaliger defende que as 70 semanas de Daniel devem ser contadas a partir do cativeiro de Jeconias, não de Sedecias. Reductio ad absurdum: contar a partir de Sedecias colocaria o decreto de Ciro 'apud inferos', dez anos após sua morte. Não há tabelas nesta página, apenas prosa demonstrativa intercalada com numerais romanos para ciclos e datas absolutas em Periodus Iuliana."
+}
+```

@@ -1,0 +1,43 @@
+{
+  "page": 135,
+  "page_type": "table",
+  "latin": "LIBER PRIMUS.\nRESIDUUM TABULAE MAGNI LUSTRI CANICULARIS IULIANI.",
+  "pt": "LIVRO PRIMEIRO.\nRestante da Tábua do Grande *Lustrum Caniculare* Juliano.",
+  "en": "BOOK ONE.\nRemainder of the Table of the Great Julian *Lustrum Caniculare*.",
+  "tables": [
+    {
+      "caption_pt": "Restante da Tábua do Grande Lustrum Caniculare Juliano — correspondências entre os meses egípcios *Thoth*, *Sahami* (sahmi) e *Pharauardin* (persa) e as datas julianas, para os anos 1008, 1036, 1064, 1092, 1120 e 1148 (do ciclo canicular / Período Juliano).",
+      "caption_en": "Remainder of the Table of the Great Julian Lustrum Caniculare — correspondences between the Egyptian months *Thoth*, *Sahami* (sahmi) and *Pharauardin* (Persian) and the Julian dates, for years 1008, 1036, 1064, 1092, 1120 and 1148 (of the canicular cycle / Julian Period).",
+      "markdown": "| Dia | 1008 Thoth | 1008 Sahami | 1008 Pharauardin | 1036 Thoth | 1036 Sahami | 1036 Pharauardin | 1064 Thoth | 1064 Sahami | 1064 Pharauardin | 1092 Thoth | 1092 Sahami | 1092 Pharauardin | 1120 Thoth | 1120 Sahami | 1120 Pharauardin | 1148 Thoth | 1148 Sahami | 1148 Pharauardin |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 7 Mar. | 8 Iun. | 5 Iun. | 28 Feb. | 1 Iun. | 29 Mai. | 22 Feb. | 25 Mai. | 22 Mai. | 15 Feb. | 18 Mai. | 15 Mai. | 8 Feb. | 11 Mai. | 8 Mai. | 1 Feb. | 4 Mai. | 1 Mai. |\n| 2 | 7 | 8 | 5 | 28 | 1 | 29 | 21 | 25 | 22 | 14 | 18 | 15 | 7 | 11 | 8 | 31 Ian. | 4 | 1 |\n| 3 | 7 | 8 | 5 | 28 | 1 | 29 | 21 | 25 | 22 | 14 | 18 | 15 | 7 | 11 | 8 | 31 | 4 | 1 |\n| 4 | 7 | 8 | 5 | 28 | 1 | 29 | 21 | 25 | 22 | 14 | 18 | 15 | 7 | 11 | 8 | 31 | 4 | 1 |\n| 5 | 6 | 7 | 4 | 27 | 31 Mai | 28 | 21 | 24 | 21 | 14 | 17 | 14 | 7 | 10 | 7 | 31 | 3 | 30 Apr. |\n| 6 | 6 | 7 | 4 | 27 | 31 | 28 | 20 | 24 | 21 | 13 | 17 | 14 | 6 | 10 | 7 | 30 | 3 | 30 |\n| 7 | 6 | 7 | 4 | 27 | 31 | 28 | 20 | 24 | 21 | 13 | 17 | 14 | 6 | 10 | 7 | 30 | 3 | 30 |\n| 8 | 6 | 7 | 4 | 27 | 31 | 28 | 20 | 24 | 21 | 13 | 17 | 14 | 6 | 10 | 7 | 30 | 2 | 29 |\n| 9 | 5 | 6 | 3 | 26 | 30 | 27 | 20 | 23 | 20 | 13 | 16 | 13 | 6 | 9 | 6 | 30 | 2 | 29 |\n| 10 | 5 | 6 | 3 | 26 | 30 | 27 | 19 | 23 | 20 | 12 | 16 | 13 | 5 | 9 | 6 | 29 | 2 | 29 |\n| 11 | 5 | 6 | 3 | 26 (Nabonassar) | 30 | 27 | 19 | 23 | 20 | 12 | 16 | 13 | 5 | 9 | 6 | 29 | 2 | 29 |\n| 12 | 5 | 6 | 3 | 26 | 30 | 27 | 19 | 23 | 20 | 12 | 16 | 13 | 5 | 9 | 6 | 29 | 2 | 29 |\n| 13 | 4 | 5 | 2 | 25 | 29 | 26 | 19 | 22 | 19 | 12 | 15 | 12 | 5 | 8 | 5 | 29 | 1 | 28 |\n| 14 | 4 | 5 | 2 | 25 | 29 | 26 | 18 | 22 | 19 | 11 | 15 | 12 | 4 | 8 | 5 | 28 | 1 | 28 |\n| 15 | 4 | 5 | 2 | 25 | 29 | 26 | 18 | 22 | 19 | 11 | 15 | 12 | 4 | 8 | 5 | 28 | 1 | 28 |\n| 16 | 4 | 5 | 2 | 25 | 29 | 26 | 18 | 22 | 19 | 11 | 15 | 12 | 4 | 8 | 5 | 28 | 1 | 28 |\n| 17 | 3 | 4 | 1 | 25 | 28 | 25 | 18 | 21 | 18 | 11 | 14 | 11 | 4 | 7 | 4 | 28 | 30 Apr. | 27 |\n| 18 | 3 | 4 | 1 | 24 | 28 | 25 | 17 | 21 | 18 | 10 | 14 | 11 | 3 | 7 | 4 | 27 | 30 | 27 |\n| 19 | 3 | 4 | 1 | 24 | 28 | 25 | 17 | 21 | 18 | 10 | 14 | 11 | 3 | 7 | 4 | 27 | 30 | 27 |\n| 20 | 3 | 4 | 1 | 24 | 28 | 25 | 17 | 21 | 18 | 10 | 14 | 11 | 3 | 7 | 4 | 27 | 30 | 27 |\n| 21 | 2 | 3 | 31 Mai | 24 | 27 | 24 | 17 | 20 | 17 | 10 | 13 | 10 | 3 | 6 | 3 | 27 | 29 | 26 |\n| 22 | 2 | 3 | 31 | 23 | 27 | 24 | 16 | 20 | 17 | 9 | 13 | 10 | 2 | 6 | 3 | 26 | 29 | 26 |\n| 23 | 2 | 3 | 31 | 23 | 27 | 24 | 16 | 20 | 17 | 9 | 13 | 10 | 2 | 6 | 3 | 26 | 29 | 26 |\n| 24 | 2 | 3 | 31 | 23 | 27 | 24 | 16 | 20 | 17 | 9 | 12 | 10 | 2 | 6 | 3 | 26 | 29 | 26 |\n| 25 | 1 | 2 | 30 | 23 | 26 | 23 | 16 | 19 | 16 | 9 | 12 | 9 | 2 | 5 | 2 | 26 | 28 | 25 |\n| 26 | 1 | 2 | 30 | 22 | 26 | 23 | 15 | 19 | 16 | 8 | 12 | 9 | 1 | 5 | 2 | 25 | 28 | 25 |\n| 27 | 1 | 2 | 30 | 22 | 26 | 23 | 15 | 19 | 16 | 8 | 12 | 9 | 1 | 5 | 2 | 25 | 28 | 25 |\n| 28 | 1 | 2 | 30 | 22 | 26 | 23 | 15 | 19 | 16 | 8 | 12 | 9 | 1 | 5 | 2 | 25 | 28 | 25 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Magnum Lustrum Caniculare Iulianum",
+      "definition_pt": "O 'Grande *Lustrum Caniculare* Juliano' é o grande período cíclico em que Scaliger compõe a tábua de equivalências entre os calendários egípcio antigo (mês *Thoth*), egípcio cristão / copta (*Sahami* = mês de *Sahmi*/Saami) e persa (*Pharauardin* = Farvardin), referidos a datas julianas. Esta página apresenta o 'restante' (residuum) da tábua, dando os primeiros 28 dias de cada mês para os anos 1008, 1036, 1064, 1092, 1120 e 1148 do ciclo (intervalos de 28 anos = um *Cyclus Solis*).",
+      "definition_en": "The 'Great Julian *Lustrum Caniculare*' is the great cyclic period in which Scaliger sets out the table of equivalences between the ancient Egyptian calendar (month *Thoth*), the Christian/Coptic Egyptian calendar (*Sahami* = month of Sahmi) and the Persian calendar (*Pharauardin* = Farvardin), referred to Julian dates. This page presents the 'remainder' (residuum) of the table, giving the first 28 days of each month for years 1008, 1036, 1064, 1092, 1120 and 1148 of the cycle (intervals of 28 years = one *Cyclus Solis*)."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Marcação da Era de Nabonassar ('Nabonassar') no dia 11 do mês *Thoth* na coluna do ano 1036, indicando o início (epocha) da *Aera Nabonassari*, ponto-chave para Ptolomeu no Almagesto.",
+      "historical_date_as_cited": "Thoth 1, ano 1036 do Lustrum Caniculare = 26 Februarii Iuliani",
+      "ancient_source": "Ptolomeu, Almagesto (epocha Nabonassari)"
+    }
+  ],
+  "uncertainty_flags": [
+    "Vários algarismos da tábua estão parcialmente apagados ou ambíguos no scan (especialmente colunas centrais do ano 1064 e do ano 1092); leituras feitas por interpolação aritmética da progressão regular (decremento de 1 dia a cada 4 dias, conforme estrutura do *Cyclus Solis* de 28 anos).",
+    "A leitura 'Sahami' para o segundo mês egípcio é a forma usada por Scaliger; corresponde provavelmente a transliteração árabe/copta de Thoth ou ao mês alternativo no calendário vago.",
+    "A linha 11 da coluna 1036 traz a anotação 'Nabonassar' indicando a epocha; a posição exata (dia Thoth = 26 Feb. Iul.) está coerente com a doutrina padrão da Aera Nabonassari (26 Fev. -747 jul. prol.), mas adaptada aqui ao ciclo canicular interno de Scaliger."
+  ],
+  "notes": "Esta é uma página puramente tabular (p. 103, marca de cadernola 'I iiij'), continuação ('Residuum') de uma tábua iniciada nas páginas precedentes. Cada bloco de coluna tripla dá, para um ano específico do *Magnum Lustrum Caniculare* (cada 28 anos = um Cyclus Solis), as datas julianas em que cai o dia 1, 2, ... 28 dos meses *Thoth* (egípcio antigo / vago), *Sahami* (copta) e *Pharauardin* (persa zoroastriano = Farvardin). Os meses se deslocam regularmente de 1 dia a cada 4 anos no calendário juliano (porque o ano vago egípcio perde ¼ de dia por ano em relação ao juliano). A anotação 'Nabonassar' na linha 11 do ano 1036 fixa a epocha da Aera Nabonassari na tábua. As linhas horizontais a cada quatro entradas marcam saltos de calendário (mudança de mês juliano: Mar→Feb, Iun→Mai, etc.). Não há prosa demonstrativa nesta página além do título.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4523,
+    "stop_reason": "end_turn"
+  }
+}

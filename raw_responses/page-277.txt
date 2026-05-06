@@ -1,0 +1,123 @@
+```json
+{
+  "page": 245,
+  "page_type": "text",
+  "latin": "LIBER TERTIVS.\n\nres Indicae notae sunt, ignorare potest, quot hodie maximi minutique Reges & Dynastae Arabes in Indiae non paucis partibus rerum potiuntur, alij a multis saeculis, alij χθὲς καὶ πρώην. Atque haec est summa vetustas huius anni vagi, qua maiorem non inuenio, & quae multis nominibus commendari debet. Nam, praeter alia, videmus in ea manifestum argumentum anni ex enneadecaeteride & embolismo in vagos menses luxati, & quia in Kal. Ian. primas Iulianas Muharram inciderit, propterea ab eo tempore Muharram principem mensium factum, quum Rabie prior antea signifer mensium esset: & propter mutatum ordinem, solutum fuisse embolismum. Eadem caussa quoque fuit embolismi retexendi anno primo Hegirae, quia neomenia Muharram, feria VI aufugit Muhammedes ex urbe Mecha, propterea apud illam gentem Muharram quoque principem mensium factum. quanquam verisimilius iam tum fuisse solutum embolismum, eandemque eorum Arabum, apud quos degebat & quorum popularis erat Muhammed, aeram fuisse a primis Kalendis Iulianis. quanquam Indis cum Muhammedanis de initio neomeniae non conuenit, quum Muhammedanorum neomenia ineat quarta die ἀπὸ τῆς ἕνης καὶ νέας, at neomenia Indorum ἀπὸ τῆς ἕνης καὶ νέας. Annus Hegirae erat Antiochenorum & Damascenorum 670, & 214 periodi Damascenae, cuius anni princeps mensium erat Ramadan, eiusque neomenia inciderat in XX Martij, ubi Epacta ε. Muhammedes aufugit Mecha eodem anno, XVI Iulij, in qua neomeniam primi Muharram Hegirae Arabes statuunt: e cuius regione eadem epacta x sita est. Quare & hinc recte incipit Muharram periodi magnae Damascenae, quam mere Calippicam fuisse vel ex hoc solo argumento vincitur. Calippica autem periodus pura puta Iuliana erat, non Lunaris, neque ullam προήγησιν σεληνιακὴν agnoscebat in fine annorum LXXVI: & tunc bidui προήγησις facta erat. Neomenia enim Ab conueniebat eo anno in XIIII Iulij, feria quarta, non in XVI, Indorum autem feria tertia: propterea quod primam suam neomeniam statuerunt in Kalendis primi Ianuarij Iuliani, quum neomenia ciuilis iniuerit secunda Ianuarij, feria VII. Itaque ad neomeniam ciuilem deest unus dies, ad neomeniam Hegirae, triduum. Experiamur ex nostris Tabulis. Annus Hegirae primus erat 667 a Kalendis primi Ianuarij Iuliani. qui fiunt anni Arabici absoluti 687. Ergo Muharram Hegirae erat annus 688 iniens Indorum. Ex Tabula quarta superioris Capitis abiecto numero proxime minori 470, remanet annus periodi Indorum 218. In Tabula secunda huius Capitis numerus proxime minor 210 in fronte, & residuus 8 in latere dat in angulo communi XIIII Iulij, cyclo Lunae XV, qui in eadem cella notatus est. Secundum rationes Calippi bene hactenus processerat, quia eo anno neomenia Ab inciderat in XIIII Iulij, feria quarta. Experiamur rursus ex Tabula quinta hebdomadica huius Capitis. De annis Indorum propositis 688, abiecto numero proxime minori 630 de Tabula septima, superest annus 58 periodi hebdomadicae in Tabula quinta. Numerus proxime minor in fronte 30, & residuus 28 in latere dant in angulo communi feriam 3. Ergo neomenia Muharram Indici iniuit a XIII Iulij ἕνη καὶ νέα, uno die ante iugum Lunae, triduo ante Muharram Hegirae. Itaque unus dies neomenijs Indicis addendus ad coitum luminarium, triduum ad Muharram Hegirae adipiscendum. Memineris verborum Chrysococcae medici, quae alibi adduximus, ubi verba facit de prima neomenia Muharram Hegirae. ἡ ἀρχὴ τοῦ ἔτους τούτου ἡμέρᾳ δ´ ἐτάρθη, καθ' ἣν σύνοδος δ´. Initium huius anni erat feria quarta, in qua erat coitus luminarium. Postea: ἥδε πρώτη πύτων ἡμέρᾳ ς´ δ´. Neomenia autem horum (Arabum) erat feria sexta. Ergo biduo post coitum luminarium iniuit neomenia Muharram Hegirae. Atque hodie constanter omnes neomeniae Muharram sunt tertia dies coitus luminarium, quemadmodum omnis neomenia Indorum est ἕνη καὶ νέα, uno die iugum Lunae anteuertens. Triduum illud a coitu luminarium, quo ineunt neomeniae Arabum, Graeci vocant τρεῖς προσελήνους ἡμέρας. Auctor Didymus in Geoponicis. Item Scholiastes Aristophanis in illud νεφέλαις: ὥσπερ κάτοπτρον, εἶτα τηροῦν ἔχων. προσελήνην, inquit, τῆς σελήνης ἔσης, εἴτις ἔπωθρον ἐπιγράψεν αἵματι. nisi quis putet πανσελήνου apud Scholiasten legendum esse. Ἀρκάδες προσέληνοι Herodoto ab alia caussa dicti, quod Luna gens prior illa fuit, ut est in secundo Fastorum. & inde προσέληνοι νύμφαι, αἱ Ἀρκαδικαὶ Hesychio. At προσέληνοι ἡμέραι dictae αἱ πρῶται τρεῖς τῆς σελήνης. Sotion ἀπὸ τῆς κθ´ τοῦ μηνός, ἐπὶ τὴν τρίτην τῆς νέας σελήνης illud triduum vocat ἀσελήνους ἡμέρας. Itaque νουμηνίαι Muhammedici Muharram sunt plane προσέληνοι, ita ut Luna omni tempore in neomenia Arabica sudo caelo sui videndi potestatem faciat. Muhammedani autem anxie in id incumbunt, ut τὸ φεγγάριον, quod ipsi Arabico verbo Nalka vocant, primo visum salutent, tripudijs, gesticulationibus, acclamationibus prosequantur. Idem faciunt Iudaei.\n\nTABVLA PRIMA INDORVM.] Haec Tabula cum sequenti eadem est, nisi quod periodus huius est annorum Iulianorum 228: periodus sequentis annorum 235 Arabicorum,",
+  "pt": "LIVRO TERCEIRO.\n\nas coisas índicas são conhecidas, pode ignorar quantos Reis e Dinastas Árabes, máximos e mínimos, hoje dominam coisas em não poucas partes da Índia, alguns há muitos séculos, outros χθὲς καὶ πρώην (ontem e anteontem). E esta é a suma antiguidade deste *annus vagus*, da qual não encontro maior, e que deve ser recomendada por muitos títulos. Pois, além de outras coisas, vemos nele manifesto argumento de que o ano foi deslocado para meses vagos a partir da *enneadecaeteris* e do *embolismus*, e visto que nas Kalendas de Janeiro das primeiras Julianas caiu Muharram, por isso desde aquele tempo Muharram foi feito o primeiro dos meses, quando antes Rabi o anterior era o porta-bandeira dos meses; e por causa da ordem mudada, foi dissolvido o *embolismus*. A mesma causa houve também para retecer o *embolismus* no primeiro ano da Hégira, porque na *neomenia* de Muharram, na feria VI, Muhammed fugiu da cidade de Meca, e por isso entre aquele povo Muharram também foi feito o primeiro dos meses. Embora seja mais verossímil que já então estivesse dissolvido o *embolismus*, e que a *aera* daqueles Árabes, entre os quais habitava e dos quais era conterrâneo Muhammed, fosse das primeiras Kalendas Julianas. Embora os Indianos não concordem com os Muhammedanos sobre o início da *neomenia*, visto que a *neomenia* dos Muhammedanos começa no quarto dia ἀπὸ τῆς ἕνης καὶ νέας (a partir do dia velho e novo), enquanto a *neomenia* dos Indianos ἀπὸ τῆς ἕνης καὶ νέας. O ano da Hégira era o 670 dos Antioquenos e Damascenos, e 214 da *periodus Damascena*, cujo primeiro dos meses era Ramadã, e cuja *neomenia* caíra em 20 de Março, onde a *Epacta* era 5. Muhammed fugiu de Meca no mesmo ano, em 16 de Julho, em que os Árabes estabelecem a *neomenia* do primeiro Muharram da Hégira: defronte da qual está situada a mesma epacta 10. Por isso também daqui retamente começa Muharram da grande *periodus Damascena*, que se prova, mesmo só por este argumento, ter sido puramente Calípica. Ora, a *periodus Calippica* era pura e simplesmente Juliana, não Lunar, nem reconhecia qualquer προήγησις σεληνιακή (antecipação lunar) ao fim de 76 anos: e então fazia-se uma προήγησις de dois dias. Pois a *neomenia* de Ab caía naquele ano em 14 de Julho, feria quarta, não em 16; mas a dos Indianos em feria terça: porque estabeleceram sua primeira *neomenia* nas Kalendas do primeiro de Janeiro Juliano, quando a *neomenia* civil teria iniciado no segundo de Janeiro, feria VII. Por isso à *neomenia* civil falta um dia, à *neomenia* da Hégira, três dias. Experimentemos com nossas Tábuas. O primeiro ano da Hégira era 667 a partir das Kalendas do primeiro de Janeiro Juliano. Que perfazem 687 anos Árabes completos. Logo o Muharram da Hégira era o ano 688 incipiente dos Indianos. Da quarta Tábua do Capítulo anterior, abatido o número proximamente menor 470, resta o ano 218 da *periodus* dos Indianos. Na segunda Tábua deste Capítulo, o número proximamente menor 210 na frente, e o resíduo 8 no lado, dão no ângulo comum 14 de Julho, ciclo da Lua 15, que está anotado na mesma célula. Segundo as razões de Calipo, bem prosseguira até aqui, porque naquele ano a *neomenia* de Ab caíra em 14 de Julho, feria quarta. Experimentemos novamente pela quinta Tábua hebdomádica deste Capítulo. Dos 688 anos dos Indianos propostos, abatido o número proximamente menor 630 da Tábua sétima, restam 58 anos da *periodus* hebdomádica na Tábua quinta. O número proximamente menor 30 na frente, e o resíduo 28 no lado, dão no ângulo comum a feria 3. Logo a *neomenia* Muharram dos Indianos iniciou em 13 de Julho, ἕνη καὶ νέα, um dia antes da conjunção da Lua, três dias antes do Muharram da Hégira. Por isso um dia deve ser acrescentado às *neomeniae* dos Indianos para alcançar a conjunção dos luminares, três dias para o Muharram da Hégira. Lembra-te das palavras do médico Crisococa, que aduzimos alhures, onde fala da primeira *neomenia* de Muharram da Hégira: ἡ ἀρχὴ τοῦ ἔτους τούτου ἡμέρᾳ δ´ ἐτάρθη, καθ' ἣν σύνοδος δ´. *O início deste ano caiu na feria quarta, em que era a conjunção dos luminares*. Depois: ἥδε πρώτη πύτων ἡμέρᾳ ς´ δ´. *A neomenia deles (dos Árabes) era na feria sexta*. Logo dois dias após a conjunção dos luminares iniciou a *neomenia* de Muharram da Hégira. E hoje todas as *neomeniae* de Muharram são constantemente o terceiro dia da conjunção dos luminares, assim como toda *neomenia* dos Indianos é ἕνη καὶ νέα, antecedendo em um dia a conjunção da Lua. Aquele tríduo desde a conjunção dos luminares, em que iniciam as *neomeniae* dos Árabes, os Gregos chamam τρεῖς προσελήνους ἡμέρας (três dias proselenos). Autor Dídimo nas Geopônicas. Igualmente o Escoliasta de Aristófanes naquele passo das Nuvens: ὥσπερ κάτοπτρον, εἶτα τηροῦν ἔχων. προσελήνην, diz ele, τῆς σελήνης ἔσης, εἴτις ἔπωθρον ἐπιγράψεν αἵματι. A menos que alguém pense que se deve ler πανσελήνου no Escoliasta. Ἀρκάδες προσέληνοι, ditos por Heródoto por outra causa, *porque aquela gente foi anterior à Lua*, como está no segundo dos Fastos. E daí προσέληνοι νύμφαι, αἱ Ἀρκαδικαί em Hesíquio. Mas προσέληνοι ἡμέραι chamadas as três primeiras da Lua. Sócion, ἀπὸ τῆς κθ´ τοῦ μηνός, ἐπὶ τὴν τρίτην τῆς νέας σελήνης (do 29 do mês até o terceiro da nova Lua), chama aquele tríduo ἀσελήνους ἡμέρας (dias sem Lua). Por isso as *νουμηνίαι* muhammédicas de Muharram são claramente προσέληνοι, de modo que a Lua em todo tempo da *neomenia* arábica em céu sereno dá oportunidade de ser vista. Os Muhammedanos, porém, ansiosamente se empenham em saudar τὸ φεγγάριον (o luar), que eles chamam pela palavra arábica *Nalka*, ao primeiro avistamento, com saltos, gesticulações e aclamações. O mesmo fazem os Judeus.\n\nTABVLA PRIMA INDORVM.] Esta Tábua é igual à seguinte, exceto que a *periodus* desta é de 228 anos Julianos, a *periodus* da seguinte de 235 anos Árabes,",
+  "en": "BOOK THREE.\n\nIndian matters are known, one may not know how many great and small Arab Kings and Dynasts today rule over not a few parts of India, some for many centuries, others χθὲς καὶ πρώην (yesterday and the day before). And this is the highest antiquity of this *annus vagus* I can find, and it deserves commendation on many grounds. For, among other things, we see in it manifest evidence that the year was dislocated into wandering months from the *enneadecaeteris* and *embolismus*, and that since Muharram fell on the Kalends of January of the first Julian year, from that time Muharram was made the chief of months, whereas previously Rabi the earlier was the standard-bearer of the months; and because of the changed order, the *embolismus* was dissolved. The same cause also existed for re-weaving the *embolismus* in the first year of the Hegira, because on the *neomenia* of Muharram, on feria VI, Muhammad fled from the city of Mecca, and therefore among that people Muharram was also made the chief of months. Although it is more probable that the *embolismus* had already then been dissolved, and that the *aera* of those Arabs, among whom he dwelt and whose compatriot Muhammad was, dated from the first Julian Kalends. Although the Indians do not agree with the Muhammadans on the beginning of the *neomenia*, since the *neomenia* of the Muhammadans begins on the fourth day ἀπὸ τῆς ἕνης καὶ νέας (from the old-and-new day), while the *neomenia* of the Indians ἀπὸ τῆς ἕνης καὶ νέας. The year of the Hegira was the 670th of the Antiochenes and Damascenes, and the 214th of the *periodus Damascena*, whose chief month was Ramadan, and whose *neomenia* fell on March 20, where the *Epacta* was 5. Muhammad fled from Mecca in the same year, on July 16, on which the Arabs place the *neomenia* of the first Muharram of the Hegira: opposite which the same epacta 10 is placed. Hence too rightly Muharram of the great *periodus Damascena* begins from here, which from this single argument is proved to have been purely Callippic. Now the *periodus Callippica* was strictly Julian, not Lunar, nor did it recognize any προήγησις σεληνιακή (lunar advancement) at the end of 76 years: and then a two-day προήγησις was made. For the *neomenia* of Ab fell that year on July 14, feria quarta, not on July 16; but that of the Indians on feria tertia: because they placed their first *neomenia* on the Kalends of the first of January Julian, when the civil *neomenia* would have begun on January 2, feria VII. Thus the civil *neomenia* lacks one day, the *neomenia* of the Hegira three days. Let us test with our Tables. The first year of the Hegira was 667 from the Kalends of the first of January Julian. Which makes 687 complete Arab years. Therefore Muharram of the Hegira was the year 688 entering for the Indians. From the fourth Table of the previous Chapter, subtracting the next-lesser number 470, the year 218 of the Indian *periodus* remains. In the second Table of this Chapter, the next-lesser number 210 in the front, and the residue 8 on the side, give in the common angle July 14, cycle of the Moon 15, which is noted in the same cell. According to the reckoning of Callippus, it had so far proceeded well, because in that year the *neomenia* of Ab fell on July 14, feria quarta. Let us test again from the fifth weekly Table of this Chapter. From the 688 years of the Indians proposed, subtracting the next-lesser number 630 from the seventh Table, 58 years remain of the weekly *periodus* in the fifth Table. The next-lesser number 30 in the front, and the residue 28 on the side, give in the common angle feria 3. Therefore the *neomenia* of Indian Muharram began on July 13 ἕνη καὶ νέα, one day before lunar conjunction, three days before Muharram of the Hegira. Therefore one day must be added to the Indian *neomeniae* to reach the conjunction of the luminaries, three days for Muharram of the Hegira. Remember the words of the physician Chrysococces, which we cited elsewhere, where he speaks of the first *neomenia* of Muharram of the Hegira: ἡ ἀρχὴ τοῦ ἔτους τούτου ἡμέρᾳ δ´ ἐτάρθη, καθ' ἣν σύνοδος δ´. *The beginning of this year fell on feria quarta, on which was the conjunction of the luminaries*. Afterward: ἥδε πρώτη πύτων ἡμέρᾳ ς´ δ´. *Their (the Arabs') neomenia was on feria sexta*. Therefore two days after the conjunction of the luminaries the *neomenia* of Muharram of the Hegira began. And today all *neomeniae* of Muharram are consistently the third day from the conjunction of the luminaries, just as every *neomenia* of the Indians is ἕνη καὶ νέα, anticipating the lunar conjunction by one day. That triduum from the conjunction of the luminaries, in which the *neomeniae* of the Arabs begin, the Greeks call τρεῖς προσελήνους ἡμέρας (three pre-lunar days). Author: Didymus in the Geoponica. Likewise the Scholiast of Aristophanes on that passage in the Clouds: ὥσπερ κάτοπτρον, εἶτα τηροῦν ἔχων. προσελήνην, he says, τῆς σελήνης ἔσης, εἴτις ἔπωθρον ἐπιγράψεν αἵματι. Unless someone thinks πανσελήνου should be read in the Scholiast. Ἀρκάδες προσέληνοι, called so by Herodotus for another reason, *because that race was prior to the Moon*, as is in the second book of the Fasti. And hence προσέληνοι νύμφαι, αἱ Ἀρκαδικαί in Hesychius. But προσέληνοι ἡμέραι are called the first three of the Moon. Sotion, ἀπὸ τῆς κθ´ τοῦ μηνός, ἐπὶ τὴν τρίτην τῆς νέας σελήνης (from the 29th of the month to the third of the new Moon), calls that triduum ἀσελήνους ἡμέρας (moonless days). Thus the Muhammadan *νουμηνίαι* of Muharram are clearly προσέληνοι, so that the Moon at every time during the Arab *neomenia* in clear sky offers the opportunity of being seen. The Muhammadans anxiously strive that they may salute τὸ φεγγάριον (the moonlight), which they call by the Arabic word *Nalka*, at first sight, with leaps, gesticulations, and acclamations. The Jews do the same.\n\nTABVLA PRIMA INDORVM.] This Table is the same as the following one, except that its *periodus* is of 228 Julian years: the *periodus* of the following one is of 235 Arab years,",
+  "tables": [],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "tres proselenoi hemerai (τρεῖς προσελήνους ἡμέρας)",
+      "definition_pt": "Os três dias após a conjunção dos luminares, em que iniciam as *neomeniae* árabes; assim chamados pelos Gregos (Dídimo nas Geopônicas, Escoliasta de Aristófanes).",
+      "definition_en": "The three days after the conjunction of the luminaries, in which the Arab *neomeniae* begin; so called by the Greeks (Didymus in the Geoponica, Scholiast of Aristophanes)."
+    },
+    {
+      "term": "aselenoi hemerai (ἀσέληνοι ἡμέραι)",
+      "definition_pt": "Segundo Sócion, o tríduo desde o dia 29 do mês até o terceiro dia da nova Lua, chamados 'dias sem Lua'.",
+      "definition_en": "According to Sotion, the triduum from the 29th of the month to the third day of the new Moon, called 'moonless days'."
+    },
+    {
+      "term": "proegesis seleniake (προήγησις σεληνιακή)",
+      "definition_pt": "Antecipação lunar; correção que a *periodus Calippica* não reconhecia ao fim de 76 anos, mas que então se fazia como bidui προήγησις (antecipação de dois dias).",
+      "definition_en": "Lunar advancement; a correction which the *periodus Callippica* did not recognize at the end of 76 years, but which was then made as a two-day προήγησις."
+    },
+    {
+      "term": "hene kai nea (ἕνη καὶ νέα)",
+      "definition_pt": "O 'velho-e-novo', dia limítrofe do mês lunar grego; nas *neomeniae* dos Indianos antecede em um dia a conjunção dos luminares, ao passo que a dos Muhammedanos cai no quarto dia a partir desse marco.",
+      "definition_en": "The 'old-and-new', the liminal day of the Greek lunar month; the Indian *neomeniae* fall one day before the lunar conjunction, while the Muhammadan ones fall on the fourth day from this marker."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "supra, Capitis superioris Tabula quarta",
+      "context": "Ex Tabula quarta superioris Capitis abiecto numero proxime minori 470"
+    },
+    {
+      "type": "internal",
+      "target": "huius Capitis Tabula secunda",
+      "context": "In Tabula secunda huius Capitis numerus proxime minor 210"
+    },
+    {
+      "type": "internal",
+      "target": "huius Capitis Tabula quinta hebdomadica",
+      "context": "Experiamur rursus ex Tabula quinta hebdomadica huius Capitis"
+    },
+    {
+      "type": "internal",
+      "target": "huius Capitis Tabula septima",
+      "context": "abiecto numero proxime minori 630 de Tabula septima"
+    },
+    {
+      "type": "external",
+      "target": "Chrysococces, alibi a Scaligero adductus (provavelmente De Emendatione)",
+      "context": "Memineris verborum Chrysococcae medici, quae alibi adduximus"
+    },
+    {
+      "type": "external",
+      "target": "Didymus, Geoponica",
+      "context": "τρεῖς προσελήνους ἡμέρας. Auctor Didymus in Geoponicis"
+    },
+    {
+      "type": "external",
+      "target": "Scholiastes Aristophanis ad Nubes",
+      "context": "Scholiastes Aristophanis in illud νεφέλαις"
+    },
+    {
+      "type": "external",
+      "target": "Ovidius, Fasti, liber II",
+      "context": "quod Luna gens prior illa fuit, ut est in secundo Fastorum"
+    },
+    {
+      "type": "external",
+      "target": "Hesychius, Lexicon",
+      "context": "προσέληνοι νύμφαι, αἱ Ἀρκαδικαί Hesychio"
+    },
+    {
+      "type": "external",
+      "target": "Sotion",
+      "context": "Sotion ἀπὸ τῆς κθ´ τοῦ μηνός... illud triduum vocat ἀσελήνους ἡμέρας"
+    },
+    {
+      "type": "external",
+      "target": "Herodotus (sobre os Arcades)",
+      "context": "Ἀρκάδες προσέληνοι Herodoto ab alia caussa dicti"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "conjunction",
+      "description": "Neomenia de Ramadã do ano 670 dos Antioquenos/Damascenos (= ano da Hégira) caindo em 20 de Março, com Epacta 5.",
+      "historical_date_as_cited": "anno Hegirae = 670 Antiochenorum & Damascenorum, 214 periodi Damascenae, XX Martij",
+      "ancient_source": "computatio Scaligeri ex periodo Damascena"
+    },
+    {
+      "type": "conjunction",
+      "description": "Neomenia do primeiro Muharram da Hégira em 16 de Julho, dia da fuga de Muhammad de Meca, feria VI.",
+      "historical_date_as_cited": "XVI Iulij, anno 1 Hegirae",
+      "ancient_source": "Arabes; Chrysococces"
+    },
+    {
+      "type": "conjunction",
+      "description": "Neomenia de Ab caindo em 14 de Julho, feria quarta, no ano da Hégira (segundo as razões de Calipo).",
+      "historical_date_as_cited": "XIIII Iulij, feria quarta, anno Hegirae",
+      "ancient_source": "rationes Calippi"
+    },
+    {
+      "type": "conjunction",
+      "description": "Neomenia Muharram dos Indianos iniciando em 13 de Julho como ἕνη καὶ νέα, um dia antes da conjunção, três dias antes de Muharram da Hégira.",
+      "historical_date_as_cited": "XIII Iulij, feria 3, annus Indorum 688",
+      "ancient_source": "Tabulae Indicae apud Scaligerum"
+    }
+  ],
+  "uncertainty_flags": [
+    "Algumas formas gregas no scan estão de leitura difícil; transcrevi conforme o sentido (ex.: ἐτάρθη, πύτων), mas podem corresponder a leituras como ἐτάχθη ou τούτων no original.",
+    "A Epacta de Ramadã (lida como '5' = ε) e a epacta '10' opostas no calendário podem ter notação ambígua no scan.",
+    "A passagem do Escoliasta de Aristófanes contém formas gregas (ἔπωθρον, ἐπιγράψεν) cuja leitura é insegura no scan; podem corresponder a ἔσοπτρον / ἐπιχρίσειεν em outras edições.",
+    "A palavra árabe 'Nalka' para a luz da Lua (φεγγάριον) é transliteração de Scaliger; provavelmente corresponde ao árabe hilāl (crescente) ou nūr; identificação incerta."
+  ],
+  "notes": "Página densa do Livro III, dedicada à comparação entre os calendários indiano e muçulmano (Hégira) e à demonstração, com tábuas, de que a *periodus Damascena* é puramente Calípica (juliana, não lunar). Scaliger executa um cálculo passo-a-passo: (1) ano 1 da Hégira = 667 do calendário juliano, donde Muharram da Hégira corresponde ao ano 688 incipiente da era indiana; (2) cruzamento das Tábuas IV, II e V/VII do capítulo dá neomenia indiana em 13 Iul (feria 3), neomenia civil/Ab em 14 Iul (feria 4), e Muharram da Hégira em 16 Iul (feria 6) — distâncias de 1 e 3 dias após a conjunção. Em seguida, longa nota filológica sobre os termos gregos para o tríduo lunar pós-conjunção: προσέληνοι ἡμέραι (Dídimo, Escoliasta de Aristófanes, Heródoto via Ovídio, Hesíquio) versus ἀσέληνοι ἡμέραι (Sócion). Conclusão antropológica curiosa: muçulmanos e judeus saúdam ritualmente o primeiro avistamento da lua nova (transliteração árabe 'Nalka', possivelmente hilāl). Não há divergência explícita com Crusius nesta página."
+}
+```

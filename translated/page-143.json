@@ -1,0 +1,35 @@
+{
+  "page": 143,
+  "page_type": "table",
+  "latin": "LIBER PRIMVS.\n\nIII. III. IIII. IIII.\n\nAΘΥΡ Θεῶν Σεβαστῶν.    CHARDAD    ΧΟΙΑΚ Θεῶν Σεβαστῶν.    THIR\nHATHVR Elkupti.        Geladi.    CHIAK Elkupti.            Geladi.\nHADAR Aethiopum.                  TACHSCHAS Aethiopum.\nDIOS Gazensium.                   APELLAEOS Gazensium.\n\n[Tabula prima: Dies mensis | Regulares Augustorum | Regulares Aethiopum | Numerus Aureus | Epactae]\n[Tabula secunda: Dies mensis | Regulares Augustorum | Regulares Aethiopum | Numerus Aureus | Epactae]\n\nK ij",
+  "pt": "LIVRO PRIMEIRO.\n\nMeses III e IIII do calendário egípcio-macedônico, com seus equivalentes em outras tradições.\n\nMês III: ΑΘΥΡ (Athyr) dos *Theoi Sebastoi* (calendário alexandrino imperial); HATHUR dos coptas (*Elkupti*); HADAR dos etíopes; DIOS dos gazenses; CHARDAD; Geladi.\n\nMês IIII: ΧΟΙΑΚ (Choiak) dos *Theoi Sebastoi*; CHIAK dos coptas; TACHSCHAS dos etíopes; APELLAEOS dos gazenses; THIR; Geladi.\n\n[Duas tabelas de concordância calendárica, cada uma com 30 dias, dando para cada dia do mês: dia do mês juliano correspondente, *Regulares Augustorum*, *Regulares Aethiopum*, *Numerus Aureus*, *Epactae* e data juliana móvel para Maio/Junho/Julho.]",
+  "en": "BOOK ONE.\n\nMonths III and IIII of the Egyptian-Macedonian calendar, with their equivalents in other traditions.\n\nMonth III: ΑΘΥΡ (Athyr) of the *Theoi Sebastoi* (Alexandrian imperial calendar); HATHUR of the Copts (*Elkupti*); HADAR of the Ethiopians; DIOS of the Gazans; CHARDAD; Geladi.\n\nMonth IIII: ΧΟΙΑΚ (Choiak) of the *Theoi Sebastoi*; CHIAK of the Copts; TACHSCHAS of the Ethiopians; APELLAEOS of the Gazans; THIR; Geladi.\n\n[Two concordance calendar tables, each of 30 days, giving for each day: corresponding Julian date, *Regulares Augustorum*, *Regulares Aethiopum*, *Numerus Aureus*, *Epactae*, and shifting Julian date for May/June/July.]",
+  "tables": [
+    {
+      "caption_pt": "Mês III: Athyr (Θεῶν Σεβαστῶν) / Hathur (copta) / Hadar (etíope) / Dios (gazense) / Chardad / Geladi",
+      "caption_en": "Month III: Athyr (Theoi Sebastoi) / Hathur (Coptic) / Hadar (Ethiopian) / Dios (Gazan) / Chardad / Geladi",
+      "markdown": "| Dies mensis | Iulianus | Reg. Aug. | Reg. Aeth. | Num. Aureus | Epacta | Iulianus mobilis |\n|---|---|---|---|---|---|---|\n| 1 | 28 Oct. | 4 | 7 | VIII | 28 | 13 Mai |\n| 2 | 29 | 5 | 1 | — | 27 | 14 |\n| 3 | 30 | 6 | 2 | XVI | 26 | 15 |\n| 4 | 31 | 7 | 3 | V | 25 | 16 |\n| 5 | Non. (Nov.) | 1 | 4 | — | 24 | 17 |\n| 6 | 2 | 2 | 5 | XIII | 23 | 18 |\n| 7 | 3 | 3 | 6 | II | 22 | 19 |\n| 8 | 4 | 4 | 7 | — | 21 | 20 |\n| 9 | 5 | 5 | 1 | X | 20 | 21 |\n| 10 | 6 | 6 | 2 | — | 19 | 22 |\n| 11 | 7 | 7 | 3 | XVIII | 18 | 23 |\n| 12 | 8 | 1 | 4 | VII | 17 | 24 |\n| 13 | 9 | 2 | 5 | — | 16 | 25 |\n| 14 | 10 | 3 | 6 | XV | 15 | 26 |\n| 15 | 11 | 4 | 7 | IIII | 14 | 27 |\n| 16 | 12 | 5 | 1 | — | 13 | 28 |\n| 17 | 13 | 6 | 2 | XII | 12 | 29 |\n| 18 | 14 | 7 | 3 | I | 11 | 30 |\n| 19 | 15 | 1 | 4 | — | 10 | 31 |\n| 20 | 16 | 2 | 5 | IX | 9 | 1 Iun. |\n| 21 | 17 | 3 | 6 | — | 8 | 2 |\n| 22 | 18 | 4 | 7 | XVII | 7 | 3 |\n| 23 | 19 | 5 | 1 | VI | 6 | 4 |\n| 24 | 20 | 6 | 2 | — | 5 | 5 |\n| 25 | 21 | 7 | 3 | XIIII | 4 | 6 |\n| 26 | 22 | 1 | 4 | III | 3 | 7 |\n| 27 | 23 | 2 | 5 | — | 2 | 8 |\n| 28 | 24 | 3 | 6 | XI | 1 | 9 |\n| 29 | 25 | 4 | 7 | XIX | * | 10 |\n| 30 | 26 | 5 | 1 | — | 29 | 11 |"
+    },
+    {
+      "caption_pt": "Mês IIII: Choiak (Θεῶν Σεβαστῶν) / Chiak (copta) / Tachschas (etíope) / Apellaeos (gazense) / Thir / Geladi",
+      "caption_en": "Month IIII: Choiak (Theoi Sebastoi) / Chiak (Coptic) / Tachschas (Ethiopian) / Apellaeos (Gazan) / Thir / Geladi",
+      "markdown": "| Dies mensis | Iulianus | Reg. Aug. | Reg. Aeth. | Num. Aureus | Epacta | Iulianus mobilis |\n|---|---|---|---|---|---|---|\n| 1 | 27 Nov. | 6 | 2 | VIII | 28 | 12 Iun. |\n| 2 | 28 | 7 | 3 | — | 27 | 13 |\n| 3 | 29 | 1 | 4 | XVI | 26 | 14 |\n| 4 | 30 | 2 | 5 | V | 25 | 15 |\n| 5 | 1 Dec. | 3 | 6 | — | 24 | 16 |\n| 6 | 2 | 4 | 7 | XIII | 23 | 17 |\n| 7 | 3 | 5 | 1 | II | 22 | 18 |\n| 8 | 4 | 6 | 2 | — | 21 | 19 |\n| 9 | 5 | 7 | 3 | X | 20 | 20 |\n| 10 | 6 | 1 | 4 | — | 19 | 21 |\n| 11 | 7 | 2 | 5 | XVIII | 18 | 22 |\n| 12 | 8 | 3 | 6 | VII | 17 | 23 |\n| 13 | 9 | 4 | 7 | — | 16 | 24 |\n| 14 | 10 | 5 | 1 | XV | 15 | 25 |\n| 15 | 11 | 6 | 2 | IIII | 14 | 26 |\n| 16 | 12 | 7 | 3 | — | 13 | 27 |\n| 17 | 13 | 1 | 4 | XII | 12 | 28 |\n| 18 | 14 | 2 | 5 | I | 11 | 29 |\n| 19 | 15 | 3 | 6 | — | 10 | 30 |\n| 20 | 16 | 4 | 7 | IX | 9 | 1 Iul. |\n| 21 | 17 | 5 | 1 | — | 8 | 2 |\n| 22 | 18 | 6 | 2 | XVII | 7 | 3 |\n| 23 | 19 | 7 | 3 | VI | 6 | 4 |\n| 24 | 20 | 1 | 4 | — | 5 | 5 |\n| 25 | 21 | 2 | 5 | XIIII | 4 | 6 |\n| 26 | 22 | 3 | 6 | III | 3 | 7 |\n| 27 | 23 | 4 | 7 | — | 2 | 8 |\n| 28 | 24 | 5 | 1 | XI | 1 | 9 |\n| 29 | 25 | 6 | 2 | XIX | * | 10 |\n| 30 | 26 | 7 | 3 | — | 28 | 11 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Várias células das tabelas têm dígitos parcialmente apagados ou borrados no scan; valores reconstruídos por padrão cíclico (Regulares Aug. ciclo 1-7, Regulares Aeth. ciclo 1-7, Numerus Aureus seguindo a sequência metônica padrão para epactae, Epactae 1-29 decrescente).",
+    "A coluna 'Regulares Aug.' inicia em 4 no mês III dia 1 e em 6 no mês IIII dia 1, consistente com avanço de 2 (mês III tem 30 dias → 30 mod 7 = 2), confirmando reconstrução.",
+    "Os cabeçalhos no topo das colunas externas (CHARDAD/Geladi e THIR/Geladi) parecem indicar nomes em sistemas adicionais (possivelmente persa-zoroastriano e georgiano/etíope-popular); transcrição literal do scan."
+  ],
+  "notes": "Página de tabelas calendáricas (parte do *De Emendatione*-style apparatus reproduzido no Isagogicorum). Apresenta concordância entre os meses III (Athyr/Hathur) e IIII (Choiak/Chiak) em seis tradições calendáricas: alexandrino dos *Theoi Sebastoi*, copta (Elkupti), etíope (ge'ez), gazense (calendário de Gaza com nomes macedônicos), persa (Chardad/Thir = خرداد/تیر, meses persas), e provavelmente uma sexta coluna 'Geladi' (etíope popular?). As tabelas dão para cada dia do mês: (1) data juliana correspondente; (2) *Regulares Augustorum* — número regular para o calendário alexandrino dos Augustos, usado para calcular o dia da semana; (3) *Regulares Aethiopum* — equivalente etíope; (4) *Numerus Aureus* (número áureo, posição no ciclo de 19 anos) marcando os dias em que cai a neomenia para cada ano do ciclo metônico; (5) *Epacta*; (6) data juliana 'móvel' (provavelmente para outro ano de referência ou para conversão a calendário diferente). O asterisco (*) na linha 29 das duas tabelas marca o dia da neomenia áurea (*) — convenção de Scaliger para indicar o lugar do salto epactal. Tabela essencial para conversão entre calendários antigos. Assinatura 'K ij' indica fólio K2 (segundo do caderno K).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4314,
+    "stop_reason": "end_turn"
+  }
+}

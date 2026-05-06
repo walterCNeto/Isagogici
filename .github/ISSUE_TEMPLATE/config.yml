@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussão geral
+    url: https://github.com/walterCNeto/Isagogici/discussions
+    about: Para conversas que não são erros específicos — método, próximos passos, parcerias.
+  - name: 📜 Projeto irmão (De Emendatione Temporum)
+    url: https://github.com/walterCNeto/Scaliger
+    about: Tradução do texto original a que o Isagogici se refere constantemente.

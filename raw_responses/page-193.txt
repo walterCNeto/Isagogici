@@ -1,0 +1,74 @@
+```json
+{
+  "page": 193,
+  "page_type": "table",
+  "latin": "LIBER SECVNDVS.\n\n                                              Anni    Anni     Period.\n                                              regni.  collecti. Iuliana.\nחלבש בן אבדי  Helbes Abdaei F. mens. x                444      4128\nאב בר         Abbarus summus Pontif. mens. ri          444      4129\nבעל טר        Balator.                          i      445      4129\nגר עשתרת עבד אלים  Mytgonus & Gerestratus F. F. Abdelim.  vi   451   4130\nמר בעל        Merbal Babylone accitus.          iiii   455      4136\nחירום         Hiromus eius frater.              xx     475      4140\n   Huius anno xiiii Cyrus iniuit imperium Persarum.\n\nHEBRAEORVM TEMPORA.\n\n            Anni  Cyclus  Neomenia  Numer.  Epacta  Neomenia  Period.\n                  Solis.  Zygonos.  Aureus. Iuliana. Nisan.   Iuliana.\nAbraham nascitur.                                              2713.\n   Moritur.                                                    2887.\nIsaac nascitur.                                                2813.\n   Moritur.                                                    2993.\nIacob nascitur.                                                2873.\n   Moritur.                                                    3020.\nLeui filius Iacob.\nKaath filius Leui.\nAmram filius Kahath.\nMoses filius Amram septimus ab Abraham per patrem, sextus autem per matrem, nascitur.                                            3137.\n   Educit populum.       xxxix   xxv   vii Octob.  vi   27    ii Apr.   3217.\nIosua mortuo Mose.                                                      3256.\nIosua cum Othoniel Iudice  xl   viii   vii Octob. vii  vii    xxiii Mar.\nAioth Iudex            lxxx     xx    vii Octob.  ix   29     xxxi Mar.  3296.\nDebora                 xl      xvi    vi Octob.  xiii xiii    xvii Mar.  3376.\n   Huius anno xxiii Pelops in Elide Olympicum ludicrum instituit.\nGedeon                 xl     xxviii  vi Octob.   xv   vi     xxiiii Mar. 3416.\nAbimelech              iii    xii     v Octob.   xvii  28     Kal. Apr.   3456.\nThola                  xxiii  xv      v Octob.    i    i      xxix Mar.   3459.\nIair                   xxii   x       v Octob.    v    xvi    xiii Mar.   3482.\nINTERREGNVM\nAMMONITARVM xviii      iiii          v Octob.   viii  19     xii Mar.    3504.\n   Anno ix huius ἀναρχίας Ammonitarum Hercules iterum post Pelopem ludicrum Olympicum instaurauit.\nIephthe                vi    xxii    v Octob.   vii  viii    xxii Mar.   3522.\nAbesan                 vii   xxviii  v Octob.   xiii xiiii   xvi Mar.    3528.\n   Huius Iudicis anno iiii contigit Ἰλίου ἅλωσις.\nAhialon                x     vii     v Octob.    i    ii     xxviii Mar. 3535.\nAbdon                  viii  xvii    iiii Octob. xi   22     xvi Mar.    3545.\nSamson                 xx    xxv     iiii Octob. xix  20     ix Mar.     3553.\nEli                    xl    xvii    iiii Octob. i    ii     xxviii Mar. 3573.\nSamuel & Saul          xl    i       iii Octob.  iii  25     iiii Apr.   3613.\nDauid                  xl    xiii    iii Octob.  v    xvii   xiii Mar.   3653.\n   Colliguntur ab Exodo, ad excessum Dauidis, anni cccclxxvii.\n\nREGVM HEBRAEORVM SVCCESSIO.\n\ni Solomon F. Dauid    xl    xxv     v Octob.   vii   ix     xxi Mar.    3693.\n   Post Solomonis obitum, Regnum in duas partes diuisum propter schismaticum Ieroboam, in regnum Iuda, & regnum Israel. in cuius ditione tota tribus Iuda, & dimidia Beniamin, Regia autem urbs & metropolis, Ierosolyma.\n                                  O iij                            REGES",
+  "pt": "LIVRO SEGUNDO.\n\n[Continuação da tabela dos reis de Tiro:]\nHelbes, filho de Abdeu, x meses; Abbarus, sumo pontífice, ri (3) meses; Balator, 1 ano; Mytgonus e Gerestratus, filhos de Abdelim, 6 anos; Merbal, trazido de Babilônia, 4 anos; Hiromus, seu irmão, 20 anos. — No 14º ano deste, Ciro iniciou o império dos Persas.\n\nTEMPOS DOS HEBREUS.\n\n[Tabela cronológica com colunas: Anos do reinado, *Cyclus Solis*, *Neomenia* Zygonos, Número Áureo, *Epacta* Iuliana, *Neomenia* de Nisan, *Periodus Iuliana*.]\n\nNasce Abraão — 2713. Morre — 2887. Nasce Isaque — 2813. Morre — 2993. Nasce Jacó — 2873. Morre — 3020. Levi, filho de Jacó. Caate, filho de Levi. Anrão, filho de Caate. Moisés, filho de Anrão, sétimo desde Abraão pelo pai, mas sexto pela mãe, nasce — 3137. Conduz o povo (para fora do Egito) — 3217. Josué, depois da morte de Moisés — 3256. Josué com o juiz Otoniel — [3296]. Aod, juiz — 3296. Débora — 3376. — No 23º ano desta, Pélops instituiu em Élide o jogo Olímpico. Gedeão — 3416. Abimelec — 3456. Tola — 3459. Jair — 3482. INTERREGNO DOS AMONITAS, 18 anos — 3504. — No 9º ano desta ἀναρχία (anarquia) dos Amonitas, Hércules restaurou o jogo Olímpico, depois de Pélops. Jefté — 3522. Abesã — 3528. — No 4º ano deste juiz aconteceu a Ἰλίου ἅλωσις (a queda de Troia). Ahialon — 3535. Abdon — 3545. Sansão — 3553. Eli — 3573. Samuel e Saul — 3613. Davi — 3653. — Reúnem-se desde o Êxodo até a morte de Davi, 477 anos.\n\nSUCESSÃO DOS REIS DOS HEBREUS.\n\n1. Salomão, filho de Davi, 40 anos — 3693. — Após a morte de Salomão, o Reino foi dividido em duas partes por causa do cismático Jeroboão: no reino de Judá e no reino de Israel. Sob o domínio (de Judá) está toda a tribo de Judá e metade de Benjamim, sendo a cidade régia e metrópole Jerusalém.",
+  "en": "BOOK TWO.\n\n[Continuation of the table of kings of Tyre:]\nHelbes, son of Abdaeus, 10 months; Abbarus, high priest, 3 months; Balator, 1 year; Mytgonus and Gerestratus, sons of Abdelim, 6 years; Merbal, summoned from Babylon, 4 years; Hiromus, his brother, 20 years. — In his 14th year, Cyrus began the Persian empire.\n\nTIMES OF THE HEBREWS.\n\n[Chronological table with columns: Years (of life/rule), *Cyclus Solis*, *Neomenia* Zygonos, Golden Number, *Epacta* Iuliana, *Neomenia* of Nisan, *Periodus Iuliana*.]\n\nAbraham is born — 2713. Dies — 2887. Isaac is born — 2813. Dies — 2993. Jacob is born — 2873. Dies — 3020. Levi son of Jacob. Kohath son of Levi. Amram son of Kohath. Moses son of Amram, seventh from Abraham through his father but sixth through his mother, is born — 3137. He leads out the people — 3217. Joshua, after Moses' death — 3256. Joshua with judge Othniel — [3296]. Ehud the judge — 3296. Deborah — 3376. — In her 23rd year Pelops instituted the Olympic games at Elis. Gideon — 3416. Abimelech — 3456. Tola — 3459. Jair — 3482. INTERREGNUM OF THE AMMONITES, 18 years — 3504. — In the 9th year of this ἀναρχία (anarchy) of the Ammonites, Hercules restored the Olympic games after Pelops. Jephthah — 3522. Ibzan — 3528. — In the 4th year of this Judge occurred the Ἰλίου ἅλωσις (fall of Troy). Elon — 3535. Abdon — 3545. Samson — 3553. Eli — 3573. Samuel and Saul — 3613. David — 3653. — From the Exodus to the death of David are gathered 477 years.\n\nSUCCESSION OF THE KINGS OF THE HEBREWS.\n\n1. Solomon, son of David, 40 years — 3693. — After Solomon's death, the Kingdom was divided into two parts because of the schismatic Jeroboam: into the kingdom of Judah and the kingdom of Israel. Under (Judah's) dominion is the whole tribe of Judah and half of Benjamin, with the royal city and metropolis being Jerusalem.",
+  "tables": [
+    {
+      "caption_pt": "Reis de Tiro (final da lista) com anos de reinado, anos coletados (acumulados) e ano da Periodus Iuliana",
+      "caption_en": "Kings of Tyre (end of the list) with regnal years, collected (cumulative) years, and year of the Periodus Iuliana",
+      "markdown": "| Nome (hebraico) | Nome (latino) | Anni regni | Anni collecti | Period. Iuliana |\n|---|---|---|---|---|\n| חלבש בן אבדי | Helbes Abdaei F. | 10 meses | 444 | 4128 |\n| אב בר | Abbarus summus Pontif. | 3 meses | 444 | 4129 |\n| בעל טר | Balator | 1 | 445 | 4129 |\n| גר עשתרת עבד אלים | Mytgonus & Gerestratus F. F. Abdelim | 6 | 451 | 4130 |\n| מר בעל | Merbal Babylone accitus | 4 | 455 | 4136 |\n| חירום | Hiromus eius frater | 20 | 475 | 4140 |\n\nNo 14º ano de Hiromus, Ciro iniciou o império persa."
+    },
+    {
+      "caption_pt": "Hebraeorum tempora — Tempos dos Hebreus, de Abraão a Davi, com Cyclus Solis, Neomenia Zygonos, Numerus Aureus, Epacta Iuliana, Neomenia de Nisan, e Periodus Iuliana",
+      "caption_en": "Hebraeorum tempora — Times of the Hebrews from Abraham to David, with Cyclus Solis, Neomenia Zygonos, Golden Number, Epacta Iuliana, Neomenia of Nisan, and Periodus Iuliana",
+      "markdown": "| Evento | Anni | Cyclus Solis | Neomenia Zygonos | Num. Aureus | Epacta Iuliana | Neomenia Nisan | Period. Iuliana |\n|---|---|---|---|---|---|---|---|\n| Abraham nascitur | | | | | | | 2713 |\n| Moritur | | | | | | | 2887 |\n| Isaac nascitur | | | | | | | 2813 |\n| Moritur | | | | | | | 2993 |\n| Iacob nascitur | | | | | | | 2873 |\n| Moritur | | | | | | | 3020 |\n| Moses nascitur | | | | | | | 3137 |\n| Educit populum | | 39 | 25 | 7 Oct. | 6 | 27 | 2 Apr. | 3217 |\n| Iosua (mortuo Mose) | | | | | | | 3256 |\n| Iosua cum Othoniel | 40 | 8 | 7 Oct. | 7 | 7 | 23 Mar. | — |\n| Aioth Iudex | 80 | 20 | 7 Oct. | 9 | 29 | 31 Mar. | 3296 |\n| Debora | 40 | 16 | 6 Oct. | 13 | 13 | 17 Mar. | 3376 |\n| Gedeon | 40 | 28 | 6 Oct. | 15 | 6 | 24 Mar. | 3416 |\n| Abimelech | 3 | 12 | 5 Oct. | 17 | 28 | Kal. Apr. | 3456 |\n| Thola | 23 | 15 | 5 Oct. | 1 | 1 | 29 Mar. | 3459 |\n| Iair | 22 | 10 | 5 Oct. | 5 | 16 | 13 Mar. | 3482 |\n| Interregnum Ammonitarum | 18 | 4 | 5 Oct. | 8 | 19 | 12 Mar. | 3504 |\n| Iephthe | 6 | 22 | 5 Oct. | 7 | 8 | 22 Mar. | 3522 |\n| Abesan | 7 | 28 | 5 Oct. | 13 | 14 | 16 Mar. | 3528 |\n| Ahialon | 10 | 7 | 5 Oct. | 1 | 2 | 28 Mar. | 3535 |\n| Abdon | 8 | 17 | 4 Oct. | 11 | 22 | 16 Mar. | 3545 |\n| Samson | 20 | 25 | 4 Oct. | 19 | 20 | 9 Mar. | 3553 |\n| Eli | 40 | 17 | 4 Oct. | 1 | 2 | 28 Mar. | 3573 |\n| Samuel & Saul | 40 | 1 | 3 Oct. | 3 | 25 | 4 Apr. | 3613 |\n| Dauid | 40 | 13 | 3 Oct. | 5 | 17 | 13 Mar. | 3653 |\n\nDo Êxodo à morte de Davi: 477 anos."
+    },
+    {
+      "caption_pt": "Sucessão dos Reis dos Hebreus — início (Salomão)",
+      "caption_en": "Succession of the Kings of the Hebrews — beginning (Solomon)",
+      "markdown": "| # | Rei | Anni | Cyclus Solis | Neomenia Zygonos | Num. Aureus | Epacta Iuliana | Neomenia Nisan | Period. Iuliana |\n|---|---|---|---|---|---|---|---|---|\n| 1 | Solomon F. Dauid | 40 | 25 | 5 Oct. | 7 | 9 | 21 Mar. | 3693 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Neomenia Zygonos",
+      "definition_pt": "Coluna da tabela cronológica de Scaliger que indica a data juliana da *Neomenia* (lua nova) do mês 'Zygon' — provavelmente a lua nova mais próxima do equinócio, usada como marcador civil-astronômico do início do ano hebreu.",
+      "definition_en": "Column in Scaliger's chronological table giving the Julian date of the *Neomenia* (new moon) of the month 'Zygon' — likely the new moon nearest the equinox, used as a civil-astronomical marker for the beginning of the Hebrew year."
+    },
+    {
+      "term": "Neomenia Nisan",
+      "definition_pt": "Data juliana da lua nova do mês de Nisan, primeiro mês do ano sagrado hebraico, usada para fixar a Páscoa.",
+      "definition_en": "Julian date of the new moon of the month Nisan, first month of the Hebrew sacred year, used to fix Passover."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Instituição dos Jogos Olímpicos por Pélops em Élide, no 23º ano de Débora",
+      "historical_date_as_cited": "Anno xxiii Deborae (Period. Iuliana c. 3376 + 23)",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Restauração dos Jogos Olímpicos por Hércules, depois de Pélops, no 9º ano da anarquia (ἀναρχία) dos Amonitas",
+      "historical_date_as_cited": "Anno ix ἀναρχίας Ammonitarum",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Queda de Troia (Ἰλίου ἅλωσις) no 4º ano do juiz Abesan (Ibzan)",
+      "historical_date_as_cited": "Huius Iudicis (Abesan) anno iiii",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Início do império persa por Ciro no 14º ano de Hiromus de Tiro",
+      "historical_date_as_cited": "Huius (Hiromi) anno xiv",
+      "ancient_source": "—"
+    }
+  ],
+  "uncertainty_flags": [
+    "A duração 'ri' meses para Abbarus é provavelmente '3' (iii) lida como 'ri' por má impressão; o número exato dos meses pode estar abreviado/danificado.",
+    "A coluna 'Period. Iuliana' para 'Iosua cum Othoniel' está vazia ou ilegível no scan.",
+    "Algumas leituras hebraicas (חלבש, גר עשתרת עבד אלים) estão tomadas do scan com possível imprecisão diacrítica.",
+    "As datas de morte dos patriarcas precedem em alguns casos as datas de nascimento dos filhos na tabela impressa (e.g. Isaac morre 2993, Iacob nasce 2873) — isso reflete a ordenação textual de Scaliger, não as relações cronológicas reais; verificar contra o *De Emendatione Temporum*.",
+    "O número Aureus para 'Educit populum' aparece como 'vii Octob.' indicando lua nova de tisri em 7 de outubro juliano — confirmar com Crusius, *Liber de epochis*."
+  ],
+  "notes": "Página tabular pertencente ao Liber Secundus do *Isagogicorum*. Termina a lista dos reis de Tiro (sequência fenícia derivada do material de Menandro de Éfeso transmitido por Josefo, *Contra Apionem* I) e abre a grande tabela cronológica dos 'Hebraeorum tempora' desde Abraão até Davi, organizada por Periodus Iuliana — tabela canônica de Scaliger. A página termina com o início da 'Regum Hebraeorum successio' (Salomão como rei nº 1), que continua na página seguinte (custos: 'REGES'). As datas em Periodus Iuliana são típicas de Scaliger e refletem a sincronização com o ciclo de 7980 anos juliano-luni-solar-indicional. Notar a sincronização programática Pélops/Débora e Hércules/Amonitas, que Scaliger usa para alinhar a cronologia bíblica com a grega — discussão técnica deste ponto está no *De Emendatione Temporum* libro V e VI."
+}
+```

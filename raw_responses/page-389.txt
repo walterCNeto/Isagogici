@@ -1,0 +1,26 @@
+```json
+{
+  "page": 389,
+  "page_type": "frontmatter",
+  "latin": "[Notações manuscritas de proveniência e cota de biblioteca, ilegíveis em sua maior parte]\n\nLiber Iacobi[?] [ilegível]\n[ilegível] 2.000 fr[?]\n\ne555 / 312  052[?]",
+  "pt": "[Página em branco do exemplar, com anotações manuscritas de proveniência no canto superior esquerdo — possivelmente um *ex libris* (\"Liber Iacobi...\" ou similar) acompanhado de uma indicação de preço (\"2.000 fr.\"?), e abaixo uma cota de biblioteca em forma de fração (e555/312, com \"052\" ao lado). Marca \"Digitized by Google\" no rodapé.]",
+  "en": "[Blank flyleaf of the copy, bearing handwritten provenance notes in the upper left — possibly an *ex libris* (\"Liber Iacobi...\" or similar) together with a price notation (\"2.000 fr.\"?), and below a library shelfmark in fractional form (e555/312, with \"052\" alongside). \"Digitized by Google\" watermark at the foot.]",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Anotações manuscritas a tinta no canto superior esquerdo: aparente marca de proveniência (ex libris) em duas linhas, seguida de um valor monetário; abaixo, cota bibliotecária em forma de fração (e555/312) com numeral lateral (052). No canto inferior esquerdo, um retângulo preto opaco (provavelmente etiqueta de biblioteca obliterada na digitalização). Marca d'água \"Digitized by Google\" no rodapé.",
+      "description_en": "Handwritten ink notations in the upper left corner: an apparent provenance mark (ex libris) in two lines, followed by a monetary value; below, a library shelfmark in fractional form (e555/312) with a lateral numeral (052). In the lower left corner, an opaque black rectangle (likely an obscured library label in the scan). \"Digitized by Google\" watermark at the foot."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página sem texto impresso de Scaliger; trata-se de folha de guarda (flyleaf) do exemplar digitalizado.",
+    "Anotação manuscrita de proveniência no topo é largamente ilegível; leitura conjectural 'Liber Iacobi[?]' — não confirmável.",
+    "Segunda linha da anotação manuscrita ilegível; possível indicação de preço '2.000 fr.' (francos?) é conjectural.",
+    "Cota de biblioteca em forma de fração (e555/312) e numeral '052' transcritos com incerteza por causa da caligrafia."
+  ],
+  "notes": "Esta imagem corresponde a uma folha de guarda (flyleaf) do exemplar digitalizado por Google, não a uma página de texto da edição de 1606. Não há conteúdo impresso por Scaliger nesta página: apenas anotações manuscritas posteriores (provavelmente de bibliotecário ou colecionador) e marcas de digitalização. Como tal, não há latim de Scaliger a transcrever, nem definições, demonstrações, tabelas, eventos astronômicos ou referências cruzadas. Recomenda-se prosseguir para a próxima imagem que contenha texto impresso (frontispício, dedicatória, ou início do Liber I)."
+}
+```

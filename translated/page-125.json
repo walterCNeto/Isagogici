@@ -1,0 +1,62 @@
+{
+  "page": 125,
+  "page_type": "table",
+  "latin": "LIBER PRIMUS.\nRESIDUUM KALENDARII ANNI VAGI.\n\nX. Παυνὶ Ναβωνασσάρου. HARWATSIS Armeniorum. DI Iezdegird.\nXI. Επιφὶ Ναβωνασσάρου. NAWASARI Armeniorum. BEHEMEN Iezdegird.\nXII. Μεσορὶ Ναβωνασσάρου. HURI Armeniorum. ASPHANDAR Iezdegird.\n\nΕπαγόμεναι Ναβωνασσάρου.\nMusteraka Armeniorum.\nWahak Iezdegird.",
+  "pt": "LIVRO PRIMEIRO.\nRESTANTE DO CALENDÁRIO DO *ANNUS VAGUS*.\n\nX. Pauni de Nabonassar. *Harwatsis* dos Armênios. *Di* de Iezdegird.\nXI. Epiphi de Nabonassar. *Nawasari* dos Armênios. *Behemen* de Iezdegird.\nXII. Mesori de Nabonassar. *Huri* dos Armênios. *Asphandar* de Iezdegird.\n\nEpagomenai de Nabonassar.\n*Musteraka* dos Armênios.\n*Wahak* de Iezdegird.",
+  "en": "BOOK ONE.\nREMAINDER OF THE CALENDAR OF THE *ANNUS VAGUS*.\n\nX. Pauni of Nabonassar. *Harwatsis* of the Armenians. *Di* of Iezdegird.\nXI. Epiphi of Nabonassar. *Nawasari* of the Armenians. *Behemen* of Iezdegird.\nXII. Mesori of Nabonassar. *Huri* of the Armenians. *Asphandar* of Iezdegird.\n\nEpagomenai of Nabonassar.\n*Musteraka* of the Armenians.\n*Wahak* of Iezdegird.",
+  "tables": [
+    {
+      "caption_pt": "Tabela X — Mês Pauni (Nabonassar) / Harwatsis (Armênios) / Di (Iezdegird), com colunas: Dia do mês, Regulares dos dias, Epacta, Pauni, Harwatsis Armeniorum, Di Iezdegird.",
+      "caption_en": "Table X — Month Pauni (Nabonassar) / Harwatsis (Armenian) / Di (Iezdegird), with columns: Day of month, Regulares dierum, Epacta, Pauni, Harwatsis Armeniorum, Di Iezdegird.",
+      "markdown": "| Dies mensis | Regulares dierum | Epacta | Pauni Nabonassari | Harwatsis Armeniorum | Di Iezdegird |\n|---|---|---|---|---|---|\n| 1 | 4 | 25 | 23 Nov. | 5 Apr. | 13 Mar. |\n| 2 | 5 | 24 | 24 | 6 | 14 |\n| 3 | 6 | 23 | 25 | 7 | 15 |\n| 4 | 7 | 22 | 26 | 8 | 16 |\n| 5 | 1 | 21 | 27 | 9 | 17 |\n| 6 | 2 | 20 | 28 | 10 | 18 |\n| 7 | 3 | 19 | 29 | 11 | 19 |\n| 8 | 4 | 18 | 30 | 12 | 20 |\n| 9 | 5 | 17 | 1 Dec. | 13 | 21 |\n| 10 | 6 | 16 | 2 | 14 | 22 |\n| 11 | 7 | 15 | 3 | 15 | 23 |\n| 12 | 1 | 14 | 4 | 16 | 24 |\n| 13 | 2 | 13 | 5 | 17 | 25 |\n| 14 | 3 | 12 | 6 | 18 | 26 |\n| 15 | 4 | 11 | 7 | 19 | 27 |\n| 16 | 5 | 10 | 8 | 20 | 28 |\n| 17 | 6 | 9 | 9 | 21 | 29 |\n| 18 | 7 | 8 | 10 | 22 | 30 |\n| 19 | 1 | 7 | 11 | 23 | 31 |\n| 20 | 2 | 6 | 12 | 24 | 1 Apr. |\n| 21 | 3 | 5 | 13 | 25 | 2 |\n| 22 | 4 | 4 | 14 | 26 | 3 |\n| 23 | 5 | 3 | 15 | 27 | 4 |\n| 24 | 6 | 2 | 16 | 28 | 5 |\n| 25 | 7 | 1 | 17 | 29 | 6 |\n| 26 | 1 | 29* | 18 | 30 | 7 |\n| 27 | 2 | 28 | 19 | 1 Mai. | 8 |\n| 28 | 3 | 27 | 20 | 2 | 9 |\n| 29 | 4 | 26 | 21 | 3 | 10 |\n| 30 | 5 | 25 | 22 | 4 | 11 |"
+    },
+    {
+      "caption_pt": "Tabela XI — Mês Epiphi (Nabonassar) / Nawasari (Armênios) / Behemen (Iezdegird).",
+      "caption_en": "Table XI — Month Epiphi (Nabonassar) / Nawasari (Armenian) / Behemen (Iezdegird).",
+      "markdown": "| Dies mensis | Regulares dierum | Epacta | Epiphi Nabonassari | Nawasari Armeniorum | Behemen Iezdegird |\n|---|---|---|---|---|---|\n| 1 | 6 | 24 | 23 Dec. | 5 Mai. | 12 Apr. |\n| 2 | 7 | 23 | 24 | 6 | 13 |\n| 3 | 1 | 22 | 25 | 7 | 14 |\n| 4 | 2 | 21 | 26 | 8 | 15 |\n| 5 | 3 | 20 | 27 | 9 | 16 |\n| 6 | 4 | 19 | 28 | 10 | 17 |\n| 7 | 5 | 18 | 29 | 11 | 18 |\n| 8 | 6 | 17 | 30 | 12 | 19 |\n| 9 | 7 | 16 | 31 | 13 | 20 |\n| 10 | 1 | 15 | 1 Ian. | 14 | 21 |\n| 11 | 2 | 14 | 2 | 15 | 22 |\n| 12 | 3 | 13 | 3 | 16 | 23 |\n| 13 | 4 | 12 | 4 | 17 | 24 |\n| 14 | 5 | 11 | 5 | 18 | 25 |\n| 15 | 6 | 10 | 6 | 19 | 26 |\n| 16 | 7 | 9 | 7 | 20 | 27 |\n| 17 | 1 | 8 | 8 | 21 | 28 |\n| 18 | 2 | 7 | 9 | 22 | 29 |\n| 19 | 3 | 6 | 10 | 23 | 30 |\n| 20 | 4 | 5 | 11 | 24 | 1 Mai. |\n| 21 | 5 | 4 | 12 | 25 | 2 |\n| 22 | 6 | 3 | 13 | 26 | 3 |\n| 23 | 7 | 2 | 14 | 27 | 4 |\n| 24 | 1 | 1 | 15 | 28 | 5 |\n| 25 | 2 | * | 16 | 29 | 6 |\n| 26 | 3 | 29 | 17 | 30 | 7 |\n| 27 | 4 | 28 | 18 | 31 | 8 |\n| 28 | 5 | 27 | 19 | 1 Iun. | 9 |\n| 29 | 6 | 26 | 20 | 2 | 10 |\n| 30 | 7 | 25 | 21 | 3 | 11 |"
+    },
+    {
+      "caption_pt": "Tabela XII — Mês Mesori (Nabonassar) / Huri (Armênios) / Asphandar (Iezdegird).",
+      "caption_en": "Table XII — Month Mesori (Nabonassar) / Huri (Armenian) / Asphandar (Iezdegird).",
+      "markdown": "| Dies mensis | Regulares dierum | Epacta | Mesori Nabonassari | Huri Armeniorum | Asphandar Iezdegird |\n|---|---|---|---|---|---|\n| 1 | 1 | 24 | 22 Ian. | 4 Iun. | 12 Mai. |\n| 2 | 2 | 23 | 23 | 5 | 13 |\n| 3 | 3 | 22 | 24 | 6 | 14 |\n| 4 | 4 | 21 | 25 | 7 | 15 |\n| 5 | 5 | 20 | 26 | 8 | 16 |\n| 6 | 6 | 19 | 27 | 9 | 17 |\n| 7 | 7 | 18 | 28 | 10 | 18 |\n| 8 | 1 | 17 | 29 | 11 | 19 |\n| 9 | 2 | 16 | 30 | 12 | 20 |\n| 10 | 3 | 15 | 31 | 13 | 21 |\n| 11 | 4 | 14 | 1 Feb. | 14 | 22 |\n| 12 | 5 | 13 | 2 | 15 | 23 |\n| 13 | 6 | 12 | 3 | 16 | 24 |\n| 14 | 7 | 11 | 4 | 17 | 25 |\n| 15 | 1 | 10 | 5 | 18 | 26 |\n| 16 | 2 | 9 | 6 | 19 | 27 |\n| 17 | 3 | 8 | 7 | 20 | 28 |\n| 18 | 4 | 7 | 8 | 21 | 29 |\n| 19 | 5 | 6 | 9 | 22 | 30 |\n| 20 | 6 | 5 | 10 | 23 | 31 |\n| 21 | 7 | 4 | 11 | 24 | 1 Iuni |\n| 22 | 1 | 3 | 12 | 25 | 2 |\n| 23 | 2 | 2 | 13 | 26 | 3 |\n| 24 | 3 | 1 | 14 | 27 | 4 |\n| 25 | 4 | 29* | 15 | 28 | 5 |\n| 26 | 5 | 28 | 16 | 29 | 6 |\n| 27 | 6 | 27 | 17 | 30 | 7 |\n| 28 | 7 | 26 | 18 | 1 Iulj | 8 |\n| 29 | 1 | 25 | 19 | 2 | 9 |\n| 30 | 2 | 24 | 20 | 3 | 10 |"
+    },
+    {
+      "caption_pt": "Tabela dos dias Epagômenos (Nabonassar) / Musteraka (Armênios) / Wahak (Iezdegird), incluindo Epagomena Armeniorum e Epagomena Persarum.",
+      "caption_en": "Table of Epagomenal days (Nabonassar) / Musteraka (Armenian) / Wahak (Iezdegird), including Epagomena Armeniorum and Epagomena Persarum.",
+      "markdown": "| Dies | Regulares dierum | Epacta | Epagomenai Nabonassari | Epagomena Armeniorum | Epagomena Persarum |\n|---|---|---|---|---|---|\n| 1 | 3 | 23 | 21 Feb. | 4 Iuli | 11 Iuni |\n| 2 | 4 | 22 | 22 | 5 | 12 |\n| 3 | 5 | 21 | 23 | 6 | 13 |\n| 4 | 6 | 20 | 24 | 7 | 14 |\n| 5 | 7 | 19 | 25 | 8 | 15 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Annus vagus",
+      "definition_pt": "Ano errante (egípcio) de 365 dias sem intercalação, cujos meses se deslocam continuamente em relação ao ano juliano. Esta página tabula os três últimos meses (Pauni, Epiphi, Mesori) e os cinco dias epagômenos, em correspondência com os meses armênios (Harwatsis, Nawasari, Huri, Musteraka) e os meses persas de Iezdegird (Di, Behemen, Asphandar, Wahak).",
+      "definition_en": "Wandering (Egyptian) year of 365 days without intercalation, whose months continually shift relative to the Julian year. This page tabulates the last three months (Pauni, Epiphi, Mesori) and the five epagomenal days, with their correspondences to the Armenian months (Harwatsis, Nawasari, Huri, Musteraka) and the Persian Yazdegird months (Di, Behemen, Asphandar, Wahak)."
+    },
+    {
+      "term": "Epagomenai",
+      "definition_pt": "Os cinco dias epagômenos acrescentados ao final do *annus vagus* egípcio (e correspondentes Musteraka armênio, Wahak persa) para completar 365 dias.",
+      "definition_en": "The five epagomenal days added at the end of the Egyptian *annus vagus* (and corresponding Armenian Musteraka and Persian Wahak) to complete 365 days."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Liber I, tabelas precedentes do Kalendarium Anni Vagi (meses I-IX)",
+      "context": "RESIDUUM KALENDARII ANNI VAGI — esta página continua e conclui as tabelas dos meses do ano vago iniciadas anteriormente."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Marca '*' nas colunas de Epacta (linhas 26 da tab. X, 25 da tab. XI, 25 da tab. XII) indica o salto da epacta (saltus epactarum); transcrita como '29*' ou '*' conforme legibilidade do scan.",
+    "Coluna 'Pauni' linha 30: valor '22' parcialmente apagado, mas legível por sequência (21,22).",
+    "A coluna Epacta da tabela XI linha 25 mostra apenas '*' sem número visível; provavelmente '1*' ou marca de saltus."
+  ],
+  "notes": "Página exclusivamente tabular (página 93 numerada na obra; 125 na sequência fornecida). Conclui as tabelas de concordância entre o calendário egípcio de Nabonassar (annus vagus), o calendário armênio antigo, e o calendário persa de Iezdegird (Yazdegird III, época 632 d.C.). Os meses cobertos: X = Pauni/Harwatsis/Di; XI = Epiphi/Nawasari/Behemen; XII = Mesori/Huri/Asphandar; mais a tabelinha dos 5 dias epagômenos. As colunas 'Regulares dierum' (1-7) servem para encontrar a feria, e 'Epacta' (1-30 com saltus) serve aos cálculos lunares. As datas julianas indicadas (e.g. '23 Nov.', '5 Apr.') correspondem ao ponto fixo de uma época particular do annus vagus relativo ao calendário juliano — provavelmente a época Nabonassariana de Scaliger, conforme estabelecido nas tabelas anteriores do livro I.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5606,
+    "stop_reason": "end_turn"
+  }
+}

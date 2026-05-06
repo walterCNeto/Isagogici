@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Metodologia - Isagogici</title>
+<link rel="stylesheet" href="assets/style.css">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=JetBrains+Mono:wght@400;500&family=Cormorant+Garamond:wght@500;700&display=swap" rel="stylesheet">
+<script src="https://hypothes.is/embed.js" async></script>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <span class="title">Isagogicorum chronologiae canonum &middot; Joseph Scaliger (1606)</span>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="index.html#paginas">Paginas</a>
+      <a href="methodology.html">Metodo</a>
+      <a href="about.html">Sobre</a>
+      <a href="https://waltercneto.github.io/Scaliger/" target="_blank">De Emendatione</a>
+    </nav>
+  </div>
+</header>
+
+
+<main>
+<h1 class="display">Metodologia</h1>
+
+<h2 style="margin-top: 2rem; font-family: 'Cormorant Garamond', serif;">Pipeline</h2>
+<ol style="margin-left: 1.5rem; line-height: 2;">
+<li><strong>Rasterizacao</strong>: PDF do Google Books / Internet Archive em 390 PNGs em 200 DPI</li>
+<li><strong>Traducao trilingue</strong>: cada PNG enviado a Claude Opus 4.7 com prompt customizado para o estilo didatico do Isagogici, gerando JSON estruturado: latim transcrito + traducao pt + traducao en + definicoes + cross-references + tabelas + flags de incerteza</li>
+<li><strong>QA estrutural</strong>: validacao automatica</li>
+<li><strong>Construcao do site</strong>: HTML estatico servido pelo GitHub Pages</li>
+</ol>
+
+<h2 style="margin-top: 2rem; font-family: 'Cormorant Garamond', serif;">Reprodutibilidade</h2>
+<p>Todos os scripts no <a href="https://github.com/walterCNeto/Isagogici" target="_blank">repositorio GitHub</a>.</p>
+
+</main>
+<footer>
+  <div class="footer-inner">
+    <h3>Sobre o projeto</h3>
+    <p>Traducao colaborativa do <em>Isagogicorum chronologiae canonum libri tres</em> de Joseph Scaliger (Leiden, 1606). Iniciativa pessoal de Walter C. Neto (Sao Paulo, 2026), patrocinio proprio. Traducao por IA (Claude Opus 4.7), publicada como texto-semente para revisao academica colaborativa.</p>
+    <p>Projeto irmao (texto principal de Scaliger): <a href="https://waltercneto.github.io/Scaliger/" target="_blank">De Emendatione Temporum</a></p>
+    <p>Repositorio: <a href="https://github.com/walterCNeto/Isagogici" target="_blank">github.com/walterCNeto/Isagogici</a></p>
+    <p>Licenca <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. Texto original em dominio publico.</p>
+  </div>
+</footer>
+</body>
+</html>

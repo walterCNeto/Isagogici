@@ -1,0 +1,40 @@
+{
+  "page": 147,
+  "page_type": "table",
+  "latin": "LIBER SECVNDVS.\n\nXI. ΕΠΙΦΙ Θεῶν Σεβαστῶν. ABIB Elkupti. HAMLE Aethiopum. PANEMOS Gazensium.\nXI. BEHEMEN Gelali.\nXII. ΜΕΣΟΡΙ Θεῶν Σεβαστῶν. MVSRE Elkupti. NAHASE Aethiopum. LOOS Gazensium.\nXII. ASPHANDAR Gelali.\n\nΕΠΑΓΟΜΕΝΑΙ Θεῶν Σεβαστῶν. Musterakath Elkupti. PAGOMEN Aethiopum.\nWAHAK Gelali.\n\nDIES INTERCALARIS.\n\nK iiij\nTABVLA",
+  "pt": "LIVRO SEGUNDO.\n\nXI. ΕΠΙΦΙ dos Deuses Augustos (Θεῶν Σεβαστῶν). ABIB dos Coptas (Elkupti). HAMLE dos Etíopes. PANEMOS dos Gazenses.\nXI. BEHEMEN do calendário Gelali (Jalali).\nXII. ΜΕΣΟΡΙ dos Deuses Augustos. MVSRE dos Coptas. NAHASE dos Etíopes. LOOS dos Gazenses.\nXII. ASPHANDAR do calendário Gelali.\n\nΕΠΑΓΟΜΕΝΑΙ (dias epagômenos) dos Deuses Augustos. Musterakath dos Coptas. PAGOMEN dos Etíopes.\nWAHAK do calendário Gelali.\n\nDIA INTERCALAR.\n\nK iiij\nTÁBUA",
+  "en": "BOOK TWO.\n\nXI. ΕΠΙΦΙ of the Augustan Gods (Θεῶν Σεβαστῶν). ABIB of the Copts (Elkupti). HAMLE of the Ethiopians. PANEMOS of the Gazaeans.\nXI. BEHEMEN of the Gelali (Jalali) calendar.\nXII. ΜΕΣΟΡΙ of the Augustan Gods. MVSRE of the Copts. NAHASE of the Ethiopians. LOOS of the Gazaeans.\nXII. ASPHANDAR of the Gelali calendar.\n\nΕΠΑΓΟΜΕΝΑΙ (epagomenal days) of the Augustan Gods. Musterakath of the Copts. PAGOMEN of the Ethiopians.\nWAHAK of the Gelali calendar.\n\nINTERCALARY DAY.\n\nK iiij\nTABLE",
+  "tables": [
+    {
+      "caption_pt": "Mês XI: EPIPHI (Θεῶν Σεβαστῶν) / ABIB (Copta) / HAMLE (Etíope) / PANEMOS (Gazense) — confrontado com BEHEMEN (Gelali, mês XI). Colunas: Dia do mês; Regulares de Augusto; Regulares Etíopes; Numerus Aureus; *Epacta*.",
+      "caption_en": "Month XI: EPIPHI (Θεῶν Σεβαστῶν) / ABIB (Coptic) / HAMLE (Ethiopian) / PANEMOS (Gazaean) — paired with BEHEMEN (Gelali, month XI). Columns: Day of month; Augustan Regulars; Ethiopian Regulars; Numerus Aureus; *Epacta*.",
+      "markdown": "| Dies mensis | (Iul. corresp.) | Reg. Augustorum | Reg. Aethiop. | Numerus Aureus | Epacta | (Feb. corresp.) |\n|---|---|---|---|---|---|---|\n| 1 | 25 Iunj | 6 | 2 |  | 24 | 8 Ian. |\n| 2 | 26 | 7 | 3 | XIX | 23 | 9 |\n| 3 | 27 | 1 | 4 | II | 22 | 10 |\n| 4 | 28 | 2 | 5 |  | 21 | 11 |\n| 5 | 29 | 3 | 6 | X | 20 | 12 |\n| 6 | 30 | 4 | 7 |  | 19 | 13 |\n| 7 | 1 Iulj | 5 | 1 | XVIII | 18 | 14 |\n| 8 | 2 | 6 | 2 | VII | 17 | 15 |\n| 9 | 3 | 7 | 3 |  | 16 | 16 |\n| 10 | 4 | 1 | 4 | XV | 15 | 17 |\n| 11 | 5 | 2 | 5 | IIII | 14 | 18 |\n| 12 | 6 | 3 | 6 |  | 13 | 19 |\n| 13 | 7 | 4 | 7 | XII | 12 | 20 |\n| 14 | 8 | 5 | 1 | I | 11 | 21 |\n| 15 | 9 | 6 | 2 |  | 10 | 22 |\n| 16 | 10 | 7 | 3 | IX | 9 | 23 |\n| 17 | 11 | 1 | 4 |  | 8 | 24 |\n| 18 | 12 | 2 | 5 | XVII | 7 | 25 |\n| 19 | 13 | 3 | 6 | VI | 6 | 26 |\n| 20 | 14 | 4 | 7 |  | 5 | 27 |\n| 21 | 15 | 5 | 1 | XIIII | 4 | 28 |\n| 22 | 16 | 6 | 2 | III | 3 | 29 |\n| 23 | 17 | 7 | 3 |  | 2 | 30 |\n| 24 | 18 | 1 | 4 | XI | 1 | 31 |\n| 25 | 19 | 2 | 5 | XIX | * | 1 Feb. |\n| 26 | 20 | 3 | 6 |  | 29 | 2 |\n| 27 | 21 | 4 | 7 | VIII | 28 | 3 |\n| 28 | 22 | 5 | 1 |  | 27 | 4 |\n| 29 | 23 | 6 | 2 | XVI | 26 | 5 |\n| 30 | 24 | 7 | 3 | V | 25 | 6 |"
+    },
+    {
+      "caption_pt": "Mês XII: MESORI (Θεῶν Σεβαστῶν) / MVSRE (Copta) / NAHASE (Etíope) / LOOS (Gazense) — confrontado com ASPHANDAR (Gelali, mês XII).",
+      "caption_en": "Month XII: MESORI (Θεῶν Σεβαστῶν) / MVSRE (Coptic) / NAHASE (Ethiopian) / LOOS (Gazaean) — paired with ASPHANDAR (Gelali, month XII).",
+      "markdown": "| Dies mensis | (Iul. corresp.) | Reg. Augustorum | Reg. Aethiop. | Numerus Aureus | Epacta | (Feb./Mar. corresp.) |\n|---|---|---|---|---|---|---|\n| 1 | 25 Iulj | 1 | 4 |  | 24 | 7 Feb. |\n| 2 | 26 | 2 | 5 | XIII | 23 | 8 |\n| 3 | 27 | 3 | 6 | II | 22 | 9 |\n| 4 | 28 | 4 | 7 |  | 21 | 10 |\n| 5 | 29 | 5 | 1 | X | 20 | 11 |\n| 6 | 30 | 6 | 2 |  | 19 | 12 |\n| 7 | 31 | 7 | 3 | XVIII | 18 | 13 |\n| 8 | 1 Aug. | 1 | 4 | VII | 17 | 14 |\n| 9 | 2 | 2 | 5 |  | 16 | 15 |\n| 10 | 3 | 3 | 6 | XV | 15 | 16 |\n| 11 | 4 | 4 | 7 | IIII | 14 | 17 |\n| 12 | 5 | 5 | 1 |  | 13 | 18 |\n| 13 | 6 | 6 | 2 | XII | 12 | 19 |\n| 14 | 7 | 7 | 3 | I | 11 | 20 |\n| 15 | 8 | 1 | 4 |  | 10 | 21 |\n| 16 | 9 | 2 | 5 | IX | 9 | 22 |\n| 17 | 10 | 3 | 6 |  | 8 | 23 |\n| 18 | 11 | 4 | 7 | XVII | 7 | 0 |\n| 19 | 12 | 5 | 1 | VI | 6 | 24 |\n| 20 | 13 | 6 | 2 |  | 5 | 25 |\n| 21 | 14 | 7 | 3 | XIIII | 4 | 26 |\n| 22 | 15 | 1 | 4 | III | 3 | 27 |\n| 23 | 16 | 2 | 5 |  | 2 | 28 |\n| 24 | 17 | 3 | 6 | XI | 1 | 1 Mar. |\n| 25 | 18 | 4 | 7 | XIX | * | 2 |\n| 26 | 19 | 5 | 1 | VIII | 28 | 3 |\n| 27 | 20 | 6 | 2 |  | 27 | 4 |\n| 28 | 21 | 7 | 3 | XVI | 26 | 5 |\n| 29 | 22 | 1 | 4 | V | 25 | 6 |\n| 30 | 23 | 2 | 5 |  | 24 | 7 |"
+    },
+    {
+      "caption_pt": "Dias EPAGÔMENOS (Θεῶν Σεβαστῶν) / Musterakath (Copta) / PAGOMEN (Etíope), confrontados com WAHAK (Gelali). DIES INTERCALARIS.",
+      "caption_en": "EPAGOMENAL days (Θεῶν Σεβαστῶν) / Musterakath (Coptic) / PAGOMEN (Ethiopian), paired with WAHAK (Gelali). INTERCALARY DAYS.",
+      "markdown": "| Dies | (Iul. corresp.) | Reg. August. | Reg. Aethiop. | Numerus Aureus | Epacta | (Mar. corresp.) |\n|---|---|---|---|---|---|---|\n| 1 | 24 Aug. | 3 | 6 | XIII | 23 | 8 Mar. |\n| 2 | 25 | 4 | 7 | II | 22 | 9 |\n| 3 | 26 | 5 | 1 |  | 21 | 10 |\n| 4 | 27 | 6 | 2 | X | 20 | 11 |\n| 5 | 28 | 7 | 3 |  | 19 | 12 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Algumas leituras numéricas em colunas de Numerus Aureus e Epacta são duvidosas devido à qualidade do scan (e.g., XIX vs. XIII no início do mês XI; valor '0' na linha 18 do mês XII parece anômalo — provavelmente erro de impressão por '29' ou similar).",
+    "A correspondência juliana exata da linha 25 do mês XI mostra '*' onde se esperaria valor de epacta — convencional para indicar saltus epactarum (lua nova absoluta) no ciclo de 19 anos.",
+    "Possível dia 31 listado para Mesori (linha 7 do mês XII): '31' aparece, sugerindo que a tabela usa o calendário juliano deslizante, não o egípcio fixo de 30 dias."
+  ],
+  "notes": "Página puramente tabular: continuação das Tabulae mensium concordantium dos calendários egípcio (alexandrino dos 'Theoi Sebastoi' = mês reformado por Augusto), copta ('Elkupti'), etíope, gazense (macedônio de Gaza) e persa Jalali ('Gelali', do calendário de Omar Khayyam, c. 1079). Cada mês tem 30 dias; ao fim, 5 dias epagômenos (mais 1 intercalar a cada 4 anos). As colunas dão: dia do mês, equivalente juliano, regulares de Augusto e dos Etíopes (números ferialea para cálculo do dia da semana via Concurrens), Numerus Aureus (ciclo de 19 anos indicando lunações), e *Epacta* (idade da lua), com correspondência à letra dominical/data juliana. A linha com asterisco (*) marca o ponto de saltus lunae. Esta é a última de uma série de tabelas mensais que começa no mês I (Thoth/Maskaram) páginas antes.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4653,
+    "stop_reason": "end_turn"
+  }
+}

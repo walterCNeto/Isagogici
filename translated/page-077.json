@@ -1,0 +1,51 @@
+{
+  "page": 77,
+  "page_type": "table",
+  "latin": "LIBER PRIMUS.\nKALENDARIUM IUDAICUM.\n\nX TAMUZ CAVUS IIII.    XI AB PLENUS V.    XII ELUL CAVUS VI.\n\n[Tamuz, dies 1-29]\n17. Ieiunium. Franguntur Tabulae legis. Cessat ἐνδελεχισμός. Urbs fissa. Epistemon cremat librum legis. Ponit statuam in Templo.\n\n[Ab, dies 1-30]\n1. Ieiunium. Moritur Aharon Pontifex.\n9. Ieiunium. Decretum contra patres nostros Iudaeos, ne ingrederentur in terram Iudaeam. Desolatio Templi prioris & posterioris.\n18. Ieiunium. Extincta est lucerna vespertina in diebus Ahaz.\n\n[Elul, dies 1-29]\n17. Ieiunium. Moriuntur Exploratores, qui diffamaverant terram.\n22. Xylophoria.\n\nTABULA",
+  "pt": "LIVRO PRIMEIRO.\n*Kalendarium Iudaicum* (Calendário Judaico).\n\nX. TAMUZ, *cavus* (defectivo), IIII.    XI. AB, *plenus* (pleno), V.    XII. ELUL, *cavus*, VI.\n\n**Tamuz** (mês defectivo de 29 dias):\n- Dia 17: *Ieiunium* (jejum). Quebram-se as Tábuas da Lei. Cessa o ἐνδελεχισμός (sacrifício perpétuo). A cidade é fendida. Epístemon queima o livro da Lei. Coloca a estátua no Templo.\n\n**Ab** (mês pleno de 30 dias):\n- Dia 1: *Ieiunium*. Morre Arão, o Sumo Pontífice.\n- Dia 9: *Ieiunium*. Decreto contra nossos pais judeus, para que não entrassem na terra da Judeia. Desolação do Templo primeiro e do posterior.\n- Dia 18: *Ieiunium*. Foi extinta a lâmpada vespertina nos dias de Acaz.\n\n**Elul** (mês defectivo de 29 dias):\n- Dia 17: *Ieiunium*. Morrem os Exploradores que difamaram a terra.\n- Dia 22: *Xylophoria* (festa do transporte da lenha).\n\nTÁBUA",
+  "en": "BOOK ONE.\n*Kalendarium Iudaicum* (Jewish Calendar).\n\nX. TAMUZ, *cavus* (defective), IIII.    XI. AB, *plenus* (full), V.    XII. ELUL, *cavus*, VI.\n\n**Tamuz** (defective month, 29 days):\n- Day 17: *Ieiunium* (fast). The Tables of the Law are broken. The ἐνδελεχισμός (perpetual sacrifice) ceases. The city is breached. Epistemon burns the book of the Law. He sets up the statue in the Temple.\n\n**Ab** (full month, 30 days):\n- Day 1: *Ieiunium*. Aaron the High Priest dies.\n- Day 9: *Ieiunium*. The decree against our Jewish fathers, that they should not enter the land of Judea. Desolation of the first and second Temple.\n- Day 18: *Ieiunium*. The evening lamp was extinguished in the days of Ahaz.\n\n**Elul** (defective month, 29 days):\n- Day 17: *Ieiunium*. The Spies who defamed the land die.\n- Day 22: *Xylophoria* (wood-bearing festival).\n\nTABLE",
+  "tables": [
+    {
+      "caption_pt": "Calendário Judaico, meses X-XII (Tamuz, Ab, Elul) com observâncias e jejuns memoriais",
+      "caption_en": "Jewish Calendar, months X-XII (Tamuz, Ab, Elul) with observances and memorial fasts",
+      "markdown": "| Dia | X. Tamuz (cavus, 29d) | XI. Ab (plenus, 30d) | XII. Elul (cavus, 29d) |\n|---|---|---|---|\n| 1 |  | Ieiunium. Moritur Aharon Pontifex. |  |\n| 9 |  | Ieiunium. Decretum contra patres nostros Iudaeos, ne ingrederentur in terram Iudaeam. Desolatio Templi prioris & posterioris. |  |\n| 17 | Ieiunium. Franguntur Tabulae legis. Cessat ἐνδελεχισμός. Urbs fissa. Epistemon cremat librum legis. Ponit statuam in Templo. |  | Ieiunium. Moriuntur Exploratores, qui diffamaverant terram. |\n| 18 |  | Ieiunium. Extincta est lucerna vespertina in diebus Ahaz. |  |\n| 22 |  |  | Xylophoria. |\n| 29 | (fim) |  | (fim) |\n| 30 |  | (fim) |  |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "mensis cavus",
+      "definition_pt": "Mês defectivo de 29 dias no calendário judaico (aplicado aqui a Tamuz e Elul).",
+      "definition_en": "Defective month of 29 days in the Jewish calendar (applied here to Tamuz and Elul)."
+    },
+    {
+      "term": "mensis plenus",
+      "definition_pt": "Mês pleno de 30 dias no calendário judaico (aplicado aqui a Ab).",
+      "definition_en": "Full month of 30 days in the Jewish calendar (applied here to Ab)."
+    },
+    {
+      "term": "Xylophoria",
+      "definition_pt": "Festa judaica do transporte da lenha para o altar do Templo, celebrada em 22 de Elul (cf. Josefo, *Bell. Iud.* II.17).",
+      "definition_en": "Jewish festival of wood-bearing for the Temple altar, celebrated on 22 Elul (cf. Josephus, *Jewish War* II.17)."
+    },
+    {
+      "term": "ἐνδελεχισμός",
+      "definition_pt": "Termo grego (LXX) para o *tamid*, o sacrifício perpétuo diário oferecido no Templo, cuja cessação é lamentada no jejum de 17 de Tamuz.",
+      "definition_en": "Greek term (LXX) for the *tamid*, the daily perpetual sacrifice offered in the Temple, whose cessation is mourned on the fast of 17 Tamuz."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A numeração dos meses (X, XI, XII) reflete o ano religioso judaico iniciado em Nisan; os números à direita (IIII, V, VI) parecem indicar a ordem do mês a partir de outra contagem (provavelmente civil a partir de Tisri, ou correspondência cíclica) — Scaliger explica em outras páginas.",
+    "'Epistemon' é provavelmente Apostomos (Apostemos), figura mencionada na Mishná (Taanit 4:6) como tendo queimado o rolo da Torá; a grafia 'Epistemon' é a forma helenizada usada por Scaliger.",
+    "A página é numerada '45' no canto superior direito do scan, mas o prompt indica página 77 — possível discrepância entre paginação impressa e numeração sequencial do volume."
+  ],
+  "notes": "Esta página apresenta a continuação do Kalendarium Iudaicum, cobrindo os três últimos meses do ano religioso judaico: Tamuz (mês 4 contado de Nisan, mês 10 contado de Tisri), Ab (5/11) e Elul (6/12). Scaliger registra os principais jejuns memoriais da tradição rabínica: 17 de Tamuz (Shiva Asar b'Tammuz), 9 de Ab (Tisha b'Av), bem como tradições menores como o jejum de 1 de Ab (morte de Arão, Num 33:38), 18 de Ab (lâmpada de Acaz, cf. 2Cr 29:7), e 17 de Elul (morte dos espias, Num 14:37). A 'Xylophoria' em 22 de Elul é a festa da oferta da lenha mencionada por Josefo. As observações refletem o costume de Scaliger de combinar fontes rabínicas (Mishná Taanit), bíblicas e josefianas. A 'urbs fissa' refere-se à brecha nas muralhas de Jerusalém em 17 de Tamuz (Jer 52:6-7). A menção da 'statua in Templo' alude ao 'abominação da desolação' (provavelmente referindo-se a Apostomos ou Manassés segundo a tradição rabínica).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 3204,
+    "stop_reason": "end_turn"
+  }
+}

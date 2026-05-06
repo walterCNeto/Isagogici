@@ -1,0 +1,42 @@
+{
+  "page": 111,
+  "page_type": "table",
+  "latin": "LIBER PRIMUS.\nTABULA TERTIA HEGIRAE.\nCYCLUS MAGNUS IULIANUS ANNORUM CCXXVIII.\n\n[Tabula cum columnis: Anni Iuliani expansi | Numerus aureus | 0 | 19 | 38 | 57 | 76 | 95 | 114 | 133 | 152 | 171 | 190 | 209 | An. Iul. collecti]\n\nG iiij",
+  "pt": "LIVRO PRIMEIRO.\nTERCEIRA TÁBUA DA HÉGIRA.\n*Cyclus Magnus Iulianus* de 228 anos.",
+  "en": "BOOK ONE.\nTHIRD TABLE OF THE HEGIRA.\n*Cyclus Magnus Iulianus* of 228 years.",
+  "tables": [
+    {
+      "caption_pt": "Tábua Terceira da Hégira — Grande Ciclo Juliano de 228 anos. Tábua de conversão entre anos da Hégira e datas julianas, organizada por *Numerus aureus* (número áureo do *Cyclus Lunae*) e por colunas de anos julianos expandidos (múltiplos de 19). As linhas com '0' indicam anos bissextos (intercalação). As últimas linhas registram os anos árabes coletos (An. Ara. collecti) e julianos coletos (An. Iul. collecti).",
+      "caption_en": "Third Table of the Hegira — Great Julian Cycle of 228 years. Conversion table between Hegira years and Julian dates, organized by *Numerus aureus* (golden number of the *Cyclus Lunae*) and by columns of expanded Julian years (multiples of 19). Rows marked '0' indicate leap years (intercalation). The final rows record the collected Arab years (An. Ara. collecti) and collected Julian years (An. Iul. collecti).",
+      "markdown": "| Anni Iul. expansi | Num. aureus | 0 | 19 | 38 | 57 | 76 | 95 | 114 | 133 | 152 | 171 | 190 | 209 |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | XV | 16 Iuli. | 10 Dec. | 17 Mai. | 12 Oct. | 20 Mar. | 14 Aug. | 20 Ian. | 16 Iuni. | 10 Nou. | 17 Apr. | 12 Sep. | 18 Feb. |\n| 2 | XVI | 5 Iuli. | 30 Nou. | 6 Mai. | 1 Oct. | 9 Mar. | 3 Aug. | 8 Ian. | 4 Iuni. | 31 Oct. | 7 Apr. | 1 Sep. | 7 Feb. |\n| 0 | XVI | 0 | 0 | 0 | 0 | 0 | 0 | 30 Dec. | 0 | 0 | 0 | 0 | 0 |\n| 3 | XVII | 24 Iuni. | 19 Nou. | 26 Apr. | 20 Sep. | 25 Feb. | 23 Iuli. | 18 Dec. | 25 Mai. | 20 Oct. | 27 Mar. | 21 Aug. | 26 Ian. |\n| 4 | XVIII | 13 Iunj. | 7 Nou. | 15 Apr. | 10 Sep. | 15 Feb. | 12 Iuli. | 7 Dec. | 14 Mai. | 8 Oct. | 15 Mar. | 11 Aug. | 16 Ian. |\n| 5 | XIX | 2 Iunj. | 28 Oct. | 4 Apr. | 30 Aug. | 4 Feb. | 1 Iuli. | 26 Nou. | 4 Mai. | 28 Sep. | 5 Mar. | 30 Iuli. | 5 Ian. |\n| 0 | XIX | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 25 Dec. |\n| 6 | I | 23 Mai. | 17 Oct. | 24 Mar. | 18 Aug. | 24 Ian. | 21 Iuni. | 15 Nou. | 22 Apr. | 17 Sep. | 22 Feb. | 20 Iuli. | 14 Dec. |\n| 7 | II | 11 Mai. | 6 Oct. | 13 Mar. | 8 Aug. | 14 Ian. | 10 Iuni. | 4 Nou. | 11 Apr. | 6 Sep. | 12 Feb. | 9 Iuli. | 3 Dec. |\n| 8 | III | 30 Apr. | 25 Sep. | 30 Mar. | 28 Iuli. | 2 Ian. | 29 Mai. | 25 Oct. | 1 Apr. | 26 Aug. | 1 Feb. | 28 Iuni. | 23 Nou. |\n| 0 | III | 0 | 0 | 0 | 0 | 22 Dec. | 0 | 0 | 0 | 0 | 0 | 0 | 0 |\n| 9 | IIII | 19 Apr. | 14 Sep. | 20 Feb. | 17 Iuli. | 12 Dec. | 19 Mai. | 13 Oct. | 21 Mar. | 15 Aug. | 20 Ian. | 17 Iuni. | 12 Nou. |\n| 10 | V | 9 Apr. | 3 Sep. | 8 Feb. | 6 Iuli. | 1 Dec. | 8 Mai. | 3 Oct. | 9 Mar. | 5 Aug. | 10 Ian. | 7 Iuni. | 31 Oct. |\n| 0 | V | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30 Dec. | 0 | 0 | 0 |\n| 11 | VI | 28 Mar. | 24 Aug. | 29 Ian. | 25 Iuni. | 19 Nou. | 27 Apr. | 22 Sep. | 27 Feb. | 24 Iuli. | 19 Dec. | 26 Mai. | 21 Oct. |\n| 12 | VII | 18 Mar. | 13 Aug. | 18 Ian. | 14 Iuni. | 9 Nou. | 16 Apr. | 11 Sep. | 16 Feb. | 13 Iuli. | 8 Dec. | 16 Mai. | 10 Oct. |\n| 13 | VIII | 7 Mar. | 2 Aug. | 8 Ian. | 4 Iuni. | 29 Oct. | 5 Apr. | 30 Aug. | 5 Feb. | 3 Iuli. | 27 Nou. | 4 Mai. | 29 Sep. |\n| 0 | VIII | 0 | 0 | 7 Dec. | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |\n| 14 | IX | 25 Feb. | 22 Iulj. | 16 Dec. | 23 Mai. | 19 Oct. | 26 Mar. | 20 Aug. | 26 Ian. | 22 Iuni. | 16 Nou. | 23 Apr. | 18 Sep. |\n| 15 | X | 14 Feb. | 11 Iulj. | 6 Dec. | 13 Mai. | 7 Oct. | 15 Mar. | 9 Aug. | 14 Ian. | 11 Iuni. | 6 Nou. | 13 Apr. | 7 Sep. |\n| 16 | XI | 2 Feb. | 30 Iuni. | 25 Nou. | 2 Mai. | 26 Sep. | 3 Mar. | 30 Iuli. | 4 Ian. | 30 Mar. | 25 Oct. | 2 Apr. | 28 Aug. |\n| 0 | XI | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24 Dec. | 0 | 0 | 0 | 0 |\n| 17 | XII | 23 Ian. | 19 Iunj. | 13 Nou. | 21 Apr. | 16 Sep. | 21 Feb. | 18 Iuli. | 13 Dec. | 20 Mai. | 15 Oct. | 22 Mar. | 17 Aug. |\n| 18 | XIII | 12 Ian. | 8 Iunj. | 1 Nou. | 10 Apr. | 5 Sep. | 10 Feb. | 7 Iuli. | 2 Dec. | 10 Mai. | 4 Oct. | 11 Mar. | 5 Aug. |\n| 19 | XIIII | 1 Ian. | 29 Mai. | 23 Oct. | 30 Mar. | 24 Aug. | 30 Ian. | 27 Iuni. | 21 Nou. | 28 Apr. | 23 Sep. | 28 Feb. | 26 Iuli. |\n| 0 | XIIII | 20 Dec. | 0 | 0 | 0 | (♂?) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |\n| **An. Ara. coll.** |  | 20 | 39 | 59 | 79 | 98 | 117 | 137 | 157 | 176 | 195 | 215 | 235 |\n| **An. Iul. coll.** |  | 19 | 38 | 57 | 76 | 95 | 114 | 133 | 152 | 171 | 190 | 209 | 228 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Cyclus Magnus Iulianus (228 annorum)",
+      "definition_pt": "Grande Ciclo Juliano de 228 anos usado por Scaliger para a conversão da era da Hégira ao calendário juliano. Resulta da combinação do *Cyclus Lunae* de 19 anos com 12 períodos sucessivos (12 × 19 = 228), permitindo que o *Numerus aureus* e a posição lunar se repitam dentro da estrutura juliana antes de exigir nova correção.",
+      "definition_en": "Great Julian Cycle of 228 years used by Scaliger for converting the Hegira era to the Julian calendar. It arises from combining the 19-year *Cyclus Lunae* with 12 successive periods (12 × 19 = 228), allowing the *Numerus aureus* and lunar position to recur within the Julian framework before further correction is needed."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Liber I, Tabula Prima et Secunda Hegirae",
+      "context": "Esta é a Tabula Tertia, terceira de uma série de tábuas da Hégira no Livro I."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Na linha bissexta após o ano 19 (Numerus aureus XIIII), há um símbolo na coluna 76 que parece '♂' ou marca tipográfica não-numérica — possível erro de impressão ou marca editorial; transcrito com dúvida.",
+    "Algumas datas nas margens (e.g. '13 Iunj' vs '13 Iuni') variam ortograficamente entre 'Iuni' e 'Iunj' — preservado tal como impresso.",
+    "A linha bissexta 'XI / 24 Dec.' aparece deslocada na coluna 133 em vez do padrão esperado — verificar contra outras edições."
+  ],
+  "notes": "Página inteiramente tabular (G iiij = oitava folha do caderno G). É a terceira de uma série de tábuas para conversão entre a era da Hégira islâmica e o calendário juliano, usando o ciclo de 228 anos (= 12 × 19, doze enneadecaeterides). As colunas no topo (0, 19, 38, 57... 209) representam anos julianos expandidos em incrementos de 19; a linha de baixo (19, 38, 57... 228) e a anterior (20, 39, 59... 235) dão respectivamente os anos julianos e árabes coletos correspondentes. As linhas marcadas '0' à esquerda registram os dias bissextos/intercalares onde o ano hijri muçulmano contém o dia adicional juliano. O Numerus aureus à esquerda corresponde ao ciclo metônico/Cyclus Lunae. Cada célula dá a data juliana (dia + mês abreviado) do início (1 Muharram) do correspondente ano da Hégira. A foliação '79' no topo direito refere-se à paginação original do impresso, não à página 111 da edição moderna referenciada no prompt.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4530,
+    "stop_reason": "end_turn"
+  }
+}

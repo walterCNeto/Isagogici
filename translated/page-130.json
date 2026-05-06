@@ -1,0 +1,51 @@
+{
+  "page": 130,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\nRESIDUUM TABULAE MAGNI LUSTRI\nCANICULARIS IULIANI.",
+  "pt": "DOS CÂNONES ISAGÓGICOS\nResíduo da Tábua do Grande Lustro Canicular Juliano.",
+  "en": "OF THE ISAGOGIC CANONS\nRemainder of the Table of the Great Julian Sothic Lustrum.",
+  "tables": [
+    {
+      "caption_pt": "Resíduo da Tábua do Grande Lustro Canicular Juliano. Correspondências entre o 1º de Thoth (calendário egípcio antigo/alexandrino), 1º de Sahami e 1º de Pharauardin (calendário persa) com datas julianas, para os anos 168, 196, 224, 252, 280 e 308 do ciclo.",
+      "caption_en": "Remainder of the Table of the Great Julian Sothic Lustrum. Correspondences between 1 Thoth (ancient/Alexandrian Egyptian calendar), 1 Sahami and 1 Pharauardin (Persian calendar) with Julian dates, for years 168, 196, 224, 252, 280 and 308 of the cycle.",
+      "markdown": "| Año | Thoth (168) | Sahami (168) | Pharauardin (168) | Thoth (196) | Sahami (196) | Pharauardin (196) | Thoth (224) | Sahami (224) | Pharauardin (224) | Thoth (252) | Sahami (252) | Pharauardin (252) | Thoth (280) | Sahami (280) | Pharauardin (280) | Thoth (308) | Sahami (308) | Pharauardin (308) |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 3 Oct. | 5 Ian. | 2 Ian. | 26 Sep. | 28 Dec. | 25 Dec. | 19 Sep. | 21 Dec. | 18 Dec. | 12 Sep. | 14 Dec. | 11 Dec. | 5 Sep. | 7 Dec. | 4 Dec. | 29 Aug. | 30 Nou. | 27 Nou. |\n| 2 | 3 | 4 | 1 | 26 | 28 | 25 | 19 | 21 | 18 | 12 | 14 | 11 | 5 | 7 | 4 | 29 | 30 | 27 |\n| 3 | 3 | 4 | 1 | 26 | 28 | 25 | 19 | 21 | 18 | 12 | 14 | 11 | 5 | 7 | 4 | 29 | 30 | 27 |\n| 4 | 3 | 4 | 1 | 26 | 28 | 25 | 19 | 21 | 18 | 12 | 14 | 11 | 5 | 7 | 4 | 29 | 30 | 27 |\n| 5 | 2 | 4 | 31 Dec. | 25 | 27 | 24 | 18 | 20 | 17 | 11 | 13 | 10 | 4 | 6 | 3 | 28 | 29 | 26 |\n| 6 | 2 | 3 | 31 | 25 | 27 | 24 | 18 | 20 | 17 | 11 | 13 | 10 | 4 | 6 | 3 | 28 | 29 | 26 |\n| 7 | 2 | 3 | 31 | 25 | 27 | 24 | 18 | 20 | 17 | 11 | 13 | 10 | 4 | 6 | 3 | 28 | 29 | 26 |\n| 8 | 2 | 3 | 31 | 25 | 27 | 24 | 18 | 20 | 17 | 11 | 13 | 10 | 4 | 6 | 3 | 28 | 29 | 26 |\n| 9 | 1 | 3 | 30 | 24 | 26 | 23 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 27 | 28 | 25 |\n| 10 | 1 | 2 | 30 | 24 | 26 | 23 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 27 | 28 | 25 |\n| 11 | 1 | 2 | 30 | 24 | 26 | 23 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 27 | 28 | 25 |\n| 12 | 1 | 2 | 30 | 24 | 26 | 23 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 27 | 28 | 25 |\n| 13 | 30 Sep. | 2 | 29 | 23 | 25 | 22 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 26 | 27 | 24 |\n| 14 | 30 | 1 | 29 | 23 | 25 | 22 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 26 | 27 | 24 |\n| 15 | 30 | 1 | 29 | 23 | 25 | 22 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 26 | 27 | 24 |\n| 16 | 30 | 1 | 29 | 23 | 25 | 22 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 26 | 27 | 24 |\n| 17 | 29 | 31 Dec. | 28 | 22 | 24 | 21 | 15 | 17 | 14 | 8 | 10 | 7 | 1 | 3 | 30 Nou. | 25 | 26 | 23 |\n| 18 | 29 | 31 | 28 | 22 | 24 | 21 | 15 | 17 | 14 | 8 | 10 | 7 | 1 | 3 | 30 | 25 | 26 | 23 |\n| 19 | 29 | 31 | 28 | 22 | 24 | 21 | 15 | 17 | 14 | 8 | 10 | 7 | 1 | 3 | 30 | 25 | 26 | 23 |\n| 20 | 29 | 31 | 28 | 22 | 24 | 21 | 15 | 17 | 14 | 8 | 10 | 7 | 1 | 3 | 30 | 25 | 26 | 23 |\n| 21 | 28 | 30 | 27 | 21 | 23 | 20 | 14 | 16 | 13 | 7 | 9 | 6 | 31 Aug. | 2 | 29 | 24 | 25 | 22 |\n| 22 | 28 | 30 | 27 | 21 | 23 | 20 | 14 | 16 | 13 | 7 | 9 | 6 | 31 | 2 | 29 | 24 | 25 | 22 |\n| 23 | 28 | 30 | 27 | 21 | 23 | 20 | 14 | 16 | 13 | 7 | 9 | 6 | 31 | 2 | 29 | 24 | 25 | 22 |\n| 24 | 28 | 30 | 27 | 21 | 23 | 20 | 14 | 16 | 13 | 7 | 9 | 6 | 31 | 2 | 29 | 24 | 25 | 22 |\n| 25 | 27 | 29 | 26 | 20 | 22 | 19 | 13 | 15 | 12 | 6 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 |\n| 26 | 27 | 29 | 26 | 20 | 22 | 19 | 13 | 15 | 12 | 6 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 |\n| 27 | 27 | 29 | 26 | 20 | 22 | 19 | 13 | 15 | 12 | 6 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 |\n| 28 | 27 | 29 | 26 | 20 | 22 | 19 | 13 | 15 | 12 | 6 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Magnum Lustrum Caniculare Iulianum",
+      "definition_pt": "O 'Grande Lustro Canicular Juliano' é o ciclo de 1461 anos julianos (= 1460 anos sothicos egípcios) durante o qual o início do ano vago egípcio (1 de Thoth) percorre todas as posições do ano juliano, retornando à data inicial. Esta tábua dá o resíduo do ciclo, mostrando, para múltiplos de 28 anos (168, 196, 224, 252, 280, 308), as correspondências entre 1 Thoth (Egito alexandrino), 1 Sahami e 1 Pharauardin (calendário persa) com as datas julianas correspondentes.",
+      "definition_en": "The 'Great Julian Sothic Lustrum' is the cycle of 1461 Julian years (= 1460 Egyptian Sothic years) during which the start of the Egyptian wandering year (1 Thoth) traverses every position in the Julian year and returns to its starting date. This table provides the remainder of the cycle, showing, for multiples of 28 years (168, 196, 224, 252, 280, 308), the correspondences between 1 Thoth (Alexandrian Egypt), 1 Sahami, and 1 Pharauardin (Persian calendar) with their Julian dates."
+    },
+    {
+      "term": "Thoth",
+      "definition_pt": "Primeiro mês do calendário egípcio (vago/alexandrino).",
+      "definition_en": "First month of the Egyptian (wandering/Alexandrian) calendar."
+    },
+    {
+      "term": "Sahami",
+      "definition_pt": "Mês inicial em um dos calendários orientais usados por Scaliger (provavelmente forma do calendário armênio/copta tardio na nomenclatura de Scaliger).",
+      "definition_en": "Opening month in one of the Eastern calendars employed by Scaliger (likely a late Coptic/Armenian form in Scaliger's nomenclature)."
+    },
+    {
+      "term": "Pharauardin",
+      "definition_pt": "Farvardīn — primeiro mês do calendário persa zoroástrico.",
+      "definition_en": "Farvardīn — first month of the Persian Zoroastrian calendar."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A coluna marcada como número de página '98' no canto superior esquerdo difere do número '130' fornecido — possível discrepância entre paginação impressa e numeração do prompt.",
+    "Algumas leituras do scan são levemente ambíguas (e.g., '30 Sep.' vs '30Sep.2' na linha 13 da primeira coluna): transcrevemos como '30 Sep.' e '2' separados, conforme o padrão das linhas seguintes.",
+    "Na coluna 280, linha 17, leitura '30 Nou.' (= 30 de novembro) interpretada conforme padrão de transição mensal observado nas demais colunas."
+  ],
+  "notes": "Esta página é puramente tabular e dá continuação ('Residuum') a uma tábua maior do Magnum Lustrum Caniculare Julianum. A tábua relaciona os primeiros dias dos meses iniciais de três calendários (egípcio = Thoth; oriental = Sahami; persa = Pharauardin) às datas correspondentes do calendário juliano, organizadas por seis grupos de 28 anos (168, 196, 224, 252, 280, 308) — múltiplos do *Cyclus Solis*. As primeiras quatro linhas de cada bloco têm o mesmo valor (anos comuns), e o valor decrementa de 1 dia a cada quatro anos (acomodando o bissexto juliano), padrão típico das tábuas sothicas de Scaliger. A indicação 'Nou.' = November; 'Sep.' = September; 'Aug.' = August; 'Dec.' = December; 'Ian.' = January. O número '98' impresso no topo refere-se à paginação interna da edição original.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4417,
+    "stop_reason": "end_turn"
+  }
+}

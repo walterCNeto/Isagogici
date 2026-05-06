@@ -1,0 +1,53 @@
+{
+  "page": 45,
+  "page_type": "table",
+  "latin": "LIBER PRIMVS.\nKALENDARIVM ANNI CAELESTIS.\n♋ KARKINON. DIES XXXI.   ♌ LEONTON. DIES XXXI.   ♍ PARTHENON. DIES XXXI.",
+  "pt": "LIVRO PRIMEIRO.\nCALENDÁRIO DO ANO CELESTE.\n♋ *Karkinon* (Câncer). 31 dias.   ♌ *Leonton* (Leão). 31 dias.   ♍ *Parthenon* (Virgem). 31 dias.",
+  "en": "BOOK ONE.\nCALENDAR OF THE CELESTIAL YEAR.\n♋ *Karkinon* (Cancer). 31 days.   ♌ *Leonton* (Leo). 31 days.   ♍ *Parthenon* (Virgo). 31 days.",
+  "tables": [
+    {
+      "caption_pt": "Calendário do Ano Celeste — meses de Karkinon (Câncer), Leonton (Leão) e Parthenon (Virgem), cada um com 31 dias. Para cada dia do mês celeste, indicam-se: Dies Mensis (dia do mês), Regulares (regulares feriais), Epacta (epacta lunar), Cyclus Iudaicus (ciclo judaico, em algarismos romanos sobre os 19 anos do ciclo lunar), Menses Iudaici (meses do calendário hebraico: Ab, Elul, Tisri, Marcheswan), e Dies Iuliani (dia correspondente no calendário juliano).",
+      "caption_en": "Calendar of the Celestial Year — months of Karkinon (Cancer), Leonton (Leo), and Parthenon (Virgo), each with 31 days. For each day of the celestial month, the table shows: Dies Mensis (day of the month), Regulares (ferial regulars), Epacta (lunar epact), Cyclus Iudaicus (Jewish cycle, in Roman numerals over the 19 years of the lunar cycle), Menses Iudaici (months of the Hebrew calendar: Ab, Elul, Tisri, Marcheswan), and Dies Iuliani (corresponding day in the Julian calendar).",
+      "markdown": "### ♋ KARKINON — 31 dias\n\n| Dies Mensis | Regulares | Epacta | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 6 | 23 | | | 24 Iul. |\n| 2 | 7 | 22 | IIII | Ab | 25 |\n| 3 | 1 | 21 | | | 26 |\n| 4 | 2 | 20 | XII | Ab | 27 |\n| 5 | 3 | 19 | I | Ab | 28 |\n| 6 | 4 | 18 | | | 29 |\n| 7 | 5 | 17 | IX | Ab | 30 |\n| 8 | 6 | 16 | XVII | Ab | 31 |\n| 9 | 7 | 15 | | | 1 Aug. |\n| 10 | 1 | 14 | VI | Ab | 2 |\n| 11 | 2 | 13 | | | 3 |\n| 12 | 3 | 12 | XIIII | Ab | 4 |\n| 13 | 4 | 11 | III | Ab | 5 |\n| 14 | 5 | 10 | | | 6 |\n| 15 | 6 | 9 | XI | Ab | 7 |\n| 16 | 7 | 8 | XIX | Ab | 8 |\n| 17 | 1 | 7 | | | 9 |\n| 18 | 2 | 6 | VIII | Ab | 10 |\n| 19 | 3 | 5 | XVI | Elul | 11 |\n| 20 | 4 | 4 | | | 12 |\n| 21 | 5 | 3 | V | Elul | 13 |\n| 22 | 6 | 2 | | | 14 |\n| 23 | 7 | 1 | XIII | Elul | 15 |\n| 24 | 1 | 29* | | | 16 |\n| 25 | 2 | 28 | II | Elul | 17 |\n| 26 | 3 | 27 | X | Elul | 18 |\n| 27 | 4 | 26 | | | 19 |\n| 28 | 5 | 25 | XVIII | Elul | 20 |\n| 29 | 6 | 24 | VII | Elul | 21 |\n| 30 | 7 | 23 | XV | Elul | 22 |\n| 31 | 1 | 22 | | | 23 |\n\n### ♌ LEONTON — 31 dias\n\n| Dies Mensis | Regulares | Epacta | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 2 | 21 | IIII | Elul | 24 Aug. |\n| 2 | 3 | 20 | | | 25 |\n| 3 | 4 | 19 | XII | Elul | 26 |\n| 4 | 5 | 18 | I | Elul | 27 |\n| 5 | 6 | 17 | | | 28 |\n| 6 | 7 | 16 | IX | Elul | 29 |\n| 7 | 1 | 15 | XVII | Elul | 30 |\n| 8 | 2 | 14 | | | 31 |\n| 9 | 3 | 13 | VI | Elul | 1 Sept. |\n| 10 | 4 | 12 | | | 2 |\n| 11 | 5 | 11 | XIIII | Elul | 3 |\n| 12 | 6 | 10 | III | Elul | 4 |\n| 13 | 7 | 9 | XI | Elul | 5 |\n| 14 | 1 | 8 | | | 6 |\n| 15 | 2 | 7 | XIX | Elul | 7 |\n| 16 | 3 | 6 | | | 8 |\n| 17 | 4 | 5 | VIII | Elul | 9 |\n| 18 | 5 | 4 | XVI | Tisri | 10 |\n| 19 | 6 | 3 | | | 11 |\n| 20 | 7 | 2 | V | Tisri | 12 |\n| 21 | 1 | 1 | | | 13 |\n| 22 | 2 | * | XIII | Tisri | 14 |\n| 23 | 3 | 29 | II | Tisri | 15 |\n| 24 | 4 | 28 | X | Tisri | 16 |\n| 25 | 5 | 27 | | | 17 |\n| 26 | 6 | 26 | XVIII | Tisri | 18 |\n| 27 | 7 | 25 | VII | Tisri | 19 |\n| 28 | 1 | 24 | XV | Tisri | 20 |\n| 29 | 2 | 23 | | | 21 |\n| 30 | 3 | 22 | IIII | Tisri | 22 |\n| 31 | 4 | 21 | | | 23 |\n\n### ♍ PARTHENON — 31 dias\n\n| Dies Mensis | Regulares | Epacta | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 5 | 20 | XII | Tisri | 24 Sept. |\n| 2 | 6 | 19 | I | Tisri | 25 |\n| 3 | 7 | 18 | | | 26 |\n| 4 | 1 | 17 | IX | Tisri | 27 |\n| 5 | 2 | 16 | XVII | Tisri | 28 |\n| 6 | 3 | 15 | | | 29 |\n| 7 | 4 | 14 | VI | Tisri | 30 |\n| 8 | 5 | 13 | | | 1 Oct. |\n| 9 | 6 | 12 | XIIII | Tisri | 2 |\n| 10 | 7 | 11 | III | Tisri | 3 |\n| 11 | 1 | 10 | XI | Tisri | 4 |\n| 12 | 2 | 9 | | | 5 |\n| 13 | 3 | 8 | XIX | Tisri | 6 |\n| 14 | 4 | 7 | | | 7 |\n| 15 | 5 | 6 | VIII | Tisri | 8 |\n| 16 | 6 | 5 | XVI | Marcheswan | 9 |\n| 17 | 7 | 4 | | | 10 |\n| 18 | 1 | 3 | V | Marcheswan | 11 |\n| 19 | 2 | 2 | | | 12 |\n| 20 | 3 | 1 | XIII | Marcheswan | 13 |\n| 21 | 4 | 29* | | | 14 |\n| 22 | 5 | 28 | II | Marcheswan | 15 |\n| 23 | 6 | 27 | X | Marcheswan | 16 |\n| 24 | 7 | 26 | | | 17 |\n| 25 | 1 | 25 | XVIII | Marcheswan | 18 |\n| 26 | 2 | 24 | VII | Marcheswan | 19 |\n| 27 | 3 | 23 | XV | Marcheswan | 20 |\n| 28 | 4 | 22 | | | 21 |\n| 29 | 5 | 21 | IIII | Marcheswan | 22 |\n| 30 | 6 | 20 | | | 23 |\n| 31 | 7 | 19 | XII | Marcheswan | 24 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Annus Caelestis",
+      "definition_pt": "O *annus caelestis* (ano celeste) de Scaliger é um ano construído sobre os signos zodiacais como 'meses', começando aproximadamente no equinócio/solstício astronômico. Aqui os três meses correspondem a Câncer (*Karkinon*), Leão (*Leonton*) e Virgem (*Parthenon*), cada um de 31 dias, e cada dia é correlacionado simultaneamente com o calendário juliano e o calendário hebraico (com epacta, regulares feriais e ano do ciclo lunar de 19 anos).",
+      "definition_en": "Scaliger's *annus caelestis* (celestial year) is a year built upon the zodiacal signs as 'months', beginning approximately at the astronomical equinox/solstice. Here the three months correspond to Cancer (*Karkinon*), Leo (*Leonton*), and Virgo (*Parthenon*), each of 31 days, and every day is correlated simultaneously with the Julian calendar and the Hebrew calendar (with epact, ferial regulars, and year of the 19-year lunar cycle)."
+    },
+    {
+      "term": "Karkinon, Leonton, Parthenon",
+      "definition_pt": "Nomes gregos (transliterados: Καρκίνων, Λεόντων, Παρθένων — genitivos plurais usados como rótulos do mês zodiacal) para Câncer, Leão e Virgem. Scaliger prefere a nomenclatura grega ao latim em sua arquitetura cronológica universal.",
+      "definition_en": "Greek names (transliterated: Καρκίνων, Λεόντων, Παρθένων — genitive plurals used as zodiacal-month labels) for Cancer, Leo, and Virgo. Scaliger prefers Greek over Latin nomenclature in his universal chronological framework."
+    },
+    {
+      "term": "Cyclus Iudaicus",
+      "definition_pt": "Coluna que indica em qual ano (I–XIX) do *Cyclus Lunae* judaico (ciclo metônico de 19 anos) cai a *neomenia* hebraica correspondente. As entradas marcam os anos do ciclo de 19 anos em que a lua nova de Ab, Elul, Tisri ou Marcheswan calha naquele dia juliano.",
+      "definition_en": "Column indicating in which year (I–XIX) of the Jewish *Cyclus Lunae* (19-year Metonic cycle) the corresponding Hebrew *neomenia* falls. The entries mark the years of the 19-year cycle in which the new moon of Ab, Elul, Tisri, or Marcheswan coincides with that Julian day."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Liber I (capítulos anteriores sobre o Kalendarium Anni Caelestis)",
+      "context": "A página é parte de uma sequência de tabelas mensais do calendário celeste que ocupa o final do Livro I; assume definições já dadas de Regulares, Epacta e Cyclus Iudaicus."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Na coluna Cyclus Iudaicus de Karkinon dia 24, a entrada lê-se '29*' na coluna da Epacta — leitura possivelmente '29' com asterisco (marca de salto bissextil/embolístico); confirmar com cópia mais nítida.",
+    "Em Leonton dia 22, a Epacta aparece como '*' (asterisco isolado), indicação típica de Scaliger para a *epacta nulla* (= 30 ou 0); o asterisco marca o ponto de saltus epactae no ciclo gregoriano.",
+    "Algumas entradas das colunas Cyclus Iudaicus e Menses Iudaici estão em branco no original — isto é estrutural (só ocorrem nos anos do ciclo lunar de 19 anos em que a neomenia hebraica daquele mês cai naquele dia juliano), não falha de transcrição.",
+    "Possíveis erros de OCR em dois pontos da Epacta de Karkinon (linhas 11 e 14, onde o número da Epacta poderia estar comprimido); valores assumidos por interpolação aritmética da sequência decrescente 23, 22, 21..."
+  ],
+  "notes": "Esta página (p. 23) pertence ao bloco de tabelas mensais que fecha o Livro I do *Isagogicorum chronologiae canonum*, intitulado *Kalendarium Anni Caelestis*. Cada página do bloco apresenta três meses zodiacais lado a lado, com seis colunas por mês: dia do mês celeste, regular ferial, epacta, ano do ciclo lunar judaico, mês hebraico e dia juliano correspondente. Os meses recebem nomes gregos (genitivos plurais: 'dos Carangueijos', 'dos Leões', 'das Virgens'), refletindo a opção scaligeriana por uma nomenclatura cronológica universal de raiz helênica. A correlação Tisri/Marcheswan com fim de setembro / início de outubro confirma o padrão calendárico hebraico padrão e a Epacta decrescente de 30→1 em ciclo segue a regra metônica clássica. A tabela é puramente computacional: não há prosa demonstrativa nesta página.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5328,
+    "stop_reason": "end_turn"
+  }
+}

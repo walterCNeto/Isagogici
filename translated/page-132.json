@@ -1,0 +1,37 @@
+{
+  "page": 132,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\nRESIDUUM TABULAE MAGNI LUSTRI CANICULARIS IULIANI.",
+  "pt": "DOS CÂNONES ISAGÓGICOS\nRestante da Tábua do Grande Lustro Canicular Juliano.",
+  "en": "OF THE ISAGOGIC CANONS\nRemainder of the Table of the Great Julian Canicular Lustrum.",
+  "tables": [
+    {
+      "caption_pt": "Restante da Tábua do Grande Lustro Canicular Juliano (anos 504, 532, 560, 588, 616, 644 da era considerada). Para cada ano, mostra a correspondência entre os dias do mês juliano e o início (1º dia) dos meses egípcios Thoth, Sahami (Phaophi) e Pharmuthi-uardin (Pharmuthi/Phamenoth) — ou, conforme a interpretação de Scaliger, os meses do calendário egípcio antigo, sami (alexandrino vago) e persa (Pharvardin).",
+      "caption_en": "Remainder of the Table of the Great Julian Canicular Lustrum (years 504, 532, 560, 588, 616, 644). For each year, shows the correspondence between Julian calendar days and the 1st day of the Egyptian months Thoth, Sahami (Phaophi) and Pharuardin (Pharmuthi) — or, per Scaliger's interpretation, ancient Egyptian, vague Alexandrian (sami) and Persian (Pharvardin) months.",
+      "markdown": "| Day | 504 Thoth | 504 Sahami | 504 Phar. | 532 Thoth | 532 Sahami | 532 Phar. | 560 Thoth | 560 Sahami | 560 Phar. | 588 Thoth | 588 Sahami | 588 Phar. | 616 Thoth | 616 Sahami | 616 Phar. | 644 Thoth | 644 Sahami | 644 Phar. |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 11 Iul. | 12 Oct. | 9 Oct. | 4 Iul. | 5 Oct. | 2 Oct. | 27 Iun. | 28 Sep. | 25 Sep. | 20 Iun. | 21 Sep. | 18 Sep. | 13 Iun. | 14 Sep. | 11 Sep. | 6 Iun. | 7 Sep. | 4 Sep. |\n| 2 | 11 | 12 | 9 | 4 | 5 | 2 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 | 6 | 7 | 4 |\n| 3 | 11 | 12 | 9 | 4 | 5 | 2 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 | 6 | 7 | 4 |\n| 4 | 11 | 12 | 9 | 4 | 5 | 2 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 | 6 | 7 | 4 |\n| 5 | 10 | 11 | 8 | 3 | 4 | 1 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 | 5 | 6 | 3 |\n| 6 | 10 | 11 | 8 | 3 | 4 | 1 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 | 5 | 6 | 3 |\n| 7 | 10 | 11 | 8 | 3 | 4 | 1 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 | 5 | 6 | 3 |\n| 8 | 10 | 11 | 8 | 3 | 4 | 1 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 | 5 | 7 | 3 |\n| 9 | 9 | 10 | 7 | 2 | 3 | 30 Sep. | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 | 4 | 5 | 2 |\n| 10 | 9 | 10 | 7 | 2 | 3 | 30 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 | 4 | 5 | 2 |\n| 11 | 9 | 10 | 7 | 2 | 3 | 30 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 | 4 | 5 | 2 |\n| 12 | 9 | 10 | 7 | 2 | 3 | 30 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 | 4 | 5 | 2 |\n| 13 | 8 | 9 | 6 | 1 | 2 | 29 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 | 3 | 4 | 1 |\n| 14 | 8 | 9 | 6 | 1 | 2 | 29 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 | 3 | 4 | 1 |\n| 15 | 8 | 9 | 6 | 1 | 2 | 29 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 | 3 | 4 | 1 |\n| 16 | 8 | 9 | 6 | 1 | 2 | 29 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 | 3 | 4 | 1 |\n| 17 | 7 | 8 | 5 | 30 Iun. | 1 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 | 2 | 3 | 31 |\n| 18 | 7 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 | 2 | 3 | 31 |\n| 19 | 7 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 | 2 | 3 | 31 |\n| 20 | 7 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 | 2 | 3 | 31 |\n| 21 | 6 | 7 | 4 | 29 | 30 Sep. | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 | 1 | 2 | 30 |\n| 22 | 6 | 7 | 4 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 | 1 | 2 | 30 |\n| 23 | 6 | 7 | 4 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 | 1 | 2 | 30 |\n| 24 | 6 | 7 | 4 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 | 1 | 2 | 30 |\n| 25 | 5 | 6 | 3 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 | 7 | 8 | 5 | 31 Mai | 1 | 29 |\n| 26 | 5 | 6 | 3 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 | 7 | 8 | 5 | 31 | 1 | 29 |\n| 27 | 5 | 6 | 3 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 | 7 | 8 | 5 | 31 | 1 | 29 |\n| 28 | 5 | 6 | 3 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 | 7 | 8 | 5 | 31 | 1 | 29 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Magnum Lustrum Caniculare Iulianum",
+      "definition_pt": "O Grande Lustro Canicular Juliano é o ciclo de Scaliger que sincroniza o calendário juliano com o calendário egípcio vago e calendários afins (sami/alexandrino e Pharvardin persa) ao longo de muitos séculos, mostrando como o 1º dia (neomenia) de cada mês egípcio retrocede progressivamente no calendário juliano devido à diferença de ¼ de dia por ano.",
+      "definition_en": "The Great Julian Canicular Lustrum is Scaliger's cycle synchronizing the Julian calendar with the Egyptian vague calendar and related calendars (Sami/Alexandrian and Persian Pharvardin) over many centuries, showing how the 1st day (neomenia) of each Egyptian month progressively retreats through the Julian calendar due to the ¼-day annual discrepancy."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Coluna 'Pharauardin': identificação incerta — pode ser Pharmuthi (mês egípcio) ou Pharvardin (mês persa zoroástrico). A grafia 'Pharauardin' (com 'au' = 'av') sugere o nome persa Farvardīn.",
+    "Coluna 'Sahami': provavelmente refere-se ao calendário 'sami' / alexandrino vago, ou possivelmente a uma forma do mês Phaophi.",
+    "Linha 8 da coluna '644 Sahami': leitura '7' incerta — esperar-se-ia '6' por consistência com as outras tétradas; pode haver erro tipográfico no original.",
+    "Várias entradas com pontuação ambígua no scan (vírgulas, dois pontos) que parecem ser sujeira de impressão e não dígitos."
+  ],
+  "notes": "Esta página é integralmente uma tabela de continuação ('Residuum') do Magnum Lustrum Caniculare Iulianum. A tabela cobre os anos 504, 532, 560, 588, 616 e 644 do ciclo, com diferença de 28 anos entre colunas (= ciclo solar juliano). Para cada ano são dadas três datas julianas correspondentes ao 1º dia dos meses Thoth, Sahami e Pharauardin, agrupadas em tétradas (períodos de 4 anos antes do bissexto). A regressão sistemática de 1 dia a cada 4 anos confirma a estrutura: Thoth retrocede de 11 Iul (ano 504) → 6 Iun (ano 644), exatamente 35 dias em 140 anos = 1 dia por tétrada juliana, refletindo o atraso do ano egípcio vago de 365 dias frente ao juliano de 365¼. A diferença constante entre Thoth e Sahami é de 1 dia, e entre Sahami e Pharauardin de 27 dias (≈ 30 dias menos 3 — sugerindo que Pharauardin precede Sahami em um mês egípcio menos a defasagem de início de ano).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4192,
+    "stop_reason": "end_turn"
+  }
+}

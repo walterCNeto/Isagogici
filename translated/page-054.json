@@ -1,0 +1,46 @@
+{
+  "page": 54,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\nKALENDARIUM ANNI CAELESTIS.\n\n♈ KRION. DIES XXXI.    ♉ TAURON. DIES XXXI.    ♊ DIDYMON. DIES XXXII.\n\n[Tabula tripartita cum columnis: Dies Mensis | Regulares | Epactae | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani]\n\nKALENDA-",
+  "pt": "CÂNONES ISAGÓGICOS\nCALENDÁRIO DO ANO CELESTE.\n\n♈ *Krion* (Áries). 31 dias.    ♉ *Tauron* (Touro). 31 dias.    ♊ *Didymon* (Gêmeos). 32 dias.\n\n[Tabela tripartite com as colunas: Dia do Mês | *Regulares* | *Epactae* | *Cyclus Iudaicus* | Meses Judaicos | Dias Julianos]\n\nCALENDÁ-",
+  "en": "ISAGOGIC CANONS\nCALENDAR OF THE CELESTIAL YEAR.\n\n♈ *Krion* (Aries). 31 days.    ♉ *Tauron* (Taurus). 31 days.    ♊ *Didymon* (Gemini). 32 days.\n\n[Tripartite table with columns: Day of Month | *Regulares* | *Epactae* | *Cyclus Iudaicus* | Jewish Months | Julian Days]\n\nCALENDA-",
+  "tables": [
+    {
+      "caption_pt": "Calendário do Ano Celeste — Krion (Áries), 31 dias. Correspondência entre os dias do signo, os *Regulares*, as *Epactae*, o *Cyclus Iudaicus* (ciclo lunar judaico de 19 anos), os meses judaicos (Iiar/Siwan) e os dias do calendário juliano.",
+      "caption_en": "Calendar of the Celestial Year — Krion (Aries), 31 days. Correspondence between days of the zodiacal sign, the *Regulares*, the *Epactae*, the *Cyclus Iudaicus* (Jewish 19-year lunar cycle), the Jewish months (Iiar/Siwan), and Julian calendar days.",
+      "markdown": "| Dies Mensis | Regulares | Epactae | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 3 | 28 | II | Iiar | 21 Apr. |\n| 2 | 4 | 27 | X | Iiar | 22 |\n| 3 | 5 | 26 |  |  | 23 |\n| 4 | 6 | 25 | XVIII | Iiar | 24 |\n| 5 | 7 | 24 | VII | Iiar | 25 |\n| 6 | 1 | 23 | XV | Iiar | 26 |\n| 7 | 2 | 22 |  |  | 27 |\n| 8 | 3 | 21 | IIII | Iiar | 28 |\n| 9 | 4 | 20 |  |  | 29 |\n| 10 | 5 | 19 | XII | Iiar | 30 |\n| 11 | 6 | 18 | I | Iiar | 1 Mai |\n| 12 | 7 | 17 |  |  | 2 |\n| 13 | 1 | 16 | IX | Iiar | 3 |\n| 14 | 2 | 15 | XVII | Iiar | 4 |\n| 15 | 3 | 14 |  |  | 5 |\n| 16 | 4 | 13 | VI | Iiar | 6 |\n| 17 | 5 | 12 |  |  | 7 |\n| 18 | 6 | 11 | XIIII | Iiar | 8 |\n| 19 | 7 | 10 | III | Iiar | 9 |\n| 20 | 1 | 9 | XI | Iiar | 10 |\n| 21 | 2 | 8 | XIX | Iiar | 11 |\n| 22 | 3 | 7 |  |  | 12 |\n| 23 | 4 | 6 |  |  | 13 |\n| 24 | 5 | 5 | VIII | Iiar | 14 |\n| 25 | 6 | 4 | XVI | Siwan | 15 |\n| 26 | 7 | 3 |  |  | 16 |\n| 27 | 1 | 2 | V | Siwan | 17 |\n| 28 | 2 | 1 |  |  | 18 |\n| 29 | 3 | * | XIII | Siwan | 19 |\n| 30 | 4 | 29 | II | Siwan | 20 |\n| 31 | 5 | 28 | X | Siwan | 21 |\n\n**Tauron (Taurus), Dies XXXI**\n\n| Dies Mensis | Regulares | Epactae | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 6 | 27 |  |  | 22 Mai. |\n| 2 | 7 | 26 | XVIII | Siwan | 23 |\n| 3 | 1 | 25 | VII | Siwan | 24 |\n| 4 | 2 | 24 | XV | Siwan | 25 |\n| 5 | 3 | 23 |  |  | 26 |\n| 6 | 4 | 22 | IIII | Siwan | 27 |\n| 7 | 5 | 21 |  |  | 28 |\n| 8 | 6 | 20 | XII | Siwan | 29 |\n| 9 | 7 | 19 | I | Siwan | 30 |\n| 10 | 1 | 18 |  |  | 31 |\n| 11 | 2 | 17 | IX | Siwan | 1 Iunj |\n| 12 | 3 | 16 | XVII | Siwan | 2 |\n| 13 | 4 | 15 |  | Siwan | 3 |\n| 14 | 5 | 14 | VI | Siwan | 4 |\n| 15 | 6 | 13 |  |  | 5 |\n| 16 | 7 | 12 | XIIII | Siwan | 6 |\n| 17 | 1 | 11 | III | Siwan | 7 |\n| 18 | 2 | 10 | XI | Siwan | 8 |\n| 19 | 3 | 9 |  |  | 9 |\n| 20 | 4 | 8 | XIX | Siwan | 10 |\n| 21 | 5 | 7 |  |  | 11 |\n| 22 | 6 | 6 | VIII | Siwan | 12 |\n| 23 | 7 | 5 | XVI | Tamuz | 13 |\n| 24 | 1 | 4 |  |  | 14 |\n| 25 | 2 | 3 | V | Tamuz | 15 |\n| 26 | 3 | 2 |  |  | 16 |\n| 27 | 4 | 1 | XIII | Tamuz | 17 |\n| 28 | 5 | 29* |  |  | 18 |\n| 29 | 6 | 28 | II | Tamuz | 19 |\n| 30 | 7 | 27 | X | Tamuz | 20 |\n| 31 | 1 | 26 |  |  | 21 |\n\n**Didymon (Gemini), Dies XXXII**\n\n| Dies Mensis | Regulares | Epactae | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 2 | 25 | XVIII | Tamuz | 22 Iunj |\n| 2 | 3 | 24 | VII | Tamuz | 23 |\n| 3 | 4 | 23 | XV | Tamuz | 24 |\n| 4 | 5 | 22 |  |  | 25 |\n| 5 | 6 | 21 | III | Tamuz | 26 |\n| 6 | 7 | 20 |  |  | 27 |\n| 7 | 1 | 19 | XII | Tamuz | 28 |\n| 8 | 2 | 18 | I | Tamuz | 29 |\n| 9 | 3 | 17 |  |  | 30 |\n| 10 | 4 | 16 | IX | Tamuz | 1 Iuli |\n| 11 | 5 | 15 | XVII | Tamuz | 2 |\n| 12 | 6 | 14 |  |  | 3 |\n| 13 | 7 | 13 | VI | Tamuz | 4 |\n| 14 | 1 | 12 |  |  | 5 |\n| 15 | 2 | 11 | XIIII | Tamuz | 6 |\n| 16 | 3 | 10 | III | Tamuz | 7 |\n| 17 | 4 | 9 | XI | Tamuz | 8 |\n| 18 | 5 | 8 |  |  | 9 |\n| 19 | 6 | 7 | XIX | Tamuz | 10 |\n| 20 | 7 | 6 |  |  | 11 |\n| 21 | 1 | 5 | VIII | Tamuz | 12 |\n| 22 | 2 | 4 | XVI | Ab | 13 |\n| 23 | 3 | 3 |  |  | 14 |\n| 24 | 4 | 2 | V | Ab | 15 |\n| 25 | 5 | 1 |  |  | 16 |\n| 26 | 6 | * | XIII | Ab | 17 |\n| 27 | 7 | 29 | II | Ab | 18 |\n| 28 | 1 | 28 | X | Ab | 19 |\n| 29 | 2 | 27 |  |  | 20 |\n| 30 | 3 | 26 | XVIII | Ab | 21 |\n| 31 | 4 | 25 | VII | Ab | 22 |\n| 32 | 5 | 24 | XV | Ab | 23 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Annus Caelestis",
+      "definition_pt": "Ano celeste, isto é, o ano organizado segundo a passagem do Sol pelos signos zodiacais. Scaliger divide-o em meses correspondentes aos signos: Krion (Áries) = 31 dias, Tauron (Touro) = 31 dias, Didymon (Gêmeos) = 32 dias, etc.",
+      "definition_en": "Celestial year, i.e., the year organized according to the Sun's passage through the zodiacal signs. Scaliger divides it into months corresponding to the signs: Krion (Aries) = 31 days, Tauron (Taurus) = 31 days, Didymon (Gemini) = 32 days, etc."
+    },
+    {
+      "term": "Regulares",
+      "definition_pt": "Números regulares (1–7) que indicam a ferial concorrente para cada dia do mês celeste, usados em conjunção com a letra dominical para encontrar o dia da semana.",
+      "definition_en": "Regular numbers (1–7) indicating the concurrent feria for each day of the celestial month, used together with the Dominical Letter to determine the weekday."
+    },
+    {
+      "term": "Cyclus Iudaicus",
+      "definition_pt": "Ciclo lunar judaico de 19 anos (ciclo Metônico), numerado em algarismos romanos de I a XIX, indicando em que dia do mês celeste cai a *neomenia* (lua nova) judaica em cada ano do ciclo.",
+      "definition_en": "Jewish 19-year lunar cycle (Metonic cycle), numbered in Roman numerals I to XIX, indicating on which day of the celestial month the Jewish *neomenia* (new moon) falls in each year of the cycle."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Algumas células da tabela parecem vazias por design (não há entrada correspondente naquele dia), mas a baixa qualidade do scan dificulta confirmar em alguns casos — em particular nas linhas 13, 14, 15 do Tauron onde a coluna 'Cyclus Iudaicus' parece ter entradas dispersas.",
+    "Na coluna *Epactae* de Tauron dia 28 e Didymon dia 26, lê-se '29*' e '*' respectivamente — o asterisco indica a epacta especial 'omnium' ou correção saltus lunae, conforme convenção gregoriana/scaligeriana.",
+    "Em Krion 29 a Epacta é '*' (asterisco), provavelmente epacta nula/saltus lunae."
+  ],
+  "notes": "Esta página (p. 22) é puramente tabular: o segundo dos doze quadros mensais do *Kalendarium Anni Caelestis* de Scaliger, contendo os signos Áries (Krion), Touro (Tauron) e Gêmeos (Didymon). Os meses zodiacais começam em 21 de abril (entrada do Sol em Áries no calendário juliano da época) e seguem com 31, 31 e 32 dias respectivamente. Cada dia traz: (a) número do dia; (b) *Regulares* solares; (c) *Epactae* lunares (com asterisco para epacta nula); (d) ano do *Cyclus Iudaicus* (ciclo Metônico judaico de 19 anos) em que a lua nova cai naquele dia; (e) nome do mês judaico (Iiar/Siwan/Tamuz/Ab) iniciado por essa lua nova; (f) dia juliano correspondente. A construção segue o método já exposto por Scaliger em *De Emendatione Temporum*, livro V, sobre o calendário hebraico. Os nomes gregos dos signos (Krion, Tauron, Didymon) refletem o gosto helenizante do humanismo tardio de Scaliger. A indicação 'XXXII' para Gêmeos reflete a duração desigual dos meses zodiacais conforme a velocidade aparente do Sol (ano trópico não-uniforme), não os 30 dias iguais convencionais.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5014,
+    "stop_reason": "end_turn"
+  }
+}

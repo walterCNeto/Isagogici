@@ -1,0 +1,114 @@
+```json
+{
+  "page": 84,
+  "page_type": "mixed",
+  "latin": "CANONVM ISAGOGICORVM\n\nmethodus, utpote quum duo tantum characteres componantur; in priori autem exemplo quinque. Aio igitur nouilunium Tisri competere in feriam sextam per regulam quintam, idque nocte post XIII Septembris, a qua incipit dies Iudaicus, quod continget quum haec scribebam, Idibus Septembris Iuliani, anno Christi MDCIIII. Astronomica est haec epocha, non quod astronomice nouilunium hoc incidat in totidem horas, & scrupula, sed dictum ad differentiam translationis politicae. Nam per Regulas I, & VI, feria VI est reproba, & non idonea neomeniae Tisri politicae. Ideo neomenia Tisri politica inibit nocte, quae sequetur XIIII Septembris Iuliani, feria septima.\n\nIII ALIVD EXEMPLVM. Volo scire nouilunium Tisri anni Iudaici 5194. Numerus proxime minor in Tabula quinta 5187 habet characterem, ut diximus, 6.6.435. Abiectis 5187 de 5194, superest cyclus 7. In Tabula quarta e regione 7 cyclu sub frontali 0 occurrit 3.11.566. Compono cum charactere 6.6.435. Consurgit character Tisri 2.17.1001. & quidem astronomicus. At est annus post embolismum, & horae excedunt 15.588. Sunt enim horae 17.1001, majores, quam 15.588. Ideo per regulam IIII, feria secunda politice transfertur in III, anno post embolismum.\n\nIIII ALIVD EXEMPLVM. Volo scire nouilunium Tisri anni Iudaici 1120. Numerus proxime minor in Tabula quinta 988 habet characterem 6.20.700. Abiectis 988 de 1120, de residuo 132 abijcio proxime minorem 114 in fronte Tabulae quartae. Relinquitur lateralis numerus 18, & in angulo communi 3.18.764. quae cum 6.20.700 composita constituunt neomeniam Tisri 3.15.384. Sed est annus communis, & horae 15.384 sunt majores, quam horae 9.203. Ideo per regulam III, feria tertia transferenda est ciuiliter in quintam. Sed ut defungaris leui opera omnibus molestijs (si modo tam perspicuae methodi molestia ulla esse potest) en via longe expeditissima, quam satis laudare non possis. Ab annis propositis 5365, abiecto numero proxime minori 5187, ut iam fecisti in doctrina Canonis primi, & reseruata litera X, a residuo 178 abijce frontalem numerum proxime minorem 171 in Tabula sexta. Relinquitur, (ut iam expertus es Canone primo) cyclus 7, in latere Tabulae: & in angulo communi occurrit 7.d.5. Sed X litera reseruata prior est, quam d. Ideo per doctrinam Canonis quarti Capitis tertij, adiuuante doctrina Canonis decimi Capitis quarti, prior feria, nimirum septima, assumenda est. Itaque hac methodo omnes ciuiles neomenias colligere potes defunctus omni taedio obseruationum antecedentium.\n\nSCHOLION. Adeptus neomeniam Tisri, reliquorum mensium neomenias habebis, si ex Tabula prima characterem mensis, quem desideras, ad characterem Tisri adieceris. si vis habere Nisan, in anno communi adijce charactere sexti mensis, in embolimaeo characterem septimi. Ita de alijs mensibus.\n\nCANON QVARTVS.\n\nQualitatem anni scire in dato anno Iudaico.\n\nHoc est, scire, annus ordinariusne, an defectiuus, an abundans sit. Compara anni propositi characterem cum charactere anni sequentis, hoc est feriam anni propositi cu feria sequentis anni. Si enim annus est defectiuus communis, differentia eius, & sequentis est feria tertia. Nam per definit. IIII annus communis defectiuus est dierum 353. Abiectis omnibus septenarijs relinquitur feria tertia. Sic annus defectiuus embolimaeus dierum 383 per eandem definit. abiectis septenarijs relinquit feriam quintam. & ita de qualitate reliquorum iudicabis, ut habes in praesenti diagrammate. Per tertium exemplum doctrinae antecedentis Canonis cella communis Tabulae sextae fuit 7.d.5. Sequens est 5.1,3. Litera X, quam retinuisti, est posterior, quam litera I. Ideo per doctrinam Can. IIII Cap. III, posterior feria, nempe 3, assumenda. Hoc est, Tisri anni 5366 committetur in feria tertia. huius autem anni 5365 feria est septima. differentia III. Quia est annus communis, per praesens diagramma annus iste 5365 erit defectiuus, hoc est, Casleu erit cauus, pro XXX diebus XXIX retinens. Idque indicatur litera D. quae significat defectiuum in Diagrammate, O ordinarium, A abundantem. Diagramma omnia proponit ὀφθαλμοφανῶς, ut, nisi prorsus lapis es, non homo, errare non possis. Quod si expeditiorem methodum requiris, confer te in praestantissimam Tabulam septimam cum eadem litera, quam reseruasti, nempe X. Sub eodem numero frontali 171,",
+  "pt": "CÂNONES ISAGÓGICOS\n\n...método, visto que apenas dois caracteres se compõem; no exemplo anterior, porém, cinco. Afirmo, pois, que a *neomenia* de Tisri compete à sexta feria pela regra quinta, e isso na noite após 13 de setembro, a partir da qual começa o dia judaico — o que se dará quando eu escrevia isto, nos Idos de setembro juliano, no ano de Cristo 1604. Esta é uma *epocha* astronômica, não porque astronomicamente esta *neomenia* incida em tantas horas e escrúpulos, mas dita para a diferença da transladação política. Pois pelas Regras I e VI, a sexta feria é reprovada e não idônea para a *neomenia* política de Tisri. Por isso a *neomenia* política de Tisri começará na noite que se seguirá a 14 de setembro juliano, sétima feria.\n\nIII. OUTRO EXEMPLO. Quero saber a *neomenia* de Tisri do ano judaico 5194. O número imediatamente menor na Tabela quinta, 5187, tem o caractere, como dissemos, 6.6.435. Subtraindo 5187 de 5194, resta o ciclo 7. Na Tabela quarta, na linha do ciclo 7, sob o frontal 0, ocorre 3.11.566. Componho com o caractere 6.6.435. Resulta o caractere de Tisri 2.17.1001 — e propriamente astronômico. Mas é ano após *annus emboliscus*, e as horas excedem 15.588. Pois as horas 17.1001 são maiores que 15.588. Por isso, pela regra IV, a segunda feria transfere-se politicamente para a terceira, no ano após o *annus emboliscus*.\n\nIV. OUTRO EXEMPLO. Quero saber a *neomenia* de Tisri do ano judaico 1120. O número imediatamente menor na Tabela quinta, 988, tem caractere 6.20.700. Subtraindo 988 de 1120, do resíduo 132 retiro o número imediatamente menor, 114, na frente da Tabela quarta. Resta o número lateral 18, e no ângulo comum 3.18.764. Estes, compostos com 6.20.700, constituem a *neomenia* de Tisri 3.15.384. Mas é *annus communis*, e as horas 15.384 são maiores que as horas 9.203. Por isso, pela regra III, a terceira feria deve ser civilmente transferida para a quinta. Mas, para que te livres com leve esforço de todas as moléstias (se é que tão clara metodologia pode ter alguma moléstia), eis a via de longe mais expedita, que não poderás louvar bastante. Dos anos propostos 5365, subtraído o número imediatamente menor 5187, como já fizeste na doutrina do Canon I, e reservada a letra X, do resíduo 178 subtrai o número frontal imediatamente menor, 171, na Tabela sexta. Resta (como já experimentaste no Canon I) o ciclo 7, no lado da Tabela; e no ângulo comum ocorre 7.d.5. Mas a letra X reservada é anterior à letra d. Por isso, pela doutrina do Canon IV do Capítulo III, com auxílio da doutrina do Canon X do Capítulo IV, deve-se assumir a feria anterior, isto é, a sétima. Assim, por este método podes coligir todas as *neomeniae* civis, livre de todo o tédio das observações precedentes.\n\nSCHOLION. Obtida a *neomenia* de Tisri, terás as *neomeniae* dos demais meses se, da Tabela primeira, adicionares ao caractere de Tisri o caractere do mês que desejas. Se queres ter Nisan, no *annus communis* adiciona o caractere do sexto mês, no *annus emboliscus* (embolimeu) o caractere do sétimo. E assim para os demais meses.\n\nCANON QUARTO.\n\nSaber a qualidade do ano em dado ano judaico.\n\nIsto é, saber se o ano é ordinário, defectivo ou abundante. Compara o caractere do ano proposto com o caractere do ano seguinte, isto é, a feria do ano proposto com a feria do ano seguinte. Pois se o ano é defectivo comum, a diferença entre ele e o seguinte é três ferias. Pois pela definição IV, o *annus communis* defectivo é de 353 dias. Subtraídas todas as septenas, resta a feria terceira. Assim, o ano defectivo embolimeu, de 383 dias, pela mesma definição, subtraídas as septenas, deixa a feria quinta. E assim julgarás da qualidade dos demais, como tens no presente diagrama. Pelo terceiro exemplo da doutrina do Canon precedente, a célula comum da Tabela sexta foi 7.d.5. A seguinte é 5.1,3. A letra X, que retiveste, é posterior à letra I. Por isso, pela doutrina do Canon IV, Capítulo III, deve-se assumir a feria posterior, a saber, 3. Isto é, Tisri do ano 5366 cairá na feria terceira; mas deste ano 5365 a feria é a sétima. A diferença é III. Como é *annus communis*, pelo presente diagrama este ano 5365 será defectivo, isto é, Casleu será cavo, retendo 29 dias em vez de 30. E isso é indicado pela letra D, que significa defectivo no Diagrama, O ordinário, A abundante. O diagrama tudo apresenta ὀφθαλμοφανῶς (de modo evidente aos olhos), de sorte que, a menos que sejas pedra, não homem, não podes errar. Que se requeres método mais expedito, dirige-te à preeminentíssima Tabela sétima com a mesma letra que reservaste, a saber, X. Sob o mesmo número frontal 171,",
+  "en": "ISAGOGIC CANONS\n\n...method, since only two characters are combined; whereas in the previous example, five. I therefore assert that the *neomenia* of Tisri falls on the sixth feria by the fifth rule, and that on the night after 13 September, from which the Jewish day begins, which will occur as I am writing this, on the Ides of Julian September, in the year of Christ 1604. This is an astronomical *epocha*, not because astronomically this *neomenia* falls on exactly so many hours and scruples, but stated for distinction from the political translation. For by Rules I and VI, the sixth feria is rejected and unfit for the political *neomenia* of Tisri. Therefore the political *neomenia* of Tisri will begin on the night that follows 14 Julian September, the seventh feria.\n\nIII. ANOTHER EXAMPLE. I wish to know the *neomenia* of Tisri of the Jewish year 5194. The next lesser number in the fifth Table, 5187, has the character, as we said, 6.6.435. Subtracting 5187 from 5194, cycle 7 remains. In the fourth Table, in the row of cycle 7, under the frontal 0, 3.11.566 occurs. I combine with character 6.6.435. The character of Tisri rises as 2.17.1001 — astronomical indeed. But it is a year after an *annus emboliscus*, and the hours exceed 15.588. For the hours 17.1001 are greater than 15.588. Therefore by rule IV, the second feria is politically transferred to the third, in the year after an *annus emboliscus*.\n\nIV. ANOTHER EXAMPLE. I wish to know the *neomenia* of Tisri of the Jewish year 1120. The next lesser number in the fifth Table, 988, has the character 6.20.700. Subtracting 988 from 1120, from the residue 132 I subtract the next lesser number, 114, at the head of the fourth Table. The lateral number 18 remains, and in the common angle 3.18.764, which combined with 6.20.700 constitute the *neomenia* of Tisri 3.15.384. But it is an *annus communis*, and the hours 15.384 are greater than the hours 9.203. Therefore by rule III, the third feria must be civilly transferred to the fifth. But that you may dispatch all troubles with light effort (if indeed any trouble can attend so perspicuous a method), here is by far the most expeditious way, which you cannot praise enough. From the years proposed, 5365, having subtracted the next lesser number 5187, as you have already done in the doctrine of the first Canon, and having reserved the letter X, from the residue 178 subtract the next lesser frontal number, 171, in the sixth Table. There remains (as you have already experienced in Canon I) cycle 7, on the side of the Table; and in the common angle 7.d.5 occurs. But the reserved letter X is prior to the letter d. Therefore by the doctrine of Canon IV of Chapter III, aided by the doctrine of Canon X of Chapter IV, the prior feria, namely the seventh, must be assumed. Thus by this method you can collect all civil *neomeniae*, freed from all the tedium of the foregoing observations.\n\nSCHOLION. Having obtained the *neomenia* of Tisri, you will have the *neomeniae* of the other months if, from the first Table, you add to the character of Tisri the character of the month you desire. If you wish to have Nisan, in an *annus communis* add the character of the sixth month, in an *annus emboliscus* (embolimean) the character of the seventh. And so for the other months.\n\nFOURTH CANON.\n\nTo know the quality of the year in a given Jewish year.\n\nThat is, to know whether the year is ordinary, defective, or abundant. Compare the character of the proposed year with the character of the following year, that is, the feria of the proposed year with the feria of the following year. For if the year is a defective common one, the difference between it and the following is three ferias. For by definition IV, a defective *annus communis* has 353 days. With all sevens cast off, the third feria remains. Thus a defective embolimean year of 383 days, by the same definition, with the sevens cast off, leaves the fifth feria. And so you will judge of the quality of the rest, as you have in the present diagram. By the third example of the doctrine of the preceding Canon, the common cell of the sixth Table was 7.d.5. The following is 5.1,3. The letter X, which you retained, is posterior to letter I. Therefore by the doctrine of Canon IV, Chapter III, the posterior feria, namely 3, must be assumed. That is, the Tisri of year 5366 will fall on the third feria; but of this year 5365 the feria is the seventh. The difference is III. Since it is an *annus communis*, by the present diagram this year 5365 will be defective, that is, Kislev will be hollow, retaining 29 days instead of 30. This is indicated by the letter D, which signifies defective in the Diagram, O ordinary, A abundant. The Diagram presents everything ὀφθαλμοφανῶς (evidently before the eyes), so that, unless you are utterly a stone and not a man, you cannot err. But if you require a more expeditious method, betake yourself to the most excellent seventh Table with the same letter which you reserved, namely X. Under the same frontal number 171,",
+  "tables": [
+    {
+      "caption_pt": "Diagrama da qualidade do ano judaico: dias e resíduo das septenas para anos Comuns (Comm.) e Embolismais (Emb.), nas categorias Defectivo (D), Ordinário (O), Abundante (A).",
+      "caption_en": "Diagram of the quality of the Jewish year: days and remainder of sevens for Common (Comm.) and Embolismic (Emb.) years, under the categories Defective (D), Ordinary (O), Abundant (A).",
+      "markdown": "|        | D   | O   | A   |                  |\n|--------|-----|-----|-----|------------------|\n| Comm.  | 353 | 354 | 355 | Dies anni        |\n|        | 3   | 4   | 5   | Residua septen.  |\n| Emb.   | 383 | 384 | 385 | Dies anni        |\n|        | 5   | 6   | 7   | Residua septen.  |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "annus communis defectivus",
+      "definition_pt": "Ano comum (não embolismal) defectivo, com 353 dias; subtraídas as septenas, deixa resíduo de 3 (feria terceira).",
+      "definition_en": "Common (non-embolismic) defective year, of 353 days; with sevens cast off, leaves remainder 3 (third feria)."
+    },
+    {
+      "term": "annus emboliscus defectivus",
+      "definition_pt": "Ano embolismal defectivo, com 383 dias; subtraídas as septenas, deixa resíduo de 5 (feria quinta).",
+      "definition_en": "Embolismic defective year, of 383 days; with sevens cast off, leaves remainder 5 (fifth feria)."
+    },
+    {
+      "term": "Qualitas anni",
+      "definition_pt": "Qualidade do ano judaico: distinção entre ano ordinário, defectivo (Casleu cavo, com 29 dias) ou abundante.",
+      "definition_en": "Quality of the Jewish year: distinction between ordinary, defective (hollow Kislev, 29 days) or abundant year."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Canon I (doctrina Canonis primi)",
+      "context": "ut iam fecisti in doctrina Canonis primi"
+    },
+    {
+      "type": "internal",
+      "target": "Capitulum III, Canon IV",
+      "context": "per doctrinam Canonis quarti Capitis tertij"
+    },
+    {
+      "type": "internal",
+      "target": "Capitulum IV, Canon X",
+      "context": "adiuuante doctrina Canonis decimi Capitis quarti"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula prima (caracteres dos meses)",
+      "context": "si ex Tabula prima characterem mensis, quem desideras, ad characterem Tisri adieceris"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula quarta",
+      "context": "In Tabula quarta e regione 7 cyclu sub frontali 0 occurrit"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula quinta",
+      "context": "Numerus proxime minor in Tabula quinta"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula sexta",
+      "context": "abijce frontalem numerum proxime minorem 171 in Tabula sexta"
+    },
+    {
+      "type": "internal",
+      "target": "Tabula septima",
+      "context": "confer te in praestantissimam Tabulam septimam"
+    },
+    {
+      "type": "internal",
+      "target": "Definitio IV",
+      "context": "Nam per definit. IIII annus communis defectiuus est dierum 353"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Neomenia astronômica de Tisri calculada por Scaliger no momento em que escreve, ocorrendo na noite após 13 de setembro juliano de 1604, em sexta feria — porém transladada politicamente para a noite após 14 de setembro, sétima feria.",
+      "historical_date_as_cited": "Idibus Septembris Iuliani, anno Christi MDCIIII",
+      "ancient_source": "cálculo do próprio Scaliger"
+    },
+    {
+      "type": "other",
+      "description": "Neomenia de Tisri do ano judaico 5194: caractere astronômico 2.17.1001, transferido por regra IV para feria III.",
+      "historical_date_as_cited": "anni Iudaici 5194",
+      "ancient_source": "cálculo do próprio Scaliger usando suas Tabelas IV e V"
+    },
+    {
+      "type": "other",
+      "description": "Neomenia de Tisri do ano judaico 1120: caractere 3.15.384, transferido por regra III para feria V.",
+      "historical_date_as_cited": "anni Iudaici 1120",
+      "ancient_source": "cálculo do próprio Scaliger"
+    },
+    {
+      "type": "other",
+      "description": "Neomenia de Tisri do ano judaico 5366 cai na feria III; do ano 5365 cai na feria VII; o ano 5365 é, portanto, comum defectivo, com Kislev de 29 dias.",
+      "historical_date_as_cited": "Tisri anni 5366 ... huius autem anni 5365",
+      "ancient_source": "cálculo do próprio Scaliger via Tabela VII"
+    }
+  ],
+  "uncertainty_flags": [
+    "Numeração ambígua entre 'embolismum' e 'embolismaeus/emboliscus' no original; mantive a forma do impresso, mas no léxico técnico de Scaliger trata-se do mesmo conceito (annus emboliscus).",
+    "A frase 'Sequens est 5.1,3' apresenta vírgula em vez de ponto entre 1 e 3 — possível convenção tipográfica do impressor para distinguir os componentes do caractere; preservei como tal.",
+    "Na sequência das frações horárias hebraicas (chalakim), Scaliger usa o formato feria.horas.scrupula (1080-avos); preservei tal qual.",
+    "O número da página no cabeçalho impresso aparece como '52', mas a página solicitada é 84 — discrepância entre paginação física do scan e paginação editorial; preservei o número 84 conforme instrução do usuário."
+  ],
+  "notes": "Esta página conclui o Canon III (sobre o cálculo da neomenia de Tisri) com dois exemplos numéricos detalhados (anos 5194 e 1120) e a 'via expeditíssima' usando a Tabela VII e o método das letras reservadas (X, I, d). Segue o Scholion sobre como derivar as neomeniae dos demais meses a partir do caractere de Tisri, com a regra distinta para Nisan em annus communis (sexto mês) versus emboliscus (sétimo). Inicia-se então o Canon IV, sobre a qualidade do ano judaico (defectivo/ordinário/abundante), com diagrama tabular dos resíduos das septenas para anos comuns (353/354/355) e embolismais (383/384/385). O exemplo final demonstra que o ano judaico 5365 é comum defectivo (Kislev cavo). Termo grego ὀφθαλμοφανῶς ('evidente aos olhos') é típico do humanismo erudito de Scaliger. A epocha autobiográfica — Idos de setembro de 1604 — é preciosa para datar a redação desta seção do Isagogicorum (publicado postumamente em 1606)."
+}
+```

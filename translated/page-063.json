@@ -1,0 +1,55 @@
+{
+  "page": 63,
+  "page_type": "mixed",
+  "latin": "LIBER PRIMVS.\n\nTABVLA PRAECESSIONIS LOCALIS.\n\n[Tabula: vide infra]\n\nCANON DVODECIMVS.\n\nDato anno periodi Iulianae characterem neomeniae Krionos invenire.\n\nAnnis propositis periodi Iulianae per perpetuam regulam adde 36. Ab aggregato abiice numerum ternarium proxime minorem in Tabula secunda. Cum residuo adi Tabulam primam; & cum numero frontali proxime minore, & residuo laterali in angulo communi occurrit feria, cui per perpetuam regulam adde 3. Aggregatum est character neomeniae Krionos.\n\nAnnis periodi Iulianae propositis 6317 addantur 36. Ab aggregato 6353 abiectis 6000, qui est numerus ternarius proxime minor in Tabula secunda, relinquuntur 353. Numerus proxime minor frontalis 340 in Tabula prima, & residuus 13 lateralis in angulo communi dat feriam 4, quae est feria Zygonos in anno praeterito 6316. Adiectis per perpetuam regulam 3 componitur feria septima Krionos in X Martii, anno bisextili Christi 1604.\n\nC iiij CAPVT",
+  "pt": "LIVRO PRIMEIRO.\n\nTABELA DA PRECESSÃO LOCAL.\n\n[Tabela: ver abaixo]\n\nCÂNONE DUODÉCIMO.\n\nDado um ano da *Periodus Iuliana*, encontrar o caractere da *neomenia* de Krionos.\n\nAos anos propostos da *Periodus Iuliana* adicione 36 pela regra perpétua. Do agregado, subtraia o número ternário imediatamente menor na Tabela segunda. Com o resíduo, vá à Tabela primeira; e com o número frontal imediatamente menor, e o resíduo lateral, no ângulo comum encontra-se a *feria* (dia da semana), à qual, pela regra perpétua, adicione 3. O agregado é o caractere da *neomenia* de Krionos.\n\nPropostos 6317 anos da *Periodus Iuliana*, adicionem-se 36. Do agregado 6353, subtraídos 6000 (que é o número ternário imediatamente menor na Tabela segunda), restam 353. O número frontal imediatamente menor, 340, na Tabela primeira, e o resíduo lateral 13, no ângulo comum dão a *feria* 4, que é a *feria* de Zygonos no ano precedente 6316. Adicionados 3 pela regra perpétua, compõe-se a *feria* sétima de Krionos em 10 de março, no ano bissexto de Cristo 1604.\n\nC iiij CAPÍTULO",
+  "en": "BOOK ONE.\n\nTABLE OF LOCAL PRECESSION.\n\n[Table: see below]\n\nCANON TWELFTH.\n\nGiven a year of the *Periodus Iuliana*, to find the character of the *neomenia* of Krionos.\n\nTo the proposed years of the *Periodus Iuliana* add 36 by the perpetual rule. From the sum, subtract the next-smaller ternary number in the second Table. With the remainder, go to the first Table; and with the next-smaller frontal number and the lateral remainder, at the common angle the *feria* (weekday) is found, to which, by the perpetual rule, add 3. The sum is the character of the *neomenia* of Krionos.\n\nTo the proposed 6317 years of the *Periodus Iuliana* let 36 be added. From the sum 6353, subtracting 6000 (which is the next-smaller ternary number in the second Table), 353 remains. The next-smaller frontal number, 340, in the first Table, and the lateral remainder 13, at the common angle give *feria* 4, which is the *feria* of Zygonos in the preceding year 6316. With 3 added by the perpetual rule, *feria* seventh of Krionos is composed on March 10, in the bissextile year of Christ 1604.\n\nC iiij CHAPTER",
+  "tables": [
+    {
+      "caption_pt": "Tabela da Precessão Local — valores em graus, minutos e segundos para anos da *Periodus Iuliana*",
+      "caption_en": "Table of Local Precession — values in degrees, minutes and seconds for years of the *Periodus Iuliana*",
+      "markdown": "| Anni | gr. | ′ | ″ | Anni | gr. | ′ | ″ |\n|---|---|---|---|---|---|---|---|\n| 1 | 0 | 0 | 50 | 100 | 1 | 23 | 44 |\n| 2 | 0 | 1 | 40 | 200 | 2 | 47 | 27 |\n| 3 | 0 | 1 | 31 | 300 | 4 | 11 | 11 |\n| 4 | 0 | 3 | 21 | 400 | 5 | 34 | 54 |\n| 5 | 0 | 4 | 11 | 500 | 6 | 58 | 38 |\n| 6 | 0 | 5 | 1 | 600 | 8 | 22 | 21 |\n| 7 | 0 | 5 | 51 | 700 | 9 | 46 | 5 |\n| 8 | 0 | 6 | 42 | 800 | 11 | 9 | 49 |\n| 9 | 0 | 7 | 32 | 900 | 12 | 33 | 32 |\n| 10 | 0 | 8 | 22 | 1000 | 13 | 57 | 16 |\n| 20 | 0 | 16 | 45 | 2000 | 27 | 54 | 32 |\n| 30 | 0 | 25 | 7 | 3000 | 41 | 51 | 48 |\n| 40 | 0 | 33 | 29 | 4000 | 55 | 49 | 4 |\n| 50 | 0 | 41 | 51 | 5000 | 69 | 46 | 20 |\n| 60 | 0 | 50 | 14 | 6000 | 83 | 43 | 36 |\n| 70 | 0 | 58 | 36 | 7000 | 97 | 40 | 52 |\n| 80 | 1 | 56 | 59 | 8000 | 101 | 38 | 8 |\n| 90 | 1 | 15 | 21 | 9000 | 115 | 35 | 24 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "character neomeniae Krionos",
+      "definition_pt": "O caractere (dia da semana / *feria*) sobre o qual cai a *neomenia* (lua nova) do mês de Krionos (Áries / mês do equinócio vernal) em um dado ano da *Periodus Iuliana*; calculado adicionando 36 aos anos propostos, subtraindo o múltiplo ternário maior da Tabela secunda, e localizando o resíduo nas Tabelas, com adição final de 3 pela regra perpétua.",
+      "definition_en": "The character (weekday / *feria*) on which the *neomenia* (new moon) of the month of Krionos (Aries / vernal equinox month) falls in a given year of the *Periodus Iuliana*; computed by adding 36 to the proposed years, subtracting the largest ternary multiple from the second Table, and locating the residue in the Tables, with a final addition of 3 by the perpetual rule.",
+      "term_note_pt": "Krionos (do grego Κριός, 'Áries') é o nome usado por Scaliger para o primeiro mês do calendário lunissolar técnico, correspondente ao equinócio vernal. Zygonos (Ζυγός, 'Libra') corresponde ao equinócio outonal."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Tabula prima e Tabula secunda (tabelas anteriores no Liber I)",
+      "context": "Ab aggregato abiice numerum ternarium proxime minorem in Tabula secunda. Cum residuo adi Tabulam primam"
+    },
+    {
+      "type": "internal",
+      "target": "regula perpetua (regra demonstrada anteriormente no Liber I)",
+      "context": "per perpetuam regulam adde 36 ... per perpetuam regulam adde 3"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Neomenia (lua nova) de Krionos calculada para 10 de março de 1604, ano bissexto, correspondente ao ano 6317 da *Periodus Iuliana*; cai na *feria* 7 (sábado).",
+      "historical_date_as_cited": "X Martii, anno bisextili Christi 1604; anno periodi Iulianae 6317",
+      "ancient_source": "cálculo do próprio Scaliger usando suas tabelas"
+    }
+  ],
+  "uncertainty_flags": [
+    "Linha da tabela 'Anni 80': leitura 'I 56 59' parece anômala — sequência interpolar sugeriria '1 6 42' ou similar; transcrição segue o impresso, mas o valor 56 destoa do padrão crescente (~8'22\" por década).",
+    "Linha 'Anni 3' impressa como '0 1 31' parece erro tipográfico do original (esperar-se-ia ~2'30\"); transcrito conforme impresso.",
+    "Caractere ' ′ ″ ' (minutos e segundos de arco) inferido dos cabeçalhos parcialmente ilegíveis 'gr. , .' e 'gr. , ·'."
+  ],
+  "notes": "Esta página apresenta a Tabula Praecessionis Localis (precessão dos equinócios, valor local) seguida do Canon XII, que ensina a calcular o dia da semana (*feria*) da lua nova de Krionos (= mês de Áries / equinócio vernal) para qualquer ano da Periodus Iuliana. O exemplo trabalhado é o ano JP 6317 = 1604 d.C. (bissexto): a neomenia de Krionos cai na feria 7 (sábado) em 10 de março de 1604. Os termos 'Krionos' (Áries) e 'Zygonos' (Libra) são os nomes técnicos de Scaliger para os meses lunares ligados aos equinócios vernal e outonal respectivamente — vocabulário grego helenístico que ele adota sistematicamente na cronologia técnica. A 'Tabula prima' e 'Tabula secunda' referidas devem aparecer nas páginas imediatamente anteriores. A assinatura de caderno 'C iiij' confirma a paginação 51 do livro I.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7436,
+    "output_tokens": 3787,
+    "stop_reason": "end_turn"
+  }
+}

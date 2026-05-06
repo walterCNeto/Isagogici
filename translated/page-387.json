@@ -1,0 +1,27 @@
+{
+  "page": 387,
+  "page_type": "frontmatter",
+  "latin": "",
+  "pt": "",
+  "en": "",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Página em branco com manchas e marcas de tinta dispersas. No canto direito central aparece a marca d'água 'Digitized by Google' do processo de digitalização moderno. Não há texto original de Scaliger nesta página.",
+      "description_en": "Blank page with scattered ink stains and marks. The 'Digitized by Google' watermark from the modern digitization process appears in the right-center area. No original text by Scaliger is present on this page."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página em branco — provavelmente verso de folha de rosto ou separador entre seções da obra"
+  ],
+  "notes": "Esta página não contém texto. Trata-se de uma página em branco do exemplar digitalizado, com apenas marcas residuais de tinta (provavelmente bleed-through do verso ou sujeira do scanner) e a marca d'água da digitalização do Google Books. Nada a transcrever ou traduzir.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7444,
+    "output_tokens": 434,
+    "stop_reason": "end_turn"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "page": 80,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\nTABULA QUINTA CYCLORUM MAGNORUM COLLECTORUM.\n\n[Tabula V]\n\nTABULA SEXTA.\n\n[Tabula VI]\n\nTABULA",
+  "pt": "DOS CÂNONES ISAGÓGICOS\nTÁBUA QUINTA DOS GRANDES CICLOS COLECIONADOS (i.e., acumulados).\n\n[Tábua V]\n\nTÁBUA SEXTA.\n\n[Tábua VI]\n\nTÁBUA [continua]",
+  "en": "OF THE ISAGOGIC CANONS\nFIFTH TABLE OF THE GREAT COLLECTED CYCLES.\n\n[Table V]\n\nSIXTH TABLE.\n\n[Table VI]\n\nTABLE [continues]",
+  "tables": [
+    {
+      "caption_pt": "Tábua Quinta — dos grandes ciclos acumulados (múltiplos do *Cyclus Solis* de 28 anos combinados com colunas auxiliares; cada letra A–S, T–n marca um múltiplo sucessivo).",
+      "caption_en": "Fifth Table — of the great collected cycles (multiples of the *Cyclus Solis* of 28 years with auxiliary columns; each letter A–S, T–n marks a successive multiple).",
+      "markdown": "| anos | letra | col.3 | col.4 | col.5 | anos | letra | col.3 | col.4 | col.5 |\n|---|---|---|---|---|---|---|---|---|---|\n| 247 | A | 6 | 23 | 175 | 4693 | T | 6 | 8 | 85 |\n| 494 | B | 6 | 22 | 350 | 4940 | V | 6 | 7 | 260 |\n| 741 | C | 6 | 21 | 525 | 5187 | X | 6 | 6 | 435 |\n| 988 | D | 6 | 20 | 700 | 5434 | Y | 6 | 5 | 610 |\n| 1235 | E | 6 | 19 | 875 | 5681 | Z | 6 | 4 | 785 |\n| 1482 | F | 6 | 18 | 1050 | 5928 | a | 6 | 3 | 960 |\n| 1729 | G | 6 | 18 | 145 | 6175 | b | 6 | 3 | 55 |\n| 1976 | H | 6 | 17 | 320 | 6422 | c | 6 | 2 | 230 |\n| 2223 | I | 6 | 16 | 495 | 6669 | d | 6 | 1 | 405 |\n| 2470 | K | 6 | 15 | 670 | 6916 | e | 6 | 0 | 580 |\n| 2717 | L | 6 | 14 | 845 | 7163 | f | 5 | 23 | 755 |\n| 2964 | M | 6 | 13 | 1020 | 7410 | g | 5 | 22 | 930 |\n| 3211 | N | 6 | 13 | 115 | 7657 | h | 5 | 22 | 25 |\n| 3458 | O | 6 | 12 | 290 | 7904 | i | 5 | 21 | 200 |\n| 3705 | P | 6 | 11 | 465 | 8151 | k | 5 | 20 | 375 |\n| 3952 | Q | 6 | 10 | 640 | 8398 | l | 5 | 19 | 550 |\n| 4199 | R | 6 | 9 | 815 | 8645 | m | 5 | 18 | 725 |\n| 4446 | S | 6 | 8 | 990 | 8892 | n | 5 | 17 | 900 |"
+    },
+    {
+      "caption_pt": "Tábua Sexta — distribuição das *neomeniae* / letras pascais ao longo dos 19 anos da *Enneadecaeteris* (linhas 1–19, com marcação 'Emb.' nos anos embolísticos: 3, 6, 8, 11, 14, 17, 19), em colunas encabeçadas pelos múltiplos 0, 19, 38, 57, 76, 95, 114, 133, 152, 171, 190, 209, 228 (anos do *Cyclus Lunae*).",
+      "caption_en": "Sixth Table — distribution of *neomeniae* / paschal letters across the 19 years of the *Enneadecaeteris* (rows 1–19, with 'Emb.' marking the embolismic years: 3, 6, 8, 11, 14, 17, 19), in columns headed by the multiples 0, 19, 38, 57, 76, 95, 114, 133, 152, 171, 190, 209, 228 (years of the *Cyclus Lunae*).",
+      "markdown": "| ann. | 0 | 19 | 38 | 57 | 76 | 95 | 114 | 133 | 152 | 171 | 190 | 209 | 228 |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 2 | 5 | 7 | 3.C.2 | 7.G.5 | 2.d.7 | 5.e.3 | 7 | 3.D.2 | 5 | 2.L.7 | 5.N.3.h.2 | 7.Y.5 |\n| 2 | 7.a.5 | 2 | 5 | 7 | 3.R.2 | 7.I.5 | 2.e.7 | 5.g.3 | 7 | 3.B.2 | 5 | 2.N.7 | 5.O.3.i.2 |\n| Emb. 3 | 5.F.3 | 7.c.5 | 2 | 5 | 7 | 7.T.2 | 7.K.5 | 2.g.7 | 5.X.3 | 7 | 3.C.2 | 5 | 2.O.7 |\n| 4 | 3 | 5 | 2.O.7 | 5.Q.3 | 7.b.5 | 2 | 5 | 7 | 3.f.2 | 7.I.5 | 2 | 5.h.3 | 7 |\n| 5 | 7 | 3.E.2 | 5 | 2.Q.7 | 5.R.3 | 7.d.5 | 2 | 5 | 7 | 5.B.3 | 7.L.5 | 2.h.7 | 5.i.3 |\n| Emb. 6 | 5.a.3 | 7 | 3.G.2 | 5 | 2.R.7 | 5.l.3 | 7.c.5 | 2 | 5 | 2.B.7 | 3.X.2 | 7.M.5 | 2.i.7 |\n| 7 | 5.C.3 | 7.N.5 | 2.i.7 | 5.l.3 | 7 | 3 | 5 | 2.Q.7 | 5.S.3 | 7.d.5 | 2 | 2 | 2.A.7 |\n| Emb. 8 | 2.C.7 | 3.Z.2 | 7.O.5 | 2.l.7 | 5.b.3 | 7 | 3.G.2 | 5 | 2.S.7 | 5.l.3 | 7.f.5 | 2 | 5 |\n| 9 | 7 | 2 | 5 | 2.B.7 | 5.D.3 | 7.N.5 | 2.k.7 | 5 | 7 | 3.L.2 | 5 | 2.R.7 | 5.T.3 |\n| 10 | 5.Y.3 | 7.h.5 | 2 | 5 | 2.D.7 | 5.F.3 | 7.P.5 | 2.m.7 | 5 | 7 | 3.H.2 | 5 | 2.T.7 |\n| Emb. 11 | 2.X.7 | 5.M.3 | 7 | 2 | 5 | 2.t.7 | 3.b.2 | 7.Q.5 | 2.n.7 | 5.d.3 | 7 | 3.K.2 | 7.A.5 |\n| 12 | 7 | 3 | 7.A.5 | 2.V.7 | 5.Z.3 | 7.h.5 | 2 | 5 | 2.E.7 | 3.F.3 | 7.P.5 | 2.n.7 | 5 |\n| 13 | 5 | 7 | 3.L.2 | 7.B.5 | 2.Y.7 | 5.a.3 | 7.k.5 | 2 | 5 | 2.F.7 | 5.H.3 | 7.R.5 | 2 |\n| Emb. 14 | 2 | 5.h.3 | 7 | 3.N.2 | 7.D.5 | 2.a.7 | 5.P.3 | 7.m.5 | 2 | 5 | 2.H.7 | 3.e.2 | 7.T.5 |\n| 15 | 2.H.7 | 5.k.3 | 7.T.5 | 2 | 5 | 7 | 3 | 7.C.5 | 2.Z.7 | 5.a.3 | 7 | 2 | 5 |\n| 16 | 5 | 2.k.7 | 5.M.3 | 7.Y.5 | 2 | 5 | 7 | 7.N.2 | 7.E.5 | 2.a.7 | 5.c.3 | 7.m.5 | 2 |\n| Emb. 17 | 2 | 5 | 2.L.7 | 5.B.3 | 7.Y.5 | 2 | 5.k.3 | 7 | 3.P.2 | 7.F.5 | 2.c.7 | 5.R.3 | 7 |\n| 18 | 2.c.7 | 5.e.3 | 7 | 3 | 5 | 2.K.7 | 5.M.3 | 7.X.5 | 2 | 5 | 7 | 2 | 7.E.5 |\n| Emb. 19 | 7.H.5 | 2.e.7 | 5.T.3 | 7 | – | 3.A.2 | 5 | 2.M.7 | 5.C.3 | 7.Z.5 | 2 | 5.L.3.7 | 3.Q.2 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página puramente tabular: nenhum texto corrido para traduzir além dos títulos.",
+    "Várias entradas das tábuas têm caracteres ambíguos no scan (ex.: '5.l.3' vs '5.I.3', '2.t.7' vs '2.l.7', linha 1 col.114 lida como '5.e.3'); a leitura foi feita com cautela, mas alguns valores podem precisar de cotejo com outro exemplar.",
+    "Na Tábua V, a linha G traz '145' em vez do esperado '1195' (séries 175,350,...,1050 reinicia em 145, indicando módulo de redução interno) — comportamento confirmado pela coluna paralela.",
+    "Cabeçalhos das colunas auxiliares da Tábua V não estão rotulados na página; provavelmente representam (anos do ciclo)/(letra dominical ou *Concurrens*)/(*Epacta*)/(resíduo de dias)."
+  ],
+  "notes": "Página inteiramente composta por duas tábuas numéricas, sem prosa demonstrativa. A Tábua V é uma tabela de acumulação de grandes ciclos (provavelmente o ciclo solar de 247 anos = 13 × 19, que coincide com a *Hecatontaeteris* corrigida usada por Scaliger): cada linha adiciona 247 anos (247, 494, 741... 8892), com colunas que registram o resíduo do ciclo solar de 28 anos (col. '6/5'), o índice associado, e um terceiro valor que avança em passos de 175 (≈ resíduo lunar). A Tábua VI é a clássica tabela das *neomeniae* paschais distribuídas pela *Enneadecaeteris* (19 linhas) cruzada com 13 colunas que representam o avanço de 19 anos cada (0, 19, 38... 228 = 12 × 19); as marcações 'Emb.' identificam corretamente os anos embolísticos do ciclo metônico (3, 6, 8, 11, 14, 17, 19 — sequência de Scaliger). As triplas tipo '7.G.5' codificam: feria da *neomenia* — letra do mês — epacta/dia. A transcrição preserva os valores tal como visíveis; pequenas dúvidas de leitura estão sinalizadas.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4427,
+    "stop_reason": "end_turn"
+  }
+}

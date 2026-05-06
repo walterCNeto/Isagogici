@@ -1,0 +1,35 @@
+{
+  "page": 146,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\n\nIX\nΠΑΧΩΝ Θεῶν Σεβαστῶν.\nPaschnes Elkupti.\nGinboth Aethiopum.\nArtemisios Gazensium.\n\nIX\nAdar Gelali.\n\nX\nΠΑΥΝΙ Θεῶν Σεβαστῶν.\nPeuna Elkupti.\nSene Aethiopum.\nDaesios Gazensium.\n\nX\nDi Gelali.",
+  "pt": "CÂNONES ISAGÓGICOS\n\nIX\nΠΑΧΩΝ dos Deuses Augustos [meses egípcios consagrados aos imperadores].\nPaschnes dos Egípcios (Elkupti = Coptas).\nGinboth dos Etíopes.\nArtemísios dos Gazenses.\n\nIX\nAdar dos Gelali [calendário Jalali persa].\n\nX\nΠΑΥΝΙ dos Deuses Augustos.\nPeuna dos Coptas.\nSene dos Etíopes.\nDaésios dos Gazenses.\n\nX\nDi dos Gelali.",
+  "en": "ISAGOGIC CANONS\n\nIX\nΠΑΧΩΝ of the Augustan Gods [Egyptian months named for the emperors].\nPaschnes of the Egyptians (Elkupti = Copts).\nGinboth of the Ethiopians.\nArtemisios of the Gazaeans.\n\nIX\nAdar of the Gelali [Jalali Persian calendar].\n\nX\nΠΑΥΝΙ of the Augustan Gods.\nPeuna of the Copts.\nSene of the Ethiopians.\nDaesios of the Gazaeans.\n\nX\nDi of the Gelali.",
+  "tables": [
+    {
+      "caption_pt": "Mês IX — Pachon (egípcio) / Paschnes (copta) / Ginboth (etíope) / Artemísios (gazense) / Adar (Gelali). Concordância com calendário juliano, com *Regulares Augustorum*, *Regulares Aethiopum*, *Numerus Aureus* e *Epacta*.",
+      "caption_en": "Month IX — Pachon (Egyptian) / Paschnes (Coptic) / Ginboth (Ethiopian) / Artemisios (Gazaean) / Adar (Gelali). Concordance with the Julian calendar, including *Regulares Augustorum*, *Regulares Aethiopum*, *Numerus Aureus*, and *Epacta*.",
+      "markdown": "| Dies mensis | Iulianus | Reg. August. | Reg. Aethiop. | Num. Aureus | Epacta | Adar Gelali |\n|---|---|---|---|---|---|---|\n| 1 | 26 Apr. | 2 | 5 | V | 25 | 9 Nou. |\n| 2 | 27 | 3 | 6 | | 24 | 10 |\n| 3 | 28 | 4 | 7 | XIII | 23 | 11 |\n| 4 | 29 | 5 | 1 | II | 22 | 12 |\n| 5 | 30 | 6 | 2 | | 21 | 13 |\n| 6 | 1 Mai | 7 | 3 | X | 20 | 14 |\n| 7 | 2 | 1 | 4 | | 19 | 15 |\n| 8 | 3 | 2 | 5 | XVIII | 18 | 16 |\n| 9 | 4 | 3 | 6 | VII | 17 | 17 |\n| 10 | 5 | 4 | 7 | | 16 | 18 |\n| 11 | 6 | 5 | 1 | XV | 15 | 19 |\n| 12 | 7 | 6 | 2 | IIII | 14 | 20 |\n| 13 | 8 | 7 | 3 | | 13 | 21 |\n| 14 | 9 | 1 | 4 | XII | 12 | 22 |\n| 15 | 10 | 2 | 5 | I | 11 | 23 |\n| 16 | 11 | 3 | 6 | | 10 | 24 |\n| 17 | 12 | 4 | 7 | IX | 9 | 25 |\n| 18 | 13 | 5 | 1 | | 8 | 26 |\n| 19 | 14 | 6 | 2 | XVII | 7 | 27 |\n| 20 | 15 | 7 | 3 | VI | 6 | 28 |\n| 21 | 16 | 1 | 4 | | 5 | 29 |\n| 22 | 17 | 2 | 5 | XIIII | 4 | 30 |\n| 23 | 18 | 3 | 6 | III | 3 | 1 Dec. |\n| 24 | 19 | 4 | 7 | | 2 | 2 |\n| 25 | 20 | 5 | 1 | XI | 1 | 3 |\n| 26 | 21 | 6 | 2 | XIX | * | 4 |\n| 27 | 22 | 7 | 3 | | 29 | 5 |\n| 28 | 23 | 1 | 4 | VIII | 28 | 6 |\n| 29 | 24 | 2 | 5 | | 27 | 7 |\n| 30 | 25 | 3 | 6 | XVI | 26 | 8 |"
+    },
+    {
+      "caption_pt": "Mês X — Payni (egípcio) / Peuna (copta) / Sene (etíope) / Daésios (gazense) / Di (Gelali). Concordância com calendário juliano.",
+      "caption_en": "Month X — Payni (Egyptian) / Peuna (Coptic) / Sene (Ethiopian) / Daesios (Gazaean) / Di (Gelali). Concordance with the Julian calendar.",
+      "markdown": "| Dies mensis | Iulianus | Reg. August. | Reg. Aethiop. | Num. Aureus | Epacta | Di Gelali |\n|---|---|---|---|---|---|---|\n| 1 | 26 Mai | 4 | 7 | V | 25 | 9 Dec. |\n| 2 | 27 | 5 | 1 | | 24 | 10 |\n| 3 | 28 | 6 | 2 | XIII | 23 | 11 |\n| 4 | 29 | 7 | 3 | II | 22 | 12 |\n| 5 | 30 | 1 | 4 | | 21 | 13 |\n| 6 | 31 | 2 | 5 | X | 20 | 14 |\n| 7 | 1 Iun. | 3 | 6 | | 19 | 15 |\n| 8 | 2 | 4 | 7 | XVIII | 18 | 16 |\n| 9 | 3 | 5 | 1 | VII | 17 | 17 |\n| 10 | 4 | 6 | 2 | | 16 | 18 |\n| 11 | 5 | 7 | 3 | XV | 15 | 19 |\n| 12 | 6 | 1 | 4 | IIII | 14 | 20 |\n| 13 | 7 | 2 | 5 | | 13 | 21 |\n| 14 | 8 | 3 | 6 | XII | 12 | 22 |\n| 15 | 9 | 4 | 7 | I | 11 | 23 |\n| 16 | 10 | 5 | 1 | | 10 | 24 |\n| 17 | 11 | 6 | 2 | IX | 9 | 25 |\n| 18 | 12 | 7 | 3 | | 8 | 26 |\n| 19 | 13 | 1 | 4 | XVII | 7 | 27 |\n| 20 | 14 | 2 | 5 | VI | 6 | 28 |\n| 21 | 15 | 3 | 6 | | 5 | 29 |\n| 22 | 16 | 4 | 7 | XIIII | 4 | 30 |\n| 23 | 17 | 5 | 1 | III | 3 | 31 |\n| 24 | 18 | 6 | 2 | | 2 | 1 Ian. |\n| 25 | 19 | 7 | 3 | XI | 1 | 2 |\n| 26 | 20 | 1 | 4 | XIX | 29* | 3 |\n| 27 | 21 | 2 | 5 | VIII | 28 | 4 |\n| 28 | 22 | 3 | 6 | | 27 | 5 |\n| 29 | 23 | 4 | 7 | XVI | 26 | 6 |\n| 30 | 24 | 5 | 1 | V | 25 | 7 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Coluna 'Regulares Aethiopum' do mês X, dia 30: dígito final pouco legível (interpretado como 1, possivelmente outro valor).",
+    "Mês IX, dia 28: a coluna 'Dies mensis' parece imprimir '33' em vez de '28' — provável errata do impressor; corrigido para '28' na transcrição da tabela seguindo a sequência lógica.",
+    "Mês IX, dia 26: marca '*' na coluna Epacta indica epacta nula ou expurgada (asterismo característico das tábuas pascais)."
+  ],
+  "notes": "Página inteiramente tabular: continuação das tábuas mensais de concordância calendárica que ocupam esta seção do livro. Cada par de tabelas cobre um mês egípcio (com seus equivalentes copta, etíope e gazense) e o mês correspondente do calendário Jalali persa (Adar / Di). Os 'Regulares' são números regulares usados para encontrar o dia da semana; o 'Numerus Aureus' (numeração I-XIX) marca os dias correspondentes ao ciclo lunar de 19 anos (*enneadecaeteris*); a 'Epacta' acompanha o avanço lunar. A transição da Epacta de '*' (= 30 ou nullae) e os saltos de numeração indicam aplicação dos dispositivos de *saltus lunae* sobre a tabela. 'Elkupti' é a transliteração latina de القبطي (al-qibṭī, 'copta'). 'Gelali' refere-se ao calendário Jalāli, reformado por Omar Khayyam em 1079 d.C., que Scaliger trata extensamente no *De Emendatione Temporum* livro II.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 3731,
+    "stop_reason": "end_turn"
+  }
+}

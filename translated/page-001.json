@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "page_type": "frontmatter",
+  "latin": "",
+  "pt": "",
+  "en": "",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Capa frontal da encadernação em couro marrom marmorizado, com brasão heráldico dourado gravado no centro: um escudo encimado pelas iniciais entrelaçadas 'MP' (ou similar monograma), contendo três círculos (possivelmente besantes ou crescentes lunares) dispostos em pala, ladeado por dois ramos de palma ou louro entrelaçados na base. Marcas de desgaste visíveis na lombada à esquerda, com vestígios de nervuras e ornamentação dourada nos compartimentos da lombada.",
+      "description_en": "Front cover of the leather binding in marbled brown, with a gilt heraldic coat of arms stamped at the centre: a shield surmounted by the interlaced initials 'MP' (or similar monogram), containing three roundels (possibly bezants or lunar crescents) arranged in pale, flanked by two palm or laurel branches intertwined at the base. Wear visible along the spine on the left, with traces of raised bands and gilt ornamentation in the spine compartments."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A página é a capa externa do volume, sem texto impresso; o brasão dourado central não pode ser identificado com certeza apenas pela imagem — pode tratar-se de ex-libris armorial de proprietário aristocrático ou institucional (possivelmente francês, dado o estilo da encadernação do séc. XVII-XVIII).",
+    "As iniciais entrelaçadas no monograma são de leitura ambígua: parecem 'MP' ou 'AP', mas a estilização ornamental dificulta identificação definitiva."
+  ],
+  "notes": "Esta é a capa frontal (encadernação) do exemplar digitalizado, não uma página de texto. O volume está encadernado em couro marrom marmorizado característico do final do século XVII ou início do XVIII, com super-libros (brasão de proprietário) gravado a ouro no centro do prato. Não há texto a transcrever ou traduzir. O brasão sugere proveniência de uma biblioteca particular nobre — possivelmente o exemplar pertenceu a um colecionador antes de entrar no acervo digitalizado (Google Books, conforme marca-d'água tênue no canto inferior direito).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 6950,
+    "output_tokens": 890,
+    "stop_reason": "end_turn"
+  }
+}

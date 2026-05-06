@@ -1,0 +1,72 @@
+{
+  "page": 65,
+  "page_type": "table",
+  "latin": "LIBER PRIMUS.\nKALENDARIUM ANNI HIPPARCHI.\n\nTAMUZ DIES XXIX.    AB DIES XXX.    ELUL DIES XXIX.\n\n[Tabula tripartita cum columnis: Dies Mensis | Regul. dieru. | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani]\n\nMensis Tamuz:\n1  5  I     Tamuz   30 Iun.\n2  6  .     .       Ka. Iul.\n— TEKUPHA TAMUZ —\n3  7  IX    Tamuz   2\n4  1  .     .       3\n5  2  XVII  Tamuz   4\n6  3  VI    Tamuz   5\n7  4  .     .       6\n8  5  XIIII Tamuz   7\n9  6  III   Tamuz   8\n10 7  .     .       9\n11 1  XI    Tamuz   10\n12 2  .     .       11\n13 3  XIX   Tamuz   12\n14 4  VIII  Tamuz   13\n15 5  XVI   Ab      14\n16 6  V     Ab      15\n17 7  .     .       16\n18 1  XIII  Ab      17\n19 2  II    Ab      18\n20 3  .     .       19\n21 4  X     Ab      20\n22 5  .     .       21\n23 6  XVIII Ab      22\n— ♋ KARKINON DIER. XXXI —\n24 7  VII   Ab      23\n25 1  .     .       24\n26 2  XV    Ab      25\n27 3  IIII  Ab      26\n28 4  .     .       27\n29 5  XII   Ab      28\n\nMensis Ab:\n1  6  I     Ab      29 Iul.\n2  7  .     .       30\n3  1  IX    Ab      31\n4  2  .     .       Ka. Au.\n5  3  XVII  Ab      2\n6  4  VI    Ab      3\n7  5  .     .       4\n8  6  XIIII Ab      5\n9  7  III   Ab      6\n10 1  .     .       7\n11 2  XI    Ab      8\n12 3  .     .       9\n13 4  XIX   Ab      10\n14 5  VIII  Ab      11\n15 6  .     .       12\n16 7  XVI   Elul    13\n17 1  V     Elul    14\n18 2  .     .       15\n19 3  XIII  Elul    16\n20 4  II    Elul    17\n21 5  .     .       18\n22 6  X     Elul    19\n23 7  .     .       20\n24 1  XVIII Elul    21\n25 2  VII   Elul    22\n— ♌ LEONTON DIER. XXXI —\n26 3  .     .       23\n27 4  XV    Elul    24\n28 5  IIII  Elul    25\n29 6  .     .       26\n30 7  XII   Elul    27\n\nMensis Elul:\n1  1  I     Elul    28 Aug.\n2  2  .     .       29\n3  3  IX    Elul    30\n4  4  .     .       31\n5  5  XVII  Elul    Ka. Sep.\n6  6  VI    Elul    2\n7  7  .     .       3\n8  1  XIIII Elul    4\n9  2  III   Elul    5\n10 3  .     .       6\n11 4  XI    Elul    7\n12 5  .     .       8\n13 6  XIX   Elul    9\n14 7  VIII  Elul    10\n15 1  XVI   Tisri   11\n16 2  V     Tisri   12\n17 3  .     .       13\n18 4  XIII  Tisri   14\n19 5  II    Tisri   15\n20 6  .     .       16\n21 7  X     Tisri   17\n22 1  .     .       18\n23 2  XVIII Tisri   19\n24 3  VII   Tisri   20\n25 4  .     .       21\n26 5  XV    Tisri   22\n— ♍ PARTHENON DIER. XXXI —\n27 6  LIII  Tisri   23\n28 7  .     .       24\n29 1  XII   Tisri   25",
+  "pt": "LIVRO PRIMEIRO.\nCALENDÁRIO DO ANO DE HIPARCO.\n\nTAMUZ — 29 dias.    AB — 30 dias.    ELUL — 29 dias.\n\nEsta página apresenta três colunas paralelas, cada uma representando um mês do calendário hebraico (Tamuz, Ab, Elul) sincronizado com o calendário juliano. Cada coluna contém os campos: dia do mês hebraico, regular dos dias (ferial concurrente), *Cyclus Iudaicus* (ciclo de 19 anos com epactas hebraicas), nome do mês judaico, e dia juliano correspondente.\n\nNo mês de Tamuz aparece a anotação **TEKUPHA TAMUZ** (solstício de verão segundo a tradição rabínica) entre os dias 2 e 3.\n\nOs signos zodiacais marcam o ingresso do Sol: ♋ *Karkinon* (Câncer, 31 dias) entre os dias 23 e 24 de Tamuz; ♌ *Leonton* (Leão, 31 dias) entre os dias 25 e 26 de Ab; ♍ *Parthenon* (Virgem, 31 dias) entre os dias 26 e 27 de Elul.",
+  "en": "BOOK ONE.\nCALENDAR OF THE YEAR OF HIPPARCHUS.\n\nTAMUZ — 29 days.    AB — 30 days.    ELUL — 29 days.\n\nThis page presents three parallel columns, each representing a month of the Hebrew calendar (Tamuz, Ab, Elul) synchronized with the Julian calendar. Each column contains the fields: day of the Hebrew month, regular of days (concurrent ferial), *Cyclus Iudaicus* (19-year cycle with Hebrew epacts), name of the Jewish month, and corresponding Julian day.\n\nIn the month of Tamuz, the annotation **TEKUPHA TAMUZ** (summer solstice according to rabbinic tradition) appears between days 2 and 3.\n\nThe zodiacal signs mark the Sun's ingress: ♋ *Karkinon* (Cancer, 31 days) between days 23 and 24 of Tamuz; ♌ *Leonton* (Leo, 31 days) between days 25 and 26 of Ab; ♍ *Parthenon* (Virgo, 31 days) between days 26 and 27 of Elul.",
+  "tables": [
+    {
+      "caption_pt": "Calendário do ano de Hiparco — meses de Tamuz, Ab e Elul, com correspondências ao calendário juliano, ciclo lunar judaico (epactas) e ferial concurrente. Inclui *Tekupha Tamuz* (solstício) e ingressos zodiacais em Câncer, Leão e Virgem.",
+      "caption_en": "Calendar of the year of Hipparchus — months of Tamuz, Ab and Elul, with correspondences to the Julian calendar, Jewish lunar cycle (epacts) and concurrent ferial. Includes *Tekupha Tamuz* (solstice) and zodiacal ingresses into Cancer, Leo and Virgo.",
+      "markdown": "### Tamuz (29 dies)\n\n| Dies Mensis | Regul. dieru. | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 5 | I | Tamuz | 30 Iun. |\n| 2 | 6 |  |  | Ka. Iul. |\n| *— Tekupha Tamuz —* |||||\n| 3 | 7 | IX | Tamuz | 2 |\n| 4 | 1 |  |  | 3 |\n| 5 | 2 | XVII | Tamuz | 4 |\n| 6 | 3 | VI | Tamuz | 5 |\n| 7 | 4 |  |  | 6 |\n| 8 | 5 | XIIII | Tamuz | 7 |\n| 9 | 6 | III | Tamuz | 8 |\n| 10 | 7 |  |  | 9 |\n| 11 | 1 | XI | Tamuz | 10 |\n| 12 | 2 |  |  | 11 |\n| 13 | 3 | XIX | Tamuz | 12 |\n| 14 | 4 | VIII | Tamuz | 13 |\n| 15 | 5 | XVI | Ab | 14 |\n| 16 | 6 | V | Ab | 15 |\n| 17 | 7 |  |  | 16 |\n| 18 | 1 | XIII | Ab | 17 |\n| 19 | 2 | II | Ab | 18 |\n| 20 | 3 |  |  | 19 |\n| 21 | 4 | X | Ab | 20 |\n| 22 | 5 |  |  | 21 |\n| 23 | 6 | XVIII | Ab | 22 |\n| *— ♋ Karkinon dier. XXXI —* |||||\n| 24 | 7 | VII | Ab | 23 |\n| 25 | 1 |  |  | 24 |\n| 26 | 2 | XV | Ab | 25 |\n| 27 | 3 | IIII | Ab | 26 |\n| 28 | 4 |  |  | 27 |\n| 29 | 5 | XII | Ab | 28 |\n\n### Ab (30 dies)\n\n| Dies Mensis | Regul. dieru. | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 6 | I | Ab | 29 Iul. |\n| 2 | 7 |  |  | 30 |\n| 3 | 1 | IX | Ab | 31 |\n| 4 | 2 |  |  | Ka. Au. |\n| 5 | 3 | XVII | Ab | 2 |\n| 6 | 4 | VI | Ab | 3 |\n| 7 | 5 |  |  | 4 |\n| 8 | 6 | XIIII | Ab | 5 |\n| 9 | 7 | III | Ab | 6 |\n| 10 | 1 |  |  | 7 |\n| 11 | 2 | XI | Ab | 8 |\n| 12 | 3 |  |  | 9 |\n| 13 | 4 | XIX | Ab | 10 |\n| 14 | 5 | VIII | Ab | 11 |\n| 15 | 6 |  |  | 12 |\n| 16 | 7 | XVI | Elul | 13 |\n| 17 | 1 | V | Elul | 14 |\n| 18 | 2 |  |  | 15 |\n| 19 | 3 | XIII | Elul | 16 |\n| 20 | 4 | II | Elul | 17 |\n| 21 | 5 |  |  | 18 |\n| 22 | 6 | X | Elul | 19 |\n| 23 | 7 |  |  | 20 |\n| 24 | 1 | XVIII | Elul | 21 |\n| 25 | 2 | VII | Elul | 22 |\n| *— ♌ Leonton dier. XXXI —* |||||\n| 26 | 3 |  |  | 23 |\n| 27 | 4 | XV | Elul | 24 |\n| 28 | 5 | IIII | Elul | 25 |\n| 29 | 6 |  |  | 26 |\n| 30 | 7 | XII | Elul | 27 |\n\n### Elul (29 dies)\n\n| Dies Mensis | Regul. dieru. | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 1 | I | Elul | 28 Aug. |\n| 2 | 2 |  |  | 29 |\n| 3 | 3 | IX | Elul | 30 |\n| 4 | 4 |  |  | 31 |\n| 5 | 5 | XVII | Elul | Ka. Sep. |\n| 6 | 6 | VI | Elul | 2 |\n| 7 | 7 |  |  | 3 |\n| 8 | 1 | XIIII | Elul | 4 |\n| 9 | 2 | III | Elul | 5 |\n| 10 | 3 |  |  | 6 |\n| 11 | 4 | XI | Elul | 7 |\n| 12 | 5 |  |  | 8 |\n| 13 | 6 | XIX | Elul | 9 |\n| 14 | 7 | VIII | Elul | 10 |\n| 15 | 1 | XVI | Tisri | 11 |\n| 16 | 2 | V | Tisri | 12 |\n| 17 | 3 |  |  | 13 |\n| 18 | 4 | XIII | Tisri | 14 |\n| 19 | 5 | II | Tisri | 15 |\n| 20 | 6 |  |  | 16 |\n| 21 | 7 | X | Tisri | 17 |\n| 22 | 1 |  |  | 18 |\n| 23 | 2 | XVIII | Tisri | 19 |\n| 24 | 3 | VII | Tisri | 20 |\n| 25 | 4 |  |  | 21 |\n| 26 | 5 | XV | Tisri | 22 |\n| *— ♍ Parthenon dier. XXXI —* |||||\n| 27 | 6 | LIII (?) | Tisri | 23 |\n| 28 | 7 |  |  | 24 |\n| 29 | 1 | XII | Tisri | 25 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Tekupha Tamuz",
+      "definition_pt": "Solstício de verão na tradição calendárica rabínica; um dos quatro *tekuphot* (pontos cardeais astronômicos) que dividem o ano hebraico, marcado aqui entre os dias 2 e 3 de Tamuz no calendário de Hiparco.",
+      "definition_en": "Summer solstice in the rabbinic calendrical tradition; one of the four *tekuphot* (astronomical cardinal points) dividing the Hebrew year, marked here between days 2 and 3 of Tamuz in the Hipparchus calendar."
+    },
+    {
+      "term": "Karkinon / Leonton / Parthenon",
+      "definition_pt": "Designações gregas dos signos zodiacais Câncer (Καρκίνος), Leão (Λέων) e Virgem (Παρθένος), usadas por Scaliger para marcar o ingresso solar em cada signo, com sua duração em dias (XXXI = 31).",
+      "definition_en": "Greek designations of the zodiacal signs Cancer (Καρκίνος), Leo (Λέων) and Virgo (Παρθένος), used by Scaliger to mark the solar ingress into each sign, with its duration in days (XXXI = 31)."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Liber Primus — Kalendarium Anni Hipparchi",
+      "context": "Cabeçalho indica que esta página pertence à seção do Livro I dedicada ao calendário do ano de Hiparco, contínuo com as páginas anteriores que apresentam os meses precedentes."
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "solstice",
+      "description": "Tekupha Tamuz — solstício de verão segundo o cômputo hebraico/rabínico, situado entre os dias 2 e 3 de Tamuz (correspondendo a Kalendas Iulias / 1º de julho juliano).",
+      "historical_date_as_cited": "Tamuz 2–3 = Ka. Iul. (calendário do anno Hipparchi)",
+      "ancient_source": "tradição rabínica / calendário de Hiparco"
+    },
+    {
+      "type": "other",
+      "description": "Ingresso do Sol em Câncer (♋ Karkinon), com duração de 31 dias do signo, situado entre Tamuz 23 e 24.",
+      "historical_date_as_cited": "Tamuz 23–24 = 22–23 Iul.",
+      "ancient_source": "Hipparchus"
+    },
+    {
+      "type": "other",
+      "description": "Ingresso do Sol em Leão (♌ Leonton), 31 dias, entre Ab 25 e 26.",
+      "historical_date_as_cited": "Ab 25–26 = 22–23 Aug.",
+      "ancient_source": "Hipparchus"
+    },
+    {
+      "type": "other",
+      "description": "Ingresso do Sol em Virgem (♍ Parthenon), 31 dias, entre Elul 26 e 27.",
+      "historical_date_as_cited": "Elul 26–27 = 22–23 Sep.",
+      "ancient_source": "Hipparchus"
+    }
+  ],
+  "uncertainty_flags": [
+    "Em Elul, dia 27, a coluna do *Cyclus Iudaicus* parece ler 'LIII', o que é anômalo (esperar-se-ia um número entre I e XIX como nos demais). Possível erro tipográfico do impressor; pode ser leitura corrompida de 'I' ou número mal impresso. Marcado com (?) na transcrição.",
+    "Algumas leituras numéricas em colunas estreitas são parcialmente apagadas no scan; valores das colunas 'Regul. dieru.' foram reconstruídos pela sequência cíclica de 1–7 (ferial concurrente).",
+    "A correspondência de Tamuz 1 com 30 de junho juliano implica que este 'anno Hipparchi' segue o esquema cronológico de Scaliger para a era de Nabonassar/Hiparco — verificar continuidade com páginas precedentes (meses Nisan, Iar, Sivan)."
+  ],
+  "notes": "Esta página (33 na numeração impressa, mas marcada como p. 65 na sequência atual) é puramente tabular, parte do *Kalendarium Anni Hipparchi* que ocupa várias páginas do Livro I. O calendário sincroniza: (1) os meses hebraicos (Tamuz/Ab/Elul, correspondentes ao verão), (2) o calendário juliano romano com Kalendae, (3) a ferial concurrente em ciclo de 7 dias, (4) o *Cyclus Iudaicus* de 19 anos com epactas em algarismos romanos, (5) os ingressos zodiacais. Os signos zodiacais aparecem em sua forma grega genitiva plural (Καρκίνων, Λεόντων, Παρθένων = 'dos Câncer, dos Leões, das Virgens') seguidos de DIER. XXXI ('de 31 dias'), denotando duração da permanência solar no signo. A indicação *Tekupha Tamuz* confirma que Scaliger inclui marcadores astronômicos da tradição hebraica junto aos gregos. A entrada anômala 'LIII' em Elul 27 merece verificação contra outras edições da obra.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 6804,
+    "stop_reason": "end_turn"
+  }
+}

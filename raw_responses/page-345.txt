@@ -1,0 +1,124 @@
+```json
+{
+  "page": 313,
+  "page_type": "mixed",
+  "latin": "LIBER TERTIVS. 313\n\nMarcellini Comitis, Zonarae, Cedreni, & aliorum, quae ex V libro operis nostri petas licet. Sed mirum quanta ἀλογησία Scriptorum deprehendatur super Encaeniis Vrbis. Methodius: ἀπὸ ἢ τῆς ἐνσάρκου οἰκονομίας τοῦ παρουσίας Χριστοῦ τοῦ θεοῦ ἡμῶν, μέχρι τῆς οἰκοδομῆς Κωνσταντινουπόλεως, χρόνοι τλζ´. Septem annis plus dicit. Nam is erat annus non Encaeniorum Vrbis, sed obitus Constantini. postea tamen dissentit a se, quum scribit τὰ ἐγκαίνια τῆς μεγαλοπόλεως contigisse anno Mundi ϵωλζ´. quod verum est. Annus enim ille iniuit a Septembri Aerae Christi Dionysianae CCCXXIX, anno primo Olympiadis CCLXXVII, in quo desinebat quintum Chronicon Hesychii Illustris. Photius, 51, 2: τὸ ἢ πέμπτον τμῆμα περιέχει τὰ ἀπὸ τοῦ Ἰουλίου τοῦ Καίσαρος μοναρχίας, μέχρις ὅτε Βυζάντιον ἐπὶ μέγα δόξης ἴχνους ἤρθη, Ὀλυμπιάδος ἑβδόμης, καὶ ἑβδομηκοντὰ καὶ διακοσιοστῆς ἱσταμένης. De cuius urbis Reginae Orientis conditu haec canit Cyrus Monachus:\n\n[versus Graeci in duabus columnis]\n\nΠόλεως ἢ βουλόμενος δομήτωρ χρηματίσαι\nτὴν τῶν τυφλῶν κατέλαβε Χαλκηδονίων πόλιν,\nκαὶ κτίζειν ἀπαρξάμενος πρᾶγμα κατᾶδε ξένον.\nκαὶ γὰρ μεγαλοπτέρυγες ὄρνιθες ἐπιπτάντες\nτοὺς λίθους ἀφαρπάσαντες μετήνεγκαν ἐκεῖθεν\nἐπὶ τὴν πόλιν Βύζαντος τὴν περιφανεστάτην.\nἐντεῦθεν θεοφύλακτος αὐτάναξ Κωνσταντῖνος\nοὐκ ἀπὸ τύχης ἔγνωκεν, ἀλλ᾽ οὐδ᾽ ἐκ ταυτομάτου\nσυμβῆναι τὸ γενόμενον τοῦτο περὶ τοὺς λίθους\n\nὅτι τὴν πανδαίμονα πόλιν τὴν Βυζαντίδα,\nκαὶ πόλιν ὀλβιόπολιν αὐτῇ προσαναγείρᾳ,\nπόλιν τὴν μεγαλόπολιν, τὴν νέαν ὄντως Ῥώμην,\nῬώμην τὴν ἀρρύλιδωτον, τὴν μή ποτε γηρώσαν.\nῬώμην ἀεὶ νεάζουσαν, ἀεὶ καινιζομένην,\nῬώμην, ἀφ᾽ ἧς προχέονται χαρίτων αἱ συρμάδες,\nᾗ ἤπειρος προσπλύσεται, θάλασσα δεξιοῦται,\nἡπίως ἀγκαλίζονται παλάμαι τῆς Εὐρώπης,\nἀντιφιλεῖ δ᾽ ἐπέρωθεν τὸ τῆς Ἀσίας στόμα.\n\nquos versiculos in suum Chronicon transtulit Constantinus Manasses, in miscella historia: quam, quum primitus Byzantium vocaretur, auxit, & maximo circumdedit muro, & diuersis ornatam fabricis aequam imperiali Romae constituit, & denominatam Constantinopolim appellari secundam Romam lege firmauit, sicuti lex ipsa in marmorea platoma noscitur esse conscripta, & iuxta equestrem statuam eius in Strategio est constituta.\n\nXVII. Ad Consulatum Ausonii.] Ad quem Hieronymus Chronicon continuauit, & a quo Consulare Prosperi, & Chronicon Marcellini incipit, anno Christi Dionysiano CCCLXXIX, indictione VII.\n\nCXVIII. Ad primum Sahami Armeniorum.] Ab anno Christi Dionysiano DLII, ut in V de Emend. Temp. notauimus, & praeterea confirmatum nobis fuit a duobus Armeniis, qui me in istis aedibus conuenerunt anno Christi Dionysiano MDCI, quem ipsi putabant MLII a natali, siue XXV Decembris anni MDC. Sane anni MXLIX absoluti deducti de MDCI relinquunt primum annum Armeniorum DLII, ut antea. Tabulae Arabicae, quibus usi sumus, ἀπὸ τῆς χριστιανώσεως αὐτῶν, id est ab anno, quo Christiani facti sunt, hanc Aeram deducunt. Tamen a maiori antiquitate repetere Christianismum suum possunt. Eusebius enim ita de illis scribit in Hist. Eccles. τούτοις προσεπανίσταται τῷ τυράννῳ ὁ πρὸς Ἀρμενίους πόλεμος, ἄνδρας ἐξ ἀρχαίου φίλους τε καὶ συμμάχους Ῥωμαίων, οὓς καὶ αὐτοὺς χριστιανοὺς ὄντας, καὶ τὴν εἰς τὸ θεῖον εὐσέβειαν διὰ σπουδῆς ποιουμένους, &c.\n\nCXIX. Ad primum Muharram.] Epocha Arabum dicitur HEGIRA, hoc est διωγμὸς, vel φυγή. Verbum frequens est in Alcorano. Ita dicta, quod Muhammedes Pseudopropheta propter nouam legem suam pulsus a popularibus suis ex urbe Mecha, fuga saluti suae consuluerit, anno Christi Dionysiano DCXXII, Iulii die XVI, feria VI, anno periodi Damascenorum CCXIIII. Mensis vernalis Ramadhan XX Martii, Sabbato. Quintus igitur ab eo Muharram feria VI, Iulii XVI, tertia die a nouilunio. Epacta enim Iuliana illius anni erat XII, quae posita est e regione XIIII Iulii, ubi neomenia Ab Iudaici fuit. Ergo XVI Iulii erat tertia a nouilunio, propterea quod adhuc Damasceni, Arabes, & Hagareni periodo Calippica utebantur, neque προηγήσεως σεληναϊκῆς notionem, aut rationem habebant. Ideo ab eo tempore neomeniae Muharram Muhammedici incipiunt semper non ἀπὸ ἕνης καὶ νέας, ut Atticae, neque ἀπὸ τῆς συνόδου, ut Iudaicae, sed ἀπὸ τοῦ φεγγαρίου, a Luna corniculata, quam alibi diximus. NALKA ab Arabibus vocari, hoc est soleam equinam, a figura. Accessit huic Aerae superstitio vetus Arabica feriae sextae, siue diei Veneris, quae Arabibus eodem in honore est, quo Iudaeis dies Saturni, nobis dies Solis. Nam stellam Veneris, siue φωσφόρον praecipuo cultu obseruabant. Hieronymus V Amos: Sidus Luciferi, quem Saraceni hucusque venerantur. Neque enim a Muhammede institutum, ut feriam VI obseruarent; sed ab ultima antiquitate Arabibus hoc in usu positum erat. De quo vide plura in libris de emend. Temp. Quod autem a fuga aeram suam instituunt Muhammedani, & ea dies, qua iniuit neomenia primi Muharram, fuit feria VI, non quinta, ut falso Alfonsini tradiderunt, non solum ex magna hebdomadica periodo, quae CCX annis constat, id ostenditur, sed etiam Georgius\nD d Chryso-",
+  "pt": "LIVRO TERCEIRO. 313\n\nDe Marcelino Comes, Zonaras, Cedreno e outros, que podes buscar no livro V de nossa obra. Mas é admirável quão grande ἀλογησία (irracionalidade) dos escritores se descobre acerca da consagração da Cidade. Metódio: \"desde a economia encarnada da vinda de Cristo nosso Deus, até a edificação de Constantinopla, anos 337\". Diz sete anos a mais. Pois aquele não era o ano da consagração da Cidade, mas o do óbito de Constantino. Depois, porém, contradiz a si mesmo, ao escrever que τὰ ἐγκαίνια (a consagração) da grande cidade ocorreu no ano do Mundo 5837 — o que é verdadeiro. Pois aquele ano se iniciou em setembro da *Aera* Cristã Dionisiana 329, no primeiro ano da Olimpíada 277, ano em que terminava a quinta parte do Chronicon de Hesíquio o Ilustre. Fócio, 51, 2: \"a quinta parte abrange o tempo desde a monarquia de Júlio César até quando Bizâncio foi elevado a grande glória, na sétima e septuagésima e ducentésima Olimpíada começando\". Sobre a fundação dessa Cidade, Rainha do Oriente, assim canta Ciro Monge:\n\n[versos gregos em duas colunas — ver tabela]\n\nVersos que Constantino Manassés transferiu para sua Crônica, em sua história miscelânea: a qual cidade, sendo primeiramente chamada Bizâncio, [Constantino] ampliou e cercou de imensa muralha, e, ornada de diversas construções, tornou-a igual à Roma imperial, e, denominando-a Constantinopla, estabeleceu por lei que fosse chamada segunda Roma, conforme se sabe estar a própria lei inscrita numa lápide marmórea, colocada junto à sua estátua equestre no Strategion.\n\nXVII. *Ad Consulatum Ausonii*.] Até este [consulado] Jerônimo continuou o Chronicon, e a partir dele começam o Consular de Próspero e a Crônica de Marcelino, no ano Cristão Dionisiano 379, *indictio* VII.\n\nCXVIII. *Ad primum Sahami Armeniorum*.] A partir do ano Cristão Dionisiano 552, como notamos no livro V *De Emendatione Temporum*; e isso nos foi ademais confirmado por dois armênios, que me visitaram nesta casa no ano Cristão Dionisiano 1601, ano que eles próprios contavam como 1052 a partir do natalício, ou seja, 25 de dezembro de 1600. De fato, 1049 anos completos, deduzidos de 1601, deixam como primeiro ano dos Armênios o 552, como antes. As Tábuas Árabes, que utilizamos, deduzem esta *Aera* ἀπὸ τῆς χριστιανώσεως αὐτῶν, isto é, do ano em que se tornaram cristãos. Contudo, eles podem retroceder seu cristianismo a uma antiguidade maior. Pois Eusébio, em sua História Eclesiástica, escreve assim a respeito deles: \"Soma-se a estes [conflitos] do tirano a guerra contra os Armênios, homens desde antiga data amigos e aliados dos Romanos, os quais sendo eles próprios cristãos e zelosos da piedade para com a Divindade, etc.\"\n\nCXIX. *Ad primum Muharram*.] A *Epocha* dos Árabes é chamada HEGIRA, isto é, διωγμὸς (perseguição) ou φυγή (fuga). Termo frequente no Alcorão. Assim chamada porque Maomé, o Pseudo-profeta, expulso por seus conterrâneos da cidade de Meca por causa de sua nova lei, buscou na fuga a salvação, no ano Cristão Dionisiano 622, em 16 de julho, *feria* VI, ano 214 do período dos Damascenos. O mês vernal Ramadã caiu em 20 de março, sábado. Portanto, o quinto Muharram a partir dali foi *feria* VI, 16 de julho, terceiro dia após a *neomenia*. Pois a *Epacta* Juliana daquele ano era 12, posta em correspondência ao 14 de julho, onde foi a *neomenia* à maneira judaica. Logo, 16 de julho era o terceiro dia após a *neomenia*, porque os Damascenos, Árabes e Agarenos ainda usavam o período Calípico, e não tinham noção nem cálculo da προηγήσεως σεληναϊκῆς (precessão lunar). Por isso, a partir desse tempo, as *neomeniae* do Muharram maometano sempre começam não ἀπὸ ἕνης καὶ νέας (do dia velho-e-novo), como entre os Áticos, nem ἀπὸ τῆς συνόδου (da conjunção), como entre os Judeus, mas ἀπὸ τοῦ φεγγαρίου, a Luna corniculata (da lua crescente em forma de chifre), como dissemos em outro lugar. Pelos Árabes é chamada NALKA, isto é, ferradura de cavalo, pela figura. Acresceu a esta *Aera* a antiga superstição árabe da *feria* sexta, ou dia de Vênus, que para os Árabes está na mesma honra em que para os Judeus está o dia de Saturno e para nós o dia do Sol. Pois observavam com culto especial a estrela de Vênus, ou φωσφόρον. Jerônimo no livro V sobre Amós: \"O astro Lúcifer, que os Sarracenos até hoje veneram\". Pois isso não foi instituído por Maomé, para que observassem a *feria* VI, mas vinha estabelecido em uso entre os Árabes desde a mais remota antiguidade. Sobre o que vê mais nos livros *De Emendatione Temporum*. Quanto ao fato de os maometanos instituírem sua era a partir da fuga, e de que o dia em que entrou a *neomenia* do primeiro Muharram foi *feria* VI, e não quinta, como falsamente transmitiram os Alfonsinos, isso se demonstra não somente pelo grande período hebdomadal, que consta de 210 anos, mas também por Jorge Crisó-\nDd",
+  "en": "BOOK THREE. 313\n\nFrom Marcellinus Comes, Zonaras, Cedrenus, and others, which you may seek in book V of our work. But it is astonishing how great an ἀλογησία (irrationality) of writers is found regarding the consecration of the City. Methodius: \"From the incarnate economy of the coming of Christ our God, to the building of Constantinople, 337 years.\" He says seven years too many. For that was not the year of the City's consecration, but of Constantine's death. Yet afterward he contradicts himself, when he writes that τὰ ἐγκαίνια (the consecration) of the great city happened in the year of the World 5837 — which is correct. For that year began in September of the Christian Dionysian *Aera* 329, in the first year of the 277th Olympiad, in which the fifth part of the Chronicle of Hesychius the Illustrious ended. Photius, 51, 2: \"The fifth part covers the time from the monarchy of Julius Caesar until Byzantium was raised to great glory, the seventh and seventieth and two-hundredth Olympiad beginning.\" Concerning the foundation of this City, Queen of the East, Cyrus the Monk thus sings:\n\n[Greek verses in two columns — see table]\n\nWhich verses Constantine Manasses transferred into his own Chronicle, in his miscellaneous history: which city, being first called Byzantium, [Constantine] enlarged, surrounded with a vast wall, adorned with diverse buildings, made equal to imperial Rome, and, naming it Constantinople, established by law that it be called second Rome, just as the law itself is known to be inscribed on a marble slab, set up beside his equestrian statue in the Strategion.\n\nXVII. *Ad Consulatum Ausonii*.] Up to this [consulship] Jerome continued his Chronicle, and from it begin the Consularia of Prosper and the Chronicle of Marcellinus, in Christian Dionysian year 379, *indictio* VII.\n\nCXVIII. *Ad primum Sahami Armeniorum*.] From Christian Dionysian year 552, as we noted in book V of *De Emendatione Temporum*; and this was further confirmed to us by two Armenians who visited me in these chambers in the Christian Dionysian year 1601, which they themselves reckoned as 1052 from Christ's nativity, i.e. 25 December 1600. Indeed, 1049 complete years subtracted from 1601 leave 552 as the first year of the Armenians, as before. The Arabic Tables we have used reckon this *Aera* ἀπὸ τῆς χριστιανώσεως αὐτῶν, that is, from the year in which they became Christians. Yet they can trace their Christianity to a greater antiquity. For Eusebius writes thus of them in his Ecclesiastical History: \"To these [troubles of] the tyrant is added the war against the Armenians, men from of old friends and allies of the Romans, who being themselves Christians and zealous in piety toward the Divine, etc.\"\n\nCXIX. *Ad primum Muharram*.] The *Epocha* of the Arabs is called HEGIRA, that is διωγμὸς (persecution) or φυγή (flight). The word is frequent in the Quran. So called because Muhammad the Pseudo-prophet, driven by his own people from the city of Mecca on account of his new law, sought safety in flight, in the Christian Dionysian year 622, on July 16, *feria* VI, in the 214th year of the Damascene period. The vernal month Ramadan was on March 20, Saturday. Therefore the fifth Muharram thereafter was *feria* VI, July 16, the third day from *neomenia*. For the Julian *Epacta* of that year was 12, set opposite July 14, where was the *neomenia* in the Jewish manner. Therefore July 16 was the third day from *neomenia*, because the Damascenes, Arabs, and Hagarenes still used the Callippic period, and had no notion or calculation of προηγήσεως σεληναϊκῆς (lunar regression). Hence from that time the *neomeniae* of the Muhammadan Muharram always begin not ἀπὸ ἕνης καὶ νέας (from the old-and-new), as among the Athenians, nor ἀπὸ τῆς συνόδου (from the conjunction), as among the Jews, but ἀπὸ τοῦ φεγγαρίου, a Luna corniculata (from the crescent moon), as we have said elsewhere. By the Arabs it is called NALKA, that is, a horseshoe, from its shape. To this *Aera* is added the ancient Arabic superstition of the sixth *feria*, or day of Venus, which is for the Arabs in the same honor as Saturday is for the Jews and Sunday for us. For they observed with especial cult the star of Venus, or φωσφόρον. Jerome on Amos book V: \"The star Lucifer, whom the Saracens still venerate.\" For this was not instituted by Muhammad, that they should observe *feria* VI; but it had been established in use among the Arabs from remotest antiquity. On which see more in the books *De Emendatione Temporum*. That the Muhammadans set their era from the flight, and that the day on which the *neomenia* of the first Muharram fell was *feria* VI, not the fifth, as the Alfonsines have falsely transmitted, is shown not only from the great hebdomadal period, which consists of 210 years, but also by George Chryso-\nDd",
+  "tables": [
+    {
+      "caption_pt": "Versos gregos de Ciro Monge sobre a fundação de Constantinopla (em duas colunas)",
+      "caption_en": "Greek verses of Cyrus the Monk on the founding of Constantinople (in two columns)",
+      "markdown": "| Coluna esquerda | Coluna direita |\n|---|---|\n| Πόλεως ἢ βουλόμενος δομήτωρ χρηματίσαι | ὅτι τὴν πανδαίμονα πόλιν τὴν Βυζαντίδα, |\n| τὴν τῶν τυφλῶν κατέλαβε Χαλκηδονίων πόλιν, | καὶ πόλιν ὀλβιόπολιν αὐτῇ προσαναγείρᾳ, |\n| καὶ κτίζειν ἀπαρξάμενος πρᾶγμα κατᾶδε ξένον. | πόλιν τὴν μεγαλόπολιν, τὴν νέαν ὄντως Ῥώμην, |\n| καὶ γὰρ μεγαλοπτέρυγες ὄρνιθες ἐπιπτάντες | Ῥώμην τὴν ἀρρύλιδωτον, τὴν μή ποτε γηρώσαν. |\n| τοὺς λίθους ἀφαρπάσαντες μετήνεγκαν ἐκεῖθεν | Ῥώμην ἀεὶ νεάζουσαν, ἀεὶ καινιζομένην, |\n| ἐπὶ τὴν πόλιν Βύζαντος τὴν περιφανεστάτην. | Ῥώμην, ἀφ᾽ ἧς προχέονται χαρίτων αἱ συρμάδες, |\n| ἐντεῦθεν θεοφύλακτος αὐτάναξ Κωνσταντῖνος | ᾗ ἤπειρος προσπλύσεται, θάλασσα δεξιοῦται, |\n| οὐκ ἀπὸ τύχης ἔγνωκεν, ἀλλ᾽ οὐδ᾽ ἐκ ταυτομάτου | ἡπίως ἀγκαλίζονται παλάμαι τῆς Εὐρώπης, |\n| συμβῆναι τὸ γενόμενον τοῦτο περὶ τοὺς λίθους | ἀντιφιλεῖ δ᾽ ἐπέρωθεν τὸ τῆς Ἀσίας στόμα. |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Hegira",
+      "definition_pt": "Epocha dos Árabes; a palavra significa em árabe 'perseguição' (διωγμός) ou 'fuga' (φυγή); marca a fuga de Maomé de Meca em 16 de julho de 622, feria VI.",
+      "definition_en": "The Epocha of the Arabs; the word in Arabic means 'persecution' (διωγμός) or 'flight' (φυγή); it marks Muhammad's flight from Mecca on July 16, 622, feria VI."
+    },
+    {
+      "term": "Nalka",
+      "definition_pt": "Nome árabe da Lua corniculata (crescente em forma de chifre), significando 'ferradura de cavalo', em virtude de sua forma; é a fase lunar a partir da qual começam as neomeniae muçulmanas.",
+      "definition_en": "Arabic name for the Luna corniculata (crescent-horned moon), meaning 'horseshoe' from its shape; it is the lunar phase from which Muslim neomeniae begin."
+    },
+    {
+      "term": "Aera Sahami Armeniorum",
+      "definition_pt": "Era armênia que tem início no ano Cristão Dionisiano 552, contada ἀπὸ τῆς χριστιανώσεως αὐτῶν (do ano em que se tornaram cristãos), segundo as Tábuas Árabes utilizadas por Scaliger.",
+      "definition_en": "Armenian era beginning in Christian Dionysian year 552, reckoned ἀπὸ τῆς χριστιανώσεως αὐτῶν (from the year of their Christianization), according to the Arabic Tables used by Scaliger."
+    },
+    {
+      "term": "Periodus hebdomadica magna",
+      "definition_pt": "Grande período hebdomadário (semanal) árabe-juliano, que consta de 210 anos, usado por Scaliger para demonstrar a feria do primeiro Muharram da Hégira.",
+      "definition_en": "Great hebdomadal (weekly) Arabic-Julian period, consisting of 210 years, used by Scaliger to demonstrate the feria of the first Muharram of the Hegira."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "De Emendatione Temporum, liber V",
+      "context": "quae ex V libro operis nostri petas licet (sobre fontes a respeito da consagração de Constantinopla)"
+    },
+    {
+      "type": "internal",
+      "target": "De Emendatione Temporum, liber V",
+      "context": "Ab anno Christi Dionysiano DLII, ut in V de Emend. Temp. notauimus (Era armênia)"
+    },
+    {
+      "type": "internal",
+      "target": "De Emendatione Temporum (sem livro especificado)",
+      "context": "De quo vide plura in libris de emend. Temp. (sobre a feria sexta dos árabes e o culto a Vênus)"
+    },
+    {
+      "type": "external",
+      "target": "Methodius (Patarensis?), Chronicon",
+      "context": "ἀπὸ ... παρουσίας Χριστοῦ ... μέχρι τῆς οἰκοδομῆς Κωνσταντινουπόλεως, χρόνοι τλζ´"
+    },
+    {
+      "type": "external",
+      "target": "Photius, Bibliotheca, cod. 51, 2 (Hesychius Illustrius)",
+      "context": "τὸ ἢ πέμπτον τμῆμα περιέχει τὰ ἀπὸ τοῦ Ἰουλίου τοῦ Καίσαρος μοναρχίας..."
+    },
+    {
+      "type": "external",
+      "target": "Cyrus Monachus, versus de Constantinopolis conditu",
+      "context": "haec canit Cyrus Monachus"
+    },
+    {
+      "type": "external",
+      "target": "Constantinus Manasses, Chronicon (historia miscella)",
+      "context": "quos versiculos in suum Chronicon transtulit Constantinus Manasses"
+    },
+    {
+      "type": "external",
+      "target": "Eusebius, Historia Ecclesiastica (sobre os Armênios cristãos perseguidos por Maximino)",
+      "context": "Eusebius enim ita de illis scribit in Hist. Eccles."
+    },
+    {
+      "type": "external",
+      "target": "Hieronymus, Commentarii in Amos liber V",
+      "context": "Hieronymus V Amos: Sidus Luciferi, quem Saraceni hucusque venerantur"
+    },
+    {
+      "type": "external",
+      "target": "Tabulae Alfonsinae",
+      "context": "non quinta, ut falso Alfonsini tradiderunt (sobre a feria do primeiro Muharram)"
+    },
+    {
+      "type": "external",
+      "target": "Georgius Chrysococces (continua na p. seguinte: 'Chryso-')",
+      "context": "sed etiam Georgius / Chryso[cocces]"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Neomenia juliana à maneira judaica em 14 de julho de 622 d.C. (Epacta Iuliana = 12); o terceiro dia após a neomenia (16 de julho) é o primeiro Muharram, feria VI, marcando a Hegira.",
+      "historical_date_as_cited": "anno Christi Dionysiano DCXXII, Iulii die XVI, feria VI",
+      "ancient_source": "Scaliger (cálculo próprio); refuta as Tabulae Alfonsinae"
+    },
+    {
+      "type": "other",
+      "description": "Mês vernal Ramadã (não-muçulmano, pré-Hegira, no calendário lunar árabe ainda regulado pelo período Calípico) começa em 20 de março de 622, sábado.",
+      "historical_date_as_cited": "Mensis vernalis Ramadhan XX Martii, Sabbato",
+      "ancient_source": "Scaliger (cálculo)"
+    },
+    {
+      "type": "other",
+      "description": "Início do ano Cristão Dionisiano 329 em setembro, primeiro ano da Olimpíada 277, identificado com a consagração (encaenia) de Constantinopla, anno Mundi 5837.",
+      "historical_date_as_cited": "anno Mundi ϵωλζ´ (5837); Aerae Christi Dionysianae CCCXXIX; Olympiadis CCLXXVII anno primo",
+      "ancient_source": "Hesychius Illustrius (via Photius)"
+    }
+  ],
+  "uncertainty_flags": [
+    "A leitura 'ἀρρύλιδωτον' (Ῥώμην τὴν ἀρρύλιδωτον) é incerta; o texto impresso parece ter uma forma corrupta — possivelmente algo como 'ἀρρυτίδωτον' (sem rugas, ou seja, que não envelhece), o que faz sentido com 'τὴν μή ποτε γηρώσαν'. Mantida transcrição literal do impresso.",
+    "Numeral grego 'τλζ' (337) na citação de Metódio: confirmado pelo comentário 'Septem annis plus dicit', o que pressupõe que o valor correto seria 330 (337−7).",
+    "A forma 'ϵωλζ' (5837) para o ano do Mundo é lida com base no contexto cronológico (consagração de Constantinopla = 330 d.C.); leitura paleográfica do scan boa.",
+    "Numeral 'ccx annis' (210 anos) para a periodus hebdomadica magna: deve corresponder ao período em que ferias e datas julianas se repetem em conjunto com epactas; valor pode ser conferido em De Emendatione Temporum.",
+    "Em 'periodi Damascenorum CCXIIII' (214): a era dos Damascenos (Selêucida ajustada?) começando em ano que coloca 622 d.C. = ano 214 — valor a verificar em De Emendatione."
+  ],
+  "notes": "Página de comentário ao Canon (não ao Isagogicorum stricto sensu): trata-se claramente do Canon Isagogicus / Canones Isagogici de Scaliger, com lemmata enumerados (XVII, CXVIII, CXIX) onde cada lemma corresponde a uma entrada da tabela cronológica. Os três lemmata desta página tratam de: (1) Consulado de Ausônio (379 d.C.), continuação do Chronicon de Jerônimo; (2) Era Armênia (Sahami) começando em 552 d.C.; (3) Hégira muçulmana (1 Muharram = 16 julho 622). A discussão da Hégira é tecnicamente crítica: Scaliger refuta as Tabulae Alfonsinae que davam feria V em vez de VI, usando dois argumentos — o 'período hebdomadário magno de 210 anos' e o testemunho de Jorge Crisococcas (continua na página seguinte). O tratamento da neomenia árabe a partir da 'Luna corniculata' (NALKA = ferradura) é doutrina característica de Scaliger sobre o calendário lunar islâmico, distinto tanto do ático (ἕνη καὶ νέα) quanto do judaico (conjunção). A página acima trata de matéria também referida em De Emendatione Temporum, livro V (sobre a Aera Armeniorum) e em livros não especificados sobre a Hégira."
+}
+```

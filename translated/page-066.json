@@ -1,0 +1,81 @@
+{
+  "page": 66,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM KALENDARIUM ANNI HIPPARCHI.\n\nTISRI DIES XXX. MARCHESVVAN DIES XXIX. CASLEV DIES XXX.\n\n[Tabula tripartita: columnae sunt Dies Mensis, Regul. dieri., Cyclus Iudaicus, Menses Iudaici, Dies Iuliani.]\n\nTEKUPHA TISRI.\n♎ ZYGON DIERUM XXX.\n♏ SCORPION DIERUM XXX.\n♐ TOXON DIERUM XXIX.",
+  "pt": "CALENDÁRIO DOS CÂNONES ISAGÓGICOS DO ANO DE HIPARCO.\n\nTISRI: 30 DIAS. MARCHESVAN: 29 DIAS. CASLEV: 30 DIAS.\n\n[Tabela em três partes, uma para cada mês judaico, com colunas: Dia do Mês, Regular dos dias (concurrens), Ciclo Judaico, Meses Judaicos, Dias Julianos.]\n\nTEKUPHA TISRI (equinócio de outono segundo o cômputo judaico).\n♎ ZYGON (Libra), 30 dias.\n♏ SCORPION (Escorpião), 30 dias.\n♐ TOXON (Sagitário), 29 dias.",
+  "en": "CALENDAR OF THE ISAGOGIC CANONS FOR THE YEAR OF HIPPARCHUS.\n\nTISRI: 30 DAYS. MARCHESVAN: 29 DAYS. CASLEV: 30 DAYS.\n\n[Tripartite table, one section per Jewish month, with columns: Day of Month, Regular of days (concurrens), Jewish Cycle, Jewish Months, Julian Days.]\n\nTEKUPHA TISRI (autumnal equinox according to Jewish reckoning).\n♎ ZYGON (Libra), 30 days.\n♏ SCORPION (Scorpio), 30 days.\n♐ TOXON (Sagittarius), 29 days.",
+  "tables": [
+    {
+      "caption_pt": "Tisri — 30 dias (correspondência com calendário juliano: 26 set – 25 out)",
+      "caption_en": "Tisri — 30 days (correspondence with Julian calendar: 26 Sep – 25 Oct)",
+      "markdown": "| Dies Mensis | Regul. dieri. | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 2 | I | Tisri | 26 Sep |\n| 2 | 3 |  |  | 27 |\n| 3 | 4 | IX | Tisri | 28 |\n| 4 | 5 |  |  | 29 |\n| 5 | 6 | XVII | Tisri | 30 |\n|  |  | *TEKUPHA TISRI* |  |  |\n| 6 | 7 | VI | Tisri | Ka. Oct. |\n| 7 | 1 |  |  | 2 |\n| 8 | 2 | XIIII | Tisri | 3 |\n| 9 | 3 | III | Tisri | 4 |\n| 10 | 4 |  |  | 5 |\n| 11 | 5 | XI | Tisri | 6 |\n| 12 | 6 |  |  | 7 |\n| 13 | 7 | XIX | Tisri | 8 |\n| 14 | 1 | VIII | Tisri | 9 |\n| 15 | 2 |  |  | 10 |\n| 16 | 3 | XVI | Marches. | 11 |\n| 17 | 4 | V | Marches. | 12 |\n| 18 | 5 |  |  | 13 |\n| 19 | 6 | XIII | Marches. | 14 |\n| 20 | 7 | II | Marches. | 15 |\n| 21 | 1 |  |  | 16 |\n| 22 | 2 | X | Marches. | 17 |\n| 23 | 3 |  |  | 18 |\n| 24 | 4 | XVIII | Marches. | 19 |\n| 25 | 5 | VII | Marches. | 20 |\n| 26 | 6 |  |  | 21 |\n| 27 | 7 | XV | Marches. | 22 |\n| 28 | 1 | IIII | Marches. | 23 |\n|  |  | ♎ *ZYGON DIERUM XXX* |  |  |\n| 29 | 2 |  |  | 24 |\n| 30 | 3 | XII | Marches. | 25 |"
+    },
+    {
+      "caption_pt": "Marchesvan — 29 dias (correspondência: 26 out – 23 nov)",
+      "caption_en": "Marchesvan — 29 days (correspondence: 26 Oct – 23 Nov)",
+      "markdown": "| Dies Mensis | Regul. dieri. | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 4 | I | Marches. | 26 Oct |\n| 2 | 5 |  |  | 27 |\n| 3 | 6 | IX | Marches. | 28 |\n| 4 | 7 |  |  | 29 |\n| 5 | 1 | XVII | Marches. | 30 |\n| 6 | 2 | VI | Marches. | 31 |\n| 7 | 3 |  |  | Ka. Nov. |\n| 8 | 4 | XIIII | Marches. | 2 |\n| 9 | 5 | III | Marches. | 3 |\n| 10 | 6 |  |  | 4 |\n| 11 | 7 | XI | Marches. | 5 |\n| 12 | 1 |  |  | 6 |\n| 13 | 2 | XIX | Marches. | 7 |\n| 14 | 3 | VIII | Marches. | 8 |\n| 15 | 4 | XVI | Caslev | 9 |\n| 16 | 5 | V | Caslev | 10 |\n| 17 | 6 |  |  | 11 |\n| 18 | 7 | XIII | Caslev | 12 |\n| 19 | 1 | II | Caslev | 13 |\n| 20 | 2 |  |  | 14 |\n| 21 | 3 | X | Caslev | 15 |\n| 22 | 4 |  |  | 16 |\n| 23 | 5 | XVIII | Caslev | 17 |\n| 24 | 6 | VII | Caslev | 18 |\n| 25 | 7 |  |  | 19 |\n| 26 | 1 | XV | Caslev | 20 |\n| 27 | 2 | IIII | Caslev | 21 |\n| 28 | 3 |  |  | 22 |\n|  |  | ♏ *SCORPION DIERUM XXX* |  |  |\n| 29 | 4 | XII | Caslev | 23 |"
+    },
+    {
+      "caption_pt": "Caslev — 30 dias (correspondência: 24 nov – 23 dez)",
+      "caption_en": "Caslev — 30 days (correspondence: 24 Nov – 23 Dec)",
+      "markdown": "| Dies Mensis | Regul. dieri. | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 5 | I | Caslev | 24 Nov |\n| 2 | 6 |  |  | 25 |\n| 3 | 7 | IX | Caslev | 26 |\n| 4 | 1 |  |  | 27 |\n| 5 | 2 | XVII | Caslev | 28 |\n| 6 | 3 | VI | Caslev | 29 |\n| 7 | 4 |  |  | 30 |\n| 8 | 5 | XIIII | Caslev | Ka. Dec. |\n| 9 | 6 | III | Caslev | 2 |\n| 10 | 7 |  |  | 3 |\n| 11 | 1 | XI | Caslev | 4 |\n| 12 | 2 |  |  | 5 |\n| 13 | 3 | XIX | Caslev | 6 |\n| 14 | 4 | VIII | Caslev | 7 |\n| 15 | 5 |  |  | 8 |\n| 16 | 6 | XVI | Tebeth | 9 |\n| 17 | 7 | V | Tebeth | 10 |\n| 18 | 1 |  |  | 11 |\n| 19 | 2 | XIII | Tebeth | 12 |\n| 20 | 3 | II | Tebeth | 13 |\n| 21 | 4 |  |  | 14 |\n| 22 | 5 | X | Tebeth | 15 |\n| 23 | 6 |  |  | 16 |\n| 24 | 7 | XVIII | Tebeth | 17 |\n| 25 | 1 | VII | Tebeth | 18 |\n| 26 | 2 |  |  | 19 |\n| 27 | 3 | XV | Tebeth | 20 |\n| 28 | 4 | IIII | Tebeth | 21 |\n| 29 | 5 |  |  | 22 |\n|  |  | ♐ *TOXON DIERUM XXIX* |  |  |\n| 30 | 6 | XII | Tebeth | 23 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Tekupha Tisri",
+      "definition_pt": "Equinócio de outono no cômputo hebraico (tequfat Tishri), aqui marcado no quinto/sexto dia de Tisri, correspondente ao final de setembro juliano.",
+      "definition_en": "The autumnal equinox in Hebrew reckoning (tequfat Tishri), here marked at the fifth/sixth day of Tisri, corresponding to late September Julian."
+    },
+    {
+      "term": "Annus Hipparchi",
+      "definition_pt": "O 'ano de Hiparco' no contexto de Scaliger é o ano lunissolar judaico ajustado segundo princípios hiparquianos, usado como modelo no calendário lunissolar reconstruído.",
+      "definition_en": "The 'year of Hipparchus' in Scaliger's framework is the Jewish luni-solar year adjusted by Hipparchian principles, used as a paradigm for the reconstructed luni-solar calendar."
+    },
+    {
+      "term": "Zygon / Scorpion / Toxon",
+      "definition_pt": "Nomes gregos dos signos zodiacais Libra, Escorpião e Sagitário, usados como divisão zodiacal do percurso solar (cada signo com seu número de dias atribuído).",
+      "definition_en": "Greek names of the zodiacal signs Libra, Scorpio and Sagittarius, used as zodiacal divisions of the solar path (each sign assigned its number of days)."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [
+    {
+      "type": "equinox",
+      "description": "Tekupha Tisri — equinócio de outono assinalado entre o 5º e 6º dia do mês de Tisri (ca. 30 set – 1 out juliano).",
+      "historical_date_as_cited": "Tisri 5/6 = 30 Sep / Ka. Oct.",
+      "ancient_source": "tradição rabínica (Samuel) / Hiparco"
+    },
+    {
+      "type": "other",
+      "description": "Entrada do Sol em Libra (♎ Zygon, 30 dias) ao final de Tisri.",
+      "historical_date_as_cited": "Tisri 28 = 23 Oct (entrada zodiacal)",
+      "ancient_source": "tradição astronômica grega"
+    },
+    {
+      "type": "other",
+      "description": "Entrada do Sol em Escorpião (♏ Scorpion, 30 dias) durante Marchesvan.",
+      "historical_date_as_cited": "Marchesvan 28 = 22 Nov",
+      "ancient_source": "tradição astronômica grega"
+    },
+    {
+      "type": "other",
+      "description": "Entrada do Sol em Sagitário (♐ Toxon, 29 dias) durante Caslev.",
+      "historical_date_as_cited": "Caslev 29 = 22 Dec",
+      "ancient_source": "tradição astronômica grega"
+    }
+  ],
+  "uncertainty_flags": [
+    "Coluna 'Cyclus Iudaicus' contém valores do ciclo lunar de 19 anos (Enneadecaeteris) distribuídos pelos dias — alguns valores ficaram parcialmente ilegíveis no scan e foram inferidos pela progressão regular (sequência decrescente por 11: I, IX, XVII, VI, XIIII, III, XI, XIX, VIII, XVI, V, XIII, II, X, XVIII, VII, XV, IIII, XII).",
+    "Na coluna 'Menses Iudaici' do Marchesvan, dia 1, abreviação 'Marches.' está confirmada; alguns campos seguintes onde o nome do mês não se repete foram deixados vazios conforme o original.",
+    "Posição exata do marcador 'TEKUPHA TISRI' na tabela de Tisri: aparece entre as linhas do dia 5 e do dia 6, correspondente à passagem ao calendas de outubro."
+  ],
+  "notes": "Página de tabela tríplice apresentando os três primeiros meses do ano civil judaico (Tisri, Marchesvan, Caslev) sincronizados com o calendário juliano e com o ciclo lunar judaico de 19 anos (a chamada Enneadecaeteris ou Cyclus Lunae). A coluna 'Regul. dieri.' (regular dos dias) é o concurrens semanal (1–7). A coluna 'Cyclus Iudaicus' marca a posição no ciclo lunar de 19 anos, distribuída segundo a progressão padrão dos cálculos pascais hebraicos. As três entradas zodiacais ao pé de cada coluna (Zygon, Scorpion, Toxon) indicam a passagem solar pelos signos correspondentes. O título 'Kalendarium anni Hipparchi' deixa claro que Scaliger reconstrói aqui o ano lunissolar segundo o esquema hiparquiano, mostrando como o calendário hebraico se ajusta ao percurso solar e ao ciclo metônico. Esta tabela é tipicamente apresentada após introdução teórica sobre o ciclo de 19 anos no texto principal.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5185,
+    "stop_reason": "end_turn"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "page": 159,
+  "page_type": "table",
+  "latin": "LIBER SECUNDUS.\n\nAnni. Dies.\nXCIII   Ad aram Laodicensium,                                                      4666. 0.\nXCIIII  Ad primas Kalendas Ianuarii Iuliani,                                       4668. 0.\nXCV     Ad aeram Caesaris Hispanicam,                                              4675. 0.\nXCVI    Ad initium Herodis Magni & Senatusconsultum de eius regno,                 4673. 0.\nXCVII   Ad Actiacam victoriam,                                                     4683. 245.\nXCVIII  Ad primum Thoth anni Augustorum,                                           4684. 241.\nXCIX    Ad primum annum Augustanum,                                                4686. 0.\nC       Ad bisextum ab Augusto reformatum,                                         4705. 0.\nCI      Ad Ephemeriam Abia, & Hebdomadam euangelismi Zachariae,                    4709. 0.\nCII     Ad verum natalem Regis aeterni MESSIAE filii Dei,                          4710. 0.\nCIII    Ad excessum Herodis magni,                                                 4712. 0.\nCIIII   Ad aeram Christi Dionysianam,                                              4712. 358.\nCV      Ad XV annum Tiberii Caesaris, & praedicationem Ioh. Baptistae,             4741. 0.\nCVI     Ad Dominicam salutiferae resurrectionis,                                   4745. 94.\nCVII    Ad excidium Templi & cladem gentis Iudaicae,                               4782. 250.\nCVIII   Ad Aeram Commagenorum, & Samosatensium,                                    4783. 0.\nCIX     Ad Agonem primum Kapitolinum Domitiani,                                    4798. 0.\nCX      Ad aram Arabum Petraeorum, & Bostrenorum,                                  4817. 0.\nCXI     Ad Ludos Saeculares Imp. Septimii Seueri,                                  4916. 0.\nCXII    Ad Aeram Aegyptiorum Diocletianeam,                                        4996. 240.\nCXIII   Ad primam indictionem Constantinianam,                                     5024. 264.\nCXIIII  Ad sanctum confessum Nicenum CCCXVIII Patrum,                              5037. 164.\nCXV     Ad Encaenia urbis Constantinopolitanae nouae Romae,                        5042. 130.\nCXVI    Ad reformationem Computi Iudaici Rab Hillel,                               5056. 279.\nCXVII   Ad Consulatum Ausonii, & Olybrii,                                          5091. 0.\nCXVIII  Ad primum Sahami Armeniorum,                                               5264. 189.\nCXIX    Ad primum Mubarram Hegirae Muhammedicae,                                   5334. 196.\nCXX     Ad primum Pharauardin Iezdegird,                                           5344. 166.\nCXXI    Ad primum Pharauardin Gelalaeum Sultani Melic-Sa.                          5791. 72.\n\nL iiij                                                                            CAPUT",
+  "pt": "LIVRO SEGUNDO.\n\n(Continuação do índice das *epochae* enumeradas a partir do início da *Periodus Iuliana*, com anos completos e dias excedentes.)",
+  "en": "BOOK TWO.\n\n(Continuation of the index of *epochae* enumerated from the beginning of the *Periodus Iuliana*, with full years and surplus days.)",
+  "tables": [
+    {
+      "caption_pt": "Tabela de epochae (entradas XCIII–CXXI), medidas a partir do início da *Periodus Iuliana*. Coluna 1: número de ordem; Coluna 2: descrição da epocha; Coluna 3: anos completos; Coluna 4: dias excedentes além do último ano completo.",
+      "caption_en": "Table of epochae (entries XCIII–CXXI), measured from the beginning of the *Periodus Iuliana*. Column 1: ordinal number; Column 2: description of the epoch; Column 3: complete years; Column 4: surplus days beyond the last complete year.",
+      "markdown": "| Nº | Epocha | Anni | Dies |\n|---|---|---:|---:|\n| XCIII | Ad aram Laodicensium | 4666 | 0 |\n| XCIIII | Ad primas Kalendas Ianuarii Iuliani | 4668 | 0 |\n| XCV | Ad aeram Caesaris Hispanicam | 4675 | 0 |\n| XCVI | Ad initium Herodis Magni & Senatusconsultum de eius regno | 4673 | 0 |\n| XCVII | Ad Actiacam victoriam | 4683 | 245 |\n| XCVIII | Ad primum Thoth anni Augustorum | 4684 | 241 |\n| XCIX | Ad primum annum Augustanum | 4686 | 0 |\n| C | Ad bisextum ab Augusto reformatum | 4705 | 0 |\n| CI | Ad Ephemeriam Abia, & Hebdomadam euangelismi Zachariae | 4709 | 0 |\n| CII | Ad verum natalem Regis aeterni MESSIAE filii Dei | 4710 | 0 |\n| CIII | Ad excessum Herodis magni | 4712 | 0 |\n| CIIII | Ad aeram Christi Dionysianam | 4712 | 358 |\n| CV | Ad XV annum Tiberii Caesaris, & praedicationem Ioh. Baptistae | 4741 | 0 |\n| CVI | Ad Dominicam salutiferae resurrectionis | 4745 | 94 |\n| CVII | Ad excidium Templi & cladem gentis Iudaicae | 4782 | 250 |\n| CVIII | Ad Aeram Commagenorum, & Samosatensium | 4783 | 0 |\n| CIX | Ad Agonem primum Kapitolinum Domitiani | 4798 | 0 |\n| CX | Ad aram Arabum Petraeorum, & Bostrenorum | 4817 | 0 |\n| CXI | Ad Ludos Saeculares Imp. Septimii Seueri | 4916 | 0 |\n| CXII | Ad Aeram Aegyptiorum Diocletianeam | 4996 | 240 |\n| CXIII | Ad primam indictionem Constantinianam | 5024 | 264 |\n| CXIIII | Ad sanctum confessum Nicenum CCCXVIII Patrum | 5037 | 164 |\n| CXV | Ad Encaenia urbis Constantinopolitanae nouae Romae | 5042 | 130 |\n| CXVI | Ad reformationem Computi Iudaici Rab Hillel | 5056 | 279 |\n| CXVII | Ad Consulatum Ausonii, & Olybrii | 5091 | 0 |\n| CXVIII | Ad primum Sahami Armeniorum | 5264 | 189 |\n| CXIX | Ad primum Mubarram Hegirae Muhammedicae | 5334 | 196 |\n| CXX | Ad primum Pharauardin Iezdegird | 5344 | 166 |\n| CXXI | Ad primum Pharauardin Gelalaeum Sultani Melic-Sa | 5791 | 72 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Vitória de Áccio (Actiaca victoria), epocha fundadora do principado de Augusto",
+      "historical_date_as_cited": "Anno Periodi Iulianae 4683, dies 245",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Primeiro Thoth do ano dos Augustos (reforma do calendário alexandrino)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 4684, dies 241",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Bissexto reformado por Augusto (correção do erro dos pontífices)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 4705",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Verdadeiro nascimento de Cristo, segundo a cronologia de Scaliger",
+      "historical_date_as_cited": "Anno Periodi Iulianae 4710",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Era cristã dionisiana (Dionysius Exiguus)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 4712, dies 358",
+      "ancient_source": "Dionysius Exiguus"
+    },
+    {
+      "type": "other",
+      "description": "Domingo da ressurreição salvífica (data computada da Páscoa histórica)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 4745, dies 94",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Destruição do Templo de Jerusalém e ruína do povo judaico",
+      "historical_date_as_cited": "Anno Periodi Iulianae 4782, dies 250",
+      "ancient_source": "Iosephus"
+    },
+    {
+      "type": "other",
+      "description": "Era egípcia de Diocleciano (Era dos Mártires)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 4996, dies 240",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Primeira *indictio* constantiniana",
+      "historical_date_as_cited": "Anno Periodi Iulianae 5024, dies 264",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Concílio de Niceia dos 318 Padres",
+      "historical_date_as_cited": "Anno Periodi Iulianae 5037, dies 164",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Reforma do *Computus* judaico por Rabbi Hillel (Hillel II)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 5056, dies 279",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Primeiro *Sahami* (era armênia)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 5264, dies 189",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Primeiro Muharram da Hégira muhammadica",
+      "historical_date_as_cited": "Anno Periodi Iulianae 5334, dies 196",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Primeiro Farvardin da era de Yazdegerd III (era persa)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 5344, dies 166",
+      "ancient_source": "—"
+    },
+    {
+      "type": "other",
+      "description": "Primeiro Farvardin da era Jalali do sultão Malik-Shah (calendário Jalali, reforma de 1079)",
+      "historical_date_as_cited": "Anno Periodi Iulianae 5791, dies 72",
+      "ancient_source": "—"
+    }
+  ],
+  "uncertainty_flags": [
+    "A entrada XCVI (Heródes Magno) traz ano 4673, anterior ao da entrada XCV (era hispânica de César, 4675); essa inversão da ordem cronológica numérica dentro de uma sequência ordenada por ordinal pode ser intencional (ordem temática, não cronológica), mas convém verificar contra capítulo correspondente.",
+    "A coluna 'Dies' parece registrar dias decorridos no ano corrente além do ano completo da Periodus Iuliana — a interpretação exata depende do capítulo correspondente que define a convenção."
+  ],
+  "notes": "Página de índice/tabela ao final do Liber Secundus, listando as epochae numeradas XCIII a CXXI com sua localização na *Periodus Iuliana* (anos completos e dias excedentes). Trata-se da continuação de uma lista mais ampla. A assinatura de caderno 'L iiij' e a deixa 'CAPUT' indicam que a página seguinte abre novo capítulo. Notável: Scaliger distingue claramente o *verum natalem* de Cristo (entrada CII, ano 4710) da *aera Christi Dionysianam* (entrada CIIII, ano 4712 + 358 dias), correção cronológica que ele defende contra Dionysius Exiguus. A inclusão das eras armênia, muçulmana, persa (Yazdegerd) e Jalali (Malik-Shah) demonstra o escopo universalista da cronologia scaligeriana, integrando calendários orientais ao quadro juliano. Modernizações: 'aram'/'aeram' transcritos conforme aparecem (Scaliger varia); 'Iuliani', 'Iudaicae' com I; 'Kapitolinum' preservado com K (conforme original, evocando ortografia arcaica).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4752,
+    "stop_reason": "end_turn"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "page": 136,
+  "page_type": "table",
+  "latin": "CANONVM ISAGOGICORVM\nRESIDVVM TABVLAE MAGNI LVSTRI CANICVLARIS IVLIANI",
+  "pt": "DOS CÂNONES ISAGÓGICOS\nRestante da Tábua do Grande Lustro Canicular Juliano",
+  "en": "OF THE ISAGOGIC CANONS\nRemainder of the Table of the Great Julian Canicular Lustrum",
+  "tables": [
+    {
+      "caption_pt": "Restante da Tábua do Grande Lustro Canicular Juliano: correspondências entre os dias dos meses egípcios (Thoth, Sahami, Pharauardin) e datas julianas, para os anos 1176, 1204, 1232, 1260, 1288 e 1316 d.C.",
+      "caption_en": "Remainder of the Table of the Great Julian Canicular Lustrum: correspondences between days of the Egyptian months (Thoth, Sahami, Pharauardin) and Julian dates, for the years AD 1176, 1204, 1232, 1260, 1288, and 1316.",
+      "markdown": "| Dia | 1176 Thoth | 1176 Sahami | 1176 Pharauardin | 1204 Thoth | 1204 Sahami | 1204 Pharauardin | 1232 Thoth | 1232 Sahami | 1232 Pharauardin | 1260 Thoth | 1260 Sahami | 1260 Pharauardin | 1288 Thoth | 1288 Sahami | 1288 Pharauardin | 1316 Thoth | 1316 Sahami | 1316 Pharauardin |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 25 Ian. | 27 Apr. | 24 Apr. | 18 Ian. | 20 Apr. | 17 Apr. | 11 Ian. | 13 Apr. | 10 Apr. | 4 Ian. | 6 Apr. | 3 Apr. | 27 Dec. | 30 Mar. | 27 Mar. | 20 Dec. | 23 Mar. | 20 Mar. |\n| 2 | 24 | 27 | 24 | 17 | 20 | 17 | 10 | 13 | 10 | 3 | 6 | 3 | 27 | 30 | 27 | 20 | 23 | 20 |\n| 3 | 24 | 27 | 24 | 17 | 20 | 17 | 10 | 13 | 10 | 3 | 6 | 3 | 27 | 30 | 27 | 20 | 23 | 20 |\n| 4 | 24 | 27 | 24 | 17 | 20 | 17 | 10 | 13 | 10 | 3 | 6 | 3 | 27 | 30 | 27 | 20 | 23 | 20 |\n| 5 | 24 | 26 | 23 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 26 | 29 | 26 | 19 | 22 | 19 |\n| 6 | 23 | 26 | 23 | 16 | 19 | 16 | 9 | 12 | 9 | 2 | 5 | 2 | 26 | 29 | 26 | 19 | 22 | 19 |\n| 7 | 23 | 26 | 23 | 16 | 19 | 16 | 9 | 12 | 9 | 2 | 5 | 2 | 26 | 29 | 26 | 19 | 22 | 19 |\n| 8 | 23 | 26 | 23 | 16 | 19 | 16 | 9 | 12 | 9 | 2 | 5 | 2 | 26 | 29 | 26 | 19 | 22 | 19 |\n| 9 | 23 | 25 | 22 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 25 | 28 | 25 | 18 | 21 | 18 |\n| 10 | 22 | 25 | 22 | 15 | 18 | 15 | 8 | 11 | 8 | 1 | 4 | 1 | 25 | 28 | 25 | 18 | 21 | 18 |\n| 11 | 22 | 25 | 22 | 15 | 18 | 15 | 8 | 11 | 8 | 1 | 4 | 1 | 25 | 28 | 25 | 18 | 21 | 18 |\n| 12 | 22 | 25 | 22 | 15 | 18 | 15 | 8 | 11 | 8 | 1 | 4 | 1 | 25 | 28 | 25 | 18 | 21 | 18 |\n| 13 | 22 | 24 | 21 | 15 | 17 | 14 | 8 | 10 | 7 | 31 Dec. | 3 | 31 Mar. | 24 | 27 | 24 | 17 | 20 | 17 |\n| 14 | 21 | 24 | 21 | 14 | 17 | 14 | 7 | 10 | 7 | 31 | 3 | 31 | 24 | 27 | 24 | 17 | 20 | 17 |\n| 15 | 21 | 24 | 21 | 14 | 17 | 14 | 7 | 10 | 7 | 31 | 3 | 31 | 24 | 27 | 24 | 17 | 20 | 17 |\n| 16 | 21 | 24 | 21 | 14 | 17 | 14 | 7 | 10 | 7 | 31 | 3 | 31 | 24 | 27 | 24 | 17 | 20 | 17 |\n| 17 | 21 | 23 | 20 | 14 | 16 | 13 | 7 | 9 | 6 | 30 | 2 | 30 | 23 | 26 | 23 | 16 | 19 | 16 |\n| 18 | 20 | 23 | 20 | 13 | 16 | 13 | 6 | 9 | 6 | 30 | 2 | 30 | 23 | 26 | 23 | 16 | 19 | 16 |\n| 19 | 20 | 23 | 20 | 13 | 16 | 13 | 6 | 9 | 6 | 30 | 2 | 30 | 23 | 26 | 23 | 16 | 19 | 16 |\n| 20 | 20 | 23 | 20 | 13 | 16 | 13 | 6 | 9 | 6 | 30 | 2 | 30 | 23 | 26 | 23 | 16 | 19 | 16 |\n| 21 | 20 | 22 | 19 | 13 | 15 | 12 | 5 | 8 | 5 | 29 | 1 | 29 | 22 | 25 | 22 | 15 | 18 | 15 |\n| 22 | 19 | 22 | 19 | 12 | 15 | 12 | 5 | 8 | 5 | 29 | 1 | 29 | 22 | 25 | 22 | 15 | 18 | 15 |\n| 23 | 19 | 22 | 19 | 12 | 15 | 12 | 5 | 8 | 5 | 29 | 1 | 29 | 22 | 25 | 22 | 15 | 18 | 15 |\n| 24 | 19 | 22 | 19 | 12 | 15 | 12 | 5 | 8 | 5 | 29 | 1 | 29 | 22 | 25 | 22 | 15 | 18 | 15 |\n| 25 | 19 | 21 | 18 | 12 | 14 | 11 | 5 | 7 | 4 | 28 | 31 Mar. | 28 Mar. | 21 | 24 | 21 | 14 | 17 | 14 |\n| 26 | 18 | 21 | 18 | 11 | 14 | 11 | 4 | 7 | 4 | 28 | 31 | 28 | 21 | 24 | 21 | 14 | 17 | 14 |\n| 27 | 18 | 21 | 18 | 11 | 14 | 11 | 4 | 7 | 4 | 28 | 31 | 28 | 21 | 24 | 21 | 14 | 17 | 14 |\n| 28 | 18 | 21 | 18 | 11 | 14 | 11 | 4 | 7 | 4 | 28 | 31 | 28 | 21 | 24 | 21 | 14 | 17 | 14 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Algumas leituras numéricas na coluna esquerda (1176) estão pouco nítidas no scan, especialmente nas linhas 5 e 9-12; transcritas conforme o padrão regular de decremento da tábua.",
+    "A célula da linha 5, coluna Pharauardin do ano 1176, aparece borrada no original; valor inferido (22) pelo padrão da coluna foi mantido apenas como hipótese — verificado contra o padrão decremental, deve ser 22; porém a leitura visual sugere algo próximo de 22 ou 23.",
+    "Cabeçalho da coluna média transcrito como 'Sahami' (provavelmente o mês persa/zoroastriano Shahriwar ou similar mês egípcio-alexandrino, conforme uso scaligeriano); 'Pharauardin' = Farvardin (mês persa).",
+    "Linha 25 do ano 1260: a leitura 'Mar' antes de '28 Mar' é interpretada como '28 31 Mar. 28 Mar.' (transição de meses)."
+  ],
+  "notes": "Página 104 (numerada '104' à margem; o usuário indicou 136 como número sequencial físico) é uma tábua puramente numérica, intitulada 'Residuum Tabulae Magni Lustri Canicularis Iuliani' (Restante da Tábua do Grande Lustro Canicular Juliano). Trata-se da continuação de uma tábua iniciada em página anterior, que correlaciona os dias dos primeiros meses dos calendários egípcio (Thoth), 'Sahami' (provavelmente nome humanista para um dos meses do calendário copta-alexandrino ou árabe-persa) e persa (Pharauardin/Farvardin) com datas julianas, organizada por intervalos de 28 anos (que é precisamente o ciclo do *Cyclus Solis*). Os anos cabeçalhos são 1176, 1204, 1232, 1260, 1288, 1316 d.C. — sequência aritmética com diferença de 28. Cada bloco de 4 linhas corresponde provavelmente a um quadriênio (*tetraeteris*) dentro do ciclo solar. A regressão de uma data por bloco reflete o desvio entre o ano vago egípcio (365 dias exatos) e o ano juliano. Tábuas como esta servem para converter datas de fontes orientais (Ptolomeu, observações árabes, persas) ao calendário juliano usado por Scaliger como sistema universal de referência. O catchword 'I' no rodapé indica continuação.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 3893,
+    "stop_reason": "end_turn"
+  }
+}

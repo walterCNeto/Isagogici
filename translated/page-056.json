@@ -1,0 +1,42 @@
+{
+  "page": 56,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\nPRIMA TABULA ANTICIPATIONUM LUNAE ET EPACTARUM AEQUABILIUM.\n\nCycli προηγήσεως collecti. | Dies προηγήσεως. | I | II | III | IIII | V | VI | VII | VIII | IX | X | XI | XII | XIII | XIIII | XV | XVI | XVII | XVIII | XIX",
+  "pt": "CÂNONES ISAGÓGICOS\nPRIMEIRA TABELA DAS ANTECIPAÇÕES DA LUA E DAS *EPACTAE* UNIFORMES.\n\n[Cabeçalhos: Ciclos de antecipação (προηγήσεως) acumulados | Dias de antecipação | colunas I a XIX correspondentes aos 19 anos do *cyclus Lunae* (*Enneadecaeteris*)]",
+  "en": "ISAGOGIC CANONS\nFIRST TABLE OF THE ANTICIPATIONS OF THE MOON AND OF THE UNIFORM *EPACTAE*.\n\n[Headers: Cycles of anticipation (προηγήσεως) collected | Days of anticipation | columns I to XIX corresponding to the 19 years of the *cyclus Lunae* (*Enneadecaeteris*)]",
+  "tables": [
+    {
+      "caption_pt": "Primeira Tabela das Antecipações da Lua e das *Epactae* Uniformes — fornece, para cada ciclo de antecipação acumulado (em múltiplos de 304 anos) e cada ano do *cyclus Lunae* de 19 anos, a *epacta* correspondente. O asterisco (*) indica epacta zero (nulla, ou trigesima).",
+      "caption_en": "First Table of the Anticipations of the Moon and of the Uniform *Epactae* — gives, for each accumulated cycle of anticipation (in multiples of 304 years) and each year of the 19-year *cyclus Lunae*, the corresponding *epacta*. The asterisk (*) marks a null epacta (zero, or thirtieth).",
+      "markdown": "| Cycli collecti | Dies | I | II | III | IIII | V | VI | VII | VIII | IX | X | XI | XII | XIII | XIIII | XV | XVI | XVII | XVIII | XIX |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 0 | 0 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 |\n| 304 | 1 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 |\n| 608 | 2 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 |\n| 912 | 3 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 |\n| 1216 | 4 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 |\n| 1520 | 5 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 |\n| 1824 | 6 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 |\n| 2128 | 7 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 |\n| 2432 | 8 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 |\n| 2736 | 9 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 |\n| 3040 | 10 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 |\n| 3344 | 11 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 |\n| 3648 | 12 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 |\n| 3952 | 13 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 |\n| 4256 | 14 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 |\n| 4560 | 15 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 |\n| 4864 | 16 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 |\n| 5168 | 17 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 |\n| 5472 | 18 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 |\n| 5776 | 19 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 |\n| 6080 | 20 | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 |\n| 6384 | 21 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * |\n| 6688 | 22 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 |\n| 6992 | 23 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 |\n| 7296 | 24 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 |\n| 7600 | 25 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 |\n| 7904 | 26 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 |\n| 8208 | 27 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 |\n| 8512 | 28 | 19 | * | 11 | 22 | 3 | 14 | 25 | 6 | 17 | 28 | 9 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 |\n| 8816 | 29 | 20 | 1 | 12 | 23 | 4 | 15 | 26 | 7 | 18 | 29 | 10 | 21 | 2 | 13 | 24 | 5 | 16 | 27 | 8 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Anticipatio Lunae",
+      "definition_pt": "Antecipação da Lua: o atraso acumulado das *neomeniae* calculadas pelo ciclo de 19 anos em relação às *neomeniae* astronômicas verdadeiras. Como o *cyclus Lunae* (*Enneadecaeteris*) não é exatamente igual a 235 lunações, a cada ~304 anos a lua calendárica antecipa-se em um dia inteiro relativamente à fase real. A tabela tabula esse efeito acumulado.",
+      "definition_en": "Anticipation of the Moon: the accumulated drift of the *neomeniae* computed by the 19-year cycle relative to the true astronomical *neomeniae*. Since the *cyclus Lunae* (*Enneadecaeteris*) is not exactly equal to 235 lunations, every ~304 years the calendar moon anticipates by one full day with respect to the actual phase. The table tabulates this cumulative effect."
+    },
+    {
+      "term": "Epactae aequabiles",
+      "definition_pt": "*Epactae* uniformes: valores da *epacta* calculados de modo regular (incremento constante de 11 por ano dentro do *cyclus Lunae*), em oposição às epactas gregorianas que sofrem correções de *metemptosis* e *proemptosis*.",
+      "definition_en": "Uniform *epactae*: values of the *epacta* computed regularly (constant increment of 11 per year within the *cyclus Lunae*), as opposed to the Gregorian epacts which undergo *metemptosis* and *proemptosis* corrections."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A coluna de cabeçalho à esquerda contém termo grego abreviado lido como 'προηγήσεως' (de προήγησις, 'antecipação/movimento prévio'), mas a palavra está parcialmente apagada no scan; a leitura é por contexto.",
+    "Na linha do ciclo 8208 (dia 27), a coluna IX mostra '2' que parece anômalo na progressão regular (esperado seria 16); pode ser erro de impressão original ou leitura incerta do scan — verificar com outro exemplar.",
+    "Em algumas células o '*' (asterisco indicando epacta nula/30) pode ter sido confundido com outro caractere; foi sistematicamente normalizado para '*' onde a progressão exige epacta 0/30.",
+    "O número da página impressa é '14', mas o usuário indicou que esta é a página 56 da edição completa; mantive page=56 conforme instrução."
+  ],
+  "notes": "Esta página é inteiramente ocupada pela 'Prima Tabula Anticipationum Lunae et Epactarum Aequabilium'. A tabela funciona da seguinte maneira: a coluna esquerda lista anos acumulados em múltiplos de 304 (o período aproximado em que a lua calendárica antecipa um dia inteiro sobre a verdadeira); a segunda coluna conta o número de dias de antecipação (0 a 29); as 19 colunas restantes (I-XIX) correspondem aos anos do cyclus Lunae e fornecem a epacta correspondente. A progressão é estritamente regular: cada coluna avança +1 a cada linha (módulo 30, com '*' representando 0/30), e cada linha avança +11 entre colunas consecutivas (módulo 30) — característica das *epactae aequabiles*. Esta tabela é a contraparte aritmética das tabelas que Scaliger constrói no *De Emendatione Temporum* livro V para tratar a discrepância entre cyclus decemnovennalis e movimento real lunar.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4833,
+    "stop_reason": "end_turn"
+  }
+}

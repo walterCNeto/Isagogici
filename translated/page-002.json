@@ -1,0 +1,29 @@
+{
+  "page": 2,
+  "page_type": "frontmatter",
+  "latin": "2563 A3\nKF 62-5690",
+  "pt": "2563 A3\nKF 62-5690",
+  "en": "2563 A3\nKF 62-5690",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Página em branco da obra (verso da capa ou folha de guarda) contendo apenas marcações de catalogação manuscritas de biblioteca: 'Z563 A3' (provável cota antiga, possivelmente '2563 A3') no canto superior esquerdo, e abaixo 'KF 62-5690' (provável número de aquisição). No rodapé, marca d'água 'Digitized by Google'.",
+      "description_en": "Blank page of the volume (verso of cover or flyleaf) containing only handwritten library cataloguing marks: 'Z563 A3' (likely an old shelfmark, possibly '2563 A3') in the upper left corner, and below it 'KF 62-5690' (likely an accession number). At the bottom, watermark 'Digitized by Google'."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página sem conteúdo textual da obra propriamente dita; apenas marcações de biblioteca manuscritas.",
+    "Leitura da cota '2563 A3' incerta devido à caligrafia; pode ser também 'Z563 A3'.",
+    "Leitura de 'KF 62-5690' parcialmente incerta no scan."
+  ],
+  "notes": "Esta página é uma folha de guarda ou verso da capa com marcações administrativas da biblioteca custodiante (provavelmente um exemplar digitalizado pela Google a partir de uma coleção universitária norte-americana). Nenhum conteúdo textual de Scaliger aparece nesta página. O texto efetivo do *Isagogicorum chronologiae canonum libri tres* começa em páginas posteriores.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7444,
+    "output_tokens": 711,
+    "stop_reason": "end_turn"
+  }
+}

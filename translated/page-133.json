@@ -1,0 +1,36 @@
+{
+  "page": 133,
+  "page_type": "table",
+  "latin": "LIBER PRIMVS.\nRESIDVVM TABVLAE MAGNI LVSTRI CANICVLARIS IVLIANI.\n\n[Tabula cum columnis: Thoth | Sahami | Pharauardin, repetita sex vicibus pro annis 672, 700, 728, 756, 784, 812]\n\nI iij",
+  "pt": "LIVRO PRIMEIRO.\nRESÍDUO DA TÁBUA DO GRANDE *LUSTRUM* CANICULAR JULIANO.\n\n[Tabela com colunas: Thoth | Sahami | Pharauardin, repetida seis vezes para os anos 672, 700, 728, 756, 784, 812]",
+  "en": "BOOK ONE.\nREMAINDER OF THE TABLE OF THE GREAT JULIAN CANICULAR *LUSTRUM*.\n\n[Table with columns: Thoth | Sahami | Pharauardin, repeated six times for years 672, 700, 728, 756, 784, 812]",
+  "tables": [
+    {
+      "caption_pt": "Resíduo da Tábua do Grande Lustrum Canicular Juliano — correspondências entre o primeiro dia dos meses Thoth (egípcio alexandrino), Sahami (calendário copta/etíope ou similar) e Pharauardin (persa/zoroastriano) com as datas julianas, para os anos 672, 700, 728, 756, 784 e 812 do ciclo.",
+      "caption_en": "Remainder of the Table of the Great Julian Canicular Lustrum — correspondences between the first day of the months Thoth (Alexandrian Egyptian), Sahami (Coptic/Ethiopian or similar), and Pharauardin (Persian/Zoroastrian) with Julian dates, for years 672, 700, 728, 756, 784, and 812 of the cycle.",
+      "markdown": "| Dia | Thoth (672) | Sahami (672) | Pharauardin (672) | Thoth (700) | Sahami (700) | Pharauardin (700) | Thoth (728) | Sahami (728) | Pharauardin (728) | Thoth (756) | Sahami (756) | Pharauardin (756) | Thoth (784) | Sahami (784) | Pharauardin (784) | Thoth (812) | Sahami (812) | Pharauardin (812) |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 30 Mai | 31 Aug | 28 Aug | 23 Mai | 24 Aug | 21 Aug | 16 Mai | 17 Aug | 14 Aug | 9 Mai | 10 Aug | 7 Aug | 2 Mai | 3 Aug | 31 Iul | 25 Apr | 27 Iul | 24 Iul |\n| 2 | 30 | 31 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 | 2 | 3 | 31 | 25 | 27 | 24 |\n| 3 | 30 | 31 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 | 2 | 3 | 31 | 25 | 27 | 24 |\n| 4 | 30 | 31 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 | 2 | 3 | 31 | 25 | 27 | 24 |\n| 5 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 | 1 | 2 | 30 | 24 | 26 | 23 |\n| 6 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 | 1 | 2 | 30 | 24 | 26 | 23 |\n| 7 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 | 1 | 2 | 30 | 24 | 26 | 23 |\n| 8 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 | 1 | 2 | 30 | 24 | 26 | 23 |\n| 9 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 | 7 | 8 | 5 | 30 Apr | 1 | 29 | 23 | 25 | 22 |\n| 10 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 | 7 | 8 | 5 | 30 | 1 | 29 | 23 | 25 | 22 |\n| 11 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 | 7 | 8 | 5 | 30 | 1 | 29 | 23 | 25 | 22 |\n| 12 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 | 7 | 8 | 5 | 30 | 1 | 29 | 23 | 25 | 22 |\n| 13 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 | 6 | 7 | 4 | 29 | 31 Iul | 28 | 22 | 24 | 21 |\n| 14 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 | 6 | 7 | 4 | 29 | 31 | 28 | 22 | 24 | 21 |\n| 15 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 | 6 | 7 | 4 | 29 | 31 | 28 | 22 | 24 | 21 |\n| 16 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 | 6 | 7 | 4 | 29 | 31 | 28 | 22 | 24 | 21 |\n| 17 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 | 5 | 6 | 3 | 28 | 30 | 27 | 21 | 23 | 20 |\n| 18 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 | 5 | 6 | 3 | 28 | 30 | 27 | 21 | 23 | 20 |\n| 19 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 | 5 | 6 | 3 | 28 | 30 | 27 | 21 | 23 | 20 |\n| 20 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 | 5 | 7 | 3 | 28 | 30 | 27 | 21 | 23 | 20 |\n| 21 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 | 4 | 5 | 2 | 27 | 29 | 26 | 20 | 22 | 19 |\n| 22 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 | 4 | 5 | 2 | 27 | 29 | 26 | 20 | 22 | 19 |\n| 23 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 | 4 | 5 | 2 | 27 | 29 | 26 | 20 | 22 | 19 |\n| 24 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 | 4 | 5 | 2 | 27 | 29 | 26 | 20 | 22 | 19 |\n| 25 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 | 3 | 4 | 1 | 26 | 28 | 25 | 19 | 21 | 18 |\n| 26 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 | 3 | 4 | 1 | 26 | 28 | 25 | 19 | 21 | 18 |\n| 27 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 | 3 | 4 | 1 | 26 | 28 | 25 | 19 | 21 | 18 |\n| 28 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 | 3 | 4 | 1 | 26 | 28 | 25 | 19 | 21 | 18 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Magnum Lustrum Caniculare Iulianum",
+      "definition_pt": "Grande período canicular juliano: ciclo longo no qual Scaliger correlaciona o calendário juliano com os calendários egípcio (Thoth), copta/etíope (Sahami) e persa (Pharauardin), tomando como base o levantamento helíaco de Sirius (Canícula).",
+      "definition_en": "Great Julian Canicular Lustrum: long period in which Scaliger correlates the Julian calendar with the Egyptian (Thoth), Coptic/Ethiopian (Sahami), and Persian (Pharauardin) calendars, based on the heliacal rising of Sirius (the Dog Star)."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Coluna 'Sahami' provavelmente refere-se a calendário etíope/copta (do árabe 'sanat', ano), mas a identificação exata depende do contexto das páginas precedentes.",
+    "Na linha 20, coluna Sahami do ano 756, o valor lido parece ser '7' em vez do esperado '6' (sequência); pode ser erro tipográfico do impressor ou leitura imprecisa do scan.",
+    "Os cabeçalhos numéricos (672, 700, 728, 756, 784, 812) são anos dentro do Magnum Lustrum, com diferença constante de 28 anos (=cyclus solis), confirmando a estrutura tabular."
+  ],
+  "notes": "Página inteiramente tabular, parte de uma sequência de tábuas de concordância calendárica. As colunas mostram a data juliana correspondente ao 1º dia (e dias subsequentes) dos meses Thoth, Sahami e Pharauardin em diferentes anos do grande ciclo canicular. A diferença regular de 7 dias julianos entre colunas sucessivas (30 Mai → 23 Mai → 16 Mai → 9 Mai → 2 Mai → 25 Apr) corresponde ao deslocamento do ano vago egípcio (365 dias) em relação ao ano juliano (365,25 dias) ao longo de 28 anos: 28 × 0,25 = 7 dias. Cada bloco de 4 linhas reflete o ano bissexto juliano, após o qual a data recua um dia. A folha pertence claramente ao Livro I do *Isagogicorum*, conforme cabeçalho 'LIBER PRIMVS'. Marca de quaderno 'I iij' no rodapé (signatura tipográfica).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4101,
+    "stop_reason": "end_turn"
+  }
+}

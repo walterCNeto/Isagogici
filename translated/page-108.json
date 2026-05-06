@@ -1,0 +1,48 @@
+{
+  "page": 108,
+  "page_type": "table",
+  "latin": "76\nCANONUM ISAGOGICORUM\nCAPUT DECIMUM.\nTABULA PRIMA INDORUM.\nCYCLUS MAGNUS ANNORUM IULIANORUM CCXXVIII.\n\n[Tabula sequitur cum columnis: Anni Iul. expansi | Numerus aureus | 0 | 19 | 38 | 57 | 76 | 95 | 114 | 133 | 152 | 171 | 190 | 209 | An. Iul. collecti]\n\nTABULA",
+  "pt": "76\nDOS CÂNONES ISAGÓGICOS\nCAPÍTULO DÉCIMO.\nPRIMEIRA TÁBUA DOS INDIANOS.\n*Cyclus Magnus* dos anos julianos: 228.\n\n[Segue a tábua, com colunas dos anos julianos expandidos (*Anni Iuliani expansi*), do *Numerus aureus*, e dos anos julianos coletos (*Anni Iuliani collecti*) em múltiplos de 19, de 0 a 209, mais a linha final dos *Anni Arabum collecti*.]\n\nTÁBUA",
+  "en": "76\nOF THE ISAGOGIC CANONS\nCHAPTER TEN.\nFIRST TABLE OF THE INDIANS.\n*Cyclus Magnus* of Julian years: 228.\n\n[The table follows, with columns for the expanded Julian years (*Anni Iuliani expansi*), the *Numerus aureus*, and the collected Julian years (*Anni Iuliani collecti*) in multiples of 19, from 0 to 209, plus the final row of *Anni Arabum collecti*.]\n\nTABLE",
+  "tables": [
+    {
+      "caption_pt": "Tábua Primeira dos Indianos. Ciclo Magno de 228 anos julianos. As linhas indicam os anos julianos expandidos (1–19) com seu respectivo *Numerus aureus*; as colunas indicam os anos julianos coletos (0, 19, 38 ... 209). Cada célula dá a data juliana correspondente ao início do ano indiano. As linhas com '0' indicam anos bissextos com entrada vazia (ajuste pelo dia bissexto).",
+      "caption_en": "First Table of the Indians. Great Cycle of 228 Julian years. Rows indicate the expanded Julian years (1–19) with their *Numerus aureus*; columns indicate the collected Julian years (0, 19, 38 ... 209). Each cell gives the Julian date corresponding to the beginning of the Indian year. Rows marked '0' indicate leap-year adjustments (empty entries reflect the bissextile day).",
+      "markdown": "| Anni Iul. expansi | Numerus aureus | 0 | 19 | 38 | 57 | 76 | 95 | 114 | 133 | 152 | 171 | 190 | 209 | An. Iul. collecti |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | XIIII | 1 Ian. | 28 Mai | 22 Oct. | 29 Mar. | 24 Aug. | 30 Ian. | 26 Iuni | 20 Nou. | 27 Apr. | 23 Sep. | 28 Feb. | 25 Iuli | |\n| 0 | XIIII | 20 Dec. | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | |\n| 2 | XV | 10 Dec. | 17 Mai | 12 Oct. | 19 Mar. | 13 Aug. | 19 Ian. | 15 Iuni | 10 Nou. | 17 Apr. | 11 Sep. | 17 Feb. | 14 Iuli | |\n| 3 | XVI | 29 Nou. | 6 Mai | 30 Sep. | 8 Mar. | 3 Aug. | 7 Ian. | 4 Iuni | 30 Oct. | 6 Apr. | 31 Aug. | 6 Feb. | 4 Iuli | |\n| 0 | XVI | 0 | 0 | 0 | 0 | 0 | 28 Dec. | 0 | 0 | 0 | 0 | 0 | 0 | |\n| 4 | XVII | 18 Nou. | 25 Apr. | 20 Sep. | 25 Feb. | 23 Iuli | 17 Dec. | 24 Mai | 19 Oct. | 26 Mar. | 21 Aug. | 26 Ian. | 22 Iuni | |\n| 5 | XVIII | 7 Nou. | 14 Apr. | 9 Sep. | 14 Feb. | 11 Iuli | 7 Dec. | 14 Mai | 8 Oct. | 15 Mar. | 10 Aug. | 15 Ian. | 11 Iuni | |\n| 6 | XIX | 27 Oct. | 3 Apr. | 29 Aug. | 3 Feb. | 1 Iuli | 25 Nou. | 3 Mai | 27 Sep. | 4 Mar. | 30 Iuli | 5 Ian. | 1 Iuni | |\n| 0 | XIX | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 25 Dec. | 0 | |\n| 7 | I | 16 Oct. | 23 Mar. | 18 Aug. | 24 Ian. | 20 Iuni | 14 Nou. | 21 Apr. | 17 Sep. | 22 Feb. | 19 Iuli | 13 Dec. | 21 Mai | |\n| 8 | II | 6 Oct. | 13 Mar. | 7 Aug. | 13 Ian. | 9 Iuni | 4 Nou. | 11 Apr. | 6 Sep. | 11 Feb. | 8 Iuli | 3 Dec. | 10 Mai | |\n| 9 | III | 24 Sep. | 2 Mar. | 27 Iuli | 1 Ian. | 29 Mai | 24 Oct. | 31 Mar. | 25 Aug. | 31 Ian. | 28 Iuni | 22 Nou. | 29 Apr. | |\n| 0 | III | 0 | 0 | 0 | 22 Dec. | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | |\n| 10 | IIII | 13 Sep. | 19 Feb. | 17 Iuli | 11 Dec. | 18 Mai | 12 Oct. | 20 Mar. | 15 Aug. | 20 Ian. | 16 Iuni | 11 Nou. | 18 Apr. | |\n| 11 | V | 3 Sep. | 8 Feb. | 5 Iuli | 30 Nou. | 7 Mai | 2 Oct. | 9 Mar. | 4 Aug. | 9 Ian. | 5 Iuni | 31 Oct. | 8 Apr. | |\n| 0 | V | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 29 Dec. | 0 | 0 | 0 | |\n| 12 | VI | 23 Aug. | 28 Ian. | 24 Iuni | 19 Nou. | 27 Apr. | 21 Sep. | 26 Feb. | 23 Iuli | 19 Dec. | 26 Mai | 20 Oct. | 27 Mar. | |\n| 13 | VII | 12 Aug. | 18 Ian. | 14 Iuni | 8 Nou. | 15 Apr. | 11 Sep. | 15 Feb. | 13 Iuli | 7 Dec. | 15 Mai | 9 Oct. | 16 Mar. | |\n| 14 | VIII | 1 Aug. | 7 Ian. | 3 Iuni | 29 Oct. | 5 Apr. | 30 Aug. | 5 Feb. | 2 Iuli | 27 Nou. | 3 Mai | 29 Sep. | 6 Mar. | |\n| 0 | VIII | 0 | 27 Dec. | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | |\n| 15 | IX | 21 Iuli | 16 Dec. | 23 Mai | 18 Oct. | 25 Mar. | 19 Aug. | 25 Ian. | 22 Iuni | 16 Nou. | 23 Apr. | 17 Sep. | 23 Feb. | |\n| 16 | X | 10 Iuli | 5 Dec. | 12 Mai | 6 Oct. | 14 Mar. | 9 Aug. | 14 Ian. | 10 Iuni | 5 Nou. | 12 Apr. | 7 Sep. | 13 Feb. | |\n| 17 | XI | 29 Iuni | 24 Nou. | 1 Mai | 26 Sep. | 3 Mar. | 29 Iuli | 3 Ian. | 30 Mai | 25 Oct. | 1 Apr. | 27 Aug. | 31 Ian. | |\n| 0 | XI | 0 | 0 | 0 | 0 | 0 | 0 | 24 Dec. | 0 | 0 | 0 | 0 | 0 | |\n| 18 | XII | 18 Iuni | 13 Nou. | 21 Apr. | 15 Sep. | 20 Feb. | 17 Iuli | 13 Dec. | 20 Mai | 14 Oct. | 21 Mar. | 16 Aug. | 20 Ian. | |\n| 19 | XIII | 8 Iuni | 2 Nou. | 9 Apr. | 4 Sep. | 9 Feb. | 7 Iuli | 2 Dec. | 9 Mai | 3 Oct. | 10 Mar. | 5 Aug. | 11 Ian. | |\n| | | 20 | 40 | 59 | 79 | 98 | 118 | 138 | 157 | 177 | 196 | 216 | 235 | An. Ara. collecti |\n| | | 19 | 38 | 57 | 76 | 95 | 114 | 113 | 152 | 171 | 190 | 209 | 228 | An. Iul. collecti |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Cyclus Magnus Annorum Iulianorum (CCXXVIII)",
+      "definition_pt": "Ciclo Magno de 228 anos julianos (= 12 × 19), usado por Scaliger como matriz fundamental da Tábua Primeira dos Indianos: combina o ciclo lunar de 19 anos (*Enneadecaeteris*) doze vezes, abrangendo o intervalo de retorno completo entre o calendário luni-solar indiano e o calendário juliano.",
+      "definition_en": "Great Cycle of 228 Julian years (= 12 × 19), used by Scaliger as the fundamental matrix of the First Table of the Indians: it combines the 19-year lunar cycle (*Enneadecaeteris*) twelve times, spanning the complete period of return between the Indian luni-solar calendar and the Julian calendar."
+    },
+    {
+      "term": "Tabula Prima Indorum",
+      "definition_pt": "Tábua Primeira dos Indianos: dispõe, para cada combinação de ano juliano expandido (1–19, com seu *Numerus aureus*) e de ano juliano coleto (múltiplos de 19, de 0 a 209), a data juliana correspondente ao início do ano indiano. As linhas marcadas com '0' tratam dos ajustes bissextis. A linha final correlaciona os anos com os *Anni Arabum collecti*.",
+      "definition_en": "First Table of the Indians: it sets out, for each combination of expanded Julian year (1–19, with its *Numerus aureus*) and collected Julian year (multiples of 19, from 0 to 209), the Julian date corresponding to the beginning of the Indian year. Rows marked '0' handle leap-year adjustments. The final row correlates the years with the *Anni Arabum collecti*."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "Caput Decimum (Capítulo X), referindo-se à exposição precedente sobre o calendário indiano",
+      "context": "CAPUT DECIMUM. TABULA PRIMA INDORUM."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A linha inferior da tabela apresenta '113' onde a sequência regular exigiria '133' (entre 138/138 e 152) — provável erro tipográfico do impressor de 1606; mantenho '113' conforme impresso.",
+    "A numeração das colunas no rodapé (19, 38, 57, 76, 95, 114, 113, 152, 171, 190, 209, 228) corresponde aos *Anni Iuliani collecti* e fecha o ciclo em 228 (= 12 × 19), confirmando o título *Cyclus Magnus CCXXVIII*.",
+    "A leitura '14 Iuli' (em vez de '4 Iuli' ou '24 Iuli') na coluna 209 da linha 2 é dúbia no scan; segui o que parece estar impresso.",
+    "Em algumas células com data abreviada ('5 Iuni', '15 Iun.' etc.) há ambiguidade entre 'Iuni' e 'Iuli' devido à qualidade do scan; transcrição feita pela leitura mais provável."
+  ],
+  "notes": "Esta página é puramente tabular — a Tabula Prima Indorum, ferramenta de conversão entre o calendário indiano (luni-solar) e o calendário juliano, organizada num *Cyclus Magnus* de 228 anos. O eixo vertical lista os 19 anos do ciclo lunar metônico (com o *Numerus aureus* respectivo) e o eixo horizontal lista múltiplos de 19 (0 até 209), de modo que qualquer ano dentro de um período de 228 anos pode ser localizado na intersecção. As linhas '0' intercaladas representam o dia bissexto juliano que desloca a entrada de calendário em determinados anos. A linha final correlaciona o sistema com os *Anni Arabum collecti* (anos da Hégira agregados), tema desenvolvido nos capítulos seguintes. A numeração de página '76' impressa contradiz a paginação solicitada (108); é provável que a página 108 da edição/digitalização corresponda à página 76 numerada no corpo do texto — discrepância típica em livros do início do séc. XVII com paginação independente por seção.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5237,
+    "stop_reason": "end_turn"
+  }
+}

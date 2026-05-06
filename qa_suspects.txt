@@ -1,0 +1,391 @@
+# Páginas suspeitas para revisão manual (389)
+
+p.1: flag: A página é a capa externa do volume, sem texto impresso; o b; flag: As iniciais entrelaçadas no monograma são de leitura ambígua
+p.2: flag: Página sem conteúdo textual da obra propriamente dita; apena; flag: Leitura da cota '2563 A3' incerta devido à caligrafia; pode ; flag: Leitura de 'KF 62-5690' parcialmente incerta no scan.
+p.3: flag: Página sem conteúdo textual original de Scaliger; trata-se d
+p.4: flag: Página em branco (verso de folha de rosto ou página em branc
+p.5: flag: A data de impressão indicada no frontispício é cIↃ IↃc LVIII; flag: Algumas formas gregas no scan apresentam acentuação e ortogr; flag: Segunda epígrafe grega ('Ἐλευθερίων μαθημάτων...') parece se
+p.6: pt/latim ratio = 2.59; flag: Página essencialmente em branco (verso da página de rosto ou; flag: Marcas de offset visíveis no topo sugerem texto de página op
+p.7: flag: A frase 'umbratica Sophistarum factio pestilenti afflatu sid; flag: 'gracchulorum Criticorum' é diminutivo pejorativo construído
+p.8: flag: Identidade do 'amigo íntimo' que jurava ter encontrado erros; flag: Identidade do 'outro homem piedoso, sumamente perito nas trê; flag: A leitura 'no obijsse' (=non obiisse) é interpretada como 'n
+p.9: flag: Esta é parte dos Prolegômenos polêmicos, não do tratado técn; flag: A grafia 'Cyathos' (entre os copos) joga com o contraste ret; flag: O termo 'Cathari' aqui designa os adversários cronológicos (
+p.10: flag: Página de prolegômenos polêmicos: trata-se de invectiva irôn; flag: O número de dias intercalares 'XXIII, interdum XXII' refere-; flag: 'Catharoprophetae' (καθαρο-προφῆται) é cunho satírico de Sca
+p.11: flag: A leitura da tabela na linha de 1612 mostra 'EU' que provave; flag: Os caracteres numéricos da tabela (especialmente coluna 'Cha; flag: A frase 'a Patriarchis ad posteros transmissam' fica suspens
+p.12: flag: Esta página é fortemente irônica/polêmica: Scaliger zomba de; flag: Os termos gregos προήγησις τοπική e χρονική foram transliter; flag: Cita Homero (Ilíada II.484: ἔσπετε νῦν μοι Μοῦσαι...) e Virg
+p.13: flag: A leitura 'I XVI Octobris' (primum anno Mundi 16 Octobris) é; flag: Forma grega 'ὑπερπεφυλακά' incomum; possivelmente leitura de; flag: A grafia 'Παγχάλιον ἀνακυκλωτικόν' (em vez de Παγκάλιον ou s
+p.14: flag: Os números '1183' e '1185' são ambíguos no scan (a leitura '; flag: A expressão 'periodi propheticae' refere-se aos três período; flag: 'Krionos' (Κριονός) é termo técnico raro, refere-se ao mês o
+p.15: flag: A página é parte dos Prolegomena polêmicos: Scaliger ataca u; flag: Os termos 'Krionos' e 'Tauronos' (genitivos gregos de Krios ; flag: Os dois versos ('Sed nunc Anglus homo... Est oculos ausus...
+p.16: flag: A página é parte dos Prolegomena polêmicos: Scaliger respond; flag: A frase 'PROLEGOMENA' confirma que esta página pertence à in; flag: O número '5608 ab hinc annis' refere-se à cronologia proféti
+p.17: flag: O 'propheta' polemicamente atacado nesta página é o adversár; flag: O número '156 anos' para Belésis/Nabonassar é apresentado po; flag: A figura 'LIIII annis' (54 anos de discrepância na Epocha do
+p.18: flag: O 'profeta' (propheta) ridicularizado em toda esta página é ; flag: A passagem 'XV, XII I' provavelmente se refere a 'XV, XIII' ; flag: Beleso (Belesim Chaldaeum) é figura semi-lendária citada com
+p.19: flag: A leitura da data juliana proléptica '4.4.414' é incerta no ; flag: O número '3161' para o ano judaico é claro no scan, mas conv; flag: Possível discrepância: Kimhi situa o jejum de Godolias em 2 
+p.20: flag: A referência 'II Chron. XXXVIII, 23' é problemática: II Crôn; flag: A referência 'II Chron. XXVII, 11' para o reinado de Sedequi; flag: Símbolos numéricos com sobrelinha no original (X, XI, XX, et
+p.21: flag: Página de prolegômenos polêmicos: Scaliger ataca um adversár; flag: Termos hebraicos תקופות (tequfot) e תשובות השנה (teshuvot ha; flag: ἀδιατρεψία: hapax raro; traduzido como 'indiferença/inflexib
+p.22: flag: Os números '2.4.414' e '4.15.747' são notações cronológicas ; flag: A palavra grega 'διοπτῇ' parece estar em vocativo/dativo sin; flag: 'Merlinus' refere-se a um adversário polêmico de Scaliger (p
+p.23: flag: As frações nos cálculos finais (anos 10 [frac], dias 249 [fr; flag: O termo 'scrupula' aqui se refere a unidades sub-horárias (e; flag: O nome 'Merlinus Anglus' refere-se a Robert Pont ou possivel
+p.24: flag: divergencia_com_clavius: ataque sistemático à reforma gregor; flag: divergencia_com_clavius: Scaliger considera que o ciclo greg; flag: divergencia_com_lilius: Aloísio Lílio (Luigi Lilio), autor d
+p.25: flag: A leitura 'Merlini' (anni communes Merlini) é incomum; prova; flag: Algumas formas gregas no scan estão parcialmente abreviadas ; flag: A frase 'simius quidam Mathematicus' ('certo macaco de Matem
+p.26: flag: Lidyat: identificação provável com Thomas Lydiat (1572-1646); flag: Termo grego ἀνακατάστασις (anakatastasis) lido a partir de '; flag: Leitura 'Lilioclaviani' / 'Lilioclaviavi' confirmada pelo co
+p.27: flag: Termo grego ἀναπεπημον (anapepēmon) é leitura provável; sign; flag: Em 'xviii diem Aprilis, quae est vigesima octaua a citimo te; flag: divergencia_com_clavius: toda a página é polêmica anti-Clávi
+p.28: flag: A frase 'homo lutteus' (página, parece transcrição com 'tt' ; flag: Citação grega 'εἵματα δ' εὖ, καὶ πορφυρᾶν, λόγοισι ποικίλαις; flag: O termo 'γεωργίας' aparece como exemplo de 'epocha fanática'
+p.29: flag: Última linha cortada na imagem: 'Si quis hos Canones, quos &; flag: A expressão grega 'ἀνὰ διορισμῦ' parece ter forma irregular ; flag: 'Hebdomada annalis' interpretada como ciclo de 7 anos (hebdô
+p.30: flag: Acentuação e divisão do texto grego de Epicarmo reconstruída; flag: A frase final 'Denique vestimenta, ornamenta quaecunque, cul
+p.31: flag: A página é parte de um opúsculo distinto ('Iudicium de Thesi; flag: A data 'CIƆ.IƆ.CVIII' interpretada como 1608 (notação numéri; flag: Cifras numéricas calendáricas: 'annus conditus templi erat c
+p.32: flag: A referência 'capite xxiii' parece referir-se a Jeremias 22 ; flag: A passagem 'oria sacra' provavelmente é erro tipográfico por; flag: Beroaldus aqui = Matthaeus Beroaldus (Mathieu Béroalde, 1520
+p.33: flag: Discrepância na transcrição da tabela: o texto narrativo ini; flag: A grafia 'νυχθήμερου' aparece em forma genitiva manuscrita; 
+p.34: flag: Na tabela 'Numerus deductus' o resultado impresso é '3. 12. ; flag: Transcrição grega ἑνῶσαι ἀπὸ τέλους reconstruída a partir da
+p.35: flag: Numeração do cânone: à esquerda do título 'Sexagesimas in sc; flag: A frase 'integritas diei, hoc est 25 horae' é tecnicamente s; flag: Os títulos correntes 'D. H.' nas tabelas indicam 'Dies, Hora
+p.36: flag: Na linha '70' da Parte Anterior, a entrada lê-se '3 53 20' (; flag: Algumas marcas de minuto/segundo/terço (′ ″ ‴) na imagem ori
+p.37: flag: Numeração marginal: o numeral '5' (página 5) é visível no ca; flag: Em XIII ('saeculo Constantini Magni'), 'saeculo' pode ser en
+p.38: pt/latim ratio = 0.24; en/latim ratio = 0.25; flag: Tabela tipograficamente densa: a transcrição célula a célula
+p.39: flag: Na coluna 'Indictiones Collectae', os valores da terceira su; flag: Linha 14 mostra 'Numerus Indict.' = 8 e 'Dodecaet.' = IIII, ; flag: Na linha 3, 'Numerus Indict.' = 6 parece quebrar a sequência
+p.40: flag: O verso mnemônico 'Gaudet Francus Equo, David Cane, Baltasar; flag: Os números romanos sobrelinhados (xvii, xxiiii, xix, xv) for
+p.41: flag: Os algarismos com barra superior (numerais romanos com vincu; flag: A figura 'C' que precede uma célula da Tábua refere-se a uma
+p.42: en/latim ratio = 0.70; flag: Os nomes árabes 'Giumadun alter', 'Regiabu', 'Sahabenu' são ; flag: Os nomes hebraicos/sírios 'Conun alter' (Kānūn al-thānī?), '
+p.43: flag: Cabeçalho de Maio: 'IIOR' provavelmente é grafia de Scaliger; flag: Algarismos romanos diante de cada nome de mês não-juliano (X; flag: Asterisco (*) na coluna de epactas marca dia da epacta '29' 
+p.44: flag: Cabeçalho: o algarismo à esquerda dos meses não-julianos par; flag: A coluna *Epactae* mostra DUAS séries numéricas paralelas (a; flag: Em 25 de agosto e 26 de julho aparece o asterisco (*) que em
+p.45: flag: Na coluna Cyclus Iudaicus de Karkinon dia 24, a entrada lê-s; flag: Em Leonton dia 22, a Epacta aparece como '*' (asterisco isol; flag: Algumas entradas das colunas Cyclus Iudaicus e Menses Iudaic
+p.46: flag: A leitura individual das células da Tabula Prima é altamente; flag: A célula (linha 4, coluna 260) parece conter um ponto/borrão; flag: O símbolo lunar (☾) na Tabula Secunda foi interpretado como 
+p.47: flag: Página inteiramente tabular: a leitura dos caracterismos ind; flag: Na linha do Numerus Aureus IX da Pars Posterior, a coluna co; flag: A entrada 'VI Kal. Mar. pott.' (Numerus Aureus V, Pars Poste
+p.48: flag: A definição XI fala em 'enneadecaeteridon XVI' (16 ciclos de
+p.49: flag: A grafia exata dos termos gregos manuscritos (προήγησις, προ; flag: A leitura '4.c.3' como conteúdo da célula do *angulus commun
+p.50: flag: Notação 'Q. 6' e 'f, 4' no Cânon Nono é abreviação técnica d; flag: O termo 'Epacta Sarracenica' refere-se ao sistema de epactas; flag: A frase 'sub proxime minore frontali 133' assume que '133' é
+p.51: flag: No texto latino (Monitum do Cânone XI) Scaliger escreve 'quo; flag: A série das Epactas dos meses transcrita do scan parece cont
+p.52: flag: Em Scorpion dia 30, a coluna *Epactae* mostra '29*' com aste; flag: Em Zygon dia 30 e Toxon dia 29, a coluna *Epactae* mostra ap; flag: Algumas células do *Cyclus Iudaicus* aparecem vazias na imag
+p.53: flag: Alguns valores de epacta marcados com asterisco (29*) indica; flag: Em Hydron, dia 4, a coluna Dies Iuliani aparece como '0' no ; flag: Algumas células do Cyclus Iudaicus aparecem em branco (anos 
+p.54: flag: Algumas células da tabela parecem vazias por design (não há ; flag: Na coluna *Epactae* de Tauron dia 28 e Didymon dia 26, lê-se; flag: Em Krion 29 a Epacta é '*' (asterisco), provavelmente epacta
+p.55: pt/latim ratio = 0.27; en/latim ratio = 0.27; flag: Os nomes dos meses árabes 'RABIU PRIOR', 'RABIU ALTER', 'GIU
+p.56: flag: A coluna de cabeçalho à esquerda contém termo grego abreviad; flag: Na linha do ciclo 8208 (dia 27), a coluna IX mostra '2' que ; flag: Em algumas células o '*' (asterisco indicando epacta nula/30
+p.57: flag: Algumas células da tábua estão parcialmente borradas no scan; flag: Na primeira linha (Dies hypoleipseos = 0), a leitura '28' na; flag: A coluna final (Numerus aureus III) mostra valores que difer
+p.58: flag: Várias células da tábua têm leitura difícil pela qualidade d; flag: Na linha 8 da Pars Posterior, coluna 133, a leitura 'd 4 1' ; flag: Na linha 14 da Pars Prior (Kal. Nouemb.), coluna 0, leitura 
+p.59: flag: A figura usada para marcar as Tetracosieterides na segunda t; flag: O texto refere uma 'Tabula secunda' e uma 'Tabula prima' que
+p.60: flag: O símbolo '⊆' (figura) no início da página é uma aproximação; flag: A frase grega 'ἐν ᾧ ... ᾗ περὶ ὅ' é uma distinção técnica en; flag: Termo técnico 'ὑπόλειψις' aparece com diferentes acentuações
+p.61: flag: Os numerais com barra superior (e.g. vi, vii, xxx) foram int; flag: A frase 'P. 7. Litera Y' parece referir-se a entradas tabula; flag: Termos gregos (ὑπόλειψις, ἀντικαταστατός, σεληνιακή) foram l
+p.62: flag: A leitura 'ιι Scholion' (Escólio II) do Cânone quarto está c; flag: Cautela cronológica explícita de Scaliger: 'mensura anni sid; flag: A doutrina aqui empregada é a da trepidação de Thâbit ibn Qu
+p.63: flag: Linha da tabela 'Anni 80': leitura 'I 56 59' parece anômala ; flag: Linha 'Anni 3' impressa como '0 1 31' parece erro tipográfic; flag: Caractere ' ′ ″ ' (minutos e segundos de arco) inferido dos 
+p.64: flag: Algumas células estão parcialmente apagadas no scan; em part; flag: A entrada na coluna de Iiar na linha 18 (dia 18) tem o ciclo; flag: Na coluna Nisan, dia 30, a leitura 'XII Iiar' deveria normal
+p.65: pt/latim ratio = 0.34; en/latim ratio = 0.34; flag: Em Elul, dia 27, a coluna do *Cyclus Iudaicus* parece ler 'L
+p.66: flag: Coluna 'Cyclus Iudaicus' contém valores do ciclo lunar de 19; flag: Na coluna 'Menses Iudaici' do Marchesvan, dia 1, abreviação ; flag: Posição exata do marcador 'TEKUPHA TISRI' na tabela de Tisri
+p.67: flag: Na coluna juliana de Sebat dia 26, o número impresso parece ; flag: Algumas células da coluna 'Cyclus Iudaicus' aparecem em bran; flag: A coluna 'Regul. dierum' (concorrente ferial = dia da semana
+p.68: flag: Na Tábua Prima (Cyclus Solis), várias entradas das últimas l; flag: Na Tábua II, linha 12 mostra um asterisco '*' no lugar do va; flag: Coluna 'Itd.' (provavelmente abreviação de 'Itidem' ou unida
+p.69: pt/latim ratio = 0.54; en/latim ratio = 0.54; flag: Página inteiramente tabular: leitura de alguns dígitos no sc
+p.70: flag: Linha 12 da tabela: 'Epacta plena' marcada com asterisco (sa; flag: Linha 15 da tabela: valor 'Scrup. 19' parece anomalamente ba; flag: Valor 'Mom. 68' nas linhas 3 e 'Mom. 72', 'Mom. 64' em outra
+p.71: flag: No texto corrido aparece '975.50' como momenta finais, mas a; flag: A palavra grega 'προηγησιν / προηγησεως' foi transliterada c; flag: O número de página no canto superior é parcialmente legível 
+p.72: flag: O número '178' no Cânon Sexto: verificar aritmética — 5365 -; flag: Numerais sobrelinhados na imagem (xxix, xiiii, etc.) transcr; flag: Na frase 'feria sexta' associada a 29 de Elul: Scaliger é cu
+p.73: flag: Os valores numéricos da tabela inicial (877, 217 nas colunas; flag: A leitura 'LX die a Kal. Martij' foi interpretada como 51 (L; flag: Termos hebraicos zodiacais 'Krionos' (Áries) e 'Zygonos' (Li
+p.74: flag: A numeração no topo da tabela ('VII', 'VIII', 'IX') indica a; flag: O termo grego 'ἡ ὀσχοφορία' em 21 Tisri é peculiar: oscofori
+p.75: pt/latim ratio = 0.22; en/latim ratio = 0.23; flag: Numeração de página parece ser '43' no canto superior direit
+p.76: flag: Sivan dia 25: 'Rabbi Hanania secundus a Pontifice' — leitura; flag: A coluna de Iyar termina em 29 (mês cavo), confirmando a mar; flag: Algumas entradas marginais (ex.: 'Mortui sunt filii Aaron' e
+p.77: flag: A numeração dos meses (X, XI, XII) reflete o ano religioso j; flag: 'Epistemon' é provavelmente Apostomos (Apostemos), figura me; flag: A página é numerada '45' no canto superior direito do scan, 
+p.78: flag: A página é uma folha tabular sem prosa demonstrativa; legend; flag: Alguns valores numéricos finais da tabela segunda (linha 18:; flag: O número de página impresso aparece como '46' no canto super
+p.79: flag: Várias entradas numéricas apresentam ambiguidade na leitura ; flag: A coluna intermediária de cada bloco representa horas (0–23)
+p.80: flag: Página puramente tabular: nenhum texto corrido para traduzir; flag: Várias entradas das tábuas têm caracteres ambíguos no scan (; flag: Na Tábua V, a linha G traz '145' em vez do esperado '1195' (
+p.81: flag: Diversas células da Tábua Sétima são de leitura ambígua devi; flag: Na Tábua Oitava (Annus communis), a coluna 'Adar prior' não ; flag: O valor '18.H.7.l.2' na linha 19, coluna 190, parece anômalo
+p.82: flag: A leitura de 'Character anni embolimai. 5. 21. 589' merece v; flag: No item X, o ciclo lista 'III, VI, VIII, XI, XIIII, XVII, XI; flag: Última linha 'III. Semper' é catchword/início de regra que c
+p.83: flag: A leitura do número 9.203 em (III) e 15.588 em (IIII) depend; flag: Na frase 'tam per hanc, per superioris Canonis' parece falta; flag: Valor 'Nouilunium Tohu' lido como 2.5.204; o valor canônico 
+p.84: flag: Numeração ambígua entre 'embolismum' e 'embolismaeus/embolis; flag: A frase 'Sequens est 5.1,3' apresenta vírgula em vez de pont; flag: Na sequência das frações horárias hebraicas (chalakim), Scal
+p.85: flag: A leitura '3. l. 6. d. 7.' na primeira linha é incerta — pos; flag: O valor 'Scr. 690' / 'Scr. 1000' refere-se a escrúpulos (fra
+p.86: flag: Os valores numéricos da redução final '11. 9. 0.' versus '10; flag: No segundo Scholion, a frase 'characterem autem Tisri esse 3
+p.87: flag: Na tabela, a entrada para Linea Iobel. 36 mostra '176' no sc; flag: A entrada para Linea 51 / Iobelea collecta foi lida como '24; flag: No texto, 'cycli Solaris XVII' e 'septenario XIIII' usam alg
+p.88: pt/latim ratio = 0.24; en/latim ratio = 0.24; flag: A página é predominantemente uma tabela em grego com glosas 
+p.89: pt/latim ratio = 0.58; en/latim ratio = 0.62; flag: A página é inteiramente uma tabela em grego sem prosa latina
+p.90: pt/latim ratio = 0.48; en/latim ratio = 0.48; flag: Numeração da página: o cabeçalho impresso indica '58', mas o
+p.91: pt/latim ratio = 0.50; en/latim ratio = 0.50; flag: A entrada Posideon aparece duplicada na Tabula Prima (linhas
+p.92: flag: Algumas células da imagem digitalizada estão parcialmente ap; flag: A coluna VI bis (Ποσειδεὼν δεύτερος / Apellaios alterum) só ; flag: As marcas ἐξαίρεσις (ἐξαιρ.) e δισέξαιρ. à direita parecem i
+p.93: pt/latim ratio = 0.57; en/latim ratio = 0.56; flag: Algumas datas no scan são parcialmente borradas (especialmen
+p.94: flag: A leitura '60' para o ano calípico da linha 18 (octaeteris 1; flag: Acentuação dos termos gregos (ἱσταμένου, νουμηνίαν, etc.) re
+p.95: flag: Na Tabela das Olimpíadas, a transição da segunda coluna entr; flag: Número de página da imagem indicado pelo usuário (95) diverg
+p.96: flag: Os valores numéricos da tabela final (Latérculo dos meses de; flag: A sigla 'NEOME.' no rodapé é catchword (custos) indicando o 
+p.97: flag: Diversos números feriais (concorrentes) abaixo das datas est; flag: A coluna 'Poseideon b'' (segundo Poseideon, intercalar) só c; flag: Cabeçalho grego das colunas transcrito a partir de leitura d
+p.98: flag: Ano 11, coluna Γαμηλιών: leitura '31 Ian.' parece inconsiste; flag: Ano 26, coluna Μουνυχιών: '18 Apr' rompe a sequência regular; flag: Ano 28, última coluna: '19 Iulj' (Iulij) onde se esperaria '
+p.99: flag: Vários valores numéricos da tabela apresentam ambiguidade no; flag: Os zeros ('0') nas células finais para anos comuns (annus co; flag: A coluna 'Σκιρροφοριών α' representa o Skirophorion regular;
+p.100: flag: Os termos gregos no original (πρυτανείας, ἐνιαυτός, ἐννεαδεκ; flag: Numeral 'LXXVI periodi Calippicae' lido na imagem como 'lxxv; flag: Na seção do Cânon Primeiro o ano IIII é mencionado em duas f
+p.101: flag: Ortografia grega 'Ποσιδεῶν' adotada conforme texto de Scalig; flag: O nome do arconte 'Phanostratus' (Φανόστρατος) aparece em li; flag: Algumas leituras gregas do scholion final (πέμπτῃ ἐπὶ δέκα =
+p.103: pt/latim ratio = 0.29; en/latim ratio = 0.30; flag: Na coluna do meio, a entrada do ano 49 aparece impressa como
+p.104: pt/latim ratio = 0.17; en/latim ratio = 0.17; flag: Cabeçalho da página numerado '72' no canto superior esquerdo
+p.105: flag: Página numerada como '73' no canto superior direito do scan,; flag: Vários valores numéricos da tabela são de leitura difícil de; flag: A coluna 'Anni Arab. 210' termina na linha 18 (não preenchid
+p.106: flag: Na Tabela Quarta, o valor de 'Dies praecessionis' para a lin; flag: O Cânone Terceiro identifica o ano 6317 da Periodus Iuliana ; flag: Os nomes dos meses árabes são latinizados de forma idiossinc
+p.107: flag: A fração '56.243.5/7' (lida como 56 anos, 243 dias, e 5/7) f; flag: A leitura 'periodus Hagarena' começando em '2 de abril' (II 
+p.108: flag: A linha inferior da tabela apresenta '113' onde a sequência ; flag: A numeração das colunas no rodapé (19, 38, 57, 76, 95, 114, ; flag: A leitura '14 Iuli' (em vez de '4 Iuli' ou '24 Iuli') na col
+p.109: pt/latim ratio = 2.57; en/latim ratio = 2.57; flag: Em várias células os algarismos romanos da segunda linha est
+p.110: pt/latim ratio = 0.65; en/latim ratio = 0.61; flag: A nota marginal grega ὑπερ (hyper) marca presumivelmente os 
+p.111: pt/latim ratio = 0.34; en/latim ratio = 0.32; flag: Na linha bissexta após o ano 19 (Numerus aureus XIIII), há u
+p.112: flag: Algumas entradas do *Cyclus Solis* (numerais romanos) estão ; flag: Ano 25 col. 0 lê '28 Nou.' que parece ser erro tipográfico p; flag: Ano 14 col. 150 lê '6 Sep.' embora a sequência sugira fim de
+p.113: flag: Os caracteres gregos no fac-símile são de leitura difícil; t; flag: Na linha sobre a Tabula IIII e os 940 árabes, o numeral '3. 
+p.114: flag: A frase 'Dies 5. 50, id est dies sex fere pro annis Iudorum'; flag: Transcrição das palavras gregas (ἕνη καὶ νέα, νουμηνία) reco; flag: O numeral '5.50' e '3.20' parecem indicar dias e frações sex
+p.115: flag: A leitura 'XXVI. 26.' no exemplo do ano 1012 sugere que Scal; flag: A frase 'pro singulis cyclis accipe tot septenos menses Arab
+p.116: flag: A expressão grega lida no scan como 'ἰουλίου καὶ νέαν' parec; flag: Aparece 'Trincontaeterides' (provável errata por 'Triacontae; flag: Vários trechos do scan (linhas 'Numerus desinet', 'Abiectis'
+p.117: flag: Na linha 9 da parte caldaica, leitura 'xxxi Mart.' verificad; flag: Na linha 10 (parte caldaica), o caráter Krionos lê-se '6' ma; flag: Caracteres Krionos das linhas 8-12 (2, 3, 6, 1, 3) interpret
+p.118: flag: Transcrição dos nomes persas dos dias do mês (Heroes) segue ; flag: A leitura 'Salchodai' (definição IV) é a forma de Scaliger p; flag: Linha 13 da tabela: 'Meharserusch' (Mihr) — leitura da forma
+p.119: flag: Numerais romanos com macron (e.g. XXII, XXX, CXX) lidos do s; flag: A frase 'E regione 22 lustri est XVIII Martij' contém 22 em 
+p.120: flag: Numerais romanos sobrelinhados (XXVIII, XXIX, XXVII, etc.) r; flag: O termo 'Salchodai' (Salchodai Persici) é translitação rara ; flag: A palavra grega final 'ἐπαγομένων' (epagomenoi) refere-se ao
+p.121: flag: Os algarismos com barra superior (xx, xix, xxix) foram lidos; flag: A palavra grega 'ἐπαγομένων' (epagómenoi - dias epagomenais); flag: A natureza exata do 'lustrum' persa de Scaliger (se de 5 ano
+p.122: flag: Na coluna 'Epacta' do Mês II, dia 30, o original imprime '29; flag: Na coluna 'Epacta' do Mês III, dia 29, aparece '*' (asterisc; flag: Mês III, coluna 'Athyr Nabonassaru', dia 27: original parece
+p.123: flag: Vários dígitos das colunas Regulares/Epactae estão de leitur; flag: Nas posições 1-3 da primeira coluna 'Dies mensis' a sequênci; flag: Símbolo '*' nas epactas (linhas 29 e 28) marca posição espec
+p.124: flag: Coluna 'Epacta' do mês VII, dia 27: aparece símbolo '*' indi; flag: Coluna 'Epacta' do mês VIII, dia 27: valor '29*' com asteris; flag: Coluna 'Epacta' do mês IX, dia 26: símbolo '*' análogo ao do
+p.125: flag: Marca '*' nas colunas de Epacta (linhas 26 da tab. X, 25 da ; flag: Coluna 'Pauni' linha 30: valor '22' parcialmente apagado, ma; flag: A coluna Epacta da tabela XI linha 25 mostra apenas '*' sem 
+p.126: pt/latim ratio = 0.50; en/latim ratio = 0.50; flag: Vários valores numéricos da Tábua Primeira são parcialmente 
+p.127: flag: Página é tábua numérica densa; alguns dígitos no scan estão ; flag: O símbolo '*' aparece em várias células — em tabelas cronoló; flag: A coluna 'Praecessio' indica em seu cabeçalho '1 0 546' / '2
+p.128: flag: Na Tabela Sexta, o valor 'Dies = 135' para 2000 anos juliano; flag: O valor '20' (em vez de algo como 270) para 3000 anos pode s
+p.129: flag: Algumas leituras numéricas individuais (especialmente coluna; flag: Linha 1 da coluna 'Pharauardin (140)' aparenta ler '9 Ian.' ; flag: A grafia 'Sahami' (em vez do esperado 'Schahriuar' ou simila
+p.130: flag: A coluna marcada como número de página '98' no canto superio; flag: Algumas leituras do scan são levemente ambíguas (e.g., '30 S; flag: Na coluna 280, linha 17, leitura '30 Nou.' (= 30 de novembro
+p.131: flag: Algumas células nas linhas 25-28 da coluna do ano 392 estão ; flag: Cabeçalho da coluna 'Sahami' aparentemente refere-se ao cale
+p.132: flag: Coluna 'Pharauardin': identificação incerta — pode ser Pharm; flag: Coluna 'Sahami': provavelmente refere-se ao calendário 'sami; flag: Linha 8 da coluna '644 Sahami': leitura '7' incerta — espera
+p.133: flag: Coluna 'Sahami' provavelmente refere-se a calendário etíope/; flag: Na linha 20, coluna Sahami do ano 756, o valor lido parece s; flag: Os cabeçalhos numéricos (672, 700, 728, 756, 784, 812) são a
+p.134: flag: A linha 17 da coluna 868 traz a anotação marginal 'Armenioru; flag: A linha 13 da coluna 952 traz a anotação 'Iezdegird' sobre o; flag: Os números '840, 868, 896, 924, 952, 980' nos cabeçalhos rep
+p.135: flag: Vários algarismos da tábua estão parcialmente apagados ou am; flag: A leitura 'Sahami' para o segundo mês egípcio é a forma usad; flag: A linha 11 da coluna 1036 traz a anotação 'Nabonassar' indic
+p.136: flag: Algumas leituras numéricas na coluna esquerda (1176) estão p; flag: A célula da linha 5, coluna Pharauardin do ano 1176, aparece; flag: Cabeçalho da coluna média transcrito como 'Sahami' (provavel
+p.137: flag: Os anos do quinto bloco (1456) só aparecem completos nas lin; flag: Algumas células nas linhas 21–24 estão parcialmente borradas; flag: O nome do mês 'Sahami' é variante (provavelmente erro tipogr
+p.138: flag: No item VIII, o número '43 εἰκοσιπενταετηρίδες' equivaleria ; flag: Em IIII, o número MCCCCLXI (1461) refere-se a anos egípcios ; flag: Em VIII, a leitura do número 'XLIII' (43) como múltiplo de 2
+p.139: flag: No texto do Canon Quintus aparece 'Thoth 2321' onde o cálcul; flag: A constante 5347 para a era de Iezdegird é a usada por Scali
+p.140: flag: Na linha 'Iezdegirgd' aparece grafia variante (em vez do hab; flag: O caractere '*' usado como valor de *Epacta* nabonassariana ; flag: Algumas marcas de quantidade sobre numerais romanos (e.g. VI
+p.141: flag: Os valores numéricos das tabelas (especialmente as 'partes' ; flag: Possível erro tipográfico: 'IIII die Thoth' (na demonstração; flag: A referência 'Nath numerus horarum' parece ser leitura errad
+p.142: flag: Algumas linhas iniciais do texto (l. 3-5) estão parcialmente; flag: A coluna 'Iul.' (correspondência juliana à direita) na tabel; flag: Na linha 11 da Tabela I, falta o valor da última coluna juli
+p.143: flag: Várias células das tabelas têm dígitos parcialmente apagados; flag: A coluna 'Regulares Aug.' inicia em 4 no mês III dia 1 e em ; flag: Os cabeçalhos no topo das colunas externas (CHARDAD/Geladi e
+p.144: flag: Na linha 28 do mês V, a coluna Epacta exibe um asterisco (*); flag: Algumas células da coluna Numerus Aureus aparecem em branco ; flag: Linha 11 do mês V: o valor da coluna Reg. Aug. lê '14' no sc
+p.145: pt/latim ratio = 0.23; en/latim ratio = 0.25; flag: O cabeçalho da página impressa indica '113', mas o usuário f
+p.146: flag: Coluna 'Regulares Aethiopum' do mês X, dia 30: dígito final ; flag: Mês IX, dia 28: a coluna 'Dies mensis' parece imprimir '33' ; flag: Mês IX, dia 26: marca '*' na coluna Epacta indica epacta nul
+p.147: flag: Algumas leituras numéricas em colunas de Numerus Aureus e Ep; flag: A correspondência juliana exata da linha 25 do mês XI mostra; flag: Possível dia 31 listado para Mesori (linha 7 do mês XII): '3
+p.148: flag: Cabeçalho da coluna 'Dies' na Tabula Secunda traz uma abrevi; flag: Vários dígitos da matriz numérica estão borrados ou ambíguos; flag: Não há texto discursivo nesta página: trata-se de página pur
+p.149: flag: Os escrúpulos (Scru.) na tabela Sultânica parecem operar em ; flag: A leitura do escrúpulo do ano 5 da Tabela Terceira foi recon; flag: Na Tabela Quinta, os valores 'D. 11. 12. 112' (linha 11) pod
+p.150: pt/latim ratio = 0.35; en/latim ratio = 0.36; flag: Vários valores numéricos da Tábua VII estão parcialmente apa
+p.151: flag: Os nomes gregos das divindades egípcias na coluna ΘΕΟΙ ΣΕΒΑΣ; flag: Na Tabela Décima, linha 19, as colunas Epactae e Matque apar; flag: O termo 'Matque' é raro/técnico — Scaliger o introduz aqui a
+p.152: flag: O ano corrente referido pelos cálculos é 1633 dos Augustos /; flag: Leitura 'Tikmith' (variante copta de Paophi 16) baseada na g; flag: A forma 'cognominis Σωθεως' designa o lustro Σώθεως (Sothis)
+p.153: flag: O termo grego no Cânone XIII (πρόγνωσιν ἡμερινήν, 'prognosis; flag: A 'Raiz' (Radix) 5.2.158 e os valores 7.7.0 / 7 21 840 são é; flag: O ano de Cristo Dionisiano '1604' é a época de cálculo (prov
+p.154: flag: O numeral romano da data 'in meridie XIIII diei Martij' está; flag: A leitura 'MDCIIII' (1604) está com macron; confirmada pelo ; flag: Os números de horas/frações na Tabela do Cânon 15 (ex.: '4 1
+p.155: flag: Os números na tabela 'Pars Solaris / Pars Lunaris' são parci; flag: A interpretação de 'Proegesis' (προήγησις) e 'Hypoleipsis' (
+p.156: flag: Item IX ('Ad septimam Dynastian Aegyptiorum') registra '0 an; flag: A entrada XIII (Aera de Rabbi Hillel) e II (Periodus Iuliana; flag: Numeração latina XXIIII / XVIIII (em vez de XXIV / XIX) é es
+p.157: pt/latim ratio = 0.09; en/latim ratio = 0.10; flag: Entrada XXXIII contém o termo grego κληρουχίας (cleruquia/di
+p.158: flag: A grafia 'Hevvilmerodach' (Evil-Merodaque) é peculiar; manti; flag: Em LXXIV o original tem 'vigesiman nonam' (acusativo irregul; flag: Em LXIX 'Athenas ab eo intensas' deve ler-se 'incensas' (inc
+p.159: pt/latim ratio = 0.05; en/latim ratio = 0.05; flag: A entrada XCVI (Heródes Magno) traz ano 4673, anterior ao da
+p.160: flag: Coluna 'Epacta Iuliana' do reinado IX (Ceneres) marcada apen; flag: O número 'III' na coluna Numerus Aureus para Enephes parece ; flag: Nome 'Catechos' / 'Caechos' (Καιέχως em Africano): grafia 'C
+p.161: flag: Anno do reinado de Suphes registrado como LXVI (66) — em out; flag: Número da epacta para Tacheres registrado como 'III' onde a ; flag: Coluna 'Period. Iuliana' para os reis V-IX da IV Dinastia mo
+p.162: flag: Na linha de Phios IV: o valor 'C' (=100) na coluna Cyclus So; flag: Na linha de Methesuphis V: a Epacta indica 'II' (lido na ima; flag: Na linha de Phios IV: Epacta 'VII' aparece onde se esperaria
+p.163: pt/latim ratio = 0.69; en/latim ratio = 0.69; flag: Leitura do nome 'Pachnan' (rei 3 da XV Dinastia) incerta — m
+p.164: pt/latim ratio = 0.55; en/latim ratio = 0.53; flag: Coluna 'Neomenia Zygonos': interpretação técnica — provavelm
+p.165: pt/latim ratio = 0.67; en/latim ratio = 0.70; flag: Nome do quarto rei da 23ª dinastia abreviado como 'Ze......'
+p.166: flag: A coluna 'Neomenia Zygonos' foi traduzida literalmente; Scal; flag: Para Bocchoris, as colunas Numerus Aureus, Epacta Iuliana e ; flag: Para Artabanus (7 meses) a coluna Anni Regnor. está vazia, c
+p.167: flag: Numeração da página: o cabeçalho impresso indica '135', mas ; flag: Algumas colunas (Neomenia Zygonos, Thoth Aegyptiac.) com num; flag: Coluna 'Anni Regnor.' de Sogdianus e do segundo Nepherites s
+p.168: pt/latim ratio = 0.22; en/latim ratio = 0.23; flag: A soma 'MMMMDCLVI' (4656) das 32 Dinastias parece dever-se l
+p.169: pt/latim ratio = 0.38; en/latim ratio = 0.42; flag: O sexto rei da Segunda Dinastia (linha 'VI .........') apare
+p.170: pt/latim ratio = 0.57; en/latim ratio = 0.60; flag: Numeração ordinal dos reis com sobrelinhas no original (XX, 
+p.171: pt/latim ratio = 0.33; en/latim ratio = 0.33; flag: A frase 'Hunc Cyrus imperio Medorum evertit' é elíptica: lit
+p.172: flag: A coluna 'Neomenia Zygonos' (Neomenia conjuncional/zigótica); flag: Para o ano de Dilulaeus (rei IV) a coluna da *Epacta Iuliana; flag: Para Nesnoemondacus, a leitura do scan na coluna *Numerus Au
+p.173: flag: Na linha de Perozes (XVI), o valor da Epacta Iuliana aparece; flag: A grafia 'Cosrses Magnus' (rei XXI) é provavelmente erro tip; flag: Na rubrica final, 'DYNASATIA' é claramente errata por 'DYNAS
+p.174: pt/latim ratio = 0.18; en/latim ratio = 0.17; flag: Califa XII (Zulzimin): a data 'XLIII Aug.' (43 de agosto) é 
+p.175: flag: Transliterações árabes muito idiossincráticas: 'Abiltaleph' ; flag: Datas julianas das colunas conferidas internamente: 622, 632; flag: Os anos de morte de Marwan (ano 65 H = 685 d.C.) e Abd al-Ma
+p.176: flag: Falta o número XXII na sequência impressa (salta de XXI Mahd; flag: A glosa hebraica marginal 'q' próxima a 'misit filium' parec; flag: A correlação 'mater Perozis erat filia Constantini Augusti' 
+p.177: flag: Transliterações dos nomes árabes seguem a ortografia humanis; flag: As glosas hebraicas marginais transliteram os nomes árabes e; flag: Número de anos hégiras conservado fielmente conforme a numer
+p.178: flag: Os números da Hégira aparecem com sobrelinha (notação CCCXX,; flag: A glosa hebraica marginal '[סנאע]' (Segia/Sanā?) é a transli; flag: O número CCCXXVIII para a morte de Ratze foi lido a partir d
+p.179: flag: Os anos cristãos na coluna direita não estão em ordem estrit; flag: Algarismos romanos em alguns inícios de Muharram parcialment; flag: Transliterações hebraicas marginais reproduzidas conforme le
+p.180: flag: Transliterações árabes/persas via hebraico altamente idiossi; flag: Ano CCCCXXVII (427) na primeira linha refere-se ao início do; flag: Nome 'Ben Gazela' = Ibn Jazla, médico bagdadi (não confundir
+p.181: flag: Glosas marginais em hebraico transcritas conforme legibilida; flag: Detalhe histórico problemático: Scaliger afirma que o rei Ba; flag: A frase grega φίμωσιν / ἐπιστόμωσιν τῶν Ἰουδαίων traduzida p
+p.182: flag: Numeral romano 'DXCIX' (599 AH) corresponde a 1202 d.C., mas; flag: O mês de Muharram para 599 AH na imagem está como 'IX Sep' —; flag: Ano de morte de Taher filho de Natzar lido como 'DCLIII' (65
+p.183: flag: Glosas marginais hebraicas parcialmente legíveis: parecem se; flag: O número marginal '624' para a morte de Gengis Khan: Scalige; flag: Identificação geográfica: 'Chita' = Catai (China); 'Ardebali
+p.184: flag: Notas marginais hebraicas/aramaicas presentes (transliterada; flag: Topônimos turcos transliterados de modo idiossincrático: 'Iz; flag: A nota marginal 'a' após 'rex' aponta para uma referência (p
+p.185: flag: Esta página NÃO é típica do Isagogicorum chronologiae canonu; flag: A identificação de 'Liber Secundus' na cabeça da página suge; flag: Topônimos turcos transliterados de difícil identificação cer
+p.186: flag: A data marginal '29 [xxix] Iunj' do ano 1405 está parcialmen; flag: Os numerais romanos das datas hijri/marginais (ixix Nou., xv; flag: Topônimos turcos/orientais (Margaz, Iraznigam, Tarahtinbeg I
+p.187: flag: Glosas hebraicas marginais transcrevem os nomes próprios em ; flag: A grafia 'DCCCXXIIII' para 824 H. é a forma original; o ano ; flag: Topônimos otomanos transcritos por Scaliger conforme fonte (
+p.188: flag: Os anos da Hégira para os incêndios de Adrianópolis aparecem; flag: A leitura do termo hebraico transliterado 'Lifchchach Hamath; flag: A data de morte de Mehmed II foi historicamente em 1481, não
+p.189: flag: A glosa hebraica marginal (שלום שלום, lit. 'paz, paz') que a; flag: Datas marginais à direita correspondem ao calendário juliano; flag: Os anos da Hégira na coluna esquerda são apresentados em num
+p.190: pt/latim ratio = 0.54; en/latim ratio = 0.56; flag: Os números romanos da Hégira na coluna esquerda usam grafia 
+p.191: flag: Os nomes dos soberanos chineses estão em transliteração lati; flag: A leitura 'Bausae privignus' (enteado de Bausa) e 'interfect; flag: Na linha XIX da Lídia, os anos acumulados aparecem como 426 
+p.192: flag: Vocalização das formas hebraicas dos nomes fenícios é tentat; flag: A epíteto grega de Filetero, lida como ὁ Θλιβίας, é incerta ; flag: A cifra XLVII para Pigmalião (47 anos) gera inconsistência a
+p.193: pt/latim ratio = 0.50; en/latim ratio = 0.52; flag: A duração 'ri' meses para Abbarus é provavelmente '3' (iii) 
+p.194: pt/latim ratio = 0.66; flag: Período Juliano de Iosias (XVII) aparece como 3072 no scan, ; flag: Algumas leituras de numerais (epactas, neomenias) na tabela 
+p.195: flag: O numeral mariginal de Antígono é lido como MDCCCCLXXVII (19; flag: O numeral 'Obijt numero MMCXVI' (2116) para a morte de Agrip; flag: Na tabela de Sicônios, o numeral '11 Oct.' aparece com sobre
+p.196: pt/latim ratio = 0.36; en/latim ratio = 0.38; flag: O número '164' aparece como número de página impresso, mas o
+p.197: pt/latim ratio = 0.61; en/latim ratio = 0.62; flag: Na entrada de Proetus, a coluna *Epacta Iuliana* mostra um a
+p.198: pt/latim ratio = 0.66; en/latim ratio = 0.68; flag: Termo 'Zygonos' (Ζυγωνός / Ζυγῶνος) é particular a Scaliger 
+p.199: pt/latim ratio = 0.38; en/latim ratio = 0.40; flag: Vários valores numéricos da tabela são parcialmente apagados
+p.200: flag: Algumas marginalia (números do *Cyclus Solis*?) à esquerda d; flag: A linha 'Theopompus Nicandri F. — 3943' não tem Numerus Aure; flag: A leitura 'Propadas/Propodas' oscila no original; mantida 'P
+p.201: pt/latim ratio = 0.51; en/latim ratio = 0.53; flag: Linha XI da Macedônia (Perdicas): valor da Epacta Iuliana il
+p.202: pt/latim ratio = 0.36; en/latim ratio = 0.40; flag: Vários numerais romanos têm barras superiores danificadas no
+p.203: flag: O número da página impresso é 171, mas a instrução do usuári; flag: A coluna 'Neomenia Zygonos' usa o termo grego ζυγῶνος (zygon; flag: Anos de reinado de Tarquínio Prisco lidos como XXXVIII (38);
+p.204: flag: Numeral marginal junto ao título 'DYNASTIA WISIGOTHORVM... R; flag: Coluna da *Aera* Hispanica para Vália indica CCCCLIIII (454); flag: Forma 'Pallentina clades' (em vez de 'Pollentina') é a leitu
+p.205: pt/latim ratio = 0.27; en/latim ratio = 0.28; flag: Para Leovigildo (XIX), a Aera Hispanica está dada como DCVI 
+p.206: flag: Para o rei XX (Hildebrandus), a tabela registra '0' no ano d; flag: A duração total ('anni CCVI' = 206 anos) corresponde a 568 →; flag: A grafia 'DYANASTIAE HUNNORUM' parece ser erro tipográfico p
+p.207: flag: Linha do 'Olympicum Herculis': o Periodus Iuliana lê-se '394; flag: Na primeira linha o número de Eusébio impresso é 'DIIII' (50; flag: A contagem total declarada no rodapé ('DCCXXVII' = 727) não 
+p.208: flag: A data da morte de Samuel Iarchinai (Mar Samuel) está marcad; flag: A leitura do número de scrupula judaicos do mês (793) está c; flag: A divisão de Rabbi Adda em 76 momentos por scrupulum é a lei
+p.209: flag: A palavra árabe de Saadia Gaon (na imagem aparece como carac; flag: A grafia exata de algumas formas gregas (ἐπαναζώνη / ἀποκατά; flag: Na referência "XLV annis ante Aeram Christi Dionysianam", o 
+p.210: flag: Frações sexagesimais (595, 485, 985) interpretadas como sexa; flag: Polêmica intensa contra Christophorus Clavius: 'magno ludibr; flag: Datas '5 Aprilis' e 'Kal. Aprilis' (= 1 de abril) representa
+p.211: flag: A leitura 'desciuerunt' está clara, mas parte da grafia huma; flag: A citação grega de Zósimo está parcialmente abreviada com si; flag: A 'Epistola XXXII' de Ambrósio é a numeração tradicional usa
+p.212: flag: Termos gregos transliterados a partir de leitura aproximada ; flag: A passagem 'Conditus enim rerum' (sobre 'a fundação das cois; flag: Na linha sobre a Indictio Cesarense, a leitura 'XXIIII Septe
+p.213: flag: A coincidência das datas '18 de Fevereiro novo' e '18 de Fev; flag: Marca '. 1608' na coluna 'Anni Christi' linha IX parece ter ; flag: Na linha XI da tabela, '6323' lê-se '6325' no scan ('6325' p
+p.214: flag: Cronologia mundi/Aera Iudaica: Scaliger fixa o início da pri; flag: Possível erro tipográfico nas citações gregas devido à quali; flag: Ambrosius Epistola LXXXIII: a numeração das epístolas de Amb
+p.215: flag: Polêmica explícita e severa contra Christophorus Clavius — S; flag: Transcrição grega das palavras προήγησιν σεληνιακήν, πανσέλη; flag: Número '53 dias' (LIII) entre 13 de fevereiro e 8 de abril: 
+p.216: flag: A grafia grega σαλάχθλα aparente no texto provavelmente repr; flag: Identificação de 'Anastasius lib. xxii' incerta: pode ser An; flag: A palavra grega ἀναστάσιμον foi reconstruída a partir de 'αν
+p.217: flag: Scaliger faz uma emenda textual ousada ao texto de Ambrósio:; flag: Conclusão cronológica importante: a Igreja Latina contava a 
+p.218: flag: divergencia_com_clavius: Scaliger acusa Clavius de ter pertu; flag: Hebraico transcrito tentativamente como מולד הלבנה ('molad h; flag: Termos gregos τριακάδα, ἕνην καὶ νέαν, ἀντιστρέφοντα, ἀντιστ
+p.219: flag: polemica_violenta_contra_Clavius: Scaliger usa linguagem del; flag: alusao_mitologica_dificil: a piada com Latmos/Endimião e Anf; flag: termo_'discolorum collegium'_e_'bicolorum contubernium': ref
+p.220: flag: Termo grego 'ἀπεριοκεψίας' incomum: lemos 'aperioskepsia' (f; flag: A leitura 'IDV' (sigla provável referindo-se ao tetragrama /; flag: Numeral 'XXVI cavos reliquisse' relativo a meses parece anôm
+p.221: flag: A correspondência de datas entre o calendário juliano e o gr; flag: A frase 'XIIII Martij, III Aprilis novae editionis' parece c; flag: O termo 'collegium venerandum epactarum' é claramente irônic
+p.222: flag: divergencia_com_clavius: Scaliger sustenta que o terminus pa; flag: divergencia_com_clavius: rejeição da 'epacta nigra 25' como ; flag: divergencia_com_clavius: ataque global à reforma gregoriana,
+p.223: flag: A tabela maior do scan apresenta quatro colunas numéricas (d; flag: Algumas células da tabela menor (mês de Março) aparecem em b; flag: A página termina meio de frase ('proxime absunt'), continuan
+p.224: flag: Os valores fracionários de horas/escrúpulos ('hor. 23. 880',; flag: A palavra grega 'κάνθων' (mula/burro de orelhas duras) tradu; flag: Leitura de 'MDCIIII' (1604) como 'este ano' fixa a redação d
+p.225: flag: A última linha da primeira tabela (1755, A, 5, II Martii) pa; flag: Algumas leituras de numerais romanos sobrelinhados (XXVIII, ; flag: A forma 'amctuntur' (lido provavelmente como 'amplectuntur' 
+p.226: flag: Crítica polêmica direta a Christoph Clavius (jesuíta, autor ; flag: A leitura 'XIII collectos cyclos = 247 anni' é coerente: 13 ; flag: A frase grega 'ἕνη καὶ νέα' (do velho-e-novo dia, ático) con
+p.227: flag: polemica_com_clavio: Scaliger acusa Clávio de inépcia por te; flag: termo_grego: 'τρισκαιδεκαδα' (período de 13 dias) atribuído ; flag: ogdoas_romana: a referência ao 'oitenário' romano alude ao c
+p.228: flag: Os números 'post cccii annos', 'post dcvi', 'post ccxxxviii'; flag: A expressão grega 'κατὰ προήγησιν σεληνιακήν' (κατὰ προήγησι; flag: O termo 'pueri in faba' é provérbio obscuro: provavelmente a
+p.229: flag: Polêmica anti-Clávio: Scaliger ataca duramente Clavius e o c; flag: Texto latino diz 'annorum CCCLV' onde claramente se entende ; flag: Ambiguidade no número 'LXIII' (63): pode referir-se ao ano j
+p.230: flag: Os números de dias do ano lunar (354 / 353) estão registrado; flag: Identificação do 'Mathematicus simius' como provável alusão ; flag: Identificação do 'ventosissimus illius πομφολυγώδους Bibliot
+p.231: flag: divergencia_com_clavius: Scaliger acusa Clavius (Christophor; flag: Termo grego ἕνη καὶ νέα ('antiga e nova') = último dia do mê
+p.232: flag: Número de anos hiparquianos no ciclo de Rabi Adda lido como ; flag: Número de anos no período alfonsino: '410 ou 411' (CCCCX, CC; flag: Número de anos do ciclo de Lílio na frase 'in CCC annis': le
+p.233: flag: Os valores numéricos das colunas 'Cha-Hor' e da 'Alia Tabell; flag: A referência aos 'docti Mathematici qui ante D annos huic cu; flag: A identificação 'periodus modi Solaris Gelalaei Sultanici = 
+p.234: flag: Numerais romanos com barra superior (DCCCXCVI, CXXIIII, DCCC; flag: Na linha 276 da tabela, o valor de 'Anni residui' da coluna ; flag: A grafia 'Lilio' refere-se a Aloysius Lilius (Luigi Lilio Gi
+p.235: flag: Algumas letras nas tábuas estão de leitura difícil no scan; ; flag: A primeira coluna de cabeçalhos do Cyclus Rationalis no scan
+p.236: flag: polemica_com_clavius: passagem extremamente virulenta — Scal; flag: atribuicao_a_lilius: Scaliger argumenta hipoteticamente cont; flag: data_niceno: Scaliger usa 'anno Christi Dionysiano CCCXXVII'
+p.237: flag: O 'Simius quidam' ('certo Símio') é provavelmente alusão pol; flag: Na frase 'cyclo Solis Mexicano annorum LII, & XXXII', a leit; flag: A expressão grega 'ἰδ' ὄναρ' ('viu em sonho') é citação prov
+p.238: flag: Os valores numéricos da tabela na coluna 'Castig.' apresenta; flag: Na frase 'supra dies 365, hor. 49. 12. 0. nunc hor. 55. 54' ; flag: Termos gregos ὁλοσχερῆ e ἀκριβῆ confirmados pelo contexto (o
+p.239: pt/latim ratio = 0.68; flag: A leitura 'XXIIII Martij' no cabeçalho está parcialmente apa; flag: Na primeira tabela a coluna Hipparc. parece ter apenas duas 
+p.240: flag: Os valores numéricos finos da tabela foram lidos do scan, es; flag: Termo 'ycelitationes' (ou 'velitationes'?) ambíguo no scan —; flag: A leitura da segunda comparação 'in secunda hor. 3. 42' depe
+p.241: flag: Ambiguidade na data 'XXV Octob.' associada à observação dina; flag: Os números '3. 2. 1.' (após meridiem 22 mar., ano 1 d.C.) sã; flag: Na transcrição da tabela, várias células apresentam macrons/
+p.242: flag: Polêmica direta com Clávio: Scaliger ataca repetidamente o s; flag: Citação grega final 'Tacete, θύραις δ' ἐπιθέσθε βέβηλοι' é f; flag: A frase 'Tetraeteride Liliana, quae nonaginta sex annis Iuli
+p.243: flag: A célula da tabela em ano 2052, coluna I, mostra um asterisc; flag: A sequência de incrementos da coluna 'Anni Christi' rompe-se; flag: Os termos gregos προηγησις e υπολειψις aparecem com diacríti
+p.244: flag: divergencia_com_clavius: Scaliger ataca duramente Clávio (de; flag: leitura_de_'cycli XL': o numeral original parece 'cycli xl.'; flag: termos gregos no scan parcialmente apagados: 'hypolepsis' (ὑ
+p.245: flag: Transcrição do grego: vários trechos com acentuação/iotas su; flag: A frase 'cui ultra centum, & viginti solstitiales annos conc; flag: divergencia_com_lilius_clavius: Scaliger acusa Lílio de tota
+p.246: flag: divergencia_com_clavius: Scaliger critica abertamente Clávio; flag: Na tabela, o número áureo do ano 1600 aparece como XV (dever; flag: Na tabela, o número áureo do ano 1601 aparece como XXVI (dev
+p.247: flag: Polêmica intensa contra Christophorus Clavius (o 'Mathematic; flag: Citações gregas no original: πανσέληνον/πανσέληνος, ἀμεθοδώτ; flag: Possível erro na transcrição de '1602' — verificar se Scalig
+p.248: flag: A leitura final 'hor. 0. .. .. 7/5' é incerta: o scan aprese; flag: A grafia 'Marchesvvan' (com vv = w) é mantida tal como impre; flag: A forma 'Oenopio Chius' (em vez de 'Oenopides Chius') é a do
+p.249: flag: Várias frações horárias e numerais (especialmente sobrescrit; flag: Os dois trechos hebraicos longos (citações de fontes rabínic; flag: A palavra 'engiston' (ἔγγιστον, 'aproximadamente') aparece e
+p.250: flag: Frações pequenas após '7.0.' na Tabula Prima ilegíveis no sc; flag: Forma 'animenisium' provavelmente erro de digitalização; pos; flag: Numeral romano XXVIII em '5dad XXVIII noctem Martij' confirm
+p.251: flag: A leitura de 'ὑπάλψις' (provavelmente ὑπολείψις) é incerta n; flag: Frações sexagesimais transcritas com a melhor leitura possív; flag: divergencia_com_clavius: Scaliger ataca duramente Clavius e 
+p.252: flag: Numerais romanos com mácrons/barras superiores no original (; flag: A frase 'character anni cum regulari 4 XIX Nisan Solaris, ab; flag: 'gracchuli' lido como 'graculi' (gralhos, como pássaros taga
+p.253: flag: Scaliger declara explicitamente incerteza sobre se Rab Hille; flag: Scaliger declara explicitamente que nada se pode afirmar com; flag: Os números fracionários '14. 1038. 62' e '9. 41. 14' usam a 
+p.254: flag: A data 'circiter annum Christi 213' para Rabbi Samuel Iarchi; flag: A glosa hebraica intercalada no texto não foi transliterada ; flag: O numeral 'CCXIII' (213) está abreviado com barra superior n
+p.255: flag: Transcrição de passagens hebraicas extensas: forneci leitura; flag: Identificação de 'Iudaei Gallicenses & Insulares' como 'jude; flag: A leitura 'die XX Siwan' (20 de Sivan) é a tradicional para 
+p.256: flag: Palavra hebraica em XXIX Marchesvvan: Scaliger escreve רנש (; flag: A forma חמשן חמשים (cinquenta-cinquentas?) na contagem do Om; flag: Referência a 'Ichthyonos XXIX' como sistema cronológico próp
+p.257: flag: Possível erro tipográfico ou de Scaliger: 'VI Nisan esse ἡμέ; flag: Scaliger cita 'eodem Cap. 16' referindo-se aos Atos dos Após; flag: A referência 'II Reg. X, 20' como locus da עצרת de Salomão é
+p.258: flag: Diversos sinais diacríticos gregos ambíguos no scan; reconst; flag: Transliteração das palavras hebraicas (שבעאי, שבת, שבתון) fe; flag: A obra é o *Thesaurus Temporum* / *Isagogici Canones* de Sca
+p.259: flag: A citação 'Ierem. III, 6, 7' é quase certamente erro tipográ; flag: O número '522' após Epifânio é ambíguo: pode referir-se a um; flag: Várias palavras hebraicas no scan estão parcialmente apagada
+p.260: flag: Algumas referências marginais a Cirilo e citações gregas est; flag: A identidade do 'Doctor Theologus' criticado por Scaliger nã; flag: Numeração romana XV (15) e XXII (22) lidas com alguma incert
+p.261: flag: A palavra hebraica abreviada 'אד' (linha 3) refere-se provav; flag: Transliterações gregas dos termos técnicos (φραγμος, embolim; flag: A sequência de frações 'dimidii nonae, & decimae ipsius IX, 
+p.262: flag: Na transcrição grega, 'παρεγχείρημα' (Clavij) é leitura prov; flag: As formas gregas 'ἐπίληψις / ἐπιληπτική' (no original 'πρόλη; flag: Os números '595' nas frações horárias parecem referir-se a e
+p.263: flag: Disputa polêmica explícita com Christophorus Clavius (jesuít; flag: Citações hebraicas e gregas extensas; transcrição do hebraic; flag: Referência numérica obscura no início ('Tohu ciuile 2. 5. 20
+p.264: flag: Trechos em grego transliterados aproximadamente a partir do ; flag: Caractere astronômico '4.8.876' do annus communis: confirmar; flag: 'Diuina diuina Iudaeorum anni ratio' — repetição enfática pr
+p.265: flag: A leitura 'XCI hor. 7. ½' (91 dias e 7½ horas) por quadrante; flag: A citação grega ενην και νεαν (Solon) está parcialmente desg; flag: O número κζ' (=27) na citação 'τας ημερας κζ' σεληνιω αγειν'
+p.266: flag: A leitura 'CCLX dierum' (260) parece errônea no contexto: Sc; flag: A fração '11/57' (latim '11/57' lendo o original como minus.; flag: Citação grega de Xenofonte (Vectigalia / Πόροι) parcialmente
+p.267: flag: Scaliger escreve 'kentron thermon' (centro térmico) e o igua; flag: A fração final no cálculo dos 1447 dias da Tetraeteris ('144; flag: Citação homérica 'Διὸς δ' ἐπλείετο βουλή' está com erro: o t
+p.268: flag: O termo grego 'καρδιακά' (kardiaka) lido na linha sobre os s; flag: A leitura 'IIII' para a posição do solstício na época troian; flag: A frase grega platônica 'τὸν δι' ἰόντα πρῶτον' é restituição
+p.269: flag: A leitura de algumas formas gregas (acentuação, abreviaturas; flag: O nome do mês 'Karkion' (Καρκίων) é leitura tentativa; pode ; flag: A frase de Píndaro Ístm. II foi transcrita conforme aparece 
+p.270: flag: Os termos gregos foram transliterados (menas politikous, tri; flag: A fração '2 4/46 dies' aparece ambígua no original (impressã; flag: Números romanos com barras superiores (CLII, LXXVI, CCCLIIII
+p.271: flag: Número da página impresso é 239, mas o usuário indicou págin; flag: Algumas palavras gregas têm acentos pouco legíveis no scan; ; flag: A leitura 'ξ´ μετεμπτώσεσιν ἐποχῆς' (com 60 = ξ') é interpre
+p.272: flag: Na quinta linha da tabela, o ano judaico parece ser 5395 (co; flag: Na sexta linha o ano judaico foi lido como 5403 (consistente; flag: A nona linha mostra '5429' com numerus aureus XIIII; aritmet
+p.273: flag: A fração '2 21/47' aparece no original como '2 ²¹⁄₄₇' com ti; flag: A passagem grega de Estácio Aquiles ('λέγεται δε ενιαυτός...; flag: O número '27760' (4 × 6940) está correto aritmeticamente ape
+p.274: flag: Os números fracionários do *Enneadecaeteris* Lunaris ('595' ; flag: A frase 'Epacta tam aequabili, quam aequata XXV. II' tem pon; flag: Identificação de 'Clauiana' / 'editio anni Clauiani' refere-
+p.275: flag: A grafia 'Sahaben' para o mês árabe Šaʿbān segue a translite; flag: A frase 'XII cycli, anni vero Iuliani CCXXVIII' é numericame; flag: 'Aleom' e 'Angalthabait' são meses árabes pré-islâmicos cita
+p.276: flag: A transliteração dos nomes gregos dos meses árabes na tabela; flag: Scaliger escreve 'A CIIII anno' (ano 104) e 'anno Christi Di; flag: A data '12 Martij' (XII Martij) para o início de Rabi' prior
+p.277: flag: Algumas formas gregas no scan estão de leitura difícil; tran; flag: A Epacta de Ramadã (lida como '5' = ε) e a epacta '10' opost; flag: A passagem do Escoliasta de Aristófanes contém formas gregas
+p.278: flag: Os numerais sobrelinhados com vínculos foram lidos como núme; flag: Termos gregos (προηγησις, γνώμων, εἰσέλευσις, ἡμεροδρόμιον) ; flag: A página termina abruptamente com 'Sed anno Chri-' (custódio
+p.279: flag: Linha 22 da tabela: feria '5' parece estranha após '7' na li; flag: A leitura 'biduo aberrabunt' assume aberração de dois dias d; flag: A palavra 'Turcoperseco' (Calendário Turco-pérsico) está tra
+p.280: flag: A leitura dos numerais romanos com sobrelinha (XX, XXI, XIX,; flag: A frase grega 'αὖς τὰν βάλανον' é um provérbio (cf. Plutarco; flag: O texto polêmico contra adversário anônimo ('fallitur ille q
+p.281: flag: A transcrição dos versos mnemônicos hebraicos/árabes (גו הב ; flag: A leitura do número 'dierum 395' (CCCXCV) para o ano embolim; flag: A distinção entre as formas λοχαγός καὶ ἐραγός vs. ouragós (
+p.282: flag: Transliteração das formas hebraico-árabes: as palavras impre; flag: O termo flamengo 'tweederley Jaer' (= 'ano de duas espécies'; flag: Scaliger usa 'Saros' aqui em sentido cronológico caldaico de
+p.283: flag: Transcrição dos termos hebraicos/aramaicos (נסר רבא, סרא, סה; flag: Leitura de 'Σάρος Ijar alij Deo, puta, Ioui, aut Mercurio, e; flag: A referência 'in posteriori editione' provavelmente alude à 
+p.284: flag: As legendas gregas dentro do diagrama (κέντρον θερινόν / σημ; flag: A primeira palavra da página ('ginta dies') é continuação do; flag: A frase final 'submo-' é interrompida pela quebra de página 
+p.285: flag: Texto inicial da página começa em meio a período (...νων sub; flag: Os numerais com macron/barra superior (XXIIII, XXV, XVII, XI; flag: A palavra 'histro' na linha 4 ('donec histro XIII') é estran
+p.286: flag: A leitura 'XII concursus' (Intra lustrum igitur XII concursu; flag: Hebraico 'נירוז הררתה' (Neuruz Hararath) — leitura plausível; flag: O termo 'Hararathes/Artycas' depende de Ctésias; identificaç
+p.287: flag: As palavras hebraicas/persas representadas como 'נטו ירמ' (o; flag: A leitura 'εἰκοσιπενταετηρὶς' foi reconstruída a partir de a; flag: A grafia 'Pharauardin' e 'Adarpahascht' (dois primeiros mese
+p.288: flag: A palavra árabe transliterada como 'נכנסות' (nikhnasoth) apa; flag: Expressão grega 'ἢ ἐξ ἡμέρας ἐκ πεντημέρων' é de leitura amb; flag: O termo 'Elpherurgin' atribuído a Alfragano é de origem ince
+p.289: flag: A identidade exata do 'Patriarcha' citado não é nomeada na p; flag: Algumas leituras numéricas em algarismos romanos sobrelinhad; flag: A frase 'ad annum DCXXII' próxima ao fim parece ser DCXXXII 
+p.290: flag: Transliteração de termos gregos do scan (acentuação não repr; flag: Numerais romanos com sobrelinha (e.g. MCCCCLX, CCCLXV, CCCXX; flag: Termos hebraicos e árabes inseridos no original não foram tr
+p.291: flag: Datas em algarismos romanos com mácrons no original (LXXII, ; flag: A passagem grega de Isaac Argyros tem leitura difícil em alg; flag: 'Tybenem Chazariae Persidos' — a identificação geográfica de
+p.292: flag: A palavra hebraica/siríaca impressa após 'θρόνος' (transcrit; flag: A leitura 'Meharserusch' (lustro 13) depende de transcrição ; flag: A frase 'pro e masculus extrarius subderetur' parece ter err
+p.293: flag: A invectiva 'Prophetis, catharis, & scarabeis aliter videtur; flag: A data 'die XXI Martij' para o eclipse solar diurno após o l; flag: Última linha 'bruma' inicia frase que continua na página seg
+p.294: flag: Os números na coluna 'Menses magni collecti' da tabela são l; flag: A citação grega de Estrabão foi transcrita de leitura visual; flag: O número '713' e o cálculo (713 − 600 = 113, ano de Marchath
+p.295: flag: A leitura da segunda citação grega de Êxodo XXXIV ('ἑορτήν τ; flag: Algumas entradas das tabelas (especialmente caracteres da ne; flag: Na Tabela dos Lustra, o valor da primeira linha 'Lustra coll
+p.296: flag: Mudança_de_opinião_de_Scaliger: Scaliger declara explicitame; flag: Leitura_hebraica_incerta: A primeira palavra hebraica da pág; flag: Identificação_Saros=120_anos: Scaliger identifica o *Saros* 
+p.297: flag: Caracteres hebraicos e gregos parcialmente identificáveis no; flag: A leitura 'מימה' (mimah) para o termo que Scaliger opõe a כס; flag: Numeração de Salmos segue Vulgata/LXX (81 e 80); na numeraçã
+p.298: flag: Leitura do número de dias do annus emboliscus ateniense: o t; flag: A sigla 'XXII' para os dias de Adar prior excluídos pode ser; flag: Transcrição do hebraico בני מצוה / בן מצוה e da citação בני.
+p.299: flag: A frase final da página interrompe-se no meio: 'Quemadmodum ; flag: Algumas palavras hebraicas no scan estão parcialmente ilegív; flag: A leitura 'Aremorico mari' (mar da Armórica/Bretanha) é cert
+p.300: flag: Os números '1.485' e '1.123' aparecem como diferenças horári; flag: A leitura final 'anni Arabici cui' está abreviada — interpre; flag: Transcrição grega das colunas da tabela de meses persas é ap
+p.301: flag: Termos árabes 'Almedgen', 'Alfrugen', 'Reseb attoseg' perman; flag: Possível divergência_com_crusius: o 'vir quidam magnus in su; flag: O 'agrestis editor' criticado no início da página (que apres
+p.302: flag: Texto grego com acentuação e diacríticos parcialmente ilegív; flag: Número '28' (XXVIII) na expressão 'mensis XXVIII dierum' apa; flag: Algumas células das tabelas têm dígitos parcialmente apagado
+p.303: flag: A citação grega de Orapolo II.89 ('τὸ δὲ ἔτος κατ' Αἰγυπτίου; flag: A forma 'acipere' (em vez de 'accipere') é mantida como impr; flag: A *litera Dominicalis* 'DC' do ano antes do primeiro Cristo 
+p.304: flag: A frase 'in antecedentia ascensionen fecerit' parece conter ; flag: Os números técnicos (1461, 1460, 304, 228, 725, 4685, XVII) ; flag: Trecho 'periodus annorum Aegyptiacorum DCCXXV': o número par
+p.305: flag: Leitura do número '27' (κζ) na correspondência 'pridie Non. ; flag: A diferença horária '2. 75' é sintética e depende da convenç; flag: Letras hebraicas מתקה / יתר foram reconstruídas a partir do 
+p.306: flag: divergencia_com_clavius: Scaliger acusa Clavius de ignorar q; flag: Transcrição grega: o termo Παχάλιον / Παχαλίου aparece no or; flag: Número '368 magnae periodi quartae Canicularis' — verificar 
+p.307: flag: Numeração das seções (III, IIII, VII) sugere que falta numer; flag: O ano da graça '257' (CCLVII) — confirmar aritmética: 1321 -; flag: Transcrição de citações gregas, especialmente de Porfírio e 
+p.308: flag: A transcrição hebraica de נשיא 'parna' é problemática: 'parn; flag: Citação grega de Fócio (Bibliotheca, cód. 115 sobre Metrodor; flag: O número '536 anos' (φλς ἐτῶν) na citação de Fócio sobre Met
+p.309: flag: A leitura 'Radix Gelalaea 5. 2. 158' parece ser uma cifra se; flag: A grafia 'Παχάλιον' (sem ρ) aparece no original em vez de 'Π; flag: Numerais romanos no scan parcialmente apagados (XXII, XXIII,
+p.310: flag: Texto grego em escrita cursiva humanista de difícil leitura ; flag: A citação herodoteia (III.122 sobre Polícrates) está condens; flag: A frase hebraica היה זה אחר זה סדר é leitura conjectural a p
+p.311: flag: Algumas formas gregas no scan estão danificadas; transcrição; flag: O numeral 'LIII' (53 anos de Constantino a Valentiniano I) e; flag: A leitura 'πεντάβιβλου' para o título da obra de Júlio Afric
+p.312: flag: A data 'anno 333' atribuída a Hillel é ambígua: pode referir; flag: A leitura '139' em vez de '130' anos para Cainã (Gn 11) é ap; flag: A referência ao Pseudo-Beda 'Compoti Ratio' com data 6279 / 
+p.313: flag: A frase 'caprinum praelium excitant' é uma expressão idiomát; flag: A expressão grega προσπταίσῃ (forma verbal — 'tropeçar, erra; flag: A leitura DCCLXXXVII (787 anos) na diferença entre Periodo J
+p.314: flag: Transcrição do hebraico aproximada: o scan apresenta letras ; flag: Numerais romanos com supralinha (CCXV, DCLXX, CCCLVIIII, CCC; flag: Coordenadas sexagesimais '2.10.204', '2.11.204', '2.5.204', 
+p.315: flag: A vocalização exata e a transcrição das palavras hebraicas/a; flag: A leitura 'χῆμα' (em vez de 'σχῆμα') aparece no original; po; flag: A frase 'hoedi pusilli (vae grandes)' apresenta o glosário '
+p.316: flag: Identificação do hebraico ישיבת סורא (Yeshivat Sura) na linh; flag: A citação grega de Josefo apresenta variantes textuais de le; flag: A forma 'Marsuan' (Μαρσουάνη) para Marḥeshvan é a leitura pr
+p.317: flag: Polêmica direta com Christophorus Clavius (Cristóvão Clávio); flag: A leitura 'XXIIII Septembris' (24 de setembro) para o equinó; flag: O número '7239' anos a retraçar e o ano resultante '7058' da
+p.318: flag: A transcrição grega de algumas formas (διαφωνοῦ, ᾗ) foi norm; flag: O numeral grego ρπζ (187) e ρξζ (167) foram identificados pe; flag: O ponto inicial do reinado de Ciáxares (Astíbaras) em 4083 d
+p.319: flag: A leitura '1.19.1027' para a hora do novilúnio judaico (anno; flag: A divisão de versículos 'commatibus 5, 22, 23' refere-se a Ê; flag: A frase 'ἔτος πρῶτον γεωργίας Philoni dicitur, qui & ingress
+p.320: flag: Polêmica explícita com Christoph Clavius (jesuíta, autor da ; flag: A numeração 'XXXV ... XXXVII' dos lemas pula XXXVI — pode se; flag: Leitura 'qinque' (por 'quinque') no penúltimo parágrafo: err
+p.321: flag: Aparente erro tipográfico/aritmético na demonstração da §XXX; flag: A passagem 'remanet annus XII periodi Atticae iniens a XXX I; flag: Algumas citações gregas foram restauradas a partir do contex
+p.322: flag: A frase grega de Sincelo apresenta dificuldades na transcriç; flag: Scaliger discrepa frontalmente do número de anos de Nabonido; flag: Identificação Laborosardach = Baltasar é tese própria de Sca
+p.323: flag: Número de página manuscrito de difícil leitura (parece '291'; flag: Algumas células da tabela ('Probab.') para os reis 7-10 most; flag: Coluna 'Secundum Ecclesiasticos' está vazia para os reis 21-
+p.324: flag: Numeração marginal dos parágrafos (XLVIII, L, LII, LIII, LII; flag: A palavra hebraica em Isaías 37,30 (ספיח, 'sapiaḥ' = fruto e; flag: Divergência exegética assinalada por Scaliger em relação a R
+p.325: flag: Leitura grega 'ἔτη Κϛ' vs 'ΚΘ' depende da identificação corr; flag: Variantes do fragmento de Beroso: εἴκοσιν ἕν (21) vs εἴκοσι ; flag: Citação grega de Josefo apresenta lacuna marcada com asteris
+p.326: flag: A grafia hebraica יפרע (transcrita do scan) é a leitura maso; flag: Os algarismos com traços superiores (XIIII, VIII, CCCXXX, CC; flag: A frase 'qui annum decimum Sedekiae vigesimum septimum Iobel
+p.327: flag: A palavra grega γεωργίας (agricultura) é usada por Scaliger ; flag: O ano mundi 2499 aparece sem número de Iobel correspondente:; flag: A entrada do ciclo 23 (1127 / 3626 / 'anno obitus Alexandri'
+p.328: flag: A leitura de números romanos com sobrelinhas no scan (XIII, ; flag: A referência 'Photius 566, 30' parece referir-se a página/li; flag: Final da página truncado em 'aut tali' — continua na página 
+p.329: flag: O número '7176' para a expugnação de Borsipa parece erro tip; flag: Transcrição das palavras hebraicas (דריוש המדי, מדיא) inferi; flag: Numerais romanos com traços horizontais (CCXLIIII, CCXLIII, 
+p.330: flag: A leitura 'XIII die Scirrhophorionos' segue a edição: o nume; flag: No trecho grego de Eusébio/Casaubon, 'εἰς ἔτη ϟϛ' (=496) é l; flag: Numeral 'σιγ' (=213) para a Olimpíada da queda de Jerusalém:
+p.331: flag: A leitura 'CCCLXII' para a duração do ano Ático popular pode; flag: A transcrição hebraica 'אים ארומי' (Aiam errumi) é minha rec; flag: A grafia árabe 'Nubeth dhilkarnain' é transliteração latina 
+p.332: flag: Alguns numerais sobrelinhados no original (especialmente no ; flag: A passagem citada de Clemente foi reconstruída a partir do t; flag: A correção 'errat Iosephus 45 annis plus dixit' implica: Jos
+p.333: flag: A leitura das legendas gregas das moedas (ΣΙΔΩΝΟΣ ΝΑΤΑΡΧΙΔΟΣ; flag: O número 'CCLX anos antes' (ante hoc tempus iam Antiochia ab; flag: Divergência com Christophorson (tradutor latino de Evágrio):
+p.334: flag: A palavra grega παρενενοθθεμένα ('interpolada') na linha 4 e; flag: πτεροστηρίδας (citação grega de Pselo, p.82) é termo raro e ; flag: Erro de Maximus Monachus identificado por Scaliger: este afi
+p.335: flag: Texto grego de Pselo na primeira seção contém abreviaturas e; flag: A referência 'Chrysostomus III κζ Ἰουδαίων' provavelmente si; flag: A citação de Epifânio sobre os Ebionitas está abreviada e a 
+p.336: flag: Apontamentos hebraicos parcialmente reconstruídos pela falta; flag: Numeração da página de Fílon ('727') refere-se provavelmente; flag: A frase grega da Inscriptio Puteolana foi normalizada confor
+p.337: flag: A transcrição do trecho grego de Dion Cássio é aproximada — ; flag: O numeral 'XLIX' (49 dies) atribuído ao intervalo entre o in; flag: O texto hebraico de Berakhot foi sumariamente transliterado 
+p.338: flag: A leitura da citação grega da Epístola do Católico dos Armên; flag: A grafia do número '4742' (ano da Periodus Iuliana do batism; flag: Na fórmula de Paulo Silenciário, algumas letras gregas no sc
+p.339: flag: A leitura '6. 11. 989' para a neomenia de Tishri é incerta: ; flag: Várias palavras gregas têm acentos e espíritos defectivos no; flag: A última palavra 'kupti' (catchword) sugere que a próxima pá
+p.340: flag: A palavra 'kupti' no início da página é o final da palavra a; flag: Scaliger cita 'anno Iuliano XLIV' para o eclipse lunar pré-m; flag: A leitura 'παραλογούμενα' (paralogoumena = absurdos lógicos)
+p.341: flag: Os numerais romanos com sobrelinha aparecem no scan parcialm; flag: A leitura LXXIIII para o ano juliano do batismo confere com ; flag: Os termos gregos ἀποτηρήματα e ἀλογισία foram transliterados
+p.342: flag: A palavra grega 'ἀποτηπήματα' (transcrita do texto) é incomu; flag: A forma 'γνώησιν' na citação de Cedreno é provavelmente 'γέν; flag: A leitura 'Tatasij Patriarchae' é estranha; talvez corrupção
+p.343: flag: A citação hebraica 'טורנוס רופוס חרש את ההיכל' foi reconstit; flag: O algarismo 'MMCCXX' (2220) para o número eusebiano dos jogo; flag: Na frase 'Diocletianus consul X, collega Galerio Maximino VI
+p.344: flag: A leitura grega 'Αντιοχείας υι' (411) parece anômala: o ano ; flag: Várias siglas com barra superior (numerais romanos com sinal; flag: O numeral 'CCCC' atribuído a Sulpício Severo (anno Christi 4
+p.345: flag: A leitura 'ἀρρύλιδωτον' (Ῥώμην τὴν ἀρρύλιδωτον) é incerta; o; flag: Numeral grego 'τλζ' (337) na citação de Metódio: confirmado ; flag: A forma 'ϵωλζ' (5837) para o ano do Mundo é lida com base no
+p.346: flag: Numerais '6. 7. 112' e '4, 8, 876' e '3.15, 988' relativos à; flag: Alguns numerais gregos (ϛϠνα, ϛϠνβ, ϛϠνγ = 6951, 6952, 6953); flag: A forma 'XX autem Persici Mecherma' está reproduzida tal com
+p.347: flag: O dia exato de dezembro do solstício na citação grega está p; flag: Os números 5. 2. 158 e 5. 14. 652 (frações de hora/minuto/se; flag: A grafia hebraica שׁכ (transcrita 'הכש' no original; aqui in
+p.348: flag: divergencia_com_chrysococces: Scaliger critica Crisococces e; flag: divergencia_com_eusebius: Scaliger rejeita o método eusebian; flag: transliteração_hebraico/árabe: presença de glossas em hebrai
+p.349: flag: Transcrição grega do fragmento de Filóstrato: o trecho apres; flag: A grafia 'Petesucen' (acusativo) para o construtor do Labiri; flag: A transliteração ΥΣΚ (Hyksos) reflete a grafia capitalizada 
+p.350: flag: A leitura 'Σέσογχις' (Sesonchis) está parcialmente apagada n; flag: Na lista 'Reges innominati III, IIII, V' os algarismos (XXII; flag: A página termina com a palavra de chamada 'praelio', que con
+p.351: flag: Numeração da página: o cabeçalho mostra 319, mas o prompt in; flag: A citação de Paulino (versos sobre Nechepsos e Sesoostris) —; flag: A frase 'temporibus Alexandri Mamaeae' parece corrupta ou el
+p.352: flag: O texto grego de Sincelo na imagem tem leituras incertas em ; flag: A frase 'Aralii sexti Assyriorum regis' refere-se a Arálio (; flag: Numerais romanos 'MCCC' (1300), 'MMXLVI' (2046), 'DCCLXX' (7
+p.353: flag: Hebraico/siríaco transcrito a partir de tipos pequenos no sc; flag: Numeração do rei 'Πανύας XXIIII': leitura 'XXIII' ou 'XXIIII; flag: Leitura 'DCCCCIX' (909) vs 'DCCCXLII' (842): números cruciai
+p.354: flag: Scaliger flag: 'Sed fallitur' — Scaliger acusa explicitament; flag: Identificação polêmica: Scaliger identifica Mardokempadus (r; flag: Polêmica filológica contra os 'hebraizantes' e Massoretas: S
+p.355: flag: Citação de Pererius truncada com travessão ('ut latis equa t; flag: Transcrição hebraica do provérbio talmúdico (בורסיף יהיב סימ; flag: Numerais romanos no original com barra superior (XXII, XXIX,
+p.356: flag: Os números romanos com barras superiores no original (CCXXX,; flag: Identificação de 'Georgium' como Jorge Sincelo é provável ma; flag: A leitura grega 'Ἀρτοξυάρης' (variante rara) é incerta no sc
+p.357: flag: Coordenadas geográficas de Cufa e Wasit lidas do scan: Kufa ; flag: A data 'anno Christi DCLXI' (661 d.C.) para o início do rein; flag: Numeração marginal: 'VII', 'IX' (duas vezes seguidas?), 'XXI
+p.358: flag: Algumas grafias árabes/turcas em caracteres hebraicos (מורד); flag: Termos gregos epigráficos transcritos a partir de fontes peq; flag: Numeral 'DCCCXC' para o ano da Hégira de Bayezid corresponde
+p.359: flag: A cronologia de Scaliger para a China — 2000 anos desde Tzin; flag: O nome 'Bonog' refere-se provavelmente ao imperador Wanli (r; flag: 'Tzintzom' = Qin Shi Huang(di), via transliteração ibérica.
+p.360: flag: Identificações genealógicas múltiplas e tensas entre Paléfat; flag: A leitura do grego em fontes citadas é fortemente abreviada ; flag: Emenda textual proposta a Estrabão (ΜΘ → ΛΘ, isto é 49 → 39)
+p.361: flag: Os algarismos romanos com barra superior (CXXXII, CXXXVII, D; flag: A leitura 'anno 3685' para o início de Hirão depende do cálc; flag: Discrepância numérica no próprio Scaliger: ele dá 132 anos d
+p.362: flag: A leitura grega περὶ ἀφαιρετικῶς é provavelmente περιαφαιρετ; flag: A primeira coluna da tabela mostra 1655 como intervalo até o; flag: O número '2452 absoluti' versus '2453 (=2023+430)' difere em
+p.363: flag: A leitura 'ἕως ἑβδομήκοστα αὐτοῦ πέμπτου ἔτους' (75º ano) ve; flag: A expressão 'in Elencho Orationis Chronologicae prophetae cu; flag: divergencia_com_chronologi_doctiores: Scaliger ataca explici
+p.364: flag: A referência 'Exod. XVI, 8' parece ser erro tipográfico ou a; flag: A leitura 'יתי בה בית' no início do parágrafo sobre os Hasmo; flag: A vocalização de מכבי e a forma exata das letras hebraicas n
+p.365: flag: Identificação do 'Doctor Theologus' que comentou João: Scali; flag: A leitura '6. 11. 706' (no contexto da neomenia de Nisan) é ; flag: Os termos hebraicos no início e ao tratar de 'Συμεών' aparec
+p.366: flag: O número eusebiano para a tomada de Jerusalém por Sósio/Hero; flag: Scaliger acusa Josefo de erro aritmético (XXVII em vez de XX; flag: Scaliger acusa Cassius Dio de 'alucinação' ao colocar a exec
+p.367: flag: A grafia grega de várias citações (especialmente da longa pa; flag: A referência 'Iosephus 603' é ambígua — provavelmente página; flag: Os números romanos com sobrelinha (MMXVI, MMCXVI, MMLIX, etc
+p.368: flag: A página impressa está numerada como 336 (ou 356, leitura am; flag: Discrepância numérica na própria tabela de Scaliger: a soma ; flag: Alguns numerais romanos sincrônicos na coluna média (sobreli
+p.369: flag: Os números romanos com barras superiores (e.g. XVIII, XXXII,; flag: Algumas formas gregas na tabela (especialmente abreviaturas ; flag: A coluna de Pausânias na tabela tem várias entradas em branc
+p.370: flag: Numeração da página: o cabeçalho impresso lê '338', mas o us; flag: Emenda conjectural de Scaliger: propõe corrigir DCCXXXII / D; flag: Várias palavras gregas estão impressas com ligaduras humanís
+p.371: flag: Os versos gregos iniciais (provavelmente atribuídos a um poe; flag: A forma 'Φρασιθέας' / 'Πρασιθέας' nos versos é incerta — o s; flag: A leitura 'πανδιγενέστατος' (na frase sobre a alma de Codro)
+p.372: flag: O número '4545' parece anômalo: deduzindo 61 de 4406 obtém-s; flag: Scaliger discute aqui erros de Diodoro Sículo e de Carolo Si; flag: A frase 'a numero Eusebiano MDCLXXXI, ad numerum MDCCXXIIII'
+p.373: flag: Numerais com vínculo (sobrelinha) no original — leitura prop; flag: A leitura 'DCLXIIII' (664 anos entre Faleg e Oebalo) é propo
+p.374: flag: Aparente erro tipográfico ou de Scaliger: ele diz 'Si Perian; flag: Aparente erro tipográfico: 'in exitu Olympiadis XLVIII' deve; flag: Scaliger nota contradição em Estrabão: o texto grego diz que
+p.375: flag: O nome do arconte é dado como 'Epameinon' (Ἐπαμείνονος ἄρχον; flag: Lacuna no nome do XIV rei (Amyntas) na tabela — Scaliger dei; flag: Scaliger explicitamente declara que a sucessão de Diodoro 'm
+p.376: flag: Numeral 'CL' (150 anos) para os cinco reis dos Aborígines em; flag: Scaliger discorda de Eusébio: rejeita o triênio adicional (C; flag: Scaliger discorda de Eusébio (DCXLVII) e dos Excerpta vs sua
+p.377: flag: Scaliger explicitamente rejeita o cálculo de Tarrúcio sobre ; flag: Scaliger discorda de Dionísio de Halicarnasso quanto ao ano ; flag: Toda a discussão admite que o intervalo das Palilia ao Regif
+p.378: flag: Ambiguidade no número '243 vs 244': Scaliger argumenta contr; flag: A frase grega de Clemente Alexandrino transcrita do scan ('δ; flag: O número MCXVIII atribuído a Ausônio (1118 anos) é citado po
+p.379: flag: O numeral grego para o ano da fundação foi de difícil leitur; flag: A forma 'Σφαλίαν Δόρυ' / 'Sphalia Doru' na citação de Procóp; flag: Numeral 'τλβ'' (332) versus o texto de Christo dionisiano 33
+p.380: flag: A página é predominantemente filológico-histórica (sobre o t; flag: Vários trechos em grego (cânones conciliares, citações de Pa; flag: A leitura 'Voglai' (versus 'Vocladum') é uma identificação g
+p.381: flag: A leitura grega 'ὑποστάσματιον' está incerta — possivelmente; flag: Os versos gregos atribuídos a Homero estão transcritos com a; flag: A primeira palavra 'bulosis' é o final de 'fabulosis' (quebr
+p.382: flag: Numeração da página: o texto mostra '350' no cabeçalho mas a; flag: Transliteração de termos gregos com abreviaturas e ligaduras; flag: O nome 'Canis II' (avô tetraneto) é leitura provável do scan
+p.383: flag: Forma 'Παχαλίου' aparente no original em vez do esperado 'Πα; flag: A entrada 'Concurrentes 119. 181.' tem '119' que pode ser er
+p.384: flag: Página de índice: números de página remetem ao corpo da obra; flag: Plinthion remetido a '119. 275.' — possivelmente erro tipogr; flag: Marque Aethiopicum: termo etiópico não familiar; possivelmen
+p.385: flag: Várias entradas em grego foram transliteradas a partir do sc; flag: A entrada 'diapempein tas dichostasias 441' aponta para pági; flag: A entrada 'epilazonon' (ἐπιλάζονον?) é leitura incerta do sc
+p.386: flag: Algumas formas no scan estão de leitura difícil devido a abr; flag: 'Θεοὶ σωθρονοι' (e 'Σωθρονοι θεοί'): leitura literal do scan; flag: 'ἡμεροδιρέσιον' (p. 176): forma rara; possivelmente 'ἡμεροδι
+p.387: flag: Página em branco — provavelmente verso de folha de rosto ou 
+p.388: flag: Página em branco (verso ou folha de guarda) na digitalização
+p.389: flag: Página sem texto impresso de Scaliger; trata-se de folha de ; flag: Anotação manuscrita de proveniência no topo é largamente ile; flag: Segunda linha da anotação manuscrita ilegível; possível indi
+p.390: flag: Pagina 390 corresponde a contracapa traseira do exemplar dig; flag: JSON criado manualmente pelo curador.

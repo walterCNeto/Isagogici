@@ -1,0 +1,28 @@
+{
+  "page": 390,
+  "page_type": "binding",
+  "latin": "",
+  "pt": "Contracapa traseira da edicao. Encadernacao em couro marrom com brasao de armas em douracao no centro: escudo com tres crescentes lunares (dois acima, um abaixo) entre folhas de louros, encimado por iniciais MP. Sem texto.",
+  "en": "Back cover of the edition. Brown leather binding with gilt armorial device at center: shield bearing three crescent moons (two above, one below) between laurel branches, surmounted by the initials MP. No text.",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Brasao de armas em douracao no centro da capa de couro: escudo com tres crescentes lunares, ladeado por dois ramos de louros, encimado pelas iniciais MP.",
+      "description_en": "Gilt armorial device at the center of the leather cover: shield with three crescent moons, flanked by two laurel branches, surmounted by the initials MP."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Pagina 390 corresponde a contracapa traseira do exemplar digitalizado, nao a pagina de conteudo do livro.",
+    "JSON criado manualmente pelo curador."
+  ],
+  "notes": "Capa traseira da encadernacao historica do exemplar de Amsterdam 1658. JSON criado manualmente pelo curador.",
+  "_meta": {
+    "model": "manual_curator_entry",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "stop_reason": "manual"
+  }
+}

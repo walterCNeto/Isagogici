@@ -1,0 +1,45 @@
+{
+  "page": 52,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM CAPUT QUARTUM.\nKALENDARIUM ANNI CAELESTIS.\n\n♎ ZYGON. DIES XXX.    ♏ SCORPION. DIES XXX.    ♐ TOXON. DIES XXIX.\n\n[Tabula tripartita: pro singulis mensibus signorum zodiaci columnae sequentes: Dies Mensis | Regulares | Epactae | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani]\n\nKALENDA-",
+  "pt": "CÂNONES ISAGÓGICOS, CAPÍTULO QUARTO.\nKALENDARIUM ANNI CAELESTIS (Calendário do Ano Celeste).\n\n♎ ZYGON (Libra). 30 dias.    ♏ SCORPION (Escorpião). 30 dias.    ♐ TOXON (Sagitário). 29 dias.\n\n[Tabela tripartite com colunas: Dies Mensis (dia do mês) | Regulares | *Epactae* | *Cyclus* Iudaicus (Ciclo Judaico) | Menses Iudaici (Meses Judaicos) | Dies Iuliani (Dias Julianos)]",
+  "en": "ISAGOGIC CANONS, CHAPTER FOUR.\nKALENDARIUM ANNI CAELESTIS (Calendar of the Celestial Year).\n\n♎ ZYGON (Libra). 30 days.    ♏ SCORPION (Scorpio). 30 days.    ♐ TOXON (Sagittarius). 29 days.\n\n[Tripartite table with columns: Dies Mensis (day of month) | Regulares | *Epactae* | *Cyclus* Iudaicus (Jewish Cycle) | Menses Iudaici (Jewish Months) | Dies Iuliani (Julian Days)]",
+  "tables": [
+    {
+      "caption_pt": "Calendário do Ano Celeste — Signo de ZYGON (Libra), 30 dias. Correspondência entre dias do signo, regulares, epactas, ciclo judaico de 19 anos, meses judaicos (Marcheswan, Caslev) e datas julianas.",
+      "caption_en": "Calendar of the Celestial Year — Sign of ZYGON (Libra), 30 days. Correspondence between days of the sign, regulars, epacts, 19-year Jewish cycle, Jewish months (Marcheswan, Caslev), and Julian dates.",
+      "markdown": "| Dies Mensis | Regulares | Epactae | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 7 | 29 |  |  | 26 Oct. |\n| 2 | 1 | 28 | II | Marcheswan | 27 |\n| 3 | 2 | 27 | X | Marcheswan | 28 |\n| 4 | 3 | 26 |  |  | 29 |\n| 5 | 4 | 25 | XVIII | Marcheswan | 30 |\n| 6 | 5 | 24 | VII | Marcheswan | 31 |\n| 7 | 6 | 23 | XV | Marcheswan | 1 Nov. |\n| 8 | 7 | 22 |  |  | 2 |\n| 9 | 1 | 21 | IIII | Marcheswan | 3 |\n| 10 | 2 | 20 |  |  | 4 |\n| 11 | 3 | 19 | XII | Marcheswan | 5 |\n| 12 | 4 | 18 | I | Marcheswan | 6 |\n| 13 | 5 | 17 |  |  | 7 |\n| 14 | 6 | 16 | IX | Marcheswan | 8 |\n| 15 | 7 | 15 | XVII | Caslev | 9 |\n| 16 | 1 | 14 |  |  | 10 |\n| 17 | 2 | 13 | VI | Caslev | 11 |\n| 18 | 3 | 12 |  |  | 12 |\n| 19 | 4 | 11 | XIIII | Caslev | 13 |\n| 20 | 5 | 10 | III | Caslev | 14 |\n| 21 | 6 | 9 | XI | Caslev | 15 |\n| 22 | 7 | 8 |  |  | 16 |\n| 23 | 1 | 7 | XIX | Caslev | 17 |\n| 24 | 2 | 6 |  |  | 18 |\n| 25 | 3 | 5 | VIII | Caslev | 19 |\n| 26 | 4 | 4 | XVI | Caslev | 20 |\n| 27 | 5 | 3 |  |  | 21 |\n| 28 | 6 | 2 | V | Caslev | 22 |\n| 29 | 7 | 1 |  |  | 23 |\n| 30 | 1 | * | XIII | Caslev | 24 |"
+    },
+    {
+      "caption_pt": "Calendário do Ano Celeste — Signo de SCORPION (Escorpião), 30 dias.",
+      "caption_en": "Calendar of the Celestial Year — Sign of SCORPION (Scorpio), 30 days.",
+      "markdown": "| Dies Mensis | Regulares | Epactae | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 2 | 29 | II | Caslev | 25 Nov. |\n| 2 | 3 | 28 | X | Caslev | 26 |\n| 3 | 4 | 27 |  |  | 27 |\n| 4 | 5 | 26 | XVIII | Caslev | 28 |\n| 5 | 6 | 25 | VII | Caslev | 29 |\n| 6 | 7 | 24 | XV | Caslev | 30 |\n| 7 | 1 | 23 |  |  | 1 Dec. |\n| 8 | 2 | 22 | IIII | Caslev | 2 |\n| 9 | 3 | 21 |  |  | 3 |\n| 10 | 4 | 20 | XII | Caslev | 4 |\n| 11 | 5 | 19 | I | Caslev | 5 |\n| 12 | 6 | 18 |  |  | 6 |\n| 13 | 7 | 17 | IX | Caslev | 7 |\n| 14 | 1 | 16 | XVII | Tebeth | 8 |\n| 15 | 2 | 15 |  |  | 9 |\n| 16 | 3 | 14 | VI | Tebeth | 10 |\n| 17 | 4 | 13 |  |  | 11 |\n| 18 | 5 | 12 | XIIII | Tebeth | 12 |\n| 19 | 6 | 11 | III | Tebeth | 13 |\n| 20 | 7 | 10 | XI | Tebeth | 14 |\n| 21 | 1 | 9 |  |  | 15 |\n| 22 | 2 | 8 | XIX | Tebeth | 16 |\n| 23 | 3 | 7 |  |  | 17 |\n| 24 | 4 | 6 | VIII | Tebeth | 18 |\n| 25 | 5 | 5 | XVI | Tebeth | 19 |\n| 26 | 6 | 4 |  |  | 20 |\n| 27 | 7 | 3 | V | Tebeth | 21 |\n| 28 | 1 | 2 |  |  | 22 |\n| 29 | 2 | 1 | XIII | Tebeth | 23 |\n| 30 | 3 | 29* |  |  | 24 |"
+    },
+    {
+      "caption_pt": "Calendário do Ano Celeste — Signo de TOXON (Sagitário), 29 dias.",
+      "caption_en": "Calendar of the Celestial Year — Sign of TOXON (Sagittarius), 29 days.",
+      "markdown": "| Dies Mensis | Regulares | Epactae | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|---|\n| 1 | 4 | 28 | II | Tebeth | 25 Dec. |\n| 2 | 5 | 27 | X | Tebeth | 26 |\n| 3 | 6 | 26 |  |  | 27 |\n| 4 | 7 | 25 | XVIII | Tebeth | 28 |\n| 5 | 1 | 24 | VII | Tebeth | 29 |\n| 6 | 2 | 23 | XV | Tebeth | 30 |\n| 7 | 3 | 22 |  |  | 31 |\n| 8 | 4 | 21 | IIII | Tebeth | 1 Ianu. |\n| 9 | 5 | 20 |  |  | 2 |\n| 10 | 6 | 19 | XII | Tebeth | 3 |\n| 11 | 7 | 18 | I | Tebeth | 4 |\n| 12 | 1 | 17 |  |  | 5 |\n| 13 | 2 | 16 | IX | Tebeth | 6 |\n| 14 | 3 | 15 | XVII | Sebat | 7 |\n| 15 | 4 | 14 |  |  | 8 |\n| 16 | 5 | 13 | VI | Sebat | 9 |\n| 17 | 6 | 12 |  |  | 10 |\n| 18 | 7 | 11 | XIIII | Sebat | 11 |\n| 19 | 1 | 10 | III | Sebat | 12 |\n| 20 | 2 | 9 | XI | Sebat | 13 |\n| 21 | 3 | 8 |  |  | 14 |\n| 22 | 4 | 7 | XIX | Sebat | 15 |\n| 23 | 5 | 6 |  |  | 16 |\n| 24 | 6 | 5 | VIII | Sebat | 17 |\n| 25 | 7 | 4 | XVI | Sebat | 18 |\n| 26 | 1 | 3 |  |  | 19 |\n| 27 | 2 | 2 | V | Sebat | 20 |\n| 28 | 3 | 1 |  |  | 21 |\n| 29 | 4 | * | XIII | Sebat | 22 |"
+    }
+  ],
+  "figures": [
+    {
+      "description_pt": "Cabeçalho da tabela exibe os símbolos zodiacais ♎ (Libra/Zygon), ♏ (Escorpião/Scorpion) e ♐ (Sagitário/Toxon) com os respectivos números de dias (XXX, XXX, XXIX).",
+      "description_en": "Table header displays the zodiacal symbols ♎ (Libra/Zygon), ♏ (Scorpio/Scorpion), and ♐ (Sagittarius/Toxon) with their respective day counts (XXX, XXX, XXIX)."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Em Scorpion dia 30, a coluna *Epactae* mostra '29*' com asterisco — possível marca de *saltus epactae* ou correção de proemptosis; transcrição confirmada no scan.",
+    "Em Zygon dia 30 e Toxon dia 29, a coluna *Epactae* mostra apenas '*' (asterisco), provavelmente indicando epacta nula ou marcador de *saltus*.",
+    "Algumas células do *Cyclus Iudaicus* aparecem vazias na imagem; transcrição reflete fielmente o impresso (lacunas correspondem aos anos do ciclo de 19 anos sem entrada nessa data específica)."
+  ],
+  "notes": "Página puramente tabular do Capítulo IV do livro dos Cânones Isagógicos: o 'Kalendarium Anni Caelestis' apresenta a correspondência entre o ano solar zodiacal (com signos de 29 ou 30 dias), os Regulares (ciclo solar/dominical de 7), as *Epactae* lunares (numeração 1–29 + saltus marcado por asterisco), o *Cyclus Iudaicus* (ciclo metônico de 19 anos com numerais romanos I–XIX indicando em qual ano do ciclo cai a neomenia judaica nessa data), os *Menses Iudaici* (Marcheswan, Caslev/Kislev, Tebeth, Sebat/Shevat) e os *Dies Iuliani* (datas correspondentes do calendário juliano, de 26 de outubro a 22 de janeiro). Os nomes gregos dos signos (Zygon=Balança, Scorpion=Escorpião, Toxon=Arco/Sagitário) são típicos do uso de Scaliger, que prefere a nomenclatura grega antiga à latina (Libra, Scorpius, Sagittarius). A reclamação 'KALENDA-' no canto inferior direito antecipa a continuação do calendário na página seguinte.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4644,
+    "stop_reason": "end_turn"
+  }
+}

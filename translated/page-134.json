@@ -1,0 +1,37 @@
+{
+  "page": 134,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM RESIDUUM TABULAE MAGNI LUSTRI CANICULARIS IULIANI.",
+  "pt": "Restante da Tábua do Grande *Lustrum Caniculare Iulianum* dos Cânones Isagógicos.",
+  "en": "Remainder of the Table of the Great *Lustrum Caniculare Iulianum* of the Isagogic Canons.",
+  "tables": [
+    {
+      "caption_pt": "Restante da Tábua do Grande Lustro Canicular Juliano — correspondência entre o dia 1 dos meses Thoth (egípcio), Sahami (siríaco/persa) e Pharauardin (persa) com datas julianas, para os anos 840, 868, 896, 924, 952 e 980 da era. Cada bloco de quatro linhas representa o ciclo quadrienal juliano (com bissexto).",
+      "caption_en": "Remainder of the Great Julian Canicular Lustrum Table — correspondence between day 1 of the months Thoth (Egyptian), Sahami (Syriac/Persian) and Pharauardin (Persian) with Julian dates, for years 840, 868, 896, 924, 952 and 980 of the era. Each block of four rows represents the Julian quadrennial cycle (including leap year).",
+      "markdown": "| # | 840 Thoth | 840 Sahami | 840 Pharauardin | 868 Thoth | 868 Sahami | 868 Pharauardin | 896 Thoth | 896 Sahami | 896 Pharauardin | 924 Thoth | 924 Sahami | 924 Pharauardin | 952 Thoth | 952 Sahami | 952 Pharauardin | 980 Thoth | 980 Sahami | 980 Pharauardin |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 18 Apr. | 20 Iul. | 17 Iul. | 11 Apr. | 13 Iul. | 10 Iul. | 4 Apr. | 6 Iul. | 3 Iul. | 28 Mar. | 29 Iun. | 26 Iun. | 21 Mar. | 2 Iun. | 19 Iun. | 14 Mar. | 15 Iun. | 12 Iun. |\n| 2 | 18 | 20 | 17 | 11 | 13 | 10 | 4 | 6 | 3 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 |\n| 3 | 18 | 20 | 17 | 11 | 13 | 10 | 4 | 6 | 3 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 |\n| 4 | 18 | 20 | 17 | 11 | 13 | 10 | 4 | 6 | 3 | 28 | 29 | 26 | 21 | 22 | 19 | 14 | 15 | 12 |\n| 5 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 |\n| 6 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 |\n| 7 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 |\n| 8 | 17 | 19 | 16 | 10 | 12 | 9 | 3 | 5 | 2 | 27 | 28 | 25 | 20 | 21 | 18 | 13 | 14 | 11 |\n| 9 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 |\n| 10 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 |\n| 11 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 |\n| 12 | 16 | 18 | 15 | 9 | 11 | 8 | 2 | 4 | 1 | 26 | 27 | 24 | 19 | 20 | 17 | 12 | 13 | 10 |\n| 13 | 15 | 17 | 14 | 8 | 10 | 7 | 1 | 3 | 30 Iun. | 25 | 26 | 23 | 18 | 19 | 16 (Iezdegird) | 11 | 12 | 9 |\n| 14 | 15 | 17 | 14 | 8 | 10 | 7 | 1 | 3 | 30 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 |\n| 15 | 15 | 17 | 14 | 8 | 10 | 7 | 1 | 3 | 30 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 |\n| 16 | 15 | 17 | 14 | 8 | 10 | 7 | 1 | 3 | 30 | 25 | 26 | 23 | 18 | 19 | 16 | 11 | 12 | 9 |\n| 17 | 14 | 16 | 13 | 7 | 9 (Armeniorum) | 6 | 31 Mar. | 2 | 29 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 |\n| 18 | 14 | 16 | 13 | 7 | 9 | 6 | 31 | 2 | 29 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 |\n| 19 | 14 | 16 | 13 | 7 | 9 | 6 | 31 | 2 | 29 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 |\n| 20 | 14 | 16 | 13 | 7 | 9 | 6 | 31 | 2 | 29 | 24 | 25 | 22 | 17 | 18 | 15 | 10 | 11 | 8 |\n| 21 | 13 | 15 | 12 | 6 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 |\n| 22 | 13 | 15 | 12 | 6 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 |\n| 23 | 13 | 15 | 12 | 6 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 |\n| 24 | 13 | 15 | 12 | 6 | 8 | 5 | 30 | 1 | 28 | 23 | 24 | 21 | 16 | 17 | 14 | 9 | 10 | 7 |\n| 25 | 12 | 14 | 11 | 5 | 7 | 4 | 29 | 30 Iun. | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 |\n| 26 | 12 | 14 | 11 | 5 | 7 | 4 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 |\n| 27 | 12 | 14 | 11 | 5 | 7 | 4 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 |\n| 28 | 12 | 14 | 11 | 5 | 7 | 4 | 29 | 30 | 27 | 22 | 23 | 20 | 15 | 16 | 13 | 8 | 9 | 6 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Lustrum Caniculare Iulianum",
+      "definition_pt": "O 'Grande Lustro Canicular Juliano' é, na terminologia de Scaliger, o grande período cíclico em que se computam as correspondências entre o ano vago egípcio (e os anos persa e siríaco a ele aparentados) e o ano juliano fixo. Esta tábua, da qual a presente página é o restante (*residuum*), apresenta para cada ano da era a data juliana em que cai o dia 1 dos meses Thoth, Sahami e Pharauardin, ao longo de uma sequência de 28 anos (ciclo solar juliano).",
+      "definition_en": "The 'Great Julian Canicular Lustrum' is, in Scaliger's terminology, the great cyclic period in which the correspondences between the Egyptian wandering year (and the related Persian and Syriac years) and the fixed Julian year are computed. This table, of which the present page is the remainder (*residuum*), gives for each year of the era the Julian date on which day 1 of the months Thoth, Sahami and Pharauardin falls, across a sequence of 28 years (the Julian solar cycle)."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A linha 17 da coluna 868 traz a anotação marginal 'Armeniorum' (= 'dos Armênios') sobre o número 9 do mês Sahami — provavelmente indicando que aí se inicia o ano armênio.",
+    "A linha 13 da coluna 952 traz a anotação 'Iezdegird' sobre o valor 16 da coluna Pharauardin — marcando o início da era de Yazdegerd III (16 de junho de 632 d.C., epocha clássica desta era persa).",
+    "Os números '840, 868, 896, 924, 952, 980' nos cabeçalhos representam anos de uma era cuja epocha não é declarada nesta página (provavelmente da Era de Nabonassar ou similar; a sequência avança de 28 em 28 anos = um ciclo solar juliano).",
+    "Pequenas ambiguidades de leitura em alguns dígitos do scan (e.g. linha 5 col. 868 'Pharauardin' lê-se '9' com forma incomum), mas o padrão tabular permite reconstrução segura."
+  ],
+  "notes": "Página inteiramente tabular: continuação ('residuum') da grande tábua do Lustrum Caniculare Julianum iniciada em página(s) anterior(es). A estrutura é a clássica das tábuas de calendários comparados de Scaliger: a coluna esquerda enumera 1–28 (anos de um ciclo solar juliano de 28 anos); cada bloco de três colunas dá, para um ano-base da era (840, 868, 896, 924, 952, 980 — separados por 28 anos), a data juliana em que cai o 1º de Thoth (egípcio), 1º de Sahami (siríaco) e 1º de Pharauardin (persa). Os valores decrescem em 1 a cada quatro anos (efeito do bissexto juliano sobre o ano vago de 365 dias dos egípcios e persas antigos). Duas anotações marginais notáveis preservam epochas: 'Armeniorum' (era armênia, iniciada 552 d.C.) e 'Iezdegird' (era de Yazdegerd III, iniciada 632 d.C.). A página integra-se ao programa de Scaliger no *De Emendatione Temporum* de unificar todos os calendários antigos por meio do ciclo juliano.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4279,
+    "stop_reason": "end_turn"
+  }
+}

@@ -1,0 +1,84 @@
+```json
+{
+  "page": 114,
+  "page_type": "mixed",
+  "latin": "CANONUM ISAGOGICORUM\n\nXI Martij, qui est locus aequinoctij. Non tamen Adar assumendus, quum quartadecima Nisan sit in IX Aprilis, quae est trigesima dies Krionos. At novi anni editores non aliam ob caussam Adar pro Nisan sumpserunt, nisi quia epacta XXIII illius anni posita est alieno loco, nempe in VIII Martij propter signum * in Kalendis collocatum. Praeterea isti Fastorum castigatores non advertenrunt remotissimum terminum Paschalem esse in XIX Aprilis novi, aut in IX Aprilis veteris. Quod enim saeculo Niceno remotissimus terminus erat in XVIII Aprilis, hoc accidisse alibi indicavimus, quia eo saeculo nulla erat epacta XXIII, quae hoc saeculo currit. Hoc ante bis, aut ter iteravimus, si qua dormientem Clavium expergefacere possimus.\n\nXIII ἀντικατάστασις.] Est priori πρός τι, & relativa. Altera enim sine altera esse non potest. Ideo interprete opus non habet. Nam reiecto Nisan, substituitur Adar, ut ante dictum est. Sic anno Christi antecedente 1603 neomenia Nisan Dionysiani congruebat Kalendis Aprilis, feria VI: ita ut eius decima quarta dies summota fuerit ab aequinoctio civili hebdomadas solidas quinque. Ideo fuit ἐκβόλιμος, expunctitius, in cuius locum assumptus est Adar, cuius neomenia conveniebat III Martij, feria V. Quapropter quemadmodum Nisan vetus fuit ἐκβόλιμος, ita Adar fuit ἀντείσακτος. quod & accidit hoc saeculo, numero aureo VIII, XI, & XIX. & quoties hoc fit, annus, qui antiquitus erat ἐμβολιμαῖος, fit communis, & contra, sequens annus ex communi fit ἐμβολιμαῖος. Sed doctrina τῆς ἐκβολῆς καὶ τῆς ἀντικαταστάσεως pendet ex Termino Paschali secundum intervallum Nicenum, a XXI Martij, ad XVIII Aprilis, inclusive. Terminus vero est quartadecima Luna. Quaenam vero ea sit, haud temere definiri potest, propter triplicis differentiae neomeniam. Est enim aut a iugo Lunae, cuiusmodi nostrae, & Iudaicae, & Nicenae priscae. Est a visione Lunae, qualis Iudaeorum Karraim. Est tertio die a iugo Lunae, qualis Muharram Muhammedicus, & non raro Claviana, sextadecima Luna. Secundum haec tria genera neomeniarum diversae erunt quartaedecimae, & proinde diversi termini Paschales. In primo genere quartadecima Luna est ante plenilunium; in secundo, in plenilunio; in tertio, post plenilunium. Hoc est in primo genere Terminus erit XIIII Luna: in secundo XV: in tertio XVI. Nos iandudum ostendimus quartamdecimam Lunam Christianorum post unum saeculum a tempore Constantini fuisse plenilunium propter Lunae προήγησιν, omne-\n\nNOVILUNIA PASCHALIA AB ANNO CHRISTI MDLXXXIIII PER CYCLUM INTEGRUM.\n\n[Tabula]\n\nque",
+  "pt": "XI de Março, que é o lugar do equinócio. Contudo, não se deve adotar Adar, visto que a décima quarta de *Nisan* cai em IX de Abril, que é o trigésimo dia de Krionos. Mas os editores do novo ano não adotaram Adar por *Nisan* por outra razão senão porque a *epacta* XXIII desse ano foi posta em lugar alheio, isto é, em VIII de Março, por causa do sinal * colocado nas Kalendas. Além disso, esses corretores dos Fastos não advertiram que o termo Pascal mais remoto está em XIX de Abril novo, ou em IX de Abril velho. Pois quanto ao fato de no século Niceno o termo mais remoto estar em XVIII de Abril, indicamos alhures que isso aconteceu porque naquele século não havia a *epacta* XXIII, que corre neste século. Já repetimos isto duas ou três vezes, se de algum modo pudermos despertar o adormecido Clávio.\n\nXIII ἀντικατάστασις (substituição).] É πρός τι (relativa) ao precedente, e correlativa. Pois uma não pode existir sem a outra. Por isso não precisa de intérprete. Pois, rejeitado *Nisan*, substitui-se Adar, como se disse antes. Assim, no ano de Cristo antecedente de 1603, a *neomenia* de *Nisan* dionisiano coincidia com as Kalendas de Abril, féria VI: de modo que seu décimo quarto dia ficaria afastado do equinócio civil em cinco semanas inteiras. Por isso foi ἐκβόλιμος (expulso), *expunctitius*, em cujo lugar foi assumido Adar, cuja *neomenia* coincidia com III de Março, féria V. Portanto, assim como *Nisan* velho foi ἐκβόλιμος, assim Adar foi ἀντείσακτος (substituído). Isto também aconteceu neste século, com número áureo VIII, XI e XIX. E sempre que isso ocorre, o ano que antigamente era ἐμβολιμαῖος (*annus emboliscus*) torna-se comum, e ao contrário, o ano seguinte de comum torna-se ἐμβολιμαῖος. Mas a doutrina da ἐκβολή (expulsão) e da ἀντικατάστασις (substituição) depende do Termo Pascal segundo o intervalo Niceno, de XXI de Março até XVIII de Abril, inclusive. O termo é, porém, a décima quarta Lua. Mas qual seja ela, não se pode definir levianamente, por causa da tríplice diferença da *neomenia*. Pois é ou a partir da conjunção da Lua, qual é a nossa, e a Judaica, e a Nicena antiga. É a partir da visão da Lua, qual é a dos Judeus Caraítas. É no terceiro dia a partir da conjunção da Lua, qual o Muharram dos Muçulmanos, e não raramente o cláviano, décima sexta Lua. Segundo estes três gêneros de *neomenias* serão diversas as décimas quartas, e por conseguinte diversos os termos Pascais. No primeiro gênero a décima quarta Lua é antes do *plenilunium*; no segundo, no *plenilunium*; no terceiro, depois do *plenilunium*. Isto é, no primeiro gênero o Termo será XIV Lua: no segundo XV: no terceiro XVI. Há muito demonstramos que a décima quarta Lua dos Cristãos, depois de um século a partir do tempo de Constantino, era *plenilunium* por causa da προήγησις (precessão) da Lua, todas...",
+  "en": "XI March, which is the place of the equinox. However, Adar is not to be adopted, since the fourteenth of *Nisan* falls on IX April, which is the thirtieth day of Krionos. But the editors of the new year took Adar instead of *Nisan* for no other reason than that the *epacta* XXIII of that year was placed in a foreign location, namely on VIII March, on account of the sign * placed at the Kalends. Moreover, those correctors of the Fasti did not notice that the most remote Paschal terminus is on XIX April new, or on IX April old. For as to the fact that in the Nicene century the most remote terminus was on XVIII April, we have indicated elsewhere that this happened because in that century there was no *epacta* XXIII, which runs in this century. We have already repeated this two or three times, if by any means we may rouse the sleeping Clavius.\n\nXIII ἀντικατάστασις (substitution).] It is πρός τι (relative) to the preceding, and correlative. For one cannot exist without the other. Therefore it needs no interpreter. For, *Nisan* being rejected, Adar is substituted, as was said before. Thus in the year of Christ preceding, 1603, the *neomenia* of Dionysian *Nisan* coincided with the Kalends of April, feria VI: so that its fourteenth day would be removed from the civil equinox by five full weeks. Therefore it was ἐκβόλιμος (expelled), *expunctitius*, in whose place Adar was assumed, whose *neomenia* coincided with III March, feria V. Wherefore, just as old *Nisan* was ἐκβόλιμος, so Adar was ἀντείσακτος (substituted). This also occurs in this century, with golden number VIII, XI, and XIX. And as often as this happens, the year which was anciently ἐμβολιμαῖος (*annus emboliscus*) becomes common, and conversely, the following year from common becomes ἐμβολιμαῖος. But the doctrine of ἐκβολή (expulsion) and ἀντικατάστασις (substitution) depends on the Paschal Terminus according to the Nicene interval, from XXI March to XVIII April, inclusive. The terminus is the fourteenth Moon. But what this is, cannot be rashly defined, on account of the threefold difference of the *neomenia*. For it is either from the conjunction of the Moon, of which kind are ours, and the Jewish, and the ancient Nicene. It is from the visibility of the Moon, like that of the Karaite Jews. It is on the third day from the conjunction of the Moon, like the Muslim Muharram, and not rarely the Clavian, the sixteenth Moon. According to these three kinds of *neomeniae* the fourteenths will be different, and consequently different the Paschal termini. In the first kind the fourteenth Moon is before the *plenilunium*; in the second, at the *plenilunium*; in the third, after the *plenilunium*. That is, in the first kind the Terminus will be the XIV Moon: in the second the XV: in the third the XVI. We have long ago shown that the fourteenth Moon of the Christians, after one century from the time of Constantine, was *plenilunium* on account of the προήγησις (precession) of the Moon, all...",
+  "tables": [
+    {
+      "caption_pt": "Novilúnios Pascais a partir do ano de Cristo de 1584 por um ciclo inteiro [de 19 anos].",
+      "caption_en": "Paschal new moons from the year of Christ 1584 through a complete cycle [of 19 years].",
+      "markdown": "| Anni Christi | Litera Dominicalis | Character noviluniji | Quotus Nisan Cycli Iudaici | Novilun. aequata in mes. Lilian. | Num. Aureus | Epacta Clavij | Novilunia Clavij | |\n|---|---|---|---|---|---|---|---|---|\n| 1584 | AG | 2 4 414 | Nisan V | XII Martij | VIII | XVIII | XIII Mar. | Emb. |\n| 1585 | F | 1 1 1003 | Nisan VI | XXXI Martij | IX | XXIX | Kal. Apr. | |\n| 1586 | E | 5 10 799 | Nisan VII | XX Martij | X | X | XXI Mar. | |\n| 1587 | D | 2 19 595 | Adar VII | X Mar. | XI | XXI | X Mar. | Emb. |\n| 1588 | CB | 1 17 104 | Nisan IX | XXVII Mar. | XII | II | XXIX Mar. | |\n| 1589 | A | 6 1 980 | Nisan X | XVII Mar. | XIII | XIII | XVIII Mar. | |\n| 1590 | G | 4 23 489 | Nisan XI | V Apr. | XIIII | XXIIII | VII Mar. | Emb. |\n| 1591 | F | 2 8 285 | Nisan XII | XXV Mar. | XV | V | XXVI Mar. | |\n| 1592 | ED | 6 17 81 | Nisan XIII | XIII Mar. | XVI | XVI | XV Mar. | Emb. |\n| 1593 | C | 5 14 670 | Nisan XIIII | Kal. April. | XVII | XXVII | III Apr. | |\n| 1594 | B | 2 23 466 | Nisan XV | XXII Mar. | XVIII | VIII | XXIII Mar. | |\n| 1595 | A | 7 8 272 | Nisan XVI | XI Mar. | XIX | XIX | XII Mar. | Emb. |\n| 1596 | GF | 6 5 851 | Nisan XVII | XXIX Mar. | I | I | XXX Mar. | |\n| 1597 | E | 3 14 647 | Nisan XVIII | XVIII Mar. | II | XII | XIX Mar. | |\n| 1598 | D | 7 23 443 | Adar XVIII | VIIII Mar. | III | XXIII | VIII Mar. | Emb. |\n| 1599 | C | 6 20 1032 | Nisan I | XXVII Mar. | IIII | IIII | XXVII Mar. | |\n| 1600 | BA | 4 5 828 | Nisan II | XV Mar. | XV | V | XVI Mar. | Emb. |\n| 1601 | G | 3 3 337 | Nisan III | III April. | XXVI | VI | V Apr. | |\n| 1602 | F | 7 12 133 | Nisan IIII | XXIII Mar. | VII | VII | XXIII | |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "ἀντικατάστασις (antikatastasis)",
+      "definition_pt": "Substituição: termo correlativo (πρός τι) à ἐκβολή (expulsão); refere-se à substituição de um mês intercalar (e.g., *Nisan*) por outro (e.g., Adar) quando o cálculo da *neomenia* exige correção. Não pode existir sem o seu correlato.",
+      "definition_en": "Substitution: a term correlative (πρός τι) to ἐκβολή (expulsion); it refers to the substitution of one intercalary month (e.g., *Nisan*) by another (e.g., Adar) when the calculation of the *neomenia* requires correction. It cannot exist without its correlate."
+    },
+    {
+      "term": "ἐκβόλιμος / expunctitius",
+      "definition_pt": "Mês 'expulso' ou 'expungido' do calendário, quando sua *neomenia* cai em posição inadequada relativa ao equinócio (mais de cinco semanas após).",
+      "definition_en": "A month 'expelled' or 'expunged' from the calendar, when its *neomenia* falls in an inadequate position relative to the equinox (more than five weeks after)."
+    },
+    {
+      "term": "ἀντείσακτος (anteisaktos)",
+      "definition_pt": "Mês 'introduzido em substituição' ao mês expulso (ἐκβόλιμος); contraparte recíproca da ἐκβολή.",
+      "definition_en": "A month 'introduced in substitution' for the expelled month (ἐκβόλιμος); the reciprocal counterpart of ἐκβολή."
+    },
+    {
+      "term": "Tres genera neomeniarum",
+      "definition_pt": "Os três gêneros de *neomenia*: (1) a partir da conjunção lunar (iugum Lunae) — usada pelos cristãos, judeus rabânicos e nicenos antigos; (2) a partir da visão da Lua — usada pelos Caraítas; (3) no terceiro dia a partir da conjunção — usada pelo Muharram muçulmano e às vezes por Clávio. Daí três Termos Pascais: XIV Lua (antes do *plenilunium*), XV Lua (no *plenilunium*), XVI Lua (após o *plenilunium*).",
+      "definition_en": "The three kinds of *neomenia*: (1) from lunar conjunction (iugum Lunae) — used by Christians, Rabbanite Jews, and ancient Nicenes; (2) from the visibility of the Moon — used by Karaites; (3) on the third day from conjunction — used by Muslim Muharram and sometimes by Clavius. Hence three Paschal Termini: XIV Moon (before *plenilunium*), XV Moon (at *plenilunium*), XVI Moon (after *plenilunium*)."
+    }
+  ],
+  "cross_references": [
+    {
+      "type": "internal",
+      "target": "alibi (provavelmente livro anterior dos Isagogica ou De Emendatione Temporum)",
+      "context": "hoc accidisse alibi indicavimus"
+    },
+    {
+      "type": "internal",
+      "target": "supra (no mesmo livro)",
+      "context": "ut ante dictum est"
+    },
+    {
+      "type": "internal",
+      "target": "obra anterior",
+      "context": "Nos iandudum ostendimus quartamdecimam Lunam Christianorum... fuisse plenilunium"
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "equinox",
+      "description": "Equinócio de Primavera situado em XI de Março (calendário juliano antigo).",
+      "historical_date_as_cited": "XI Martij",
+      "ancient_source": ""
+    },
+    {
+      "type": "other",
+      "description": "Neomenia de Nisan dionisiano coincidente com Kalendas de Abril (1 Abril), feria VI, no ano 1603.",
+      "historical_date_as_cited": "anno Christi antecedente 1603, Kalendis Aprilis, feria VI",
+      "ancient_source": ""
+    },
+    {
+      "type": "other",
+      "description": "Precessão da Lua (προήγησις): a 14ª Lua dos cristãos, um século após Constantino, já caía no plenilúnio em vez de antes dele.",
+      "historical_date_as_cited": "post unum saeculum a tempore Constantini",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "divergencia_com_clavius: Scaliger critica abertamente Clávio ('si qua dormientem Clavium expergefacere possimus' — 'se de algum modo pudermos despertar o adormecido Clávio'), acusando-o de não advertir o termo Pascal mais remoto correto e de usar a 16ª Lua como termo (sextadecima Luna Claviana).",
+    "Na tabela, o número áureo do ano 1600 aparece como XV (deveria ser V segundo a sequência); pode ser erro tipográfico do original ou leitura difícil do scan.",
+    "Na tabela, o número áureo do ano 1601 aparece como XXVI (deveria ser VI); provável erro tipográfico ou ambiguidade na leitura.",
+    "A leitura do 'Character novilunij' (três colunas numéricas: ciclo, ano do ciclo, e fração/molad?) é difícil e seguiu a melhor reconstrução possível.",
+    "O último valor 'Novilunia Clavij' do ano 1602 está incompleto/ilegível (apenas 'XXIII' visível, sem mês)."
+  ],
+  "notes": "Esta página combina a parte final de uma discussão técnica sobre ἐκβολή/ἀντικατάστασις (expulsão e substituição de meses intercalares no calendário judaico-cristão) com uma tabela cronológica detalhada de novilúnios pascais para o ciclo de 19 anos começando em 1584. A polêmica anti-Clávio é explícita e mordaz: Scaliger ironiza Clávio como 'dormiente' (adormecido) e critica o uso da 16ª Lua como Termo Pascal (a 'Claviana sextadecima Luna'). A tabela cruza o calendário cristão gregoriano ('Lilian.' = Aloysius Lilius, autor da reforma gregoriana) com o calendário judaico ('Cycli Iudaici'), mostrando os anos 'Emb.' (embolísticos) do ciclo. A coluna 'Character novilunij' contém três números que provavelmente representam: dia da semana do molad, hora, e partes (chalakim) — formato tradicional do molad rabânico. Os anos marcados Emb. (1584, 1587, 1590, 1592, 1595, 1598, 1600) seguem o padrão do ciclo de 19 anos de Meton, mas Scaliger nota que a substituição Nisan→Adar (ἀντικατάστασις) ocorre quando os números áureos VIII, XI e XIX caem nesse século, alterando o padrão tradicional de embolismos."
+}
+```

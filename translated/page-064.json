@@ -1,0 +1,46 @@
+{
+  "page": 64,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM CAPUT QUINTUM.\nKALENDARIUM ANNI HIPPARCHI ET PTOLEMAEI, A RAB ADDA IUDAEIS SUIS COMMUNICATI.\n\nNISAN DIES XXX.    IIAR DIES XXIX.    SIVAN DIES XXX.\n\n[Tabela com colunas: Dies Mensis | Regul. dierum | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani — repetidas três vezes para Nisan, Iiar e Sivan]\n\nKRION DIERUM XXXI. (Aries)\nTAURON DIER. XXXI. (Taurus)\nDIDYMON DIER. XXXII. (Gemini)",
+  "pt": "CÂNONES ISAGÓGICOS, CAPÍTULO QUINTO.\nCALENDÁRIO DO ANO DE HIPARCO E PTOLOMEU, COMUNICADO POR RAB ADDA AOS SEUS JUDEUS.\n\nNISAN: 30 DIAS.    IIAR: 29 DIAS.    SIVAN: 30 DIAS.\n\n[A página apresenta uma grande tabela tripla, comparando para cada dia do mês judaico (Nisan, Iiar, Sivan): o dia do mês, o número regular dos dias (*Regul. dierum*, ferial), o ciclo judaico (*Cyclus Iudaicus* — número do ciclo de 19 anos em que ocorre a *neomenia*), os meses judaicos correspondentes, e o dia juliano equivalente. No meio da tabela aparecem as entradas dos signos do zodíaco solar: Áries (*Krion*) com 31 dias, Touro (*Tauron*) com 31 dias, Gêmeos (*Didymon*) com 32 dias.]",
+  "en": "CANONS ISAGOGIC, CHAPTER FIVE.\nCALENDAR OF THE YEAR OF HIPPARCHUS AND PTOLEMY, COMMUNICATED BY RAB ADDA TO HIS JEWS.\n\nNISAN: 30 DAYS.    IIAR: 29 DAYS.    SIVAN: 30 DAYS.\n\n[The page presents a large triple table, comparing for each day of the Jewish month (Nisan, Iiar, Sivan): the day of the month, the regular day-number (*Regul. dierum*, ferial), the Jewish cycle (*Cyclus Iudaicus* — number of the 19-year cycle in which the *neomenia* occurs), the corresponding Jewish months, and the equivalent Julian day. In the middle of the table the solar zodiacal entries appear: Aries (*Krion*) with 31 days, Taurus (*Tauron*) with 31 days, Gemini (*Didymon*) with 32 days.]",
+  "tables": [
+    {
+      "caption_pt": "Calendário do ano de Hiparco e Ptolomeu, transmitido por Rab Adda — meses de Nisan (30 dias), Iiar (29 dias) e Sivan (30 dias), com correspondências ao calendário juliano e aos signos zodiacais Áries, Touro e Gêmeos.",
+      "caption_en": "Calendar of the year of Hipparchus and Ptolemy, transmitted by Rab Adda — months of Nisan (30 days), Iiar (29 days) and Sivan (30 days), with correspondences to the Julian calendar and to the zodiacal signs Aries, Taurus and Gemini.",
+      "markdown": "### Coluna I — NISAN (30 dias)\n\n| Dies Mensis | Regul. dierum | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 7 | I | Nisan | 2 Apr. |\n| 2 | 1 |  |  | 3 |\n| 3 | 2 | IX | Nisan | 4 |\n| 4 | 3 |  |  | 5 |\n| 5 | 4 | XVII | Nisan | 6 |\n| 6 | 5 | VI | Nisan | 7 |\n| 7 | 6 |  |  | 8 |\n| 8 | 7 | XIIII | Nisan | 9 |\n| 9 | 1 | III | Nisan | 10 |\n| 10 | 2 |  |  | 11 |\n| 11 | 3 | XI | Nisan | 12 |\n| 12 | 4 |  |  | 13 |\n| 13 | 5 | XIX | Nisan | 14 |\n| 14 | 6 | VIII | Nisan | 15 |\n| 15 | 7 |  |  | 16 |\n| 16 | 1 | XVI | Iiar | 17 |\n| 17 | 2 | V | Iiar | 18 |\n| 18 | 3 |  |  | 19 |\n| **♈ KRION DIERUM XXXI** | | | | |\n| 19 | 4 | XIII | Iiar | 20 |\n| 20 | 5 | II | Iiar | 21 |\n| 21 | 6 |  |  | 22 |\n| 22 | 7 | X | Iiar | 23 |\n| 23 | 1 |  |  | 24 |\n| 24 | 2 | XVIII | Iiar | 25 |\n| 25 | 3 | VII | Iiar | 26 |\n| 26 | 4 |  |  | 27 |\n| 27 | 5 | XV | Iiar | 28 |\n| 28 | 6 | IIII | Iiar | 29 |\n| 29 | 7 |  |  | 30 |\n| 30 | 1 | XII | Iiar | Ka. Mai |\n\n### Coluna II — IIAR (29 dias)\n\n| Dies Mensis | Regul. dierum | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 2 | I | Iiar | 2 Mai. |\n| 2 | 3 |  |  | 3 |\n| 3 | 4 | IX | Iiar | 4 |\n| 4 | 5 |  |  | 5 |\n| 5 | 6 | XVII | Iiar | 6 |\n| 6 | 7 | VI | Iiar | 7 |\n| 7 | 1 |  |  | 8 |\n| 8 | 2 | XIIII | Iiar | 9 |\n| 9 | 3 | III | Iiar | 10 |\n| 10 | 4 |  |  | 11 |\n| 11 | 5 | XI | Iiar | 12 |\n| 12 | 6 |  |  | 13 |\n| 13 | 7 | XIX | Iiar | 14 |\n| 14 | 1 | VIII | Iiar | 15 |\n| 15 | 2 | XVI | Sivan | 16 |\n| 16 | 3 | V | Sivan | 17 |\n| 17 | 4 |  |  | 18 |\n| 18 | 5 | XIII | Sivan | 19 |\n| 19 | 6 | II | Sivan | 20 |\n| **♉ TAURON DIER. XXXI** | | | | |\n| 20 | 7 |  |  | 21 |\n| 21 | 1 | X | Sivan | 22 |\n| 22 | 2 |  |  | 23 |\n| 23 | 3 | XVIII | Sivan | 24 |\n| 24 | 4 | VII | Sivan | 25 |\n| 25 | 5 |  |  | 26 |\n| 26 | 6 | XV | Sivan | 27 |\n| 27 | 7 | IIII | Sivan | 28 |\n| 28 | 1 |  |  | 29 |\n| 29 | 2 | XII | Sivan | 30 |\n\n### Coluna III — SIVAN (30 dias)\n\n| Dies Mensis | Regul. dierum | Cyclus Iudaicus | Menses Iudaici | Dies Iuliani |\n|---|---|---|---|---|\n| 1 | 3 | I | Sivan | 31 Mai. |\n| 2 | 4 |  |  | Ka. Iun. |\n| 3 | 5 | IX | Sivan | 2 |\n| 4 | 6 |  |  | 3 |\n| 5 | 7 | XVII | Sivan | 4 |\n| 6 | 1 | VI | Sivan | 5 |\n| 7 | 2 |  |  | 6 |\n| 8 | 3 | XIIII | Sivan | 7 |\n| 9 | 4 | III | Sivan | 8 |\n| 10 | 5 |  |  | 9 |\n| 11 | 6 | XI | Sivan | 10 |\n| 12 | 7 |  |  | 11 |\n| 13 | 1 | XIX | Sivan | 12 |\n| 14 | 2 | VIII | Sivan | 13 |\n| 15 | 3 |  |  | 14 |\n| 16 | 4 | XVI | Tamuz | 15 |\n| 17 | 5 | V | Tamuz | 16 |\n| 18 | 6 |  |  | 17 |\n| 19 | 7 | XIII | Tamuz | 18 |\n| 20 | 1 | II | Tamuz | 19 |\n| 21 | 2 |  |  | 20 |\n| **♊ DIDYMON DIER. XXXII** | | | | |\n| 22 | 3 | X | Tamuz | 21 |\n| 23 | 4 |  |  | 22 |\n| 24 | 5 | XVIII | Tamuz | 23 |\n| 25 | 6 | VIII | Tamuz | 24 |\n| 26 | 7 | XV | Tamuz | 25 |\n| 27 | 1 | IIII | Tamuz | 26 |\n| 28 | 2 |  |  | 27 |\n| 29 | 3 |  |  | 28 |\n| 30 | 4 | XII | Tamuz | 29 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Kalendarium anni Hipparchi et Ptolemaei",
+      "definition_pt": "Calendário lunissolar reconstruído segundo os parâmetros astronômicos de Hiparco e Ptolomeu, que Scaliger atribui à transmissão feita por Rab Adda (autoridade talmúdica babilônica) aos judeus, fixando os meses lunares (Nisan, Iiar, Sivan, Tamuz...) em correspondência com o calendário juliano e indicando, em cada dia, em qual ano do ciclo Metonico de 19 anos (*Cyclus Iudaicus*) cai aquela *neomenia*.",
+      "definition_en": "Lunisolar calendar reconstructed according to the astronomical parameters of Hipparchus and Ptolemy, which Scaliger attributes to a transmission by Rab Adda (Babylonian Talmudic authority) to the Jews, fixing the lunar months (Nisan, Iiar, Sivan, Tamuz...) in correspondence with the Julian calendar and indicating, on each day, in which year of the 19-year Metonic cycle (*Cyclus Iudaicus*) that *neomenia* falls."
+    },
+    {
+      "term": "Cyclus Iudaicus",
+      "definition_pt": "Coluna que indica em qual dos 19 anos do ciclo Metonico (numerados em algarismos romanos de I a XIX) ocorre a *neomenia* daquele mês judaico no dia juliano correspondente.",
+      "definition_en": "Column indicating in which of the 19 years of the Metonic cycle (numbered in Roman numerals from I to XIX) the *neomenia* of that Jewish month falls on the corresponding Julian day."
+    },
+    {
+      "term": "Regula dierum",
+      "definition_pt": "Numeração ferial cíclica de 1 a 7 (dias da semana), correndo continuamente ao longo do calendário.",
+      "definition_en": "Cyclic ferial numbering from 1 to 7 (days of the week), running continuously throughout the calendar."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Algumas células estão parcialmente apagadas no scan; em particular, no mês de Sivan a entrada do dia 25 do *Cyclus Iudaicus* aparece como 'VIII' mas o esperado pela sequência metonica seria 'VI' (possível erro tipográfico do impressor de 1606 ou leitura ambígua do scan).",
+    "A entrada na coluna de Iiar na linha 18 (dia 18) tem o ciclo apagado; restituição não tentada.",
+    "Na coluna Nisan, dia 30, a leitura 'XII Iiar' deveria normalmente ser uma entrada do mês seguinte; confirmado pelo padrão da tabela que o nome do mês na coluna 'Menses Iudaici' indica em qual mês judaico cai a próxima *neomenia* dentro daquele intervalo juliano."
+  ],
+  "notes": "Esta página é inteiramente tabular: o capítulo V apresenta o 'Kalendarium anni Hipparchi et Ptolemaei', uma tabela de conversão tríplice que Scaliger atribui à tradição transmitida por Rab Adda bar Ahava (autoridade talmúdica do séc. III mencionada também no *De Emendatione Temporum*). A estrutura é: para cada dia do mês judaico, mostra-se (1) o dia ferial corrente, (2) em qual ano do ciclo de 19 anos a *neomenia* daquele mês cai naquele dia juliano (números romanos de I a XIX dispostos segundo a ordem metonica), (3) o nome do mês judaico cuja *neomenia* corresponde, e (4) o dia juliano. Intercaladas estão as três entradas zodiacais solares: Áries (*Krion*) entre dia 18 e 19 de Nisan, Touro (*Tauron*) entre dia 19 e 20 de Iiar, Gêmeos (*Didymon*) entre dia 21 e 22 de Sivan — marcando a entrada do Sol nesses signos. A página corresponde aos três primeiros meses (primavera/início do verão); páginas subsequentes apresentarão os outros nove meses. A grafia 'Iiar' em vez do moderno 'Iyyar' e 'Siwan' / 'Sivan' (alternados na própria tabela) é típica da transliteração humanista. A leitura cuidadosa exige cruzar as três sub-tabelas, pois a sequência ferial e a sequência metonica devem ser contínuas atravessando os meses.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 5258,
+    "stop_reason": "end_turn"
+  }
+}

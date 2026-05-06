@@ -1,0 +1,40 @@
+{
+  "page": 39,
+  "page_type": "table",
+  "latin": "TABULA SECUNDA COLLECTIONIS UTRIUSQUE CYCLI ET INDICTIONUM.\n\nTABELLA CYCLORUM Magnorum collectorum usque ad finem Periodi Iulianae.\n\n[Tabella cum columnis: Linea Cyclorum magnorum | Cycli Magni Collecti | Numerus Indict. | Numerus Dodecaet. | Indictiones Collectae | Cycli Solares collecti | Cycli Lunares collecti]\n\nTABELLA TERTIA MANUALIS CYCLI SOLIS ROMANI.\n\n[Tabella manualis cum nodis (Imus, Medius, Supremus) et digitis (Index, Medius, Medicus, Auricularis), cum litteris dominicalibus.]\n\nA iiii\n\nCANON",
+  "pt": "TABELA SEGUNDA DA COLEÇÃO DE AMBOS OS CICLOS E DAS *Indictiones*.\n\nTabela dos *Cycli Magni* coletados até o fim da *Periodus Iuliana*.\n\n[Tabela com colunas: Linha dos Ciclos Magnos | *Cycli Magni* coletados | Número da *Indictio* | Número do Dodecaeteris | *Indictiones* coletadas | *Cycli Solares* coletados | *Cycli Lunares* coletados]\n\nTABELA TERCEIRA MANUAL DO *CYCLUS SOLIS* ROMANO.\n\n[Tabela manual usando os nós dos dedos (Inferior, Médio, Superior) e os dedos da mão (Indicador, Médio, Anular, Auricular), com as letras dominicais correspondentes.]\n\nA iiii\n\nCÂNON",
+  "en": "SECOND TABLE OF THE COLLECTION OF BOTH CYCLE AND *Indictiones*.\n\nTable of the *Cycli Magni* collected up to the end of the *Periodus Iuliana*.\n\n[Table with columns: Line of Great Cycles | *Cycli Magni* collected | Number of *Indictio* | Number of Dodecaeteris | *Indictiones* collected | *Cycli Solares* collected | *Cycli Lunares* collected]\n\nTHIRD MANUAL TABLE OF THE ROMAN *CYCLUS SOLIS*.\n\n[Manual (hand) table using finger joints (Lower, Middle, Upper nodes) and fingers (Index, Middle, Ring, Little finger), with corresponding dominical letters.]\n\nA iiii\n\nCANON",
+  "tables": [
+    {
+      "caption_pt": "Tabela dos Ciclos Magnos (de 532 anos) acumulados até o fim do Período Juliano, com indicações correspondentes, dodecaeteris, indictiones, ciclos solares e lunares acumulados.",
+      "caption_en": "Table of Great Cycles (of 532 years) accumulated up to the end of the Julian Period, with corresponding indictions, dodecaeteris, indictions, solar and lunar cycles accumulated.",
+      "markdown": "| Linea | Cycli Magni Collecti | Num. Indict. | Num. Dodecaet. | Indictiones Collectae | Cycli Solares Collecti | Cycli Lunares Collecti |\n|---|---|---|---|---|---|---|\n| 1 | 532 | 7 | IIII | 15 / 240 / 480 | 28 | 19 / 280 |\n| 2 | 1064 | 14 | VIII | 30 / 255 / 495 | 56 | 38 / 399 |\n| 3 | 1596 | 6 | 0 | 45 / 270 / 510 | 84 | 57 / 418 |\n| 4 | 2128 | 13 | IIII | 60 / 285 / 525 | 112 | 76 / 437 |\n| 5 | 2660 | 5 | VIII | 75 / 300 / 1050 | 140 | 95 / 456 |\n| 6 | 3192 | 12 | 0 | 90 / 315 / 2100 | 168 | 114 / 475 |\n| 7 | 3724 | 4 | IIII | 105 / 330 / 3150 | 196 | 133 / 494 |\n| 8 | 4256 | 11 | VIII | 120 / 345 / 4200 | 224 | 152 / 513 |\n| 9 | 4788 | 3 | 0 | 135 / 360 / 5250 | 252 | 171 / 532 |\n| 10 | 5320 | 10 | IIII | 150 / 390 / 6300 | 280 | 190 |\n| 11 | 5852 | 2 | VIII | 165 / 405 / 7350 | 308 | 209 |\n| 12 | 6384 | 9 | 0 | 180 / 420 / 7500 | 336 | 228 |\n| 13 | 6916 | 1 | IIII | 195 / 435 / 7650 | 364 | 247 |\n| 14 | 7448 | 8 | IIII | 210 / 450 / 7800 | 392 | 266 |\n| 15 | 7980 | 0 | 0 | 225 / 465 / 7950 | 420 | 285 |\n|  |  |  |  |  | 448 | 304 |\n|  |  |  |  |  | 476 | 323 |\n|  |  |  |  |  | 504 | 342 |\n|  |  |  |  |  | 532 | 361 |"
+    },
+    {
+      "caption_pt": "Tabela manual do Cyclus Solis Romano: mnemônico digital onde cada nó (articulação) e dedo recebe um número (I a XXVIII) e a letra dominical correspondente do ciclo de 28 anos.",
+      "caption_en": "Manual table of the Roman Cyclus Solis: a finger-mnemonic where each joint (node) and finger is assigned a number (I–XXVIII) and the corresponding dominical letter of the 28-year cycle.",
+      "markdown": "| Nodus | Index | Medius | Medicus | Auricularis |\n|---|---|---|---|---|\n| Imus nodus | GF (I) | E (II) | D (III) | C (IIII) |\n| Medius nodus | BA (V) | G (VI) | F (VII) | E (VIII) |\n| Supremus nodus | DC (IX) | B (X) | A (XI) | G (XII) |\n| Imus nodus | FE (XIII) | D (XIIII) | C (XV) | B (XVI) |\n| Medius nodus | AG (XVII) | F (XVIII) | E (XIX) | D (XX) |\n| Supremus nodus | CB (XXI) | A (XXII) | G (XXIII) | F (XXIIII) |\n| Imus nodus | ED (XXV) | C (XXVI) | B (XXVII) | A (XXVIII) |"
+    }
+  ],
+  "figures": [
+    {
+      "description_pt": "A segunda tabela é uma 'tabella manualis' (tabela manual ou de mão), recurso mnemônico medieval no qual o computista usa as articulações dos quatro dedos (excluindo o polegar) para memorizar a sequência das 28 letras dominicais do *Cyclus Solis* romano. Os três 'nodi' (Imus = inferior, Medius = médio, Supremus = superior) percorridos sobre os dedos Index, Medius, Medicus (anular) e Auricularis (mínimo) geram 7 × 4 = 28 posições, exatamente o comprimento do ciclo solar.",
+      "description_en": "The second table is a 'tabella manualis' (hand table), a medieval mnemonic device whereby the computist uses the joints of the four fingers (excluding thumb) to memorize the sequence of 28 dominical letters of the Roman *Cyclus Solis*. The three 'nodi' (Imus = lower, Medius = middle, Supremus = upper) traversed across Index, Middle, Ring (Medicus), and Little (Auricularis) fingers yield 7 × 4 = 28 positions — exactly the length of the solar cycle."
+    }
+  ],
+  "definitions": [],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Na coluna 'Indictiones Collectae', os valores da terceira subcoluna apresentam saltos não uniformes (480, 495, 510, 525, depois 1050, 2100, 3150...) — possível erro tipográfico no original, ou mudança de unidade que precisaria ser verificada com o texto explicativo de páginas vizinhas.",
+    "Linha 14 mostra 'Numerus Indict.' = 8 e 'Dodecaet.' = IIII, mas pelo padrão (cada linha incrementa 7 mod 15 para indictio) deveria ser 0; verificar contra original.",
+    "Na linha 3, 'Numerus Indict.' = 6 parece quebrar a sequência 7, 14, 6 (=21 mod 15) que está correta; confirmação do padrão."
+  ],
+  "notes": "Página de tabelas técnicas centrais ao sistema cronológico de Scaliger. A primeira tabela acumula múltiplos do *Cyclus Magnus* de 532 anos (= 28 × 19, produto do ciclo solar e lunar) até preencher o *Periodus Iuliana* de 7980 anos (= 15 × 532). Para cada múltiplo, fornece: a posição dentro do ciclo de 15 *indictiones*, o número dentro do ciclo de 12 anos (dodecaeteris), e os totais cumulativos de indictiones, ciclos solares e lunares. A coluna dos *Cycli Lunares* continua além da linha 9 (532) com valores 304, 323, 342, 361 — pois 19 × 420 = 7980, dando 420 ciclos lunares completos no Período Juliano (e 285 ciclos solares, 532 indictiones — todos visíveis na tabela). A segunda tabela é o mnemônico manual tradicional para identificar a letra dominical de qualquer ano dentro do ciclo solar de 28 anos. Anos bissextos recebem duas letras (GF, BA, DC, FE, AG, CB, ED) — uma para janeiro-fevereiro, outra para março-dezembro.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 3651,
+    "stop_reason": "end_turn"
+  }
+}

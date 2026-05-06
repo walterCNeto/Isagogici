@@ -1,0 +1,40 @@
+{
+  "page": 75,
+  "page_type": "table",
+  "latin": "LIBER PRIMUS.\nKALENDARIUM IUDAICUM.\nIIII TEBETH CAVUS X.    V SEBAT PLENUS XI.    VI ADAR CAVUS XII.\n\n1\n2\n3\n4\n5\n6\n7\n8 Ieiunium. Scripta est lex Graece diebus Ptolemaei Regis. Tenebrae triduo per universum orbem.\n9 IEIUNIUM. Non scripserunt Magistri nostri, quare ea dies notata.\n10 Ieiunium. Obsidetur Ierusalem a rege Babylonis.\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n\n1\n2\n3\n4\n5 Ieiunium. Moriuntur Seniores, qui fuerunt aequales Iosuae filii Nun.\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23 Ieiunium. Congregati sunt omnes Israelitae contra Beniamin propter pellicem & idolum Micha.\n24\n25\n26\n27\n28\n29\n30\nLOCUS EMBOLISMI.\n\n1\n2\n3\n4\n5\n6\n7 Ieiunium. Moritur Moses Magister noster, qui in pace quiescit.\n8\n9 Ieiunium. Schola Sammai, & Schola Hillel inter se contendere coeperunt.\n10\n11\n12\n13 Festivitas decreta. Nicanor interficitur.\n14 MARDOCHAEUS. PHURIM.\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n\nD iiij    KALEN-",
+  "pt": "LIVRO PRIMEIRO.\nCALENDÁRIO JUDAICO.\n\n[Tabela de três meses: Tebeth (cavo, 10º mês), Sebat (pleno, 11º mês), Adar (cavo, 12º mês), com as efemérides religiosas e jejuns judaicos correspondentes a cada dia.]",
+  "en": "BOOK ONE.\nJEWISH CALENDAR.\n\n[Table of three months: Tebeth (hollow, 10th month), Sebat (full, 11th month), Adar (hollow, 12th month), with the religious commemorations and Jewish fasts corresponding to each day.]",
+  "tables": [
+    {
+      "caption_pt": "Calendário Judaico — meses Tebeth (X), Sebat (XI) e Adar (XII), com indicação de jejuns e festividades. Sebat é mês pleno (30 dias); Tebeth e Adar são cavos (29 dias). Após Adar é indicado o *Locus embolismi* — o lugar onde se insere o mês intercalar (Veadar) nos *anni emboliscici*.",
+      "caption_en": "Jewish Calendar — months Tebeth (X), Sebat (XI), and Adar (XII), with fasts and festivals indicated. Sebat is a full month (30 days); Tebeth and Adar are hollow (29 days). After Adar the *Locus embolismi* is marked — the position where the intercalary month (Veadar) is inserted in *anni emboliscici*.",
+      "markdown": "| Dia | IIII Tebeth (cavus, X) | V Sebat (plenus, XI) | VI Adar (cavus, XII) |\n|---|---|---|---|\n| 1 |  |  |  |\n| 2 |  |  |  |\n| 3 |  |  |  |\n| 4 |  |  |  |\n| 5 |  | Ieiunium. Morrem os Anciãos contemporâneos de Josué, filho de Nun. |  |\n| 6 |  |  |  |\n| 7 |  |  | Ieiunium. Morre Moisés, nosso Mestre, que descansa em paz. |\n| 8 | Ieiunium. A Lei foi escrita em grego nos dias do rei Ptolomeu. Trevas por três dias em todo o orbe. |  |  |\n| 9 | IEIUNIUM. Nossos Mestres não escreveram por que este dia é assinalado. |  | Ieiunium. A Escola de Shammai e a Escola de Hillel começaram a contender entre si. |\n| 10 | Ieiunium. Jerusalém é sitiada pelo rei da Babilônia. |  |  |\n| 11 |  |  |  |\n| 12 |  |  |  |\n| 13 |  |  | Festividade decretada. Nicanor é morto. |\n| 14 |  |  | MARDOQUEU. PURIM. |\n| 15 |  |  |  |\n| 16 |  |  |  |\n| 17 |  |  |  |\n| 18 |  |  |  |\n| 19 |  |  |  |\n| 20 |  |  |  |\n| 21 |  |  |  |\n| 22 |  |  |  |\n| 23 |  | Ieiunium. Todos os israelitas se congregaram contra Benjamim por causa da concubina e do ídolo de Mica. |  |\n| 24 |  |  |  |\n| 25 |  |  |  |\n| 26 |  |  |  |\n| 27 |  |  |  |\n| 28 |  |  |  |\n| 29 |  |  |  |\n| 30 |  | LOCUS EMBOLISMI |  |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Locus embolismi",
+      "definition_pt": "Posição no calendário judaico onde se insere o mês intercalar (Veadar / Adar II) nos *anni emboliscici*, situada após o mês de Adar.",
+      "definition_en": "Position in the Jewish calendar where the intercalary month (Veadar / Adar II) is inserted in *anni emboliscici*, located after the month of Adar."
+    },
+    {
+      "term": "mensis cavus / mensis plenus",
+      "definition_pt": "No calendário judaico, mês *cavus* tem 29 dias e mês *plenus* tem 30 dias. Tebeth e Adar são cavos; Sebat é pleno.",
+      "definition_en": "In the Jewish calendar, a *cavus* month has 29 days and a *plenus* month has 30 days. Tebeth and Adar are hollow; Sebat is full."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Numeração de página parece ser '43' no canto superior direito, mas o cabeçalho da requisição indica página 75; mantida a numeração solicitada.",
+    "A entrada de 8 Tebeth menciona 'Tenebrae triduo per universum orbem' (trevas por três dias em todo o orbe) — tradição talmúdica/midráshica sobre a tradução dos LXX; preservada literalmente."
+  ],
+  "notes": "Página de tabela calendárica pura, parte do Kalendarium Iudaicum no Liber Primus. As efemérides correspondem às tradições do Megillat Ta'anit e do calendário rabínico: 8 Tebeth (tradução grega da Torá sob Ptolomeu II); 10 Tebeth (cerco de Jerusalém por Nabucodonosor); 7 Adar (morte de Moisés); 13 Adar (vitória sobre Nicanor, 1 Mac 7); 14 Adar (Purim de Mardoqueu/Ester). O 23 Sebat refere-se ao episódio de Jz 19-20 (concubina de Gibeá e ídolo de Mica). A indicação 'Locus embolismi' após Adar reflete a prática judaica de intercalar o mês Veadar (Adar Sheni). Assinatura de caderno 'D iiij' e custos 'KALEN-' no rodapé indicam continuação do calendário na página seguinte.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 2864,
+    "stop_reason": "end_turn"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "page": 78,
+  "page_type": "table",
+  "latin": "CANONUM ISAGOGICORUM\n\nTABULA PRIMA MENSIUM CHARACTER.\n\nTABULA SECUNDA ANNORUM ENNEADECAETERIDIS EXPANSORUM.\n\nTABULA TERTIA NEOMENIARUM IN CYCLIS COLLECTIS.\n\nTABULA",
+  "pt": "CÂNONES ISAGÓGICOS\n\nTABELA PRIMEIRA: CARACTERÍSTICA DOS MESES.\n\nTABELA SEGUNDA: DOS ANOS DA *Enneadecaeteris* EXPANDIDOS.\n\nTABELA TERCEIRA: DAS *Neomeniae* NOS CICLOS COLETIVOS.\n\nTABELA",
+  "en": "ISAGOGIC CANONS\n\nFIRST TABLE: CHARACTER OF THE MONTHS.\n\nSECOND TABLE: OF THE YEARS OF THE *Enneadecaeteris* EXPANDED.\n\nTHIRD TABLE: OF *Neomeniae* IN COLLECTED CYCLES.",
+  "tables": [
+    {
+      "caption_pt": "Tabela Primeira: Característica dos Meses (Linea mensium, Feria, Hor., Scrup. Iud.)",
+      "caption_en": "First Table: Character of the Months (Line of months, Weekday, Hour, Scrupulum Iudaicum)",
+      "markdown": "| Linea mensium | Feria | Hor. | Scrup. Iud. |\n|---|---|---|---|\n| 1 | 1 | 12 | 793 |\n| 2 | 3 | 1 | 506 |\n| 3 | 4 | 14 | 219 |\n| 4 | 6 | 2 | 1012 |\n| 5 | 7 | 15 | 725 |\n| 6 | 2 | 4 | 438 |\n| 7 | 3 | 17 | 151 |\n| 8 | 5 | 5 | 944 |\n| 9 | 6 | 18 | 657 |\n| 10 | 1 | 7 | 370 |\n| 11 | 2 | 20 | 83 |\n| 12 | 4 | 8 | 876 |\n| 13 | 5 | 21 | 589 |"
+    },
+    {
+      "caption_pt": "Tabela Segunda: Anos da *Enneadecaeteris* expandidos — Cyclus Enneadecaetericus e Cyclus excessus Solaris",
+      "caption_en": "Second Table: Years of the *Enneadecaeteris* expanded — Enneadecaeteric Cycle and Solar excess Cycle",
+      "markdown": "| Linea anni | Feria | Hor. | Scrup. Iud. | Dies excessus | Hor. | Scrup. Iud. |\n|---|---|---|---|---|---|---|\n| 1 | 4 | 8 | 876 | 10 | 21 | 204 |\n| 2 | 1 | 17 | 672 | 21 | 18 | 408 |\n| 3 | 7 | 15 | 181 | 3 | 2 | 899 |\n| 4 | 4 | 23 | 1057 | 14 | 0 | 23 |\n| 5 | 2 | 8 | 853 | 24 | 21 | 227 |\n| 6 | 1 | 6 | 362 | 6 | 5 | 718 |\n| 7 | 5 | 15 | 158 | 17 | 2 | 922 |\n| 8 | 4 | 12 | 747 | 28 | 0 | 46 |\n| 9 | 1 | 21 | 543 | 9 | 8 | 537 |\n| 10 | 6 | 6 | 349 | 20 | 5 | 741 |\n| 11 | 5 | 3 | 928 | 1 | 14 | 152 |\n| 12 | 2 | 12 | 724 | 12 | 11 | 356 |\n| 13 | 6 | 21 | 520 | 23 | 8 | 560 |\n| 14 | 5 | 19 | 29 | 4 | 16 | 1051 |\n| 15 | 3 | 3 | 905 | 15 | 14 | 175 |\n| 16 | 7 | 12 | 701 | 26 | 11 | 379 |\n| 17 | 6 | 10 | 210 | 7 | 19 | 870 |\n| 18 | 3 | 19 | 6 | 18 | 16 | 1074 |\n| 19 | 2 | 16 | 595 | 0 | 1 | 485 |"
+    },
+    {
+      "caption_pt": "Tabela Terceira: das *Neomeniae* nos ciclos coletivos — Cycli collecti neomeniarum e Cycli collecti excessus Solis",
+      "caption_en": "Third Table: of *Neomeniae* in collected cycles — Collected cycles of new moons and Collected cycles of Solar excess",
+      "markdown": "| Linea Cyclorum collectorum | Feria | Hor. | Scrup. Iud. | Dies excessus | Hor. | Scrup. Iud. | Anni collecti |\n|---|---|---|---|---|---|---|---|\n| 1 | 2 | 16 | 595 | 0 | 1 | 485 | 19 |\n| 2 | 5 | 9 | 110 | 0 | 2 | 970 | 38 |\n| 3 | 1 | 1 | 705 | 0 | 4 | 373 | 57 |\n| 4 | 3 | 18 | 220 | 0 | 5 | 860 | 76 |\n| 5 | 6 | 10 | 815 | 0 | 7 | 265 | 95 |\n| 6 | 2 | 3 | 330 | 0 | 8 | 750 | 114 |\n| 7 | 4 | 19 | 925 | 0 | 10 | 155 | 133 |\n| 8 | 7 | 12 | 440 | 0 | 11 | 640 | 152 |\n| 9 | 3 | 4 | 1035 | 0 | 13 | 45 | 171 |\n| 10 | 5 | 21 | 550 | 0 | 14 | 530 | 190 |\n| 20 | 4 | 19 | 20 | 1 | 4 | 1060 | 380 |\n| 30 | 3 | 16 | 570 | 1 | 19 | 510 | 570 |\n| 40 | 2 | 14 | 40 | 2 | 9 | 1040 | 760 |\n| 50 | 1 | 11 | 590 | 3 | 0 | 490 | 950 |\n| 60 | 7 | 9 | 60 | 3 | 14 | 1020 | 1140 |\n| 70 | 6 | 6 | 610 | 4 | 5 | 470 | 1330 |\n| 80 | 5 | 4 | 80 | 4 | 19 | 1000 | 1520 |\n| 90 | 4 | 1 | 630 | 5 | 10 | 450 | 1710 |\n| 100 | 2 | 23 | 100 | 6 | 0 | 980 | 1900 |\n| 200 | 5 | 22 | 200 | 12 | 1 | 880 | 3800 |\n| 300 | 1 | 21 | 300 | 18 | 2 | 780 | 5700 |\n| 400 | 4 | 20 | 400 | 24 | 3 | 680 | 7600 |\n| 500 | 7 | 19 | 500 | 30 | 4 | 580 | 9500 |\n| 600 | 3 | 18 | 600 | 36 | 5 | 480 | 11400 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Scrupulum Iudaicum (Scrup. Iud.)",
+      "definition_pt": "Subdivisão judaica da hora (*chelek* / *halakim*): 1080 *scrupula* compõem uma hora, sistema usado no cálculo do calendário hebraico para determinar a *Neomenia*.",
+      "definition_en": "Jewish subdivision of the hour (*chelek* / *halakim*): 1080 *scrupula* make up one hour, used in the Hebrew calendar computation to determine the *Neomenia*."
+    },
+    {
+      "term": "Cyclus Enneadecaetericus",
+      "definition_pt": "Ciclo de 19 anos (*Enneadecaeteris*) cuja expansão fornece, para cada ano do ciclo lunar metônico, a feria, hora e *scrupulum* da *Neomenia* tabulares.",
+      "definition_en": "The 19-year cycle (*Enneadecaeteris*) whose expansion gives, for each year of the Metonic lunar cycle, the tabular weekday, hour, and *scrupulum* of the *Neomenia*."
+    },
+    {
+      "term": "Cyclus excessus Solaris",
+      "definition_pt": "Ciclo do excesso solar: tabula a diferença acumulada entre o ano solar e o conjunto de meses lunares, em dias, horas e *scrupula*.",
+      "definition_en": "Cycle of the solar excess: tabulates the accumulated difference between the solar year and the set of lunar months, in days, hours, and *scrupula*."
+    },
+    {
+      "term": "Cycli collecti neomeniarum",
+      "definition_pt": "Ciclos coletivos das *Neomeniae*: tabela cumulativa de múltiplos da *Enneadecaeteris* (19, 38, 57… anos) dando feria, hora e *scrupulum* da lua nova média.",
+      "definition_en": "Collected cycles of *Neomeniae*: cumulative table of multiples of the *Enneadecaeteris* (19, 38, 57… years) giving weekday, hour and *scrupulum* of the mean new moon."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A página é uma folha tabular sem prosa demonstrativa; legendas e cabeçalhos foram transcritos diretamente das tabelas impressas.",
+    "Alguns valores numéricos finais da tabela segunda (linha 18: 1074) e da terceira (linha 4: 373) estão impressos com pouca nitidez; a leitura segue o tipo claramente legível mas deve ser cotejada com outro exemplar.",
+    "O número de página impresso aparece como '46' no canto superior esquerdo, embora o cabeçalho da requisição indique página 78 — provável discrepância entre paginação física e numeração impressa do volume."
+  ],
+  "notes": "Página totalmente tabular: contém três tabelas justapostas usadas para o cálculo da *Neomenia* judaica média, segundo o método do *molad* hebraico (1 hora = 1080 *halakim* = *scrupula Iudaica*). A Tabula Prima dá o caractere mensal (incremento da lunação por mês — 29d 12h 793s, etc., aqui já reduzido módulo 7 dias para a feria). A Tabula Secunda expande os 19 anos da *Enneadecaeteris* com as duas colunas paralelas: a *Neomenia* tishri (Cyclus Enneadecaetericus) e o excesso solar correspondente (Cyclus excessus Solaris). A Tabula Tertia agrega múltiplos do ciclo de 19 anos (até 600 ciclos = 11.400 anos), permitindo encontrar rapidamente o *molad* para qualquer ano da *Aera Mundi* judaica. A linha final da Tabula Secunda (19 anos: 2f 16h 595s) coincide exatamente com a primeira linha da Tabula Tertia (1 ciclo), confirmando a consistência interna. Esta é a infraestrutura computacional que Scaliger usa em sua reconstrução do calendário hebraico, baseada em Maimônides e em fontes rabínicas, integrada à *Periodus Iuliana*.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 4240,
+    "stop_reason": "end_turn"
+  }
+}

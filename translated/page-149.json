@@ -1,0 +1,79 @@
+{
+  "page": 149,
+  "page_type": "table",
+  "latin": "LIBER PRIMUS.\n\nTABULA TERTIA CHARACTERISMI\nAnnorum Solis expansorum Sultanicorum.\nCharacter annorum expansorum. Proegesis chronike.\nAnni expansi | Fer. Hor. Scru. | D. Hor. Scru.\n\nTABULA QUARTA CHARACTERISMI\nPeriodi Solaris Sultanicae.\nProegesis chronike.\nAnni collec. | Fe. Hor. D. Hor.\n\nTABULA QUINTA CHARACTERISMI\nEnneadecaeteridos Lunaris Sultanicae.\nenneadekaeteris hypoleipseos selenaikes.\nLinea annor. | D. H. Scru.\n\nNouilunium Ijar 5. 14. 1009. a merid. III Apr. anni Christi 1079, XXII Pharauardin.\n\nTABULA SEXTA CHARACTERISMI\nEnneadecaeter. collect. Sultanicarum.\nEnneadecaeterides collectae.\nCycli collec. | D. H. Scru.\n\nGelali 5. 2. 158. in Perside ab aequinoctio verno. Vera Epocha Neuruz, siue aequinoctij Sultanici. 5. 14. 652, Alexandriae, a meridie XIIII Martij anni Dionysiani 1079.\n\nTABULA",
+  "pt": "LIVRO PRIMEIRO.\n\nTabela Terceira do *Characterismus* dos Anos Solares expansos Sultânicos. Caráter dos anos expansos. *Proegesis chronike* (precessão cronológica). Anos expansos | Feria, Hora, Escrúpulo | D., Hora, Escrúpulo.\n\nTabela Quarta do *Characterismus* do Período Solar Sultânico. *Proegesis chronike*. Anos coletados | Feria, Hora | Dias, Hora.\n\nTabela Quinta do *Characterismus* da *Enneadecaeteris* Lunar Sultânica. *enneadekaeteris hypoleipseos selenaikes* (enneadecaeteris da defasagem lunar). Linha dos anos | D., H., Escrúpulo.\n\nNeomenia de Ijar 5. 14. 1009, a partir do meridiano, 3 de abril do ano de Cristo 1079, 22 de Pharauardin.\n\nTabela Sexta do *Characterismus* das *Enneadecaeterides* coletadas Sultânicas. *Enneadecaeterides* coletadas. Ciclos coletados | D., H., Escrúpulo.\n\nDe Gelal 5. 2. 158, na Pérsia, a partir do equinócio vernal. Verdadeira *Epocha* de Neuruz, ou do equinócio Sultânico: 5. 14. 652, em Alexandria, ao meio-dia de 14 de março do ano Dionisiano 1079.\n\nTABELA",
+  "en": "BOOK ONE.\n\nThird Table of the *Characterismus* of the Expanded Sultanic Solar Years. Character of expanded years. *Proegesis chronike* (chronological precession). Expanded years | Feria, Hour, Scruple | D., Hour, Scruple.\n\nFourth Table of the *Characterismus* of the Sultanic Solar Period. *Proegesis chronike*. Collected years | Feria, Hour | Days, Hour.\n\nFifth Table of the *Characterismus* of the Sultanic Lunar *Enneadecaeteris*. *enneadekaeteris hypoleipseos selenaikes* (enneadecaeteris of lunar defect). Line of years | D., H., Scruple.\n\nNew moon of Ijar 5. 14. 1009, from the meridian, 3 April of the year of Christ 1079, 22 Pharauardin.\n\nSixth Table of the *Characterismus* of the Collected Sultanic *Enneadecaeterides*. Collected *Enneadecaeterides*. Collected cycles | D., H., Scruple.\n\nFrom Gelal 5. 2. 158, in Persia, from the vernal equinox. True *Epocha* of Neuruz, or of the Sultanic equinox: 5. 14. 652, at Alexandria, at noon of 14 March of the Dionysian year 1079.\n\nTABLE",
+  "tables": [
+    {
+      "caption_pt": "Tabela Terceira do Characterismus — Anos Solares expansos Sultânicos (caráter dos anos expansos e proegesis chronike)",
+      "caption_en": "Third Characterismus Table — Expanded Sultanic Solar Years (character of expanded years and proegesis chronike)",
+      "markdown": "| Anni expansi | Fer. | Hor. | Scru. | D. | Hor. | Scru. |\n|---|---|---|---|---|---|---|\n| 1 | 1 | 5 | 880 | 0 | 0 | 200 |\n| 2 | 2 | 11 | 680 | 0 | 0 | 400 |\n| 3 | 3 | 17 | 480 | 0 | 0 | 600 |\n| 4 | 4 | 23 | 280 | 0 | 0 | 800 |\n| 5 | 6 | 5 | 80 | 0 | 0 | 1000 |\n| 6 | 7 | 10 | 960 | 0 | 1 | 120 |\n| 7 | 1 | 16 | 760 | 0 | 1 | 320 |\n| 8 | 2 | 22 | 560 | 0 | 1 | 520 |\n| 9 | 4 | 4 | 360 | 0 | 1 | 720 |\n| 10 | 5 | 10 | 160 | 0 | 1 | 920 |\n| 11 | 6 | 15 | 1040 | 0 | 2 | 40 |\n| 12 | 7 | 21 | 840 | 0 | 2 | 240 |\n| 13 | 2 | 3 | 640 | 0 | 2 | 440 |\n| 14 | 3 | 9 | 440 | 0 | 2 | 640 |\n| 15 | 4 | 15 | 240 | 0 | 2 | 840 |\n| 16 | 5 | 21 | 40 | 0 | 2 | 1040 |\n| 17 | 7 | 2 | 910 | 0 | 3 | 160 |\n| 18 | 1 | 8 | 720 | 0 | 3 | 360 |\n| 19 | 2 | 14 | 520 | 0 | 3 | 560 |\n| 20 | 3 | 20 | 320 | 0 | 3 | 760 |\n| 21 | 5 | 2 | 120 | 0 | 3 | 960 |\n| 22 | 6 | 7 | 1000 | 0 | 4 | 80 |\n| 23 | 7 | 13 | 800 | 0 | 4 | 280 |\n| 24 | 1 | 19 | 600 | 0 | 4 | 480 |\n| 25 | 3 | 1 | 400 | 0 | 4 | 680 |\n| 26 | 4 | 7 | 200 | 0 | 4 | 880 |\n| 27 | 5 | 13 | 0 | 0 | 5 | 0 |"
+    },
+    {
+      "caption_pt": "Tabela Quarta do Characterismus — Período Solar Sultânico (anos coletados, proegesis chronike)",
+      "caption_en": "Fourth Characterismus Table — Sultanic Solar Period (collected years, proegesis chronike)",
+      "markdown": "| Anni collec. | Fe. | Hor. | D. | Hor. |\n|---|---|---|---|---|\n| 27 | 5 | 13 | 0 | 5 |\n| 54 | 4 | 2 | 0 | 10 |\n| 81 | 2 | 15 | 0 | 15 |\n| 108 | 1 | 4 | 0 | 20 |\n| 135 | 6 | 17 | 1 | 1 |\n| 162 | 5 | 6 | 1 | 6 |\n| 189 | 3 | 19 | 1 | 11 |\n| 216 | 2 | 18 | 1 | 16 |\n| 243 | 7 | 21 | 1 | 21 |\n| 270 | 6 | 10 | 2 | 2 |\n| 297 | 4 | 23 | 2 | 7 |\n| 324 | 3 | 12 | 2 | 12 |\n| 351 | 2 | 1 | 2 | 17 |\n| 378 | 7 | 14 | 2 | 22 |\n| 405 | 6 | 3 | 3 | 3 |\n| 432 | 4 | 16 | 3 | 8 |\n| 459 | 3 | 5 | 3 | 13 |\n| 486 | 1 | 18 | 3 | 18 |\n| 513 | 7 | 7 | 3 | 23 |\n| 540 | 5 | 20 | 4 | 4 |\n| 567 | 4 | 9 | 4 | 9 |\n| 594 | 2 | 22 | 4 | 14 |\n| 621 | 1 | 11 | 4 | 19 |\n| 648 | 7 | 0 | 5 | 0 |"
+    },
+    {
+      "caption_pt": "Tabela Quinta do Characterismus — Enneadecaeteris Lunar Sultânica (linha dos anos, defasagem lunar)",
+      "caption_en": "Fifth Characterismus Table — Sultanic Lunar Enneadecaeteris (line of years, lunar defect)",
+      "markdown": "| Linea annor. | D. | H. | Scru. |\n|---|---|---|---|\n| 1 | 10 | 21 | 4 |\n| 2 | 21 | 18 | 8 |\n| 3 | 3 | 2 | 299 |\n| 4 | 13 | 23 | 303 |\n| 5 | 24 | 20 | 307 |\n| 6 | 6 | 4 | 598 |\n| 7 | 17 | 1 | 602 |\n| 8 | 27 | 22 | 606 |\n| 9 | 9 | 6 | 897 |\n| 10 | 20 | 3 | 901 |\n| 11 | 1 | 12 | 112 |\n| 12 | 12 | 9 | 16 |\n| 13 | 23 | 6 | 120 |\n| 14 | 4 | 14 | 411 |\n| 15 | 15 | 11 | 415 |\n| 16 | 26 | 8 | 419 |\n| 17 | 7 | 16 | 710 |\n| 18 | 18 | 13 | 714 |\n| 19 | 29 | 10 | 718 |"
+    },
+    {
+      "caption_pt": "Tabela Sexta do Characterismus — Enneadecaeterides coletadas Sultânicas",
+      "caption_en": "Sixth Characterismus Table — Collected Sultanic Enneadecaeterides",
+      "markdown": "| Cycli collec. | D. | H. | Scru. |\n|---|---|---|---|\n| 1 | 0 | 2 | 75 |\n| 2 | 0 | 4 | 150 |\n| 3 | 0 | 6 | 225 |\n| 4 | 0 | 8 | 300 |\n| 5 | 0 | 10 | 375 |\n| 6 | 0 | 12 | 450 |\n| 7 | 0 | 14 | 525 |\n| 8 | 0 | 16 | 600 |\n| 9 | 0 | 18 | 675 |\n| 10 | 0 | 20 | 750 |\n| 20 | 1 | 17 | 420 |\n| 30 | 2 | 14 | 90 |\n| 40 | 3 | 10 | 840 |\n| 50 | 4 | 7 | 510 |\n| 60 | 5 | 4 | 180 |\n| 70 | 6 | 0 | 930 |\n| 80 | 6 | 21 | 600 |\n| 90 | 7 | 18 | 270 |\n| 100 | 8 | 14 | 1020 |\n| 200 | 17 | 5 | 960 |\n| 300 | 25 | 20 | 900 |\n| 400 | 34 | 11 | 840 |"
+    }
+  ],
+  "figures": [],
+  "definitions": [
+    {
+      "term": "Characterismus",
+      "definition_pt": "Caráter ou marca cronológica: conjunto de valores (feria, horas, escrúpulos, dias) que identifica univocamente a posição de um ano dentro de um ciclo astronômico — aqui aplicado ao calendário Sultânico (Jalali) instituído em 1079 d.C. sob Malik-Shah.",
+      "definition_en": "Chronological character or mark: a set of values (feria, hours, scruples, days) uniquely identifying the position of a year within an astronomical cycle — here applied to the Sultanic (Jalali) calendar instituted in 1079 AD under Malik-Shah."
+    },
+    {
+      "term": "Proegesis chronike",
+      "definition_pt": "Precessão cronológica (προήγησις χρονική): o avanço cumulativo da feria e da hora de um ciclo solar ao longo dos anos.",
+      "definition_en": "Chronological precession (προήγησις χρονική): the cumulative advance of the feria and hour of a solar cycle over the years."
+    },
+    {
+      "term": "Enneadecaeteris hypoleipseos selenaikes",
+      "definition_pt": "Enneadecaeteris (ciclo de 19 anos) da defasagem lunar (ὑπόλειψις σεληναϊκή): a tabela das diferenças acumuladas entre o curso lunar e o solar dentro do ciclo metônico aplicado ao calendário Sultânico.",
+      "definition_en": "Enneadecaeteris (19-year cycle) of the lunar defect (ὑπόλειψις σεληναϊκή): the table of cumulative differences between lunar and solar courses within the Metonic cycle applied to the Sultanic calendar."
+    },
+    {
+      "term": "Vera Epocha Neuruz",
+      "definition_pt": "A verdadeira *Epocha* do Neuruz (Ano Novo persa) Sultânico, fixada por Scaliger em 5h 14m 652 escrúpulos ao meio-dia de Alexandria, em 14 de março do ano Dionisiano (era de Cristo) 1079 — o equinócio vernal verdadeiro inaugural do calendário Jalali.",
+      "definition_en": "The true *Epocha* of the Sultanic Neuruz (Persian New Year), fixed by Scaliger at 5h 14m 652 scruples at noon of Alexandria, on 14 March of the Dionysian year 1079 — the inaugural true vernal equinox of the Jalali calendar."
+    }
+  ],
+  "cross_references": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Neomenia (lua nova) do mês de Ijar com valores 5. 14. 1009, computada a partir do meridiano, em 3 de abril do ano de Cristo 1079, equivalente a 22 de Pharauardin no calendário persa.",
+      "historical_date_as_cited": "Nouilunium Ijar 5. 14. 1009, a merid. III Apr. anni Christi 1079, XXII Pharauardin",
+      "ancient_source": "tabela astronômica Sultânica (Jalali), redação de Omar Khayyam et al."
+    },
+    {
+      "type": "equinox",
+      "description": "Equinócio vernal verdadeiro Sultânico (Neuruz) em Alexandria — Epocha do calendário Jalali.",
+      "historical_date_as_cited": "Vera Epocha Neuruz, siue aequinoctij Sultanici. 5. 14. 652, Alexandriae, a meridie XIIII Martij anni Dionysiani 1079",
+      "ancient_source": "Era Gelali (Jalali); cf. Gelali 5. 2. 158 in Perside ab aequinoctio verno"
+    }
+  ],
+  "uncertainty_flags": [
+    "Os escrúpulos (Scru.) na tabela Sultânica parecem operar em base 1080 (sistema de partes/halakim) ou em base 1000, fato que merece confirmação ao cotejar com as páginas precedentes da obra.",
+    "A leitura do escrúpulo do ano 5 da Tabela Terceira foi reconstruída como '80' (linha 'Fer. 6, Hor. 5, Scru. 80'); a impressão no scan está parcialmente clara mas consistente com a progressão 880, 680, 480, 280, 80.",
+    "Na Tabela Quinta, os valores 'D. 11. 12. 112' (linha 11) podem refletir uma quebra de coluna; transcritos conforme a leitura mais provável."
+  ],
+  "notes": "Página inteiramente tabular, contendo as Tabelas III, IV, V e VI do Characterismus do calendário Sultânico (Jalali), instituído em 1079 d.C. sob Malik-Shah por uma comissão de astrônomos que incluía Omar Khayyam. As tabelas III–IV organizam o ciclo solar em anos expansos (1–27) e coletados (múltiplos de 27 até 648), exibindo a feria, hora e escrúpulo da entrada solar; as tabelas V–VI fazem o mesmo para o ciclo lunar de 19 anos (Enneadecaeteris) e seus múltiplos coletados (até 400 ciclos). Particularmente notável é a Epocha precisa estabelecida por Scaliger: equinócio vernal de 14 de março de 1079 d.C. ao meio-dia de Alexandria — uma das primeiras tentativas europeias de fixar com rigor o início do calendário persa Jalali. Scaliger usa simultaneamente notação grega (προήγησις χρονική, ἐννεαδεκαετηρὶς ὑπολείψεως σεληναϊκῆς) e latina, demonstrando seu domínio tanto da tradição bizantina quanto da islâmica. A página 117 (impressa) corresponde à imagem 149 do volume digitalizado.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "input_tokens": 7414,
+    "output_tokens": 6461,
+    "stop_reason": "end_turn"
+  }
+}
